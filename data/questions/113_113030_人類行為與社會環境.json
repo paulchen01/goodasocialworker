@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:113030:c103:s0305",
+  "examInstanceId": "社工師:113030:c103",
+  "examTrack": "社工師",
+  "subject": "人類行為與社會環境",
+  "subjectCode": "0305",
+  "yearRoc": 113,
+  "examCode": "113030",
+  "examName": "113年第一次專技人員高等考試營養師、護理師、社會工作師考試",
+  "examAttempt": "第一次",
+  "categoryCode": "103",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113030&c=103&s=0305&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113030&c=103&s=0305&q=1",
+  "questionSourceFileId": "社工師:113030:c103:s0305:Q",
+  "answerSourceFileId": "社工師:113030:c103:s0305:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:113030:c103:s0305:q01",
+      "number": 1,
+      "stem": "在親密關係中，為掩飾自己外遇的不安，卻強力指控伴侶有外遇。上述行為最傾向於下列何種防 衛機轉的運用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "補償（compensation）"
+        },
+        {
+          "key": "B",
+          "text": "替代（displacement）"
+        },
+        {
+          "key": "C",
+          "text": "合理化（rationalization）"
+        },
+        {
+          "key": "D",
+          "text": "投射（projection）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q02",
+      "number": 2,
+      "stem": "有關皮亞傑（J. Piaget）認知發展理論概念的描述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "基模（schema）是個體用來認識周圍世界的基本模式"
+        },
+        {
+          "key": "B",
+          "text": "適應（adaptation）是用以描述個體認知結構或基模因環境限制的失衡狀態"
+        },
+        {
+          "key": "C",
+          "text": "同化（assimilation）是個體為了符合環境的要求，主動修改原有基模的過程"
+        },
+        {
+          "key": "D",
+          "text": "調適（accommodation）是個體運用既有基模解決問題時，將新事物吸納進入既有基模的過程"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q03",
+      "number": 3,
+      "stem": "希望做個討人喜歡的好孩子，是郭爾堡（L. Kohlberg）道德發展三層六階說中那個階段的特徵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "道德成規前期（preconventional level）"
+        },
+        {
+          "key": "B",
+          "text": "道德成規期（conventional level）"
+        },
+        {
+          "key": "C",
+          "text": "道德自律期（postconventional level）"
+        },
+        {
+          "key": "D",
+          "text": "超越道德期（transethical level）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q04",
+      "number": 4,
+      "stem": "Erikson 論述老年期發展為整合vs.失望，是依據下列那項理論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "活動理論"
+        },
+        {
+          "key": "B",
+          "text": "心理社會發展理論"
+        },
+        {
+          "key": "C",
+          "text": "脫離理論"
+        },
+        {
+          "key": "D",
+          "text": "社會再建構理論"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q05",
+      "number": 5,
+      "stem": "生態圖是社會工作者從系統觀點對家庭進行評估和工作時的視覺化工具，下列敘述何者正確？① 生態圖將家庭與各社會環境的關係加以識別 ②在評估做家庭資源時，生態圖可以發現隱藏的優 勢和確認需要服務的地方 ③生態圖可以圖示家庭與內部系統的強弱連結或具壓力的連結 ④ 生態圖可呈現家庭成員如何受到更廣泛的生態環境所影響",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③"
+        },
+        {
+          "key": "B",
+          "text": "②③④"
+        },
+        {
+          "key": "C",
+          "text": "①②④"
+        },
+        {
+          "key": "D",
+          "text": "①③④"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q06",
+      "number": 6,
+      "stem": "社會工作者在進行家庭系統評估時，會想知道家庭對於其自身事務的私密程度，以及這個家庭對 於與其他系統互動的態度，下列敘述何者最符合？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭次系統"
+        },
+        {
+          "key": "B",
+          "text": "家庭規則"
+        },
+        {
+          "key": "C",
+          "text": "家庭界線"
+        },
+        {
+          "key": "D",
+          "text": "家庭認同"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q07",
+      "number": 7,
+      "stem": "對於社會工作者而言，有關學習人類行為與社會環境之目的，下列組合何者正確？①人類行為受 到身體、心理及社會情境等多重因素影響 ②人類經常需要面對生活、心理或社會的需求，且必 須有效的適應 ③社會工作者需要一個系統的架構以瞭解各項單獨的知識 ④人類天生即具備 因應問題的能力",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③"
+        },
+        {
+          "key": "B",
+          "text": "①②④"
+        },
+        {
+          "key": "C",
+          "text": "①③④"
+        },
+        {
+          "key": "D",
+          "text": "②③④"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q08",
+      "number": 8,
+      "stem": "下列對各理論的批判敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "衝突論比較適用於解釋問題，但不利於發展個人處遇策略"
+        },
+        {
+          "key": "B",
+          "text": "功能論無法解決系統內可能存在的不公平"
+        },
+        {
+          "key": "C",
+          "text": "符號互動論看個人的自我，是被動採取反應來應對外界帶來的壓力"
+        },
+        {
+          "key": "D",
+          "text": "生態理論包含範圍廣大，使得理論不容易預測個人行為"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q09",
+      "number": 9,
+      "stem": "依據布朗芬布倫納（Bronfenbrenner）的生態系統理論觀點，家長的工作場所屬於什麼系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "微視系統"
+        },
+        {
+          "key": "B",
+          "text": "中間系統"
+        },
+        {
+          "key": "C",
+          "text": "外部系統"
+        },
+        {
+          "key": "D",
+          "text": "鉅視系統"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q10",
+      "number": 10,
+      "stem": "有關達倫道夫（Dahrendolf）衝突論中對人與社會環境關係的說法，下列組合何者正確？①社會每 時每刻都在經歷變化 ②社會每時每刻都表示出不一致和衝突 ③在不違反團體原則與目標時 衝突對社會有正面功能 ④社會中的每個要素都對社會變遷發揮作用 ⑤社會以一些人對另些 人的壓迫和強制作基礎",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③"
+        },
+        {
+          "key": "B",
+          "text": "①③④⑤"
+        },
+        {
+          "key": "C",
+          "text": "①②④⑤"
+        },
+        {
+          "key": "D",
+          "text": "②③④⑤"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q11",
+      "number": 11,
+      "stem": "有關老人與社會的互動，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "衝突理論表示，老年人會造成社會重大壓力"
+        },
+        {
+          "key": "B",
+          "text": "功能理論表示，老年人可以運用充足的社會經歷培養下一代"
+        },
+        {
+          "key": "C",
+          "text": "符號互動論表示，老人與社會互動會與時俱進，所以不需要特別了解老人文化"
+        },
+        {
+          "key": "D",
+          "text": "次文化理論表示，老人需要調整自己的價值以配合現在的世代"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q12",
+      "number": 12,
+      "stem": "有關於家庭暴力相關理論與影響，那些描述正確？①生態理論認為暴力會循環，親密關係暴力會 藉由世代間傳遞 ②女性主義認為在父權體制的社會意識形態之下，暴力對待女性、兒童與多元 性別的問題將永遠存在 ③目睹家庭暴力的兒童成年之後成為親密關係加害者或受害者的風險 較高 ④家庭暴力會發生在男性或女性身上，但女性受害風險顯著較高",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②"
+        },
+        {
+          "key": "B",
+          "text": "①②③"
+        },
+        {
+          "key": "C",
+          "text": "①③④"
+        },
+        {
+          "key": "D",
+          "text": "②③④"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q13",
+      "number": 13,
+      "stem": "有關預立醫療指示（advance directives）的說明，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "最常見的型式是生命意願書或預立遺囑（living will）"
+        },
+        {
+          "key": "B",
+          "text": "不可以指定或是委託代理人，須由個人親自處理"
+        },
+        {
+          "key": "C",
+          "text": "屬於法律文件，預先做醫療照護的相關決定"
+        },
+        {
+          "key": "D",
+          "text": "預先表達自己舒適無痛結束生命或者是否延長生命的抉擇"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q14",
+      "number": 14,
+      "stem": "家長為了管教孩子的行為而對於孩子施以懲罰，就相關研究對於懲罰的效果與建議，下列何者最 不適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家長懲罰孩子同時，建議提出備案來增強其他更適當的行為"
+        },
+        {
+          "key": "B",
+          "text": "懲罰容易引起負面情緒，對於孩子未來身心發展影響甚鉅"
+        },
+        {
+          "key": "C",
+          "text": "懲罰可以當下讓孩子注意自我行為，長期為之可持續達到改善行為之效果"
+        },
+        {
+          "key": "D",
+          "text": "長期對孩子施以懲罰來處理行為可能會造成其攻擊行為"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q15",
+      "number": 15,
+      "stem": "有關唐氏症（Down syndrome）的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "為染色體異常導致的疾病"
+        },
+        {
+          "key": "B",
+          "text": "導因於第23 對染色體多一條"
+        },
+        {
+          "key": "C",
+          "text": "外觀常出現頭圍較小，後腦扁平"
+        },
+        {
+          "key": "D",
+          "text": "高齡者生出唐氏症孩子的機率較高"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q16",
+      "number": 16,
+      "stem": "有關嬰幼兒受虐的徵候，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "搖晃嬰兒症候群（shaken infant syndrome）"
+        },
+        {
+          "key": "B",
+          "text": "曼喬森氏症候群（Munchausen’s syndrome by proxy）"
+        },
+        {
+          "key": "C",
+          "text": "骨折、燒燙傷"
+        },
+        {
+          "key": "D",
+          "text": "嬰兒猝死症候群（sudden infant death syndrome, SIDS）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q17",
+      "number": 17,
+      "stem": "有關高齡者在記憶能力與學習的描述，在多數情況下，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "無論短期或長期記憶力能力都會衰退"
+        },
+        {
+          "key": "B",
+          "text": "雖思考速度減緩，但仍具備一定的邏輯思考能力"
+        },
+        {
+          "key": "C",
+          "text": "維持終身學習對其認知能力並無協助"
+        },
+        {
+          "key": "D",
+          "text": "在成年晚期，個體的智力會有明顯的退化"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q18",
+      "number": 18,
+      "stem": "「守恆（conservation）測驗」是常用在兒童中期認知層面發展狀況的心理測驗，根據Weiten（2003） 研究結果，一位6 歲的兒童在那一種類型守恆測驗上的表現最佳？",
+      "options": [
+        {
+          "key": "A",
+          "text": "體積守恆"
+        },
+        {
+          "key": "B",
+          "text": "面積守恆"
+        },
+        {
+          "key": "C",
+          "text": "長度守恆"
+        },
+        {
+          "key": "D",
+          "text": "數量守恆"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q19",
+      "number": 19,
+      "stem": "根據Cheek（1989）研究發現，當「個人以公我（public self）為基礎，反映個人在社會中的角色 與關係，是個人與環境互動後形塑的認同樣貌」，這是那一部分的自我認同？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人認同（personal identity）"
+        },
+        {
+          "key": "B",
+          "text": "家庭認同（family identity）"
+        },
+        {
+          "key": "C",
+          "text": "社會認同（social identity）"
+        },
+        {
+          "key": "D",
+          "text": "集體認同（collective identity）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q20",
+      "number": 20,
+      "stem": "有關優勢觀點的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "優勢觀點強調助人者是以專家的角色介入，指導家庭成員改變"
+        },
+        {
+          "key": "B",
+          "text": "優勢觀點的一個重要信條是人類具有足夠的資源與彈性"
+        },
+        {
+          "key": "C",
+          "text": "優勢觀點的假設是人們有成長、變化與適應能力"
+        },
+        {
+          "key": "D",
+          "text": "優勢觀點認為家庭成員本身有能力解決家庭問題"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q21",
+      "number": 21,
+      "stem": "社會工作者對於服務對象的社會層面進行評估，下列何者不屬於社會層面的考量因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "角色系統與次系統"
+        },
+        {
+          "key": "B",
+          "text": "家庭溝通模式"
+        },
+        {
+          "key": "C",
+          "text": "可運用的支持系統"
+        },
+        {
+          "key": "D",
+          "text": "社交問題解決技巧"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q22",
+      "number": 22,
+      "stem": "Piaget 將道德發展分為無律／他律／自律等階段，當你問一個孩子為什麼不能玩火，對方回答媽 媽說不可以。試問孩子大概幾歲？",
+      "options": [
+        {
+          "key": "A",
+          "text": "0～3 歲"
+        },
+        {
+          "key": "B",
+          "text": "4～8 歲"
+        },
+        {
+          "key": "C",
+          "text": "9～12 歲"
+        },
+        {
+          "key": "D",
+          "text": "20 歲"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q23",
+      "number": 23,
+      "stem": "中年階段伴侶間的愛情與親密關係強調感性、分享、忠誠與穩健，此為Sternberg（1986）愛情三 角理論（triangular theory of love）裡的那種愛情元素模式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "虛幻的愛（fatuous love）"
+        },
+        {
+          "key": "B",
+          "text": "伴侶的愛（companionate love）"
+        },
+        {
+          "key": "C",
+          "text": "空虛的愛（empty love）"
+        },
+        {
+          "key": "D",
+          "text": "浪漫的愛（romantic love）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q24",
+      "number": 24,
+      "stem": "「孩童走路與跑步表現良好，能夠快速停下而不跌倒，開始將想像力運用在遊戲中，也喜歡模仿 大人的動作」。上列敘述符合幾歲的生理發展里程？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 歲"
+        },
+        {
+          "key": "B",
+          "text": "3 歲"
+        },
+        {
+          "key": "C",
+          "text": "5 歲"
+        },
+        {
+          "key": "D",
+          "text": "6 歲"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q25",
+      "number": 25,
+      "stem": "Freud 有關三歲幼兒的心理狀態發展，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "開始模擬相同性別的家長，並以異性者為愛戀對象"
+        },
+        {
+          "key": "B",
+          "text": "生活規範對三歲幼兒而言，是似有似無，似懂非懂的"
+        },
+        {
+          "key": "C",
+          "text": "開始會送自己心愛的物件給家長作為生日禮物"
+        },
+        {
+          "key": "D",
+          "text": "開始主動進行各種活動，若無法則會發展出內疚感"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q26",
+      "number": 26,
+      "stem": "「就業」可說是成年人發展很重要的投入和參與，也對於個體的身體、心理和社會有重要影響， 下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "失業的人會覺得周遭的人不要他、自己不重要和缺乏社會角色"
+        },
+        {
+          "key": "B",
+          "text": "沒有工作只會影響失業的個體"
+        },
+        {
+          "key": "C",
+          "text": "長時間失業即使再找到工作仍會覺得自尊心低落"
+        },
+        {
+          "key": "D",
+          "text": "沒有工作可能導致無家可歸的問題"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q27",
+      "number": 27,
+      "stem": "孩子：你別管我好嗎？我知道我要怎麼做，不需要你每一秒鐘提醒我。家長：我需要不斷提醒你， 否則你根本不會去做，如果你能讓我信任你，我也不用一直盯著你。上述情形最能反映家長與青 少年孩子關係的何種發展主題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "威權與控制"
+        },
+        {
+          "key": "B",
+          "text": "放任與控制"
+        },
+        {
+          "key": "C",
+          "text": "溺愛與控制"
+        },
+        {
+          "key": "D",
+          "text": "自主與控制"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q28",
+      "number": 28,
+      "stem": "發展樂觀正向和幸福感，是幫助人們因應生活改變和挑戰的可行策略。而Seligman 提到創造幸福 感，必須包括那三個基本的改變？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對過去個人生活感到更幸福、對現在的親密關係感到更幸福、對家庭的未來感到更幸福"
+        },
+        {
+          "key": "B",
+          "text": "對自己的過去感到更幸福、對自己現在的生活感到更幸福、對自己的未來感到更幸福"
+        },
+        {
+          "key": "C",
+          "text": "對自己的過去感到更幸福、對現在的社會生活感到更幸福、對國家的未來感到更幸福"
+        },
+        {
+          "key": "D",
+          "text": "對過去家庭生活感到更幸福、對現在的家庭生活感到更幸福、對未來的家庭生活感到更幸福"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q29",
+      "number": 29,
+      "stem": "社會工作者對繼親家庭提供服務時，可採取的因應策略有那些？①財務和居住安排 ②解決前段 婚姻的情緒 ③覺察孩子的需求 ④考慮孩子的性別和差異 ⑤避免與無監護權的家長維持積 極的正向關係",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③④"
+        },
+        {
+          "key": "B",
+          "text": "②③④⑤"
+        },
+        {
+          "key": "C",
+          "text": "①②③⑤"
+        },
+        {
+          "key": "D",
+          "text": "①②③④⑤"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q30",
+      "number": 30,
+      "stem": "青少年自殺比例逐年攀升，值得令人重視，儘管影響自殺的因素相當複雜，但關鍵因素包括有那 些？①遭受肢體或性虐待 ②生活壓力（如學業） ③性傾向遭受歧視 ④家長過度保護",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③④"
+        },
+        {
+          "key": "B",
+          "text": "①②③"
+        },
+        {
+          "key": "C",
+          "text": "②③④"
+        },
+        {
+          "key": "D",
+          "text": "①②④"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q31",
+      "number": 31,
+      "stem": "某甲八歲，是地震的受災者，之後每天到學校上課時，都會隨身攜帶一頂機車安全帽，只要有任 何晃動，不論大小，他都會馬上戴上安全帽，持續性哭泣。有關某甲行為的合理解釋，符合下列 何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "創傷後壓力症候群"
+        },
+        {
+          "key": "B",
+          "text": "自我懷疑"
+        },
+        {
+          "key": "C",
+          "text": "萬物有靈論"
+        },
+        {
+          "key": "D",
+          "text": "罪惡感"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q32",
+      "number": 32,
+      "stem": "社會工作者在協助親密暴力的受暴孕婦，需要注意的技巧，下列敘述何者正確？①評估的時候要 注意，受暴孕婦比較容易有不健康的行為，也比較少接受產檢 ②訪談的時候，應該將女性與配 偶隔開，分開訪談 ③受暴女性對女性社會工作者，比較容易吐露受暴問題，社會工作者的性別 選擇很重要，訪談技巧比較不重要 ④使用沒有壓迫感的開放性問句幫助非自願案主吐露自己的 遭遇，例如「我看到你身上的傷，他是不是對你施暴？」",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②"
+        },
+        {
+          "key": "B",
+          "text": "③④"
+        },
+        {
+          "key": "C",
+          "text": "①③"
+        },
+        {
+          "key": "D",
+          "text": "②④"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q33",
+      "number": 33,
+      "stem": "「出櫃」對青少年同志是十分困難的決定，Sauerman（2004）為此編著指引手冊，下列敘述何者 錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "要準備好面對家長聽到出櫃時，可能會出現的沮喪反應"
+        },
+        {
+          "key": "B",
+          "text": "趁著與家長發生爭執時出櫃，才能一次把話說清楚"
+        },
+        {
+          "key": "C",
+          "text": "出櫃後，需要給家長時間和空間好好消化這個訊息"
+        },
+        {
+          "key": "D",
+          "text": "準備相關資料與提供同志家長專線，讓他們可求助"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q34",
+      "number": 34,
+      "stem": "尊重多元性別是性別平等教育的重要原則，然而面對跨性別兒童的性別重建仍有許多爭議，請問 下列那項做法違反社會工作倫理？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建議有雙性特徵新生兒的家長，應等待孩子能表達自己的性別認同再決定"
+        },
+        {
+          "key": "B",
+          "text": "協助家有跨性別兒童的家長了解此性別認同不代表罹患精神疾病"
+        },
+        {
+          "key": "C",
+          "text": "建議生下隱睪症新生兒的家長在孩子尚未發育前接受性別重建手術"
+        },
+        {
+          "key": "D",
+          "text": "提供想接受性別重建手術之兒童與家長具實證基礎的資訊，以做出最好決定"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q35",
+      "number": 35,
+      "stem": "提供「跨族群領養」服務時，對社會工作者評估能力與處遇計畫的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對想領養不同族群兒童的家長，評估其熟悉跨族群議題的文化能力"
+        },
+        {
+          "key": "B",
+          "text": "為提升孩子被領養後的族群認同，應避免他們接觸原本所屬之族群與文化"
+        },
+        {
+          "key": "C",
+          "text": "營造安全氣氛，協助原生家長孩子的分離，並規劃未來與小孩的接觸計畫"
+        },
+        {
+          "key": "D",
+          "text": "處理原住民兒童領養時，應將原生家庭與部落的意見同時納入評估"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q36",
+      "number": 36,
+      "stem": "社會工作者對新住民兒童提供以「民族意識優勢」的處遇服務時，下列敘述何者最不適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "與家長討論並了解其家長原生文化的優勢，協助他們決定想傳承的傳統文化內容"
+        },
+        {
+          "key": "B",
+          "text": "協助學校老師與家長創造能突顯原生文化優勢的活動，提升孩子對此文化的興趣"
+        },
+        {
+          "key": "C",
+          "text": "助人者應保持文化敏感度與自我覺察，以利與新住民溝通時有更好的交流與認同"
+        },
+        {
+          "key": "D",
+          "text": "增強家長與新住民兒童對臺灣的族群認同，以避免原生文化對兒童發展造成干擾"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q37",
+      "number": 37,
+      "stem": "「孩童出生於貧困和家長未受教育的家庭，可能面臨債務、有限的經驗和機會，以及較差的教育、 健康照顧等，這些都會阻礙他們在生活中獲取成功的能力」。這樣的觀點基於下列何種理論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "功能論"
+        },
+        {
+          "key": "B",
+          "text": "衝突理論"
+        },
+        {
+          "key": "C",
+          "text": "文化理論"
+        },
+        {
+          "key": "D",
+          "text": "符號互動論"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q38",
+      "number": 38,
+      "stem": "性別歧視，尤其是制度性歧視，造成許多女性落入貧窮循環之中，同工不同酬是工作職場中常見 的性別歧視。有關同工不同酬的現象，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "性別之間的薪資差異只存在在專業工程領域"
+        },
+        {
+          "key": "B",
+          "text": "在以性別為主導的職業中，薪資差異仍然存在"
+        },
+        {
+          "key": "C",
+          "text": "薪資不平等的影響自女性進入職場直到退休始終存在"
+        },
+        {
+          "key": "D",
+          "text": "隨著工作經驗及升遷，女性的薪資會逐年增加，但女性常因照顧責任而需暫離工作職場"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q39",
+      "number": 39,
+      "stem": "下列何者是代間社會流動的例子？",
+      "options": [
+        {
+          "key": "A",
+          "text": "孩子超越家長的階級"
+        },
+        {
+          "key": "B",
+          "text": "人的階級地位由於投資不善而改變"
+        },
+        {
+          "key": "C",
+          "text": "商業成功的結果是改變人的階級地位"
+        },
+        {
+          "key": "D",
+          "text": "生完孩子後，一對伴侶的階級地位下降"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0305:q40",
+      "number": 40,
+      "stem": "根據艾力克森（Erikson）的理論，心理社會發展的階段順利時，會呈現出熱愛家庭、關懷社會， 有責任心、有正義感，是下列那一階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "青少年時期"
+        },
+        {
+          "key": "B",
+          "text": "成年早期"
+        },
+        {
+          "key": "C",
+          "text": "成年中期"
+        },
+        {
+          "key": "D",
+          "text": "成年晚期"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0305:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0305:S",
+      "manualPatch": false
+    }
+  ]
+}

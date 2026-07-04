@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:100160:c902:s0705",
+  "examInstanceId": "社工師:100160:c902",
+  "examTrack": "社工師",
+  "subject": "人類行為與社會環境",
+  "subjectCode": "0705",
+  "yearRoc": 100,
+  "examCode": "100160",
+  "examName": "100年專門職業及技術人員高等考試會計師、社會工作師、不動產估價師、專利師、律師考試",
+  "examAttempt": "100160",
+  "categoryCode": "902",
+  "categoryName": "高等考試_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100160&c=902&s=0705&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100160&c=902&s=0705&q=1",
+  "questionSourceFileId": "社工師:100160:c902:s0705:Q",
+  "answerSourceFileId": "社工師:100160:c902:s0705:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:100160:c902:s0705:q01",
+      "number": 1,
+      "stem": "下列有關「社會生態學」（social ecology）主要目標的敘述何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "延續與保存"
+        },
+        {
+          "key": "B",
+          "text": "變革與創新"
+        },
+        {
+          "key": "C",
+          "text": "保存與創新兼具"
+        },
+        {
+          "key": "D",
+          "text": "維持現狀，觀察現實"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q02",
+      "number": 2,
+      "stem": "根據Denisoff & Wahrman（1979）的看法，下列對於衝突理論的描述那一項錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "利益是社會生活的基本要素"
+        },
+        {
+          "key": "B",
+          "text": "社會生活會造成對立與衝突"
+        },
+        {
+          "key": "C",
+          "text": "社會系統趨向於穩定"
+        },
+        {
+          "key": "D",
+          "text": "社會系統趨向於改變"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q03",
+      "number": 3,
+      "stem": "下列有關生態系統理論的敘述何者最正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "強調環境對個人的影響與重要性"
+        },
+        {
+          "key": "B",
+          "text": "強調以全人與系統的觀點來探討案主所遭遇的問題"
+        },
+        {
+          "key": "C",
+          "text": "注重個人在成長中的自我層面議題"
+        },
+        {
+          "key": "D",
+          "text": "在處遇的關係上，個體所受到改變作用的影響大於環境因素"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q04",
+      "number": 4,
+      "stem": "Parsons 的結構功能主義認為，社會系統存續的必要條件是那四項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "適應、創新、整合、潛在模式維持"
+        },
+        {
+          "key": "B",
+          "text": "適應、創新、分化、整合"
+        },
+        {
+          "key": "C",
+          "text": "適應、達成目標、整合、潛在模式維持"
+        },
+        {
+          "key": "D",
+          "text": "適應、達成目標、整合、退化"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q05",
+      "number": 5,
+      "stem": "依據Garbarino & Abramowitz（1992）的看法，所謂「文化貧窮」（cultural impoverishment）的涵義是指：",
+      "options": [
+        {
+          "key": "A",
+          "text": "忽略兒童健康發展的價值觀"
+        },
+        {
+          "key": "B",
+          "text": "兒童生活中缺乏重要的社會資源"
+        },
+        {
+          "key": "C",
+          "text": "父母無法獲得適當的社會支持"
+        },
+        {
+          "key": "D",
+          "text": "幼兒受到不適當的刺激或教養"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q06",
+      "number": 6,
+      "stem": "在社會功能層面中，自助團體與其他團體的主要差異為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自助團體與一般團體的差異性不大"
+        },
+        {
+          "key": "B",
+          "text": "自助團體最主要之目的在取得團體所需的相關資訊"
+        },
+        {
+          "key": "C",
+          "text": "自助團體成員擁有自我管理、使用資源及決策的權力"
+        },
+        {
+          "key": "D",
+          "text": "自助團體較強調自我的要求，且有一套協助成員的方法"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q07",
+      "number": 7,
+      "stem": "下列有關「社會功能」的敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "「社會功能」協助社工員能聚焦於案主的轉變"
+        },
+        {
+          "key": "B",
+          "text": "「社會功能」是指案主有能力去克服日常生活中所遭逢的問題"
+        },
+        {
+          "key": "C",
+          "text": "「社會功能」是指案主能履行自己在社區中的主要社會角色"
+        },
+        {
+          "key": "D",
+          "text": "「社會功能」是指案主能完成合理程度的要求，進而對社會有所貢獻"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q08",
+      "number": 8,
+      "stem": "艾力克遜（Erickson）提出心理社會發展理論，其中「勤奮vs.自卑」是發生在人生那一個階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "幼兒期"
+        },
+        {
+          "key": "B",
+          "text": "兒童期"
+        },
+        {
+          "key": "C",
+          "text": "中年期"
+        },
+        {
+          "key": "D",
+          "text": "老年期"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q09",
+      "number": 9,
+      "stem": "1953 年由Virginia Apgar 所發展的亞培格量表（Apgar Scale）是一般判定新生兒健康的量表，下列那一項 是其量表判定的完整指標？",
+      "options": [
+        {
+          "key": "A",
+          "text": "脈搏、呼吸、活動、膚色、排泄"
+        },
+        {
+          "key": "B",
+          "text": "脈搏、呼吸、活動、排泄、反射反應"
+        },
+        {
+          "key": "C",
+          "text": "脈搏、心跳、膚色、活動、反射反應"
+        },
+        {
+          "key": "D",
+          "text": "脈搏、呼吸、活動、膚色、反射反應"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q10",
+      "number": 10,
+      "stem": "有關唐氏症兒童的描述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "唐氏症是一種症候群，與染色體異常無關"
+        },
+        {
+          "key": "B",
+          "text": "唐氏症兒童生長較為遲緩、壽命比正常人短，主要的問題是智能障礙"
+        },
+        {
+          "key": "C",
+          "text": "唐氏症兒童常會伴隨先天性心臟病、先天性腸胃道畸形、視力、聽力缺損等"
+        },
+        {
+          "key": "D",
+          "text": "唐氏症的發生率與母親生育的年齡有相當大的關係"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q11",
+      "number": 11,
+      "stem": "由人文學派Thomas Gordon 所創的父母效能訓練（PET）處遇策略中，下列那一項是正確的描述？",
+      "options": [
+        {
+          "key": "A",
+          "text": "父母需要多用威權才能從小把孩子管教好"
+        },
+        {
+          "key": "B",
+          "text": "父母應強調一致性的管教原則，才不會造成親子衝突"
+        },
+        {
+          "key": "C",
+          "text": "父母應多使用「我的訊息」和孩子進行表達和溝通"
+        },
+        {
+          "key": "D",
+          "text": "父母只需重視孩子的行為結果給予獎賞，不需重視其想法和動機"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q12",
+      "number": 12,
+      "stem": "下列那一項對懷孕期的描述錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "懷孕婦女的情緒反應並不會透過胎盤影響胎兒的發展"
+        },
+        {
+          "key": "B",
+          "text": "懷孕期間吸菸婦女的胎兒出生體重比不吸菸婦女的胎兒來得輕"
+        },
+        {
+          "key": "C",
+          "text": "貧窮是影響胎兒生存的心理和社會因素"
+        },
+        {
+          "key": "D",
+          "text": "從受孕的那一刻開始，父母親的基因就影響胎兒的發展"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q13",
+      "number": 13,
+      "stem": "嬰兒的發展是有目的性的動作發展，具有發展的原則，下列那一項是正確的發展原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "從頭到尾的發展原則，又稱頭尾定律"
+        },
+        {
+          "key": "B",
+          "text": "從複雜到簡單的發展模式"
+        },
+        {
+          "key": "C",
+          "text": "從小肌肉到大肌肉的發展原則"
+        },
+        {
+          "key": "D",
+          "text": "由遠至近的動作發展原則"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q14",
+      "number": 14,
+      "stem": "下列有關婦女產後憂鬱症的敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "產生原因與荷爾蒙失調或過度疲勞有關"
+        },
+        {
+          "key": "B",
+          "text": "一般症狀會在幾天或幾週內消失"
+        },
+        {
+          "key": "C",
+          "text": "有時症狀會持續幾個月"
+        },
+        {
+          "key": "D",
+          "text": "一般症狀是在生產後8 週內出現"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q15",
+      "number": 15,
+      "stem": "下列對注意力缺損過動症（ADHD）的描述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ADHD 是指兒童在發展過程中的注意力缺損，進入青少年期症狀就會消失"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者對ADHD 的服務角色需扮演仲介者角色，協助連結資源"
+        },
+        {
+          "key": "C",
+          "text": "ADHD 兒童的治療方法有遊戲治療、家族治療、藥物治療法等方法"
+        },
+        {
+          "key": "D",
+          "text": "ADHD 並非單純是因為孩子天生的個性或周遭環境所引起的"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q16",
+      "number": 16,
+      "stem": "下列有關造成兒童虐待的環境因素，那一項的敘述最正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "貧窮、婚姻衝突、社會孤立、缺乏社會支持"
+        },
+        {
+          "key": "B",
+          "text": "貧窮、社會孤立、照顧者使用藥物、社區暴力"
+        },
+        {
+          "key": "C",
+          "text": "貧窮、酒癮、兒童失能、社區暴力"
+        },
+        {
+          "key": "D",
+          "text": "貧窮、失業、社會孤立、缺乏社會支持"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q17",
+      "number": 17,
+      "stem": "在兒童虐待常見的形式中，所謂兒童疏忽的行為模式為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "毆打或體罰"
+        },
+        {
+          "key": "B",
+          "text": "生活需求供應不足"
+        },
+        {
+          "key": "C",
+          "text": "不當的觸摸"
+        },
+        {
+          "key": "D",
+          "text": "經常不讓兒童去上課"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q18",
+      "number": 18,
+      "stem": "在兒童時期，憂鬱症患者所顯現的行為方式，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "注意力不集中"
+        },
+        {
+          "key": "B",
+          "text": "拒絕上學，對活動無興趣"
+        },
+        {
+          "key": "C",
+          "text": "上課不專心，嗜睡"
+        },
+        {
+          "key": "D",
+          "text": "拒絕飲食或食量偏低"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q19",
+      "number": 19,
+      "stem": "為了有效降低兒童的攻擊行為，下列的處理方式那一種是最適當的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不予理會、暫時隔離、楷模角色學習、提供無暴力環境"
+        },
+        {
+          "key": "B",
+          "text": "不予理會、適當懲罰、暫時隔離、楷模角色學習"
+        },
+        {
+          "key": "C",
+          "text": "不予理會、積極勸說、提供無暴力環境、暫時隔離"
+        },
+        {
+          "key": "D",
+          "text": "不予理會、訂定行為規範、楷模角色學習、建立無暴力環境"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q20",
+      "number": 20,
+      "stem": "最近三年（民國97-99 年）國人十大死亡原因排名前三項的病症為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "癌症、心臟病、肝病"
+        },
+        {
+          "key": "B",
+          "text": "癌症、高血壓、糖尿病"
+        },
+        {
+          "key": "C",
+          "text": "癌症、心臟病、腦血管疾病"
+        },
+        {
+          "key": "D",
+          "text": "癌症、肺炎、心臟病"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q21",
+      "number": 21,
+      "stem": "下列描述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認為強暴生存者本身應受到指責的觀點是屬於女性主義的觀點"
+        },
+        {
+          "key": "B",
+          "text": "性侵害犯罪之案件，審判需公開，以讓法官或軍事審判官更了解案情"
+        },
+        {
+          "key": "C",
+          "text": "工作人員於執行勤務知有性侵犯罪情事者，至遲必須在48 小時通報當地主管機關"
+        },
+        {
+          "key": "D",
+          "text": "預防強暴方法中，大叫「失火了」或「警察」通常會比大叫「救命」或「強暴」來得好"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q22",
+      "number": 22,
+      "stem": "所謂「功能性文盲」（functionally illiterate）的界定是指：",
+      "options": [
+        {
+          "key": "A",
+          "text": "不能看懂文字涵義的人"
+        },
+        {
+          "key": "B",
+          "text": "看不懂文字，卻可以藉聽力了解涵義的人"
+        },
+        {
+          "key": "C",
+          "text": "具有閱讀的能力，但無法適應社會需求的人"
+        },
+        {
+          "key": "D",
+          "text": "暫時性對文字失去使用能力的人"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q23",
+      "number": 23,
+      "stem": "依據Erickson 的觀點，成人中期若面臨停滯現象，其表現出來的行為模式不包含下列那一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "無法適應生活挑戰"
+        },
+        {
+          "key": "B",
+          "text": "只能滿足自我，無法兼顧別人的需求"
+        },
+        {
+          "key": "C",
+          "text": "花盡所有累積的財富"
+        },
+        {
+          "key": "D",
+          "text": "感覺自己的能力有限，資源不足"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q24",
+      "number": 24,
+      "stem": "成人中期的女性在社會化的過程中，比較不重視下列那一項主題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自我成長"
+        },
+        {
+          "key": "B",
+          "text": "人際關係"
+        },
+        {
+          "key": "C",
+          "text": "親密關係"
+        },
+        {
+          "key": "D",
+          "text": "個人成就"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q25",
+      "number": 25,
+      "stem": "根據行政院衛生署國民健康局老人長期追蹤調查結果顯示，國內老人最擔心的問題是下列那一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "健康問題"
+        },
+        {
+          "key": "B",
+          "text": "經濟來源"
+        },
+        {
+          "key": "C",
+          "text": "生活照顧"
+        },
+        {
+          "key": "D",
+          "text": "子女奉養"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q26",
+      "number": 26,
+      "stem": "下列有關中老年期健康問題的描述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "骨質疏鬆症要在老年期才會開始發作"
+        },
+        {
+          "key": "B",
+          "text": "喜愛活動是導致骨質疏鬆症的高危險群因子"
+        },
+        {
+          "key": "C",
+          "text": "只要吃鈣片就能有效預防骨質疏鬆症的發生"
+        },
+        {
+          "key": "D",
+          "text": "骨質疏鬆症的危機是老人跌倒時容易造成髖骨骨折"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q27",
+      "number": 27,
+      "stem": "下列何者非老年期的經濟風險因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "獨居狀況"
+        },
+        {
+          "key": "B",
+          "text": "年老體衰"
+        },
+        {
+          "key": "C",
+          "text": "世代貧窮"
+        },
+        {
+          "key": "D",
+          "text": "家庭依賴人口多"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q28",
+      "number": 28,
+      "stem": "下列有關財產信託的描述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "信託是以財產權為中心的法律關係"
+        },
+        {
+          "key": "B",
+          "text": "專利權、著作權可以信託"
+        },
+        {
+          "key": "C",
+          "text": "人格權、身心權不可以信託"
+        },
+        {
+          "key": "D",
+          "text": "老人財產信託的優點主要在保護子女"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q29",
+      "number": 29,
+      "stem": "聯合國於1991 年通過的「聯合國老人綱領」中，提出五個要點，下列那一項正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "獨立性、參與、自我實現、自立、尊嚴"
+        },
+        {
+          "key": "B",
+          "text": "獨立性、參與、自我實現、照顧、尊嚴"
+        },
+        {
+          "key": "C",
+          "text": "獨立性、參與、自我實現、尊嚴、榮耀"
+        },
+        {
+          "key": "D",
+          "text": "獨立性、參與、自我實現、照顧、服務"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q30",
+      "number": 30,
+      "stem": "在老人虐待的模式中，所謂物質虐待（material abuse）是指：",
+      "options": [
+        {
+          "key": "A",
+          "text": "虐待老人的身體"
+        },
+        {
+          "key": "B",
+          "text": "不當的辱罵或羞辱老人"
+        },
+        {
+          "key": "C",
+          "text": "不當使用老人的財物"
+        },
+        {
+          "key": "D",
+          "text": "不處理老人的失禁問題"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q31",
+      "number": 31,
+      "stem": "下列有關阿茲海默症（Alzheimer’s disease）的患者，在初期所顯現的症狀描述，何者最正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "急躁、不安、易怒"
+        },
+        {
+          "key": "B",
+          "text": "憂鬱、判斷力減低"
+        },
+        {
+          "key": "C",
+          "text": "呼吸困難"
+        },
+        {
+          "key": "D",
+          "text": "說話速度快速"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q32",
+      "number": 32,
+      "stem": "認知心理學家皮亞傑（Piaget）將認知發展歷程分為四階段，其中當兒童只以直覺或過去經驗推理，並只 知其一不知其二，請問是發生在那一個認知發展期？",
+      "options": [
+        {
+          "key": "A",
+          "text": "感覺動作期"
+        },
+        {
+          "key": "B",
+          "text": "準備運思期"
+        },
+        {
+          "key": "C",
+          "text": "具體運思期"
+        },
+        {
+          "key": "D",
+          "text": "抽象運思期"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q33",
+      "number": 33,
+      "stem": "認知心理學家皮亞傑（Piaget）在兒童期的語言發展歷程中，認為兒童出現多字句期，如「媽媽，糖糖， 吃吃」其年齡大約發生在幾歲？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一歲至一歲半"
+        },
+        {
+          "key": "B",
+          "text": "一歲半至二歲"
+        },
+        {
+          "key": "C",
+          "text": "二歲至二歲半"
+        },
+        {
+          "key": "D",
+          "text": "二歲半至三歲"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q34",
+      "number": 34,
+      "stem": "下列那一項因素是導致老人憂鬱症的最主要成因？",
+      "options": [
+        {
+          "key": "A",
+          "text": "心理健康問題"
+        },
+        {
+          "key": "B",
+          "text": "生理健康問題"
+        },
+        {
+          "key": "C",
+          "text": "子女棄養或疏忽"
+        },
+        {
+          "key": "D",
+          "text": "缺乏社會支持"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q35",
+      "number": 35,
+      "stem": "在老年人常見的疾病中，下列描述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "阿茲海默症、巴金森氏症都是屬於可逆性的疾病"
+        },
+        {
+          "key": "B",
+          "text": "輕度失智症的老人，經常會被家人和專業人員疏忽"
+        },
+        {
+          "key": "C",
+          "text": "對失智老人的活動安排不能太活潑，才不會過度刺激其病症"
+        },
+        {
+          "key": "D",
+          "text": "手腳抖動不停是失智患者的重要徵狀"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q36",
+      "number": 36,
+      "stem": "有關人類面臨死亡的過程，下列那一項描述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Elizabeth Kubler-Ross 提出人在面臨死亡過程的次序為：否認和隔離、接受、討價還價、憂鬱、憤怒"
+        },
+        {
+          "key": "B",
+          "text": "在實務工作中，Elizabeth Kubler-Ross 所提出人在面臨死亡過程會以次序性的方式出現"
+        },
+        {
+          "key": "C",
+          "text": "臨終關懷（hospice）的概念是1960 年代由英國桑德斯（Dr. Cicely Saunders）首先提出"
+        },
+        {
+          "key": "D",
+          "text": "通常在老人機構和老人談論死亡的相關話題並不是禁忌，故社工人員不需在意"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q37",
+      "number": 37,
+      "stem": "有關社會資源的描述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會資源是指協助社工人員發揮個人潛能，滿足其問題需求的相關資源"
+        },
+        {
+          "key": "B",
+          "text": "使用正式資源的優點雖需資產調查，但卻缺乏資源重分配之公平效果"
+        },
+        {
+          "key": "C",
+          "text": "在照顧的過程中，對關係的投入、承諾為經濟性資源，而對權力運作的認知為規範性資源"
+        },
+        {
+          "key": "D",
+          "text": "社工人員在助人專業過程中，進行外在資源連結是協助案主的重要工具"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q38",
+      "number": 38,
+      "stem": "校園暴力問題已成為學校中令人頭痛的問題，下列那一項描述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "校園暴力事件大都發生在老師與學生之間，老師和學生都常為被害人"
+        },
+        {
+          "key": "B",
+          "text": "校園暴力是指發生於學校內或上學期間，所發生的暴力侵害行為"
+        },
+        {
+          "key": "C",
+          "text": "校園暴力事件的嚴重性，以官方的統計嚴重性較高"
+        },
+        {
+          "key": "D",
+          "text": "校園暴力問題以居住在犯罪率較高的地區才會發生"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q39",
+      "number": 39,
+      "stem": "下列那一項不是「出櫃」（coming out）通常需經歷的階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自我坦承"
+        },
+        {
+          "key": "B",
+          "text": "結識圈內人"
+        },
+        {
+          "key": "C",
+          "text": "向參考團體坦承"
+        },
+        {
+          "key": "D",
+          "text": "公開自己的性取向"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:100160:c902:s0705:q40",
+      "number": 40,
+      "stem": "在美國，目前法律上已經承認同性婚姻合法的州有多少個？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不到10 個"
+        },
+        {
+          "key": "B",
+          "text": "10～19 個"
+        },
+        {
+          "key": "C",
+          "text": "20～29 個"
+        },
+        {
+          "key": "D",
+          "text": "30 個以上"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:100160:c902:s0705:Q",
+      "answerSourceFileId": "社工師:100160:c902:s0705:S",
+      "manualPatch": false
+    }
+  ]
+}

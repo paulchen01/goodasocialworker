@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:107110:c107:s0605",
+  "examInstanceId": "社工師:107110:c107",
+  "examTrack": "社工師",
+  "subject": "人類行為與社會環境",
+  "subjectCode": "0605",
+  "yearRoc": 107,
+  "examCode": "107110",
+  "examName": "107年第二次專技人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試、107年專技人員高等考試法醫師、語言治療師、聽力...",
+  "examAttempt": "第二次",
+  "categoryCode": "107",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107110&c=107&s=0605&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=107110&c=107&s=0605&q=1",
+  "questionSourceFileId": "社工師:107110:c107:s0605:Q",
+  "answerSourceFileId": "社工師:107110:c107:s0605:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:107110:c107:s0605:q01",
+      "number": 1,
+      "stem": "Bronfenbrenner 所提出的生態系統理論，認為個人所處的環境中，被層層系統相互環繞。請問該 理論所提出的系統包含那幾個？",
+      "options": [
+        {
+          "key": "A",
+          "text": "中間系統、外部系統"
+        },
+        {
+          "key": "B",
+          "text": "微視系統、中視系統、鉅視系統"
+        },
+        {
+          "key": "C",
+          "text": "學校系統、經濟系統、醫療系統"
+        },
+        {
+          "key": "D",
+          "text": "微視系統、中間系統、外部系統、鉅視系統、時間系統"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q02",
+      "number": 2,
+      "stem": "「吳先生因工廠倒閉而失業，頓失經濟。為了維持家中生計，以及不讓家人傷心，他決定隱瞞家 人以卡養卡。他相信以他的能力一定可以找到更好的工作。但結果欠債越來越多，多到吳先生無 力負擔。家人知道狀況後，決定先用之前的存款付清一部分的債務，並且同心面對這件事情。念 大學的孩子暫時休學找全職工作，太太也去打工，國中的孩子則擔起家務工作，而吳先生也願意 放下對工作的莫名堅持，願意再回到基層開始。」 如果以Hill 的家庭壓力理論ABC-X 來看吳先生這個案例，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "A 是指壓力事件、情境，吳先生的失業和欠債均屬之"
+        },
+        {
+          "key": "B",
+          "text": "B 是指壓力的源頭，像是吳先生工作的工廠倒閉才導致吳先生一家必須承受這一連串的壓力"
+        },
+        {
+          "key": "C",
+          "text": "C 是指對壓力的認識，像是吳先生評估自己的能力可以承擔經濟壓力"
+        },
+        {
+          "key": "D",
+          "text": "X 壓力程度、危機，前述ABC 交互作用下產生的家庭處理壓力的結果，像是吳先生全家最後 願意一起共同面對"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q03",
+      "number": 3,
+      "stem": "有關老人社會適應的相關理論敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "撤退理論是指因老人家身心衰退，為避免被排除，而必須不從社會網絡中退縮"
+        },
+        {
+          "key": "B",
+          "text": "角色理論認為進入老人階段後，我們只要維持過往學習的社會角色，保有舊有的角色即可，不 必再社會化"
+        },
+        {
+          "key": "C",
+          "text": "成功老化是指能兼具有能力維持疾病或失能的低風險、心智與身體的高功能、老年生活積極承諾"
+        },
+        {
+          "key": "D",
+          "text": "活動理論是指老人應該要減少、降低活動的參與，從社會中退出"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q04",
+      "number": 4,
+      "stem": "「陳爸爸認為小孩應該要絕對服從父母，父母說什麼都要聽從。孩子如果做錯事情，就一定要體 罰，而且不需要跟孩子說明原因。父母親不應該動不動就跟孩子說什麼我愛你或是你好棒之類的 話，而是應該要像虎爸虎媽一樣絕對嚴厲。」就以上的敘述來看，陳爸爸的教養型態屬於那一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "專制型教養"
+        },
+        {
+          "key": "B",
+          "text": "民主權威型教養"
+        },
+        {
+          "key": "C",
+          "text": "放任型教養"
+        },
+        {
+          "key": "D",
+          "text": "疏離型教養"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q05",
+      "number": 5,
+      "stem": "依附關係是指嬰幼兒和主要照顧者之間所建立的強烈情感連結。對於Ainsworth 所提出的依附行 為模式的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全型的依附是指嬰幼兒可以自立，拒絕主要照顧者或任何人的陪伴"
+        },
+        {
+          "key": "B",
+          "text": "焦慮依附型的嬰幼兒為典型不信任主要照顧者，會在主要照顧者離開時，情緒激烈，主要照顧 者返回後，既想讓主要照顧者抱，但當主要照顧者關懷他時卻又想掙扎離開"
+        },
+        {
+          "key": "C",
+          "text": "逃避依附型的嬰幼兒在主要照顧者離開時，沒有很強烈的情緒；但獨處時會顯現出不安"
+        },
+        {
+          "key": "D",
+          "text": "依附關係往往與嬰幼兒及主要照顧者的互動經驗、互動品質有關"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q06",
+      "number": 6,
+      "stem": "遊戲是幼兒生活中最自然的活動，也可以促進幼兒的表達、發展與學習。請問對於遊戲的敘述， 下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "平行遊戲常發生在2-3 歲的幼兒，可以觀察到這個年紀的幼兒雖然已經進入群體，但仍偏向自 己玩自己的，彼此沒有互動或溝通"
+        },
+        {
+          "key": "B",
+          "text": "幼兒的遊戲通常會遵循一定的模式，從簡單到複雜、無組織到有組織"
+        },
+        {
+          "key": "C",
+          "text": "幼兒在遊戲過程中，不喜歡一再重複，每個遊戲通常只玩一次"
+        },
+        {
+          "key": "D",
+          "text": "合作遊戲多數在7-8 歲以上的兒童遊戲中可以看見，他們在遊戲中可以開始分工，各司其職， 遊戲規則也更嚴謹"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q07",
+      "number": 7,
+      "stem": "Elkind 提出青少年自我中心主義，認為青少年對自己的行為與感受相當在意，過度專注自己，也 認為別人也會特別注意他們。下列那些是該理論所提出的青少年自我中心主義的行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "想像的觀眾、時間規律、個人神話"
+        },
+        {
+          "key": "B",
+          "text": "同理心、感覺良好、時間規律"
+        },
+        {
+          "key": "C",
+          "text": "同理心、裝傻、個人神話、想像觀眾"
+        },
+        {
+          "key": "D",
+          "text": "裝傻、明顯偽善、想像的觀眾、個人神話"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q08",
+      "number": 8,
+      "stem": "珍妮想要找居家托育服務人員來照顧她的小孩，有人推薦給她以下四位居家托育服務人員，均自 稱有向所在地的居家托育服務中心辦理登記，下列何者不可能符合居家托育服務人員資格？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小歐，女性，今年從一般高中畢業，18 歲，自稱非常喜歡兒童"
+        },
+        {
+          "key": "B",
+          "text": "文文，女性，今年56 歲，某私立高中家政科畢業"
+        },
+        {
+          "key": "C",
+          "text": "小張，男性，今年42 歲，有修完托育人員專業訓練課程，且有結業證書"
+        },
+        {
+          "key": "D",
+          "text": "阿力，男性，今年28 歲，有保母人員技術士證"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q09",
+      "number": 9,
+      "stem": "對於愛力克森（Erik Erikson）的心理社會發展階段的批評，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "反應出當代主流文化的偏見"
+        },
+        {
+          "key": "B",
+          "text": "歧視女性"
+        },
+        {
+          "key": "C",
+          "text": "不重視老年人的生產力"
+        },
+        {
+          "key": "D",
+          "text": "對於兒童期的描述過多，不夠客觀"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q10",
+      "number": 10,
+      "stem": "校園霸凌是目前全球兒童及青少年面臨的問題之一，且對兒童及青少年的身心發展影響甚鉅。對 校園霸凌的相關描述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路霸凌因為具有匿名、立即、多元與持久，傷害程度可能會高於面對面的霸凌"
+        },
+        {
+          "key": "B",
+          "text": "霸凌事件中常有霸凌者、被霸凌者和旁觀者三種角色，通常這三個角色的劃分是固定不變的"
+        },
+        {
+          "key": "C",
+          "text": "依據「校園霸凌防制準則」，學校在處理霸凌事件時，若遭遇情節嚴重時，應請求警政、社政 或檢察機關協助"
+        },
+        {
+          "key": "D",
+          "text": "依據「校園霸凌防制準則」，疑似校園霸凌的被霸凌人或其法定代理人可以向行為人發生行為 時所屬學校提出申請調查"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q11",
+      "number": 11,
+      "stem": "下列何者是描述「三明治世代」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是指要照顧上一代進入老年期的父母，以及下一代可能在兒童或青春期的孩子的中年期"
+        },
+        {
+          "key": "B",
+          "text": "是指夾在同儕與家人期待衝突的青少年期"
+        },
+        {
+          "key": "C",
+          "text": "是指剛自大學畢業進入職場，面對理想與現實兩難的成年初期"
+        },
+        {
+          "key": "D",
+          "text": "是指面對要尊重子女輩的教養期待與想要疼愛孫子輩又怕違反子女的教養規則的老年期"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q12",
+      "number": 12,
+      "stem": "在道德發展的理論中，常見的有Piaget、Kohlberg、Gilligan 三位學者。對這三位學者的理論主張 敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Piaget 將道德發展分為他律和自律兩個階段"
+        },
+        {
+          "key": "B",
+          "text": "Kohlberg 的道德發展以「正義」為取向，Gilligan 的道德發展則以「關懷」為取向"
+        },
+        {
+          "key": "C",
+          "text": "Kohlberg 的理論被批判有性別偏見"
+        },
+        {
+          "key": "D",
+          "text": "Kohlberg 的理論係以Freud 的心理動力理論為基礎"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q13",
+      "number": 13,
+      "stem": "小元寶為9 個月大的嬰兒，如果就Piaget 的認知發展理論來說，他屬於感覺動作期的階段，請問 他應該不具有下列那個特質？",
+      "options": [
+        {
+          "key": "A",
+          "text": "物體恆存的概念，例如手上玩具掉了，會想要去找。"
+        },
+        {
+          "key": "B",
+          "text": "有簡單的數量概念，例如知道媽媽有3 個糖果，自己得到1 個，還有2 個"
+        },
+        {
+          "key": "C",
+          "text": "能有初步的方向與目的，例如知道媽媽在自己的右邊，會往那個方向接近"
+        },
+        {
+          "key": "D",
+          "text": "限於現在的時空知覺，例如無法知道明天要去那裡，或想像自己可能在非現在所處的環境中"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q14",
+      "number": 14,
+      "stem": "花媽想為身心失能已經三年的花婆婆尋找合適的長期照顧服務，請問依據106 年6 月3 日開始施 行的「長期照顧服務法」，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "居家式的長照服務可以到花婆婆家提供服務，服務項目包含家事服務"
+        },
+        {
+          "key": "B",
+          "text": "社區式的長照服務是由社區機構派人到花婆婆家提供服務，所以服務項目不包含交通接送"
+        },
+        {
+          "key": "C",
+          "text": "機構住宿式的長照服務可以讓花婆婆長期入住在機構裡，提供全時的照顧，如果花婆婆有緊急 醫療需求時，也會協助送醫"
+        },
+        {
+          "key": "D",
+          "text": "如果花媽決定自己在家來照顧花婆婆，他可以申請家庭照顧者的支持服務，像是喘息服務"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q15",
+      "number": 15,
+      "stem": "幼兒的情緒管理需要成年人的支持與引導、協助，下列那一項不是情感訓練過程中合適的作法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "注意幼兒情感變化"
+        },
+        {
+          "key": "B",
+          "text": "想辦法來直接滿足孩子的各種要求，避免他有負向情緒表現"
+        },
+        {
+          "key": "C",
+          "text": "了解幼兒的情感是一個提供親密與教育的機會"
+        },
+        {
+          "key": "D",
+          "text": "同理幼兒的感覺，並幫助孩子描述自己的感覺"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q16",
+      "number": 16,
+      "stem": "2016 年通過「病人自主權利法」後，可以進行預立醫療自主計畫。小方對這項計畫有所好奇， 請教了醫院的醫護人員。請問下列敘述那一樣是錯誤的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "年滿20 歲、具有行為能力的成年人都可以簽署"
+        },
+        {
+          "key": "B",
+          "text": "內容包含你對急救意願表達、維生醫療抉擇、預立醫療委任代理人、預立醫囑"
+        },
+        {
+          "key": "C",
+          "text": "所簽署的文件生效，要在兩位專科醫師判斷生命到末期且你已經無法表達意願時"
+        },
+        {
+          "key": "D",
+          "text": "一旦簽署後，不論當時的醫療技術是否可以治療，都會放棄醫療救治"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q17",
+      "number": 17,
+      "stem": "愛情是不少人嚮往的情感。若以Sternberg 的愛情三角理論來看，一個比較完整的愛情需要具備 那些元素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "孤獨、親密、承諾"
+        },
+        {
+          "key": "B",
+          "text": "孤獨、自信、婚姻"
+        },
+        {
+          "key": "C",
+          "text": "親密、承諾、婚姻"
+        },
+        {
+          "key": "D",
+          "text": "親密、激情、承諾"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q18",
+      "number": 18,
+      "stem": "生命歷程觀點理論為跨領域所提出的人類行為的分析論述，對生命歷程觀點的概念敘述，下列何 者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "重視世代的概念，認為同一年齡層的人擁有相同的歷史文化背景，經歷相同的重大社會經濟變遷"
+        },
+        {
+          "key": "B",
+          "text": "強調人的一生扮演並轉換不同角色，體驗不同的過渡期的角色功能與差異性"
+        },
+        {
+          "key": "C",
+          "text": "認為人沒有自由意志和選擇的機會，生命的發展完全受限於當時的歷史脈絡或社會結構"
+        },
+        {
+          "key": "D",
+          "text": "每個生命歷程階段都有其特殊的風險因子與保護因子"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q19",
+      "number": 19,
+      "stem": "Selman 提出角色取替理論中，依據不同觀點取替能力分為未分化（undifferentiated）、社會訊息 （social-information）、自我反應（self-reflective）、第三人（third-person）、社會群體（societal） 五個階段。其中與7～12 歲的國小兒童發展有關的是那幾個階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "未分化、社會訊息、社會群體"
+        },
+        {
+          "key": "B",
+          "text": "未分化、第三人、社會群體"
+        },
+        {
+          "key": "C",
+          "text": "未分化、社會訊息、社會群體"
+        },
+        {
+          "key": "D",
+          "text": "社會訊息、自我反應、第三人"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q20",
+      "number": 20,
+      "stem": "成年人在進入職場後，可能會遭遇某些性別刻板、歧視與不友善的工作環境。其中「玻璃天花板 效應」（Glass Ceiling Effect）即是其一。請問對於玻璃天花板的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是一種無形、人為的困難，以阻礙某些有資格的人在組織中升遷"
+        },
+        {
+          "key": "B",
+          "text": "例如男女條件相當，升遷看似都有機會，但最後卻以女性需要多照顧家庭而讓男性升遷"
+        },
+        {
+          "key": "C",
+          "text": "只有生理女性會遇到「玻璃天花板效應」"
+        },
+        {
+          "key": "D",
+          "text": "玻璃天花板效應的產生常與職場環境不友善、薪資和升遷管道不平等等性別歧視有關"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q21",
+      "number": 21,
+      "stem": "知道自己罹患胃癌末期的阿美婆婆跟社工說：「我願意把我所有的財產捐給社福機構，你可以幫 我跟神明說，讓我多活幾年嗎？」如果就Kübler-Ross 的哀傷五階段的主張，前述阿美婆婆言行 屬於那個階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "否認"
+        },
+        {
+          "key": "B",
+          "text": "憤怒"
+        },
+        {
+          "key": "C",
+          "text": "接受"
+        },
+        {
+          "key": "D",
+          "text": "討價還價"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q22",
+      "number": 22,
+      "stem": "在青少年時期，有些父母常會使用負向語言來管教子女，而青少年也可能因父母等重要他人給予 的這些回應認同與內化，成為自我負面批判的歷程，甚至引發羞愧感。請問對於羞愧感所產生影 響的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以讓我們健康接納自己，並且有助於整合自我認定和自我內在的關係"
+        },
+        {
+          "key": "B",
+          "text": "會以父母所對待的方式來羞辱自己，不斷自貶，甚至產生無價值感"
+        },
+        {
+          "key": "C",
+          "text": "藉由憤怒將自己與他人隔離，好讓別人看不到自己的缺點或真實的樣子"
+        },
+        {
+          "key": "D",
+          "text": "藉由追求權力來補償自己感覺的缺陷或隔絕羞愧感"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q23",
+      "number": 23,
+      "stem": "「小夫社工在青少年機構服務，他邀請過去曾經接受機構服務、現在已經大學畢業的大雄來分享他當 時如何從挫敗中學習成長，找到自己的人生志向，期望藉由大雄的經歷可以鼓勵現在遇到挫折的青少 年。演講後，大雄果然成為現在機構中青少年的效仿對象。」請問前述例子呼應了那一個學習理論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "古典制約"
+        },
+        {
+          "key": "B",
+          "text": "操作制約"
+        },
+        {
+          "key": "C",
+          "text": "習得無助"
+        },
+        {
+          "key": "D",
+          "text": "社會學習"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q24",
+      "number": 24,
+      "stem": "皮亞傑（J. Piaget）認為人類與生俱來的認知過程中，以適應（adaptation）和________最為重要， 空格中應該填的是：",
+      "options": [
+        {
+          "key": "A",
+          "text": "發展"
+        },
+        {
+          "key": "B",
+          "text": "組織"
+        },
+        {
+          "key": "C",
+          "text": "協調"
+        },
+        {
+          "key": "D",
+          "text": "應用"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q25",
+      "number": 25,
+      "stem": "念小學二年級的小明看了某電視台八點檔播演的連續劇，劇中男主角掌摑女主角，並以極端鄙視的 語句羞辱她。小明之後在學校裡也對班上女同學如法炮製，試問，小明的行為是透過何種方式習得？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正增強"
+        },
+        {
+          "key": "B",
+          "text": "消除"
+        },
+        {
+          "key": "C",
+          "text": "懲罰"
+        },
+        {
+          "key": "D",
+          "text": "觀察學習"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q26",
+      "number": 26,
+      "stem": "下列何者不在「人在環境中系統」（PIE）的分類裏？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會角色問題"
+        },
+        {
+          "key": "B",
+          "text": "整體功能評估問題"
+        },
+        {
+          "key": "C",
+          "text": "心理違常問題"
+        },
+        {
+          "key": "D",
+          "text": "環境問題"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q27",
+      "number": 27,
+      "stem": "李文森（Levinson）的成人發展理論以「生活結構（life structure）」為概念，下列何者為其重要 發現？",
+      "options": [
+        {
+          "key": "A",
+          "text": "人們會對自我感到好奇而努力將其能力發展到極限"
+        },
+        {
+          "key": "B",
+          "text": "生活是一系列穩定與不穩定時期的交替，一輩子不斷地循環"
+        },
+        {
+          "key": "C",
+          "text": "從嬰兒到成人都以相同的方式學習如何思考"
+        },
+        {
+          "key": "D",
+          "text": "我們的行為乃是要不斷減少我們的期望及我們所擁有的，兩者之間的差異"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q28",
+      "number": 28,
+      "stem": "青少年的認同類型中，有人從未感受到認同危機，在過渡為成人的過程中也未有任何焦慮或問題， 很早就順從父母意見而決定其自我價值與生涯，這種類型屬於James Marcia 分類中的那一種類型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "達成認同（identity achievement）"
+        },
+        {
+          "key": "B",
+          "text": "延期償付（moratorium）"
+        },
+        {
+          "key": "C",
+          "text": "認同散亂（identity diffusion）"
+        },
+        {
+          "key": "D",
+          "text": "取消贖回權（foreclosure）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q29",
+      "number": 29,
+      "stem": "依照皮亞傑（J. Piaget）認知發展階段理論所述，那一個時期的孩童對於倒轉心智的歷程會感到 很困難？",
+      "options": [
+        {
+          "key": "A",
+          "text": "運思前期（preoperational stage）"
+        },
+        {
+          "key": "B",
+          "text": "感覺動作期（sensorimotor stage）"
+        },
+        {
+          "key": "C",
+          "text": "正式運思期（formal operational stage）"
+        },
+        {
+          "key": "D",
+          "text": "具體運思期（concrete operational stage）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q30",
+      "number": 30,
+      "stem": "下列那一種領域不屬於懷特（White, 1976）能力效能理論所主張，兒童建構因應危機的適應模式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "語言"
+        },
+        {
+          "key": "B",
+          "text": "道德感"
+        },
+        {
+          "key": "C",
+          "text": "運動能力"
+        },
+        {
+          "key": "D",
+          "text": "想像力"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q31",
+      "number": 31,
+      "stem": "下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "身為專業人員，社工員在面對不同文化族群的兒童教養方式時，心中要有一份標準裁量的準 繩，以免受案家的影響而失去客觀性"
+        },
+        {
+          "key": "B",
+          "text": "在家暴事件中所謂的「暴力遺傳」，指的是案主身上存有來自其親代容易衝動的基因遺傳，導 致其行為容易出現暴力的傾向"
+        },
+        {
+          "key": "C",
+          "text": "兒童的自主性、自律性受其生活方式與雙親的期待所影響"
+        },
+        {
+          "key": "D",
+          "text": "對待兒童的管教技巧應以彈性有變化為要，這是放諸四海而皆準的"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q32",
+      "number": 32,
+      "stem": "主張「在法律未被修訂前，即使不合理，也應該遵守」這種道德觀念者，處於柯爾堡（L. Kohlberg） 道德推理模型的那一個階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "道德循規期（conventional level）－尋求認可導向"
+        },
+        {
+          "key": "B",
+          "text": "道德循規前期（preconventional level）－功利互惠導向"
+        },
+        {
+          "key": "C",
+          "text": "道德循規期（conventional level）－順從權威導向"
+        },
+        {
+          "key": "D",
+          "text": "後道德自律期（postconventional level）－法律觀念導向"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q33",
+      "number": 33,
+      "stem": "對於成年期的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "此時期最大的生理威脅就是細胞病變─癌症"
+        },
+        {
+          "key": "B",
+          "text": "大部分三十歲的成人仍處於道德循規期（conventional level）"
+        },
+        {
+          "key": "C",
+          "text": "姬莉根（C. Gilligan）認為女性可從與他人發展親密關係而形成自我認同"
+        },
+        {
+          "key": "D",
+          "text": "夫妻雙方之間的溝通以「常規式互動（conventional interaction）」最好"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q34",
+      "number": 34,
+      "stem": "以利用性的活動來獲得戰利品或權力控制的表達方式，是屬於人類親密模式中那一種關係？",
+      "options": [
+        {
+          "key": "A",
+          "text": "親密式（intimacy）"
+        },
+        {
+          "key": "B",
+          "text": "性別認同式（sexual identity）"
+        },
+        {
+          "key": "C",
+          "text": "人際影響式（interpersonal influence）"
+        },
+        {
+          "key": "D",
+          "text": "激情式（sensuality）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q35",
+      "number": 35,
+      "stem": "王老先生已經退休多年，平日足不出戶，只愛搬一張板凳坐在家門口看著來往的人潮與車潮，對 公共事務漠不關心，遇有朋友邀約旅遊一概拒絕，與其年輕時的性格有極大轉變。王老先生的心 態符合下列那一種理論的描述？",
+      "options": [
+        {
+          "key": "A",
+          "text": "脫離理論（disengagement theory）"
+        },
+        {
+          "key": "B",
+          "text": "連續理論（continuity theory）"
+        },
+        {
+          "key": "C",
+          "text": "社會建構理論（social construction theory）"
+        },
+        {
+          "key": "D",
+          "text": "社會交換理論（social exchange theory）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q36",
+      "number": 36,
+      "stem": "下列何者屬於依附失調的現象？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在陌生的場合裡會離開照顧者去探索環境"
+        },
+        {
+          "key": "B",
+          "text": "照顧者離開時會哭泣或抗議"
+        },
+        {
+          "key": "C",
+          "text": "受到傷害、驚嚇或生病時不會尋求安撫"
+        },
+        {
+          "key": "D",
+          "text": "照顧者回來後會強烈要求肢體上的接觸"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q37",
+      "number": 37,
+      "stem": "穆樂（Margaret Mueller）及其同事把祖父母職風格分為五類，其中「高度參與孫輩的生活，但不 把自己視為管教者或權威角色」為下列何種類型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "被動型祖父母（passive grandparents）"
+        },
+        {
+          "key": "B",
+          "text": "影響型祖父母（influential grandparents）"
+        },
+        {
+          "key": "C",
+          "text": "權威型祖父母（authority-oriented grandparents）"
+        },
+        {
+          "key": "D",
+          "text": "支持型祖父母（supportive grandparents）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q38",
+      "number": 38,
+      "stem": "未繫安全帶的時候，車內會發出惱人的嗶嗶聲，促使駕駛人繫上安全帶，這種嗶嗶聲屬於：",
+      "options": [
+        {
+          "key": "A",
+          "text": "負增強（negative reinforcement）"
+        },
+        {
+          "key": "B",
+          "text": "消除（extinction）"
+        },
+        {
+          "key": "C",
+          "text": "正懲罰（positive punishment）"
+        },
+        {
+          "key": "D",
+          "text": "負懲罰（negative punishment）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q39",
+      "number": 39,
+      "stem": "你為某一位候選人助選，一開始時你對自己目前所做的事感到不舒服，因為過去你對這位候選人 並無特別好感；但自從為他/她助選後，現在你發現自己對此候選人認同多了，那一種理論能解 釋你態度的轉變？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自我知覺理論（self-perception theory）"
+        },
+        {
+          "key": "B",
+          "text": "社會影響理論（social impact theory）"
+        },
+        {
+          "key": "C",
+          "text": "自我監控理論（self-monitoring theory）"
+        },
+        {
+          "key": "D",
+          "text": "認知失諧理論（cognitive dissonance theory）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0605:q40",
+      "number": 40,
+      "stem": "「戀母情結（Oedipus complex）」容易發生在那一個性心理發展階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "兩性期（genital）"
+        },
+        {
+          "key": "B",
+          "text": "肛門期（anal）"
+        },
+        {
+          "key": "C",
+          "text": "口腔期（oral）"
+        },
+        {
+          "key": "D",
+          "text": "性蕾期（phallic）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0605:S",
+      "manualPatch": false
+    }
+  ]
+}

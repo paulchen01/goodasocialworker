@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:106110:c107:s0605",
+  "examInstanceId": "社工師:106110:c107",
+  "examTrack": "社工師",
+  "subject": "人類行為與社會環境",
+  "subjectCode": "0605",
+  "yearRoc": 106,
+  "examCode": "106110",
+  "examName": "106年第二次專技人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試、106年專技人員高等考試法醫師、語言治療師、聽力...",
+  "examAttempt": "第二次",
+  "categoryCode": "107",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106110&c=107&s=0605&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106110&c=107&s=0605&q=1",
+  "questionSourceFileId": "社工師:106110:c107:s0605:Q",
+  "answerSourceFileId": "社工師:106110:c107:s0605:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:106110:c107:s0605:q01",
+      "number": 1,
+      "stem": "Elkind（2001）所提出的青少年自我中心主義（egocentrism），有兩種面向，一是想像的觀眾，另一個面 向為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人驅力"
+        },
+        {
+          "key": "B",
+          "text": "個人主義"
+        },
+        {
+          "key": "C",
+          "text": "個人神話"
+        },
+        {
+          "key": "D",
+          "text": "個人意識"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q02",
+      "number": 2,
+      "stem": "下列何者不是注意力缺損過動症（ADHD）的學齡孩童普遍的行為特質？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不專心，漫不經心"
+        },
+        {
+          "key": "B",
+          "text": "缺乏語言溝通能力"
+        },
+        {
+          "key": "C",
+          "text": "無法控制的過度生理活動"
+        },
+        {
+          "key": "D",
+          "text": "極度沒耐性"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q03",
+      "number": 3,
+      "stem": "發展心理學者Les S. Vygotsky 對於幼兒期的社會文化脈絡觀點，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認知發展是在社會文化脈絡中形塑而成"
+        },
+        {
+          "key": "B",
+          "text": "兒童顯著的認知技巧起源於父母、同儕、手足及老師們等的啟發"
+        },
+        {
+          "key": "C",
+          "text": "每個人知能的發展在結構脈絡上是相似的"
+        },
+        {
+          "key": "D",
+          "text": "嬰幼兒與生俱來的基本心理功能，例如個人的感覺及記憶，是受到文化的影響"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q04",
+      "number": 4,
+      "stem": "Rutter 與Rutter（1993）指出，大腦有兩個主要快速成長的時期，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "懷孕中期及兒童早期"
+        },
+        {
+          "key": "B",
+          "text": "新生兒及青春期晚期"
+        },
+        {
+          "key": "C",
+          "text": "懷孕的前3 個月及兒童中期"
+        },
+        {
+          "key": "D",
+          "text": "懷孕的後3 個月及青春期前"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q05",
+      "number": 5,
+      "stem": "下列對於成年晚期發展任務的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正常的老化過程，長期記憶甚少喪失，衰退較多的是短期記憶與最近記憶"
+        },
+        {
+          "key": "B",
+          "text": "在溝通方面，即使沒有疾病侵擾，進入老年期也會讓長者說話變慢"
+        },
+        {
+          "key": "C",
+          "text": "長者不喜歡把自己當成老人"
+        },
+        {
+          "key": "D",
+          "text": "環境老人學認為長者對於住家的依賴與強烈依附，以致要他們搬遷不易"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q06",
+      "number": 6,
+      "stem": "父母教養風格（Parenting styles）是影響嬰幼兒社會化的因子之一。目前已有大量研究，且有一致性的結 果與發現。下列對於父母教養風格的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "美國發展心理學家Diana Baumrind 將父母教養風格區分為「溫暖」與「控制」兩個鑑別向度"
+        },
+        {
+          "key": "B",
+          "text": "Barber（2002）認為父母的控制可分為行為控制（behavior control）及心理控制（psychological control）"
+        },
+        {
+          "key": "C",
+          "text": "使用高心理控制或低溫暖教養風格的父母，可能是高風險群的父母"
+        },
+        {
+          "key": "D",
+          "text": "家庭外部的經濟、文化或家庭結構等因素對於家庭及兒少產生影響，但因此使兒童落入弱勢的可能性 不高"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q07",
+      "number": 7,
+      "stem": "中途輟學為常見的青少年問題之一，下列對於中途輟學的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "生態系統模式認為中途輟學的發生可能因為個人問題或是家庭系統不平衡，或是與學校、同儕互動過 程經驗不良而產生的行為問題"
+        },
+        {
+          "key": "B",
+          "text": "差別連結理論認為中輟學生犯罪行為主要是來自於遺傳基因與社會環境的互動所致"
+        },
+        {
+          "key": "C",
+          "text": "社會控制理論認為中輟學生脫離主流文化，可能增強對同儕次文化的認同，進而接受同儕團體的價值 觀與信念"
+        },
+        {
+          "key": "D",
+          "text": "中輟與學業挫敗、低成就及來自不利的社會階層呈現顯著相關"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q08",
+      "number": 8,
+      "stem": "下列對於青少年犯罪的理論敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "機會理論認為低教育水平，逸樂奢侈成習的青少年會尋求不合法的機會而犯罪"
+        },
+        {
+          "key": "B",
+          "text": "場域理論認為個人所屬的親密團體，例如家庭或同儕團體成員如有犯罪行為，個人也很容易學會犯罪"
+        },
+        {
+          "key": "C",
+          "text": "犯罪次文化理論認為犯罪率高的社區，犯罪的價值觀點、態度及行為是代代相傳的，所以犯罪行為才 會互相傳播"
+        },
+        {
+          "key": "D",
+          "text": "標籤理論認為個人偏差行為一旦被發現並公開指責，加上不良標籤後，會導致更嚴重的偏差行為"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q09",
+      "number": 9,
+      "stem": "關於青春期自我或認同的理論敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "佛洛伊德（Freud）強調青春期性徵期發展出具有生殖及性親密感能力的原慾"
+        },
+        {
+          "key": "B",
+          "text": "艾瑞克森（Erikson）認為青春期階段是認同與角色混淆的階段"
+        },
+        {
+          "key": "C",
+          "text": "柯柏格（Kohlberg）認為青春期是道德自律期，主要發展出超越個人所屬社會的道德原則"
+        },
+        {
+          "key": "D",
+          "text": "皮亞傑（Piaget）認為青春期是具體運思階段，藉由具體事務發展出抽象問題構思能力"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q10",
+      "number": 10,
+      "stem": "關於兒童中期階段性發展任務的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "佛洛依德（Freud）認為兒童中期的發展受到性本能衝動支配力增強"
+        },
+        {
+          "key": "B",
+          "text": "皮亞傑（Piaget）認為兒童中期道德觀念的改變由絕對與外控演進為相對的道德觀以及內控的良知"
+        },
+        {
+          "key": "C",
+          "text": "柯柏格（Kohlberg）認為兒童中期會依據外在懲罰或報酬來推理，並考量外界的意見"
+        },
+        {
+          "key": "D",
+          "text": "艾瑞克森（Erikson）認為兒童中期的合作創新發展能力增長，引發稱職感或無能感"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q11",
+      "number": 11,
+      "stem": "個案家庭有夫妻及子女四位成員，夫妻兩人均就業且子女就讀國中。自從個案去年有了婚外情，且已同 居，夫妻關係轉壞，子女因為家庭缺乏溫暖，女兒開始有藥物濫用及婚前性行為。以上家庭問題較適合 採用那一個社會學理論進行解釋？",
+      "options": [
+        {
+          "key": "A",
+          "text": "符號互動論（Symbolic Interactionism）"
+        },
+        {
+          "key": "B",
+          "text": "衝突理論（Conflict Theory）"
+        },
+        {
+          "key": "C",
+          "text": "系統理論（System Theory）"
+        },
+        {
+          "key": "D",
+          "text": "場地理論（Field Theory）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q12",
+      "number": 12,
+      "stem": "下列對於社會工作者協助婦女墮胎時所扮演的角色敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會工作者作為談判者的角色，要求墮胎婦女之伴侶支付相關醫藥費用"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者作為使能者的角色，協助婦女確認妊娠中止時可能的選擇及評估正負面"
+        },
+        {
+          "key": "C",
+          "text": "社會工作者作為教育者的角色，提供避孕諮詢以避免再次非預期懷孕"
+        },
+        {
+          "key": "D",
+          "text": "社會工作者作為倡導者的角色，促使禁止墮胎政策及法令的修訂，使婦女得到需要的服務"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q13",
+      "number": 13,
+      "stem": "下列何者並非「女性主義理論」（feminist theories）的主要概念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Van Den Bergh 與Cooper（1986）認為生物學將人區分為男性或女性二分法的方式應該被排除"
+        },
+        {
+          "key": "B",
+          "text": "女性主義者強調性別角色社會化的影響"
+        },
+        {
+          "key": "C",
+          "text": "女性主義者確信男女兩性生命經驗的差異"
+        },
+        {
+          "key": "D",
+          "text": "「個人即政治」（The personal is political）的概念意指女性個人力量太過微小，很難影響政治環境裡的 性別歧視政策"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q14",
+      "number": 14,
+      "stem": "下列對於街友的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "有家庭的人，不太可能成為街友的"
+        },
+        {
+          "key": "B",
+          "text": "近年來低薪與失業率的衝擊，是造成街友成長的原因之一"
+        },
+        {
+          "key": "C",
+          "text": "街友的組成很多元，異質性也很高"
+        },
+        {
+          "key": "D",
+          "text": "職業訓練和擁有一技之長是促進街友就業機會的策略之一"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q15",
+      "number": 15,
+      "stem": "下列對於單親家庭的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "相較於傳統家庭中長大的孩子，單親家庭中長大的孩子遭遇行為、社會、情緒或課業方面困擾的機會 是相同的"
+        },
+        {
+          "key": "B",
+          "text": "Rutter（1983）指出，與其生活在一個親子關係良好的單親家庭，不如生活在氣氛不和諧的傳統家庭， 其發展情況較好"
+        },
+        {
+          "key": "C",
+          "text": "Hetherington（1980）的研究指出，缺席的父親或母親對孩子所造成的傷害，甚至比一個冷漠無情的父 親或母親來的嚴重"
+        },
+        {
+          "key": "D",
+          "text": "只有母親收入的單親家庭，因收入比傳統家庭來的少，其落入貧窮的風險較高"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q16",
+      "number": 16,
+      "stem": "下列對於兒童依附問題的徵兆，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "常在公共場所走失"
+        },
+        {
+          "key": "B",
+          "text": "輕易離開照顧者"
+        },
+        {
+          "key": "C",
+          "text": "分離後重聚，只要照顧者主動進行安撫，即能重建互動"
+        },
+        {
+          "key": "D",
+          "text": "需要關愛和注意時，不去尋找可依附的照顧者"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q17",
+      "number": 17,
+      "stem": "下列對於社會工作者角色面對兒童虐待時的處置敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一旦發現虐待發生，普遍處遇目標一律為立即性介入家庭，並對受虐兒童進行家外安置"
+        },
+        {
+          "key": "B",
+          "text": "將五歲弟弟單獨留給十歲哥哥照顧，是有效提供父母喘息的方式之一"
+        },
+        {
+          "key": "C",
+          "text": "兒童虐待的特殊處遇不但針對父母照顧者的需求，同時也針對受虐兒童提供個別或團體諮商的資源"
+        },
+        {
+          "key": "D",
+          "text": "當父母一方不與社會工作者合作時，應尊重父母意願，避免介入家庭"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q18",
+      "number": 18,
+      "stem": "一對認識且交往不到一個月的戀人很快墜入愛河，並決定結婚，此為Sternberg（1988）愛情三角理論 （triangular theory of love）裡的那種愛情元素模式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "虛幻的愛（fatuous love）：激情與承諾組合而成"
+        },
+        {
+          "key": "B",
+          "text": "迷戀（infatuation）：只有激情成分存在"
+        },
+        {
+          "key": "C",
+          "text": "空洞的愛（empty love）：承諾是唯一的成分"
+        },
+        {
+          "key": "D",
+          "text": "浪漫的愛（romantic love）：親密與激情的結合"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q19",
+      "number": 19,
+      "stem": "「老年卓越」（gerotranscendence）強調個人發展延續至老年，並不會因身體衰退而中止。了解老人須從 文化、社會、歷史、政治等社會脈絡來著手，此為那個理論觀點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "活動理論（activity theory）"
+        },
+        {
+          "key": "B",
+          "text": "延續理論（continuity theory）"
+        },
+        {
+          "key": "C",
+          "text": "社會建構理論（social construction theory）"
+        },
+        {
+          "key": "D",
+          "text": "社會交換理論（social exchange theory）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q20",
+      "number": 20,
+      "stem": "Beckett 與Johnson（1995）提出雙元層面觀點（dual perspective），認為所有人都必須適應兩種環境，並 與其互動，其考量的面向除了撫育系統外，還包括那個系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "鉅視系統"
+        },
+        {
+          "key": "B",
+          "text": "文化系統"
+        },
+        {
+          "key": "C",
+          "text": "經濟系統"
+        },
+        {
+          "key": "D",
+          "text": "維持系統"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q21",
+      "number": 21,
+      "stem": "皮亞傑（Piaget）提出在什麼時期會開始進入「轉換式推理」（transductive reasoning）？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嬰幼兒"
+        },
+        {
+          "key": "B",
+          "text": "兒童早期"
+        },
+        {
+          "key": "C",
+          "text": "兒童中期"
+        },
+        {
+          "key": "D",
+          "text": "青少年期"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q22",
+      "number": 22,
+      "stem": "案主對問題的定義是受到社會與情境中相互的關係、家庭、社會地位與經驗的影響，請進一步運用 Pinderhughes（1994）提出的觀點，具體說明什麼會影響案主心中對問題的定義？",
+      "options": [
+        {
+          "key": "A",
+          "text": "案主的文化、生活經驗"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者的期待"
+        },
+        {
+          "key": "C",
+          "text": "機構的服務範圍"
+        },
+        {
+          "key": "D",
+          "text": "政府福利服務的身分資格"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q23",
+      "number": 23,
+      "stem": "依據Epstein（2005）對酷兒理論（queer theory）提出的觀點，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是同性戀的替代術語"
+        },
+        {
+          "key": "B",
+          "text": "是試圖解構異性戀觀點"
+        },
+        {
+          "key": "C",
+          "text": "顯示同性戀在不同社會背景意味著不同的事情"
+        },
+        {
+          "key": "D",
+          "text": "同性戀者並不接受和認同異性戀的社會角色"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q24",
+      "number": 24,
+      "stem": "社會工作者在辨識與評估老人暴力的風險因子，依據Cohen、Halevi、Gagin 與Friedman（2006）研究發 現有三個廣泛的風險因子，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "老人有情緒與行為問題"
+        },
+        {
+          "key": "B",
+          "text": "照顧者有情緒與行為問題"
+        },
+        {
+          "key": "C",
+          "text": "老人社會經濟地位低落"
+        },
+        {
+          "key": "D",
+          "text": "家庭關係有問題"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q25",
+      "number": 25,
+      "stem": "依據Rowe 與Kahn（1998）認為促進成功老化的三個因素，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "維持認知能力"
+        },
+        {
+          "key": "B",
+          "text": "維持經濟能力"
+        },
+        {
+          "key": "C",
+          "text": "維持身體功能"
+        },
+        {
+          "key": "D",
+          "text": "保持活躍生活"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q26",
+      "number": 26,
+      "stem": "Matsakis（2003）認為受暴婦女在恢復和經歷悲傷事件的過程中，下列那一項是不屬於此恢復與經歷悲傷 過程的重要課題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "重建對自己身體的安全感"
+        },
+        {
+          "key": "B",
+          "text": "處理他人與自己的關係"
+        },
+        {
+          "key": "C",
+          "text": "突破害怕與恐懼"
+        },
+        {
+          "key": "D",
+          "text": "坦然面對自己所失去的東西"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q27",
+      "number": 27,
+      "stem": "針對中年的轉變與適應，Levinson（1978）的成人發展理論主張中年人歷經許多事與願違的事情，對過去 持守的信念喪失信心，這過程稱之為何種現象？",
+      "options": [
+        {
+          "key": "A",
+          "text": "去幻想化"
+        },
+        {
+          "key": "B",
+          "text": "去理想化"
+        },
+        {
+          "key": "C",
+          "text": "去目標化"
+        },
+        {
+          "key": "D",
+          "text": "去職業化"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q28",
+      "number": 28,
+      "stem": "Seligman（1996）在《樂觀小孩》一書中提出，父母、照顧者、老師和社會工作者與其幫助孩子「感覺好」， 還不如幫助他們「做得好」，表示有助於案主面對生活挑戰的具體化概念是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "經濟力與消費能力"
+        },
+        {
+          "key": "B",
+          "text": "家庭階層與社會流動"
+        },
+        {
+          "key": "C",
+          "text": "社會支持與社會資源"
+        },
+        {
+          "key": "D",
+          "text": "能力感與正確的態度"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q29",
+      "number": 29,
+      "stem": "面對學齡前兒童與學齡兒童的各種攻擊、暴力的警訊與行為時，社會工作者建議父母、照顧者應有的處 遇原則，下列陳述何者較不適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "進行行為管教技巧，並給予直接的訓誡"
+        },
+        {
+          "key": "B",
+          "text": "進行不相容反應技巧，不理會攻擊行為"
+        },
+        {
+          "key": "C",
+          "text": "進行暫停程序的技巧，將孩子從場所中移開"
+        },
+        {
+          "key": "D",
+          "text": "進行角色楷模的策略，採用非攻擊性的衝突解決策略的楷模與導師"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q30",
+      "number": 30,
+      "stem": "青少女懷孕議題研究發現，青少女面對各種情境，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "男方的支持會使青少女與孩子的互動較為正面"
+        },
+        {
+          "key": "B",
+          "text": "青少女父母的支持會強化青少女做為母親的因應能力"
+        },
+        {
+          "key": "C",
+          "text": "青少女成為成功的母親有賴於生出健康的小孩"
+        },
+        {
+          "key": "D",
+          "text": "青少女養育小孩需要社會的支持"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q31",
+      "number": 31,
+      "stem": "依據Rollins 與Feldman（1970）家庭週期研究發現，婚姻滿意度與新婚期一樣是那一個階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "有學齡兒童的家庭"
+        },
+        {
+          "key": "B",
+          "text": "有青少年的家庭"
+        },
+        {
+          "key": "C",
+          "text": "中年期家庭"
+        },
+        {
+          "key": "D",
+          "text": "老年期家庭"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q32",
+      "number": 32,
+      "stem": "處在不同文化的嬰兒，發展的快慢會有所不同；但發展的順序則超越文化差異，人人皆同。這種理論認 為嬰兒的發展是由基因決定，依照固定的順序進展，稱之為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "成熟理論"
+        },
+        {
+          "key": "B",
+          "text": "基因理論"
+        },
+        {
+          "key": "C",
+          "text": "發展理論"
+        },
+        {
+          "key": "D",
+          "text": "細胞理論"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q33",
+      "number": 33,
+      "stem": "Andrews 與Bonta（1994；1998）依據佛洛伊德（Freud）超我概念，認為下列詮釋何者較符合其「自我理 想」（ego ideal）的定義？",
+      "options": [
+        {
+          "key": "A",
+          "text": "指涉內在良知是個人的重要心像，左右個體對理想自己和良好行為的一種追求"
+        },
+        {
+          "key": "B",
+          "text": "屬於外在環境認可的行為，被內化成為心像，左右個體對理想自己和良好行為的一種追求"
+        },
+        {
+          "key": "C",
+          "text": "指涉一種神聖超存在的心像，左右個體對理想自己和良好行為的一種追求"
+        },
+        {
+          "key": "D",
+          "text": "屬於個人超越意識的心像，左右個體對理想自己和良好行為的一種追求"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q34",
+      "number": 34,
+      "stem": "Michael Jacobs（1981）在酗酒者輔導策略手冊中指出，社會工作者面對否認、拒絕的案主，社會工作者 的底線是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "案主的選擇與責任"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者的專業與技巧"
+        },
+        {
+          "key": "C",
+          "text": "社會工作者的倫理與責信"
+        },
+        {
+          "key": "D",
+          "text": "酗酒者與照顧者的共依"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q35",
+      "number": 35,
+      "stem": "Tomas Gorden（1970）提出「我」的概念來因應青少年與父母的衝突，下列何者敘述錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "「你」的訊息是提出解決與澄清訊息"
+        },
+        {
+          "key": "B",
+          "text": "「我」的訊息是讓他人了解自己真實的感受"
+        },
+        {
+          "key": "C",
+          "text": "「你」的訊息通常是責備的"
+        },
+        {
+          "key": "D",
+          "text": "「我」的訊息是會營造誠實、開放關係和會培養親密感"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q36",
+      "number": 36,
+      "stem": "Shonkoff 與Phillips（2000）研究嬰幼兒對於強烈情緒發展會建立一套處理方式，如積極避免、漠視會引 起強烈情緒的情境，並進行自我的安慰。研究發現除了嬰兒的先天氣質與受到照顧者對於情緒管理所提 供的協助外，應再重視與評估何者因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "世代效應對情緒管理的影響"
+        },
+        {
+          "key": "B",
+          "text": "政策對情緒管理的影響"
+        },
+        {
+          "key": "C",
+          "text": "同儕對情緒管理的期待"
+        },
+        {
+          "key": "D",
+          "text": "文化對情緒管理的期待"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q37",
+      "number": 37,
+      "stem": "Davies（2004）認為嬰幼兒會抱緊著一床毯子、玩具熊，或是填充玩偶來幫助他們處理父母／照顧者分離 或其他緊張的情況，這被認為是與照顧者關係的象徵，Davies 稱之為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "過渡性客體（transitional objects）"
+        },
+        {
+          "key": "B",
+          "text": "情緒的象徵（emotional symbolic）"
+        },
+        {
+          "key": "C",
+          "text": "互動的象徵（interactional symbolic）"
+        },
+        {
+          "key": "D",
+          "text": "互動的客體（interactional objects）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q38",
+      "number": 38,
+      "stem": "下列敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Labouvie-Vief（1994）認為成年前期的成人較能駕馭形式運思能力，以較客觀的方式解決問題，會有 比較務實的態度，在思考上更具彈性與多樣性"
+        },
+        {
+          "key": "B",
+          "text": "「選擇性優化」（selective optimization）是針對成年晚期的老人認知相關的理論之一，認為老人能選擇 重要的任務和活動相關的資訊，捨棄其他不重要的；並努力讓自己的技巧和優勢發揮到最大的效能"
+        },
+        {
+          "key": "C",
+          "text": "Vallant（1977）認為成年中期的重要課題之一在於意義的追尋，避免流於剛愎與停滯"
+        },
+        {
+          "key": "D",
+          "text": "Maas（1989）認為成年前期是開始思考他人福祉的階段，並且是具備實踐社會責任能力的階段"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q39",
+      "number": 39,
+      "stem": "「著重人格重新重組，著重智慧成就及自我省思，以獲得創生感（generativity）」是Erikson（1963）心 理社會發展理論觀點的那個時期？",
+      "options": [
+        {
+          "key": "A",
+          "text": "青少年期"
+        },
+        {
+          "key": "B",
+          "text": "成年前期"
+        },
+        {
+          "key": "C",
+          "text": "中年期"
+        },
+        {
+          "key": "D",
+          "text": "成年晚期"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0605:q40",
+      "number": 40,
+      "stem": "Castells（2002）主張任何的認同感都具有社會性或社會層面，都是社會建構而成。他將認同分為三種類 型，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正當性的認同（legitimation identity）"
+        },
+        {
+          "key": "B",
+          "text": "抵抗性認同（resistance identity）"
+        },
+        {
+          "key": "C",
+          "text": "情感性認同（emotion identity）"
+        },
+        {
+          "key": "D",
+          "text": "計畫性認同（project identity）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0605:S",
+      "manualPatch": false
+    }
+  ]
+}

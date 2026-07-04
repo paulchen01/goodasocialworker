@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:108110:c107:s0605",
+  "examInstanceId": "社工師:108110:c107",
+  "examTrack": "社工師",
+  "subject": "人類行為與社會環境",
+  "subjectCode": "0605",
+  "yearRoc": 108,
+  "examCode": "108110",
+  "examName": "108年第二次專技人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試、108年專技人員高等考試法醫師、語言治療師、聽力...",
+  "examAttempt": "第二次",
+  "categoryCode": "107",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108110&c=107&s=0605&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108110&c=107&s=0605&q=1",
+  "questionSourceFileId": "社工師:108110:c107:s0605:Q",
+  "answerSourceFileId": "社工師:108110:c107:s0605:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:108110:c107:s0605:q01",
+      "number": 1,
+      "stem": "根據皮亞傑（Piaget）的認知發展理論，「保留概念」是那個階段發展的特徵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "具體運思期"
+        },
+        {
+          "key": "B",
+          "text": "感覺動作期"
+        },
+        {
+          "key": "C",
+          "text": "準備運思期"
+        },
+        {
+          "key": "D",
+          "text": "形式運思期"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q02",
+      "number": 2,
+      "stem": "佛洛伊德（Freud）主張人格結構有三個組成的要素，其中那個要素是人類心理動力的能源儲存 庫，亦是本能的總匯；其思考能力侷限於初級思維過程？",
+      "options": [
+        {
+          "key": "A",
+          "text": "超我"
+        },
+        {
+          "key": "B",
+          "text": "本我"
+        },
+        {
+          "key": "C",
+          "text": "自我"
+        },
+        {
+          "key": "D",
+          "text": "利他"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q03",
+      "number": 3,
+      "stem": "艾力克森（Erikson）的親密感概念是成年期關係發展的核心，它包含三種元素。下列何者不是親 密感的主要因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "同理心"
+        },
+        {
+          "key": "B",
+          "text": "和另一個人相互依存"
+        },
+        {
+          "key": "C",
+          "text": "自我表露"
+        },
+        {
+          "key": "D",
+          "text": "濃情密意"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q04",
+      "number": 4,
+      "stem": "下列何者不是「ABC-X 家庭壓力模式」中所稱「B：家庭擁有的資源或家庭優勢（the family resources or strength）」的概念內涵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "溝通能力"
+        },
+        {
+          "key": "B",
+          "text": "凝聚力"
+        },
+        {
+          "key": "C",
+          "text": "家庭復原力"
+        },
+        {
+          "key": "D",
+          "text": "家庭系統"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q05",
+      "number": 5,
+      "stem": "下列有關「主幹家庭（stem family）」內涵的敘述，何者最正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "包括祖父母、父母及其子女"
+        },
+        {
+          "key": "B",
+          "text": "包括祖父母、父母及其子女以及其他親屬包括旁系親屬"
+        },
+        {
+          "key": "C",
+          "text": "又稱為小家庭，包含已婚的夫妻與子女"
+        },
+        {
+          "key": "D",
+          "text": "是由兩個或兩個以上的小家庭與其共同父母所組成但不包括旁系親屬"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q06",
+      "number": 6,
+      "stem": "下列對產後憂鬱症的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "產後憂鬱是自然現象"
+        },
+        {
+          "key": "B",
+          "text": "產後憂鬱和荷爾蒙失調或過度疲勞有關"
+        },
+        {
+          "key": "C",
+          "text": "產後憂鬱有時會在幾天或幾週內消失"
+        },
+        {
+          "key": "D",
+          "text": "產後憂鬱會影響母親與嬰兒的依附關係"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q07",
+      "number": 7,
+      "stem": "重視人類基本需求、合理滿足個體所期待的需求、希望個體發揮功能對社會有所貢獻。以上論點 比較傾向下列那類社會工作的概念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會病理"
+        },
+        {
+          "key": "B",
+          "text": "社會功能"
+        },
+        {
+          "key": "C",
+          "text": "社會階層"
+        },
+        {
+          "key": "D",
+          "text": "社會選擇"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q08",
+      "number": 8,
+      "stem": "把老人群體所受各種社會不平等歸因於他們喪失了對社會生產力和生產關係的控制，這種說法比 較傾向下列何種論點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "結構功能論"
+        },
+        {
+          "key": "B",
+          "text": "社會衝突論"
+        },
+        {
+          "key": "C",
+          "text": "社會階層說"
+        },
+        {
+          "key": "D",
+          "text": "符號互動論"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q09",
+      "number": 9,
+      "stem": "在封閉體系中，沒有任何事物能永久保存，它會因能量遞減最終趨向死亡的敘述，比較傾向下列 那項概念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "負向回饋（negative feedback）"
+        },
+        {
+          "key": "B",
+          "text": "介面（interface）"
+        },
+        {
+          "key": "C",
+          "text": "熵（entropy）"
+        },
+        {
+          "key": "D",
+          "text": "反熵作用（negative entropy）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q10",
+      "number": 10,
+      "stem": "有效運用棲地（habitat）潛在能量以達有用目的之過程，在「生態論」中稱之為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "適應（adaptation）"
+        },
+        {
+          "key": "B",
+          "text": "利基（niche）"
+        },
+        {
+          "key": "C",
+          "text": "共生（symbiotic）"
+        },
+        {
+          "key": "D",
+          "text": "支配（dominance）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q11",
+      "number": 11,
+      "stem": "酒精對胎兒發育有綜合性的影響。患有「胎兒酒精症候群」的新生兒，到了嬰幼兒期時會出現某 些現象。下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "肌肉協調不良"
+        },
+        {
+          "key": "B",
+          "text": "智障"
+        },
+        {
+          "key": "C",
+          "text": "衝動"
+        },
+        {
+          "key": "D",
+          "text": "注意力較差"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q12",
+      "number": 12,
+      "stem": "下列那一個不是影響青少年性行為與未婚懷孕的常見因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "有性的動機"
+        },
+        {
+          "key": "B",
+          "text": "規範的期待"
+        },
+        {
+          "key": "C",
+          "text": "偏差與問題行為"
+        },
+        {
+          "key": "D",
+          "text": "人緣好"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q13",
+      "number": 13,
+      "stem": "全球多數地區人口在老化中，有關老年期特質描述的理論也越來越豐富。下列組合中，那一個包 括了不屬於老年特質描述的理論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "活動理論、撤退理論、持續理論"
+        },
+        {
+          "key": "B",
+          "text": "成人發展理論、成功老化理論、活動理論"
+        },
+        {
+          "key": "C",
+          "text": "成功老化理論、活動理論、社會情緒選擇論"
+        },
+        {
+          "key": "D",
+          "text": "持續理論、成功老化理論、老年超越論"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q14",
+      "number": 14,
+      "stem": "人類在幼兒期時逐漸從互動過程中學會控制與管理情緒的技巧。下列那一種情緒不是幼兒期的常 見情緒？",
+      "options": [
+        {
+          "key": "A",
+          "text": "憤怒"
+        },
+        {
+          "key": "B",
+          "text": "恐懼"
+        },
+        {
+          "key": "C",
+          "text": "攻擊"
+        },
+        {
+          "key": "D",
+          "text": "同理心"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q15",
+      "number": 15,
+      "stem": "依據美國食品藥物管理局，藥物等級有A、B、C、D、及X 五類，下列選項何者是懷孕期間孕 婦可服用的藥物？",
+      "options": [
+        {
+          "key": "A",
+          "text": "B、C"
+        },
+        {
+          "key": "B",
+          "text": "C、D"
+        },
+        {
+          "key": "C",
+          "text": "D、X"
+        },
+        {
+          "key": "D",
+          "text": "A、B"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q16",
+      "number": 16,
+      "stem": "Sternberg（1988）的愛情三角理論中，愛情三元素是：",
+      "options": [
+        {
+          "key": "A",
+          "text": "熱情、承諾、親密"
+        },
+        {
+          "key": "B",
+          "text": "承諾、親密、性"
+        },
+        {
+          "key": "C",
+          "text": "熱情、承諾、忠誠"
+        },
+        {
+          "key": "D",
+          "text": "熱情、承諾、性"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q17",
+      "number": 17,
+      "stem": "不同類型的管教模式對兒童會產生不同的影響。其中，「寬寵縱容」的管教方式是指？",
+      "options": [
+        {
+          "key": "A",
+          "text": "給予很多自由和愛，很少要求"
+        },
+        {
+          "key": "B",
+          "text": "介入兒童的生活，允許自由表達"
+        },
+        {
+          "key": "C",
+          "text": "接納與鼓勵，回應需求"
+        },
+        {
+          "key": "D",
+          "text": "控制與懲罰"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q18",
+      "number": 18,
+      "stem": "老人生命發展的階段任務是「統整對絕望」，其中主要影響因素是智慧。下列對於「智慧」的敘 述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在生活與人際互動中所累積的知識"
+        },
+        {
+          "key": "B",
+          "text": "可以維持自我、人際的平衡"
+        },
+        {
+          "key": "C",
+          "text": "自我凋零，越來越無助"
+        },
+        {
+          "key": "D",
+          "text": "看見他人的需求與觀點"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q19",
+      "number": 19,
+      "stem": "性病（Sexually Transmitted Disease, STD）是一種因性行為而導致的疾病。下列有關「梅毒」症 狀的敘述，那一項是最正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "泌尿道、口腔、直腸潰瘍"
+        },
+        {
+          "key": "B",
+          "text": "陰莖或陰道有異常分泌物"
+        },
+        {
+          "key": "C",
+          "text": "生殖器或肛門搔癢或刺痛"
+        },
+        {
+          "key": "D",
+          "text": "排尿灼熱感"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q20",
+      "number": 20,
+      "stem": "國內離婚率不斷增加，對離婚者而言，需要調適的地方很多，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "重新定義自己轉變為單身"
+        },
+        {
+          "key": "B",
+          "text": "重新確認與前段配偶的相處之道"
+        },
+        {
+          "key": "C",
+          "text": "如有子女監護權，不必考量經濟壓力"
+        },
+        {
+          "key": "D",
+          "text": "面臨孤單與寂寞的情境"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q21",
+      "number": 21,
+      "stem": "近年來，青少年參與幫派的事件時有耳聞。依據Huff（2001）的觀點，下列敘述有關青少年是 否參與幫派的參考指標，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "經常深夜不歸"
+        },
+        {
+          "key": "B",
+          "text": "成員經常會有很強的社會順從"
+        },
+        {
+          "key": "C",
+          "text": "經常使用某一種特定的符號或圖案"
+        },
+        {
+          "key": "D",
+          "text": "成員可以掌握某個區域，或一些在地青少年供差遣"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q22",
+      "number": 22,
+      "stem": "有關「中年危機」的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個體評估與反思生命經驗，嘗試解決理想與現實之間的差異"
+        },
+        {
+          "key": "B",
+          "text": "中年危機是中年期普遍的經驗"
+        },
+        {
+          "key": "C",
+          "text": "個體感受老化，體力不如以往"
+        },
+        {
+          "key": "D",
+          "text": "個體質疑過往生命歷程的意義性"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q23",
+      "number": 23,
+      "stem": "遊戲對三到五歲幼兒發展不可或缺，下列那一項不常見於幼兒的遊戲中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會角色扮演，模仿身邊成人的行為"
+        },
+        {
+          "key": "B",
+          "text": "練習身體發育所需的大小肢體動作"
+        },
+        {
+          "key": "C",
+          "text": "玩規則性的遊戲"
+        },
+        {
+          "key": "D",
+          "text": "從遊戲中獲得自主與掌控感"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q24",
+      "number": 24,
+      "stem": "下列對自殘的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自殘常常是為了降低心理壓力"
+        },
+        {
+          "key": "B",
+          "text": "自殘背後大多為認知的議題"
+        },
+        {
+          "key": "C",
+          "text": "自殘通常會秘密進行"
+        },
+        {
+          "key": "D",
+          "text": "自殘能獲得自我掌控的感覺"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q25",
+      "number": 25,
+      "stem": "下列何者是大部分六到八歲兒童對朋友的描述？",
+      "options": [
+        {
+          "key": "A",
+          "text": "朋友就是一起做一件事"
+        },
+        {
+          "key": "B",
+          "text": "朋友是相互承諾的關係"
+        },
+        {
+          "key": "C",
+          "text": "朋友之間有朋黨之別"
+        },
+        {
+          "key": "D",
+          "text": "朋友最了解我的心事"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q26",
+      "number": 26,
+      "stem": "下列何者符合對「三明治世代」的敘述？",
+      "options": [
+        {
+          "key": "A",
+          "text": "逐漸脫離身為父母的主要角色，開始對自己的生命歷程重新規劃"
+        },
+        {
+          "key": "B",
+          "text": "回顧與反思，個人嘗試統整生命過程，有接納也有遺憾"
+        },
+        {
+          "key": "C",
+          "text": "從自我關注轉移到親密關係的建立"
+        },
+        {
+          "key": "D",
+          "text": "發展議題是經濟與決策獨立"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q27",
+      "number": 27,
+      "stem": "隨著長者的體力衰退與失能，自主性減少、依賴性增加，長者受到虐待的風險也有升高的趨勢， 下列那一項有關老人虐待的敘述錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "老人虐待可能發生在家裡或機構"
+        },
+        {
+          "key": "B",
+          "text": "老人虐待的形式包含身體、情緒、財務和性虐待"
+        },
+        {
+          "key": "C",
+          "text": "老人虐待可能是有意或無意"
+        },
+        {
+          "key": "D",
+          "text": "照顧壓力大和老人虐待幾乎可劃上等號"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q28",
+      "number": 28,
+      "stem": "有關性騷擾（sexual harassment）的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是指與性慾有關且不受歡迎的行為"
+        },
+        {
+          "key": "B",
+          "text": "涉及一個有權勢的人對於其權力濫用的結果"
+        },
+        {
+          "key": "C",
+          "text": "最常發生的地點通常是男性工作的職場"
+        },
+        {
+          "key": "D",
+          "text": "不限於性關係的發生，也包括與性慾有關的言行舉止"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q29",
+      "number": 29,
+      "stem": "女性在職場上所遭遇的晉升阻礙，過程相當微妙，卻無法突破。「即使有同等的工作經驗與技術， 女性卻遠不及男性可在該行業中爬到頂端或持有股份，她們是被無形的籓籬阻擋了。」這樣的籓 籬稱之為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "玻璃天花板（glass ceiling）"
+        },
+        {
+          "key": "B",
+          "text": "泥濘地板（sticky floor）"
+        },
+        {
+          "key": "C",
+          "text": "玻璃牆（glass walls）"
+        },
+        {
+          "key": "D",
+          "text": "玻璃自動扶梯（glass escalator）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q30",
+      "number": 30,
+      "stem": "有關符號互動論的性慾基本主張，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "性規範透過社會互動與信仰之建構而呈現"
+        },
+        {
+          "key": "B",
+          "text": "性慾認同是在習得社會創造的性腳本之同時，也被社會所建構"
+        },
+        {
+          "key": "C",
+          "text": "隨著時間過去，當人們建構起新信仰與慣例時，性價值體系變動也可能逐漸形成"
+        },
+        {
+          "key": "D",
+          "text": "性慾是社會中的權力關係與經濟不平等的一環，而權力則是個人或團體影響他人行為之能力"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q31",
+      "number": 31,
+      "stem": "有關功能論的種族中心主義（ethnocentrism）之負向功能敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "易使文化僵化，造成文化孤立"
+        },
+        {
+          "key": "B",
+          "text": "易造成對其他種族的偏見與歧視"
+        },
+        {
+          "key": "C",
+          "text": "易造成種族衝突或戰爭"
+        },
+        {
+          "key": "D",
+          "text": "其產生是基於貶低其他族群，而讓他人無法獲得公平機會"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q32",
+      "number": 32,
+      "stem": "「一種對於文化差異的認知與尊重。在重視不同次團體的傳統時，它也讓大多數主流文化能被社 會所共享。」這樣的敘述指涉那一個概念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "同化"
+        },
+        {
+          "key": "B",
+          "text": "多元文化主義"
+        },
+        {
+          "key": "C",
+          "text": "種族中心主義"
+        },
+        {
+          "key": "D",
+          "text": "文化相對主義"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q33",
+      "number": 33,
+      "stem": "有關族群融合的概念之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "或稱族群同化"
+        },
+        {
+          "key": "B",
+          "text": "是指兩個或兩個以上的族群接觸時所產生的團體界限降低之過程"
+        },
+        {
+          "key": "C",
+          "text": "是族群接觸時的一種可能性，也是不可避免的長程結果"
+        },
+        {
+          "key": "D",
+          "text": "當族群融合程度達到最高點時，將難以區分原先不同的族群界限"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q34",
+      "number": 34,
+      "stem": "韋伯（Max Weber）採取多面向角度，將階級概念區分成三個不同但關聯的要素，這三個要素不 包括那一個要素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "經濟地位或財富"
+        },
+        {
+          "key": "B",
+          "text": "政治地位或權力"
+        },
+        {
+          "key": "C",
+          "text": "文化地位或品德"
+        },
+        {
+          "key": "D",
+          "text": "社會地位或聲望"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q35",
+      "number": 35,
+      "stem": "功能論強調：階層化是一種社會整合的力量，社會不平等現象可說是有助於滿足社會的某些重要 需求或要件。換言之，功能論解釋社會階層的主要論點在那一個觀念上？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不平等報酬的需要"
+        },
+        {
+          "key": "B",
+          "text": "不努力工作的需要"
+        },
+        {
+          "key": "C",
+          "text": "合理社會正義的需要"
+        },
+        {
+          "key": "D",
+          "text": "合理社會福利的需要"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q36",
+      "number": 36,
+      "stem": "有關衝突論者對貧窮的看法，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "貧窮之所以存在，是當權者希望貧窮存在"
+        },
+        {
+          "key": "B",
+          "text": "貧窮是社會必要之惡，因為貧窮具有維持社會運作之功能"
+        },
+        {
+          "key": "C",
+          "text": "貧窮之所以發生，是因為社會的某些團體從他人的貧窮狀態中獲利"
+        },
+        {
+          "key": "D",
+          "text": "只有當某些團體體認到資源分配不公，應改變現狀時，貧窮才會變成社會問題"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q37",
+      "number": 37,
+      "stem": "在受孕、懷孕與分娩階段，社會工作者必須理解針對某些特殊境遇父母人口群來說，風險存在於 人與環境的交互作用總體結構之中。不包含下列那個問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "孕婦藥物濫用"
+        },
+        {
+          "key": "B",
+          "text": "孕婦飲食失調"
+        },
+        {
+          "key": "C",
+          "text": "孕婦產後工作升遷"
+        },
+        {
+          "key": "D",
+          "text": "孕婦為受刑者"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q38",
+      "number": 38,
+      "stem": "當發生家庭暴力、性侵害、兒少、老人、身障等保護問題的家庭，稱為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "一般家庭"
+        },
+        {
+          "key": "B",
+          "text": "危機家庭"
+        },
+        {
+          "key": "C",
+          "text": "脆弱家庭"
+        },
+        {
+          "key": "D",
+          "text": "單親家庭"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q39",
+      "number": 39,
+      "stem": "一般而言，步入中年期的家庭，有不同的發展任務，包含：家庭管理、為人父母、培育婚姻關係、 適應離家期。那一項任務是首要任務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭管理"
+        },
+        {
+          "key": "B",
+          "text": "為人父母"
+        },
+        {
+          "key": "C",
+          "text": "適應離家期"
+        },
+        {
+          "key": "D",
+          "text": "培育婚姻關係"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:108110:c107:s0605:q40",
+      "number": 40,
+      "stem": "那一種服務方案，針對學齡兒童家庭強調此時此地的現況，目的不在治療家庭，而在增強家庭成 員解決風險與問題的能力，以促成家庭重建？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個別化家庭服務計畫（Individualized Family Service Plan，IFSP）"
+        },
+        {
+          "key": "B",
+          "text": "密集性的家庭維存服務（Intensive Family Preservation Service，IFPS）"
+        },
+        {
+          "key": "C",
+          "text": "社區兒童行動方案（Community Action Project for Children，CAPC）"
+        },
+        {
+          "key": "D",
+          "text": "整體性家庭寄養服務（Holistic Family Foster Care）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:108110:c107:s0605:Q",
+      "answerSourceFileId": "社工師:108110:c107:s0605:S",
+      "manualPatch": false
+    }
+  ]
+}

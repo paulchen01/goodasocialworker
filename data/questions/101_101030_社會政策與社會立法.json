@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:101030:c902:s0802",
+  "examInstanceId": "社工師:101030:c902",
+  "examTrack": "社工師",
+  "subject": "社會政策與社會立法",
+  "subjectCode": "0802",
+  "yearRoc": 101,
+  "examCode": "101030",
+  "examName": "101年第一次專技醫師分試中醫師營養師心理師藥師醫事檢驗師護理師護士社會工作師考試",
+  "examAttempt": "第一次",
+  "categoryCode": "902",
+  "categoryName": "高考社工師_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101030&c=902&s=0802&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101030&c=902&s=0802&q=1",
+  "questionSourceFileId": "社工師:101030:c902:s0802:Q",
+  "answerSourceFileId": "社工師:101030:c902:s0802:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:101030:c902:s0802:q01",
+      "number": 1,
+      "stem": "依據民國100 年12 月修定的老年農民福利津貼暫行條例，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自民國101 年1 月1 日起調整津貼為每月7000 元"
+        },
+        {
+          "key": "B",
+          "text": "其後每三年參照消費者物價指數調整"
+        },
+        {
+          "key": "C",
+          "text": "102 年1 月1 日起始申請之老年農民有排富條款之規定"
+        },
+        {
+          "key": "D",
+          "text": "新修正條文所增加之津貼經費由中央全額負擔"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q02",
+      "number": 2,
+      "stem": "下列有關英、美兩國社會政策發展的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "英國於1834 年制定新濟貧法"
+        },
+        {
+          "key": "B",
+          "text": "美國於1930 年制定社會安全法"
+        },
+        {
+          "key": "C",
+          "text": "英國於1942 年出版貝佛里奇報告"
+        },
+        {
+          "key": "D",
+          "text": "美國於1996 年制定個人責任與工作機會調和法"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q03",
+      "number": 3,
+      "stem": "下列關於社會福利發展解釋的論點，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會良知論強調利己主義"
+        },
+        {
+          "key": "B",
+          "text": "工業主義邏輯強調工業化發展為決定因素"
+        },
+        {
+          "key": "C",
+          "text": "公民權理論強調20 世紀為社會權的發展"
+        },
+        {
+          "key": "D",
+          "text": "馬克斯理論強調社會控制觀點"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q04",
+      "number": 4,
+      "stem": "下列何者非社會民主觀點的福利主張？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會福利可以促進社會整合"
+        },
+        {
+          "key": "B",
+          "text": "對於選擇式福利持高度懷疑"
+        },
+        {
+          "key": "C",
+          "text": "資本主義是可以改革的"
+        },
+        {
+          "key": "D",
+          "text": "社會福利會產生福利依賴"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q05",
+      "number": 5,
+      "stem": "關於個人主義與集體主義的觀點，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人主義主張機會平等，集體主義主張結果平等"
+        },
+        {
+          "key": "B",
+          "text": "個人主義主張積極自由，集體主義主張消極自由"
+        },
+        {
+          "key": "C",
+          "text": "個人主義強調自助，集體主義強調互助"
+        },
+        {
+          "key": "D",
+          "text": "個人主義強調責任，集體主義強調權利"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q06",
+      "number": 6,
+      "stem": "Esping-Andersen 對於福利體制的研究，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "以去家庭化及階層化為劃分標準"
+        },
+        {
+          "key": "B",
+          "text": "瑞典屬於保守統合主義體制"
+        },
+        {
+          "key": "C",
+          "text": "德國屬於社會民主體制"
+        },
+        {
+          "key": "D",
+          "text": "美國屬於自由主義體制"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q07",
+      "number": 7,
+      "stem": "下列那一理論主張政策的制定是各利益團體相互競逐之後的結果？",
+      "options": [
+        {
+          "key": "A",
+          "text": "多元論"
+        },
+        {
+          "key": "B",
+          "text": "統合論"
+        },
+        {
+          "key": "C",
+          "text": "菁英論"
+        },
+        {
+          "key": "D",
+          "text": "國家中心論"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q08",
+      "number": 8,
+      "stem": "社會政策強調每個人均擁有與其他人相同的基本權利的原則為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資源重分配原則"
+        },
+        {
+          "key": "B",
+          "text": "保障最低生活水準原則"
+        },
+        {
+          "key": "C",
+          "text": "國民自立原則"
+        },
+        {
+          "key": "D",
+          "text": "社會正義原則"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q09",
+      "number": 9,
+      "stem": "強調公共政策係經由與政策議題有利害關係之人或是對於此議題有興趣之人，並且以各種方式參與討論 的模式，是下列那一模式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "菁英主義模式"
+        },
+        {
+          "key": "B",
+          "text": "領導者模式"
+        },
+        {
+          "key": "C",
+          "text": "公民參與模式"
+        },
+        {
+          "key": "D",
+          "text": "團體模式"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q10",
+      "number": 10,
+      "stem": "強調當風險事故發生時，無論實際上是否有此需求，被保險人即可獲得保障，這是那一項的社會保險原 則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "強制原則"
+        },
+        {
+          "key": "B",
+          "text": "保障基本生活水準原則"
+        },
+        {
+          "key": "C",
+          "text": "所得重分配原則"
+        },
+        {
+          "key": "D",
+          "text": "給付假定需要原則"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q11",
+      "number": 11,
+      "stem": "下列何者非為規劃社會救助制度應該要注意的原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "維持基本生活原則"
+        },
+        {
+          "key": "B",
+          "text": "需經家庭資產調查原則"
+        },
+        {
+          "key": "C",
+          "text": "規避風險原則"
+        },
+        {
+          "key": "D",
+          "text": "補充性原則"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q12",
+      "number": 12,
+      "stem": "下列何者係為社會保險所指涉的概念內涵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "好康享有免費的福利"
+        },
+        {
+          "key": "B",
+          "text": "先盡義務才能得權利"
+        },
+        {
+          "key": "C",
+          "text": "以工代賑來換取濟助"
+        },
+        {
+          "key": "D",
+          "text": "服務能溫暖你我的心"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q13",
+      "number": 13,
+      "stem": "強調立基於經濟效益觀點以尋求政策效益上之最大淨值成效的社會政策制定模式為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "漸進途徑（incremental approach）"
+        },
+        {
+          "key": "B",
+          "text": "政治途徑（political approach）"
+        },
+        {
+          "key": "C",
+          "text": "隨機途徑（random approach）"
+        },
+        {
+          "key": "D",
+          "text": "理性途徑（rational approach）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q14",
+      "number": 14,
+      "stem": "下列何者係資本主義作為一種右派意識型態的概念內涵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "去商品化"
+        },
+        {
+          "key": "B",
+          "text": "集體安全"
+        },
+        {
+          "key": "C",
+          "text": "福利科層化"
+        },
+        {
+          "key": "D",
+          "text": "功績取向"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q15",
+      "number": 15,
+      "stem": "社會排除（social exclusion）一詞的概念內涵，並不包括下列那一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "它指的是所得的單一面向"
+        },
+        {
+          "key": "B",
+          "text": "它指的是各種加深排除的因素"
+        },
+        {
+          "key": "C",
+          "text": "它指的是被排除人口群的類別"
+        },
+        {
+          "key": "D",
+          "text": "它指的是排除的心理、社會影響"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q16",
+      "number": 16,
+      "stem": "根據專業標準，特別是由外界的觀察者或是專家所進行界定的需求，是下列那一項需求？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自覺性需求（felt need）"
+        },
+        {
+          "key": "B",
+          "text": "表達性需求（expressed need）"
+        },
+        {
+          "key": "C",
+          "text": "規範性需求（normative need）"
+        },
+        {
+          "key": "D",
+          "text": "比較性需求（comparative need）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q17",
+      "number": 17,
+      "stem": "兒童及少年福利與權益保障法規定：法院認可兒童及少年之收養前，在其所得採行的各項措施裡，並不 包括以下的那一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "命收養人與兒童及少年先行共同生活一段期間"
+        },
+        {
+          "key": "B",
+          "text": "命收養人接受親職準備教育課程"
+        },
+        {
+          "key": "C",
+          "text": "命收養人接受精神鑑定"
+        },
+        {
+          "key": "D",
+          "text": "命收養人繳交收養保證金"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q18",
+      "number": 18,
+      "stem": "下列何者不屬於性別平等政策綱領三大核心理念之一？",
+      "options": [
+        {
+          "key": "A",
+          "text": "性別平等是保障社會公平正義的核心價值"
+        },
+        {
+          "key": "B",
+          "text": "婦女權益的提升是促進性別平等的首要任務"
+        },
+        {
+          "key": "C",
+          "text": "性別主流化是實現施政以人為本的有效途徑"
+        },
+        {
+          "key": "D",
+          "text": "參與式民主是促進兩性共治共決的實踐策略"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q19",
+      "number": 19,
+      "stem": "兒童及少年福利與權益保障法規定：主管機關應以首長為召集人，邀集兒童及少年福利相關學者或專家 、民間相關機構、團體代表及目的事業主管機關代表，協調、研究、審議、諮詢及推動兒童及少年福利 政策，至於，前項兒童及少年福利相關學者、專家及民間相關機構、團體代表不得少於二分之一，而單 一性別不得少於：",
+      "options": [
+        {
+          "key": "A",
+          "text": "二分之一"
+        },
+        {
+          "key": "B",
+          "text": "三分之一"
+        },
+        {
+          "key": "C",
+          "text": "四分之一"
+        },
+        {
+          "key": "D",
+          "text": "五分之一"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q20",
+      "number": 20,
+      "stem": "兒童及少年福利與權益保障法規定：居家式托育服務提供者應年滿二十歲，並且在所具備的相關資格裡 ，並不包括那一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "取得保母人員技術士證"
+        },
+        {
+          "key": "B",
+          "text": "高級中等以上學校幼兒保育、家政、護理相關學程、科、系、所畢業"
+        },
+        {
+          "key": "C",
+          "text": "三年以上居家式托育服務的工作經驗"
+        },
+        {
+          "key": "D",
+          "text": "修畢保母專業訓練課程，並領有結業證書"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q21",
+      "number": 21,
+      "stem": "兒童及少年福利與權益保障法裡規定：主管機關應每幾年對兒童及少年身心發展、社會參與、生活及需 求現況進行調查、統計及分析，並公布結果？",
+      "options": [
+        {
+          "key": "A",
+          "text": "每四年"
+        },
+        {
+          "key": "B",
+          "text": "每五年"
+        },
+        {
+          "key": "C",
+          "text": "每六年"
+        },
+        {
+          "key": "D",
+          "text": "每十年"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q22",
+      "number": 22,
+      "stem": "老人福利法規定對於老人的相關照顧服務，並不包括下列那一項的辦理原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個別差異"
+        },
+        {
+          "key": "B",
+          "text": "全人照顧"
+        },
+        {
+          "key": "C",
+          "text": "在地老化"
+        },
+        {
+          "key": "D",
+          "text": "多元連續服務"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q23",
+      "number": 23,
+      "stem": "依據老人福利法規定：老人保護的責任通報人員，並不包括下列那一相關人員？",
+      "options": [
+        {
+          "key": "A",
+          "text": "村（里）長與村（里）幹事"
+        },
+        {
+          "key": "B",
+          "text": "醫事人員"
+        },
+        {
+          "key": "C",
+          "text": "司法人員"
+        },
+        {
+          "key": "D",
+          "text": "教育人員"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q24",
+      "number": 24,
+      "stem": "我國最早施行年金給付的社會保險法規為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "勞工保險條例"
+        },
+        {
+          "key": "B",
+          "text": "軍人保險條例"
+        },
+        {
+          "key": "C",
+          "text": "公教人員保險法"
+        },
+        {
+          "key": "D",
+          "text": "國民年金法"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q25",
+      "number": 25,
+      "stem": "全民健康保險被保險人所屬投保單位給付全年獎金累計逾當月投保金額幾倍以上部分必須計收補充保險 費？",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 倍"
+        },
+        {
+          "key": "B",
+          "text": "4 倍"
+        },
+        {
+          "key": "C",
+          "text": "5 倍"
+        },
+        {
+          "key": "D",
+          "text": "6 倍"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q26",
+      "number": 26,
+      "stem": "下列何者不屬於就業保險的給付？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全民健康保險費補助"
+        },
+        {
+          "key": "B",
+          "text": "國民年金保險費補助"
+        },
+        {
+          "key": "C",
+          "text": "職業訓練生活津貼"
+        },
+        {
+          "key": "D",
+          "text": "提早就業獎助津貼"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q27",
+      "number": 27,
+      "stem": "關於發放幼兒教育券的實施，下列規定何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "以年滿五足歲未滿六足歲的幼兒為對象"
+        },
+        {
+          "key": "B",
+          "text": "就讀公立幼稚園之幼兒不得使用"
+        },
+        {
+          "key": "C",
+          "text": "補助金額分兩學期發放"
+        },
+        {
+          "key": "D",
+          "text": "每人每一學期補助一萬元"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q28",
+      "number": 28,
+      "stem": "社會救助法中關於生活扶助的規定，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主管機關應於受領申請生活扶助五日內派員調查"
+        },
+        {
+          "key": "B",
+          "text": "申請生活扶助經核准者溯自提出申請之當月生效"
+        },
+        {
+          "key": "C",
+          "text": "低收入戶成員有懷胎滿三個月者得增加補助金額"
+        },
+        {
+          "key": "D",
+          "text": "主管機關應至少每五年辦理低收入戶及中低收入戶生活狀況調查"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q29",
+      "number": 29,
+      "stem": "勞工保險老年年金給付之平均月投保薪資採何方式計算？",
+      "options": [
+        {
+          "key": "A",
+          "text": "被保險人加保期間最高60 個月之月投保薪資平均計算"
+        },
+        {
+          "key": "B",
+          "text": "被保險人退保當月起前3 年之月投保薪資平均計算"
+        },
+        {
+          "key": "C",
+          "text": "被保險人退保當月起前60 個月之月投保薪資平均計算"
+        },
+        {
+          "key": "D",
+          "text": "被保險人加保期間最高3 年之月投保薪資平均計算"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q30",
+      "number": 30,
+      "stem": "依據國民年金法規定，自民國101 年1 月1 日起身心障礙基本保證年金之金額為每人每月：",
+      "options": [
+        {
+          "key": "A",
+          "text": "3,500 元"
+        },
+        {
+          "key": "B",
+          "text": "4,000 元"
+        },
+        {
+          "key": "C",
+          "text": "4,500 元"
+        },
+        {
+          "key": "D",
+          "text": "4,700 元"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q31",
+      "number": 31,
+      "stem": "下列何者非專科社會工作師之分科：",
+      "options": [
+        {
+          "key": "A",
+          "text": "醫務"
+        },
+        {
+          "key": "B",
+          "text": "心理衛生"
+        },
+        {
+          "key": "C",
+          "text": "老人"
+        },
+        {
+          "key": "D",
+          "text": "保護工作"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q32",
+      "number": 32,
+      "stem": "下列關於請領中低收入老人特別照顧津貼的規定，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "受照顧者其失能程度經評估為極重度以上"
+        },
+        {
+          "key": "B",
+          "text": "受照顧者未接受居家服務"
+        },
+        {
+          "key": "C",
+          "text": "照顧者未從事全時工作"
+        },
+        {
+          "key": "D",
+          "text": "照顧者與受照顧者必須實際居住同一直轄市、縣（市）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q33",
+      "number": 33,
+      "stem": "下列何法的中央主管機關非內政部？",
+      "options": [
+        {
+          "key": "A",
+          "text": "特殊境遇家庭扶助條例"
+        },
+        {
+          "key": "B",
+          "text": "性騷擾防治法"
+        },
+        {
+          "key": "C",
+          "text": "性別工作平等法"
+        },
+        {
+          "key": "D",
+          "text": "農民健康保險條例"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q34",
+      "number": 34,
+      "stem": "依據身心障礙者權益保障法規定：肢體障礙應歸類下列那一款的身體系統構造或功能，有損傷或不全導 致顯著偏離或喪失？",
+      "options": [
+        {
+          "key": "A",
+          "text": "循環、造血、免疫與呼吸系統構造及其功能"
+        },
+        {
+          "key": "B",
+          "text": "神經、肌肉、骨骼之移動相關構造及其功能"
+        },
+        {
+          "key": "C",
+          "text": "消化、新陳代謝與內分泌系統相關構造及其功能"
+        },
+        {
+          "key": "D",
+          "text": "涉及聲音與言語構造及其功能"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q35",
+      "number": 35,
+      "stem": "防暴三法依制定時間的先後順序排列為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "性侵害犯罪防治法、家庭暴力防治法、性騷擾防治法"
+        },
+        {
+          "key": "B",
+          "text": "性侵害犯罪防治法、性騷擾防治法、家庭暴力防治法"
+        },
+        {
+          "key": "C",
+          "text": "家庭暴力防治法、性侵害犯罪防治法、性騷擾防治法"
+        },
+        {
+          "key": "D",
+          "text": "家庭暴力防治法、性騷擾防治法、性侵害犯罪防治法"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q36",
+      "number": 36,
+      "stem": "下列有關公益彩券盈餘之分配規定，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盈餘百分之四十供國民年金"
+        },
+        {
+          "key": "B",
+          "text": "盈餘百分之五供全民健康保險準備"
+        },
+        {
+          "key": "C",
+          "text": "盈餘百分之五十供直轄市政府、縣（市）政府辦理社會救助支出"
+        },
+        {
+          "key": "D",
+          "text": "分配直轄市政府、縣（市）政府之盈餘依各直轄市、縣（市）公益彩券銷售金額比例分配"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q37",
+      "number": 37,
+      "stem": "兒童及少年福利與權益保障法新增何對象為兒童及少年保護義務通報人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "醫事人員"
+        },
+        {
+          "key": "B",
+          "text": "保育人員"
+        },
+        {
+          "key": "C",
+          "text": "村（里）幹事"
+        },
+        {
+          "key": "D",
+          "text": "司法人員"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q38",
+      "number": 38,
+      "stem": "下列那一項係為社會救助法裏的所得基準？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全國每人可支配所得平均數"
+        },
+        {
+          "key": "B",
+          "text": "全國每人可支配所得眾數"
+        },
+        {
+          "key": "C",
+          "text": "全國每人可支配所得中位數"
+        },
+        {
+          "key": "D",
+          "text": "全國每人可支配所得變異係數"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q39",
+      "number": 39,
+      "stem": "性別工作平等法規定：受僱者於其家庭成員預防接種、發生嚴重之疾病或其他重大事故須親自照顧時， 得請家庭照顧假；其請假日數併入事假計算，全年以幾日為限？",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 日"
+        },
+        {
+          "key": "B",
+          "text": "5 日"
+        },
+        {
+          "key": "C",
+          "text": "7 日"
+        },
+        {
+          "key": "D",
+          "text": "10 日"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:101030:c902:s0802:q40",
+      "number": 40,
+      "stem": "家庭暴力防治法所定家庭成員，並不包括下列那一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "現為或曾為三親等以內之旁系血親或旁系姻親"
+        },
+        {
+          "key": "B",
+          "text": "現有或曾有同居關係、家長家屬或家屬間關係者"
+        },
+        {
+          "key": "C",
+          "text": "配偶或前配偶"
+        },
+        {
+          "key": "D",
+          "text": "現為或曾為直系血親或直系姻親"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:101030:c902:s0802:Q",
+      "answerSourceFileId": "社工師:101030:c902:s0802:S",
+      "manualPatch": false
+    }
+  ]
+}

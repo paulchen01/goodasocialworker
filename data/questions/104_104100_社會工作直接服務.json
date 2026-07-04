@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:104100:c107:s0602",
+  "examInstanceId": "社工師:104100:c107",
+  "examTrack": "社工師",
+  "subject": "社會工作直接服務",
+  "subjectCode": "0602",
+  "yearRoc": 104,
+  "examCode": "104100",
+  "examName": "104年第二次專技中醫師分階段考試營養師心理師護理師社會工作師考試法醫師語言治療師聽力師牙體技術師考試",
+  "examAttempt": "第二次",
+  "categoryCode": "107",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104100&c=107&s=0602&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104100&c=107&s=0602&q=1",
+  "questionSourceFileId": "社工師:104100:c107:s0602:Q",
+  "answerSourceFileId": "社工師:104100:c107:s0602:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:104100:c107:s0602:q01",
+      "number": 1,
+      "stem": "社會工作者在助人過程中，可以透過下列何種方式來表達對案主的專注？",
+      "options": [
+        {
+          "key": "A",
+          "text": "非口語行為的生理專注、積極傾聽、適度沉默"
+        },
+        {
+          "key": "B",
+          "text": "非口語行為的生理專注、消極傾聽、沉默"
+        },
+        {
+          "key": "C",
+          "text": "非口語行為的生理專注、消極傾聽、不沉默"
+        },
+        {
+          "key": "D",
+          "text": "非口語行為的生理專注、積極傾聽、持續說明"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q02",
+      "number": 2,
+      "stem": "社會工作的價值觀，在實務中有其相互衝突的價值觀，麥克里德和梅耶（Mcleod & Meyer, 1967）歸納出 十組衝突價值，其中指出「社會工作重視個人的價值與尊嚴，而偏重於某些特殊需要者的問題；但是社 會其他人的福祉或社會團體的目標也不能忽視」。此是指下列何者的價值衝突？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人自由和社會控制的衝突"
+        },
+        {
+          "key": "B",
+          "text": "個別化對刻板化的衝突"
+        },
+        {
+          "key": "C",
+          "text": "個人自治對相互依賴的衝突"
+        },
+        {
+          "key": "D",
+          "text": "個人價值對體系目標的衝突"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q03",
+      "number": 3,
+      "stem": "下列何者是錯誤的結案指標？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主要問題已獲解決或趨穩定，案主同意結案"
+        },
+        {
+          "key": "B",
+          "text": "案主死亡"
+        },
+        {
+          "key": "C",
+          "text": "社會工作者要離職，無法繼續提供服務"
+        },
+        {
+          "key": "D",
+          "text": "案主及其家屬有能力自行解決問題"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q04",
+      "number": 4,
+      "stem": "社會工作倫理判斷的優先順序中，Lwenberg 與Dolgoff（1992, 2000）提出社會工作倫理抉擇七個原則， 依其優先順序排列，下列何者正確？①保護生命原則 ②隱私保密原則 ③真誠原則 ④最小傷害原則 ⑤差別平等原則 ⑥自主自由原則 ⑦生活品質原則",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③④⑤⑥⑦"
+        },
+        {
+          "key": "B",
+          "text": "①②④⑤⑥⑦③"
+        },
+        {
+          "key": "C",
+          "text": "①②④⑥⑦⑤③"
+        },
+        {
+          "key": "D",
+          "text": "①⑤⑥④⑦②③"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q05",
+      "number": 5,
+      "stem": "在團體工作初期階段，社會工作者的行為態度很重要。帕樂夫等人（Parloff, Waskow & Wolfe, 1978）認 為社會工作者在團體進行初期最主要的三個行為態度為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "同理（empathy）、真誠（genuineness）與控制（control）"
+        },
+        {
+          "key": "B",
+          "text": "同理（empathy）、自我揭露（self-disclosure）與控制（control）"
+        },
+        {
+          "key": "C",
+          "text": "控制（control）、自我揭露（self-disclosure）與溫暖（warmth）"
+        },
+        {
+          "key": "D",
+          "text": "同理（empathy）、真誠（genuineness）與溫暖（warmth）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q06",
+      "number": 6,
+      "stem": "對於暴力家庭的團體工作服務，可使用教育性團體來協助家庭配偶雙方解決問題。有關下列敘述，何者 不是此教育性團體之主要功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認知家庭暴力的發生是不合法與危險的"
+        },
+        {
+          "key": "B",
+          "text": "了解家庭暴力問題不是單獨產生的"
+        },
+        {
+          "key": "C",
+          "text": "避免討論家庭暴力"
+        },
+        {
+          "key": "D",
+          "text": "他們應為家庭暴力負責"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q07",
+      "number": 7,
+      "stem": "如果你是兒童少年保護的社會工作者，依海渥斯等人（Hepworth et al., 1997）指出，可以用那些指標來評 估兒童性虐待？①身體指標 ②情緒指標 ③人際指標 ④認知指標 ⑤行為指標 ⑥經濟指標",
+      "options": [
+        {
+          "key": "A",
+          "text": "僅①②③"
+        },
+        {
+          "key": "B",
+          "text": "僅④⑤⑥"
+        },
+        {
+          "key": "C",
+          "text": "①②③④⑤"
+        },
+        {
+          "key": "D",
+          "text": "②③④⑤⑥"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q08",
+      "number": 8,
+      "stem": "社會個案工作處遇計畫之擬定歷程，包含下列那四大步驟？",
+      "options": [
+        {
+          "key": "A",
+          "text": "擬定目標、需求預估、具體化目標、選擇介入系統"
+        },
+        {
+          "key": "B",
+          "text": "擬定目標、問題評估、具體化目標、介入焦點"
+        },
+        {
+          "key": "C",
+          "text": "擬定目標、問題診斷、具體化子目標、架構行動策略"
+        },
+        {
+          "key": "D",
+          "text": "擬定目標、具體化子目標、選擇介入之焦點系統、架構行動策略"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q09",
+      "number": 9,
+      "stem": "社會個案工作中，多面向預估的內涵應包括那四大系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家族系統、中介系統、外在系統、鉅視系統"
+        },
+        {
+          "key": "B",
+          "text": "案主系統、父母系統、手足系統、家族系統"
+        },
+        {
+          "key": "C",
+          "text": "案主系統、家庭系統、社區系統、其他生態系統"
+        },
+        {
+          "key": "D",
+          "text": "案主系統、鄰里系統、社區系統、其他生態系統"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q10",
+      "number": 10,
+      "stem": "下列那一學派或理論特別強調：社會工作者不應忽略或逃避助人過程中，常會發生的情感轉移與情感反 轉移現象，且要有目的之即時發覺和改變？",
+      "options": [
+        {
+          "key": "A",
+          "text": "診斷或動力學派"
+        },
+        {
+          "key": "B",
+          "text": "問題解決學派"
+        },
+        {
+          "key": "C",
+          "text": "功能學派"
+        },
+        {
+          "key": "D",
+          "text": "心理暨社會學派"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q11",
+      "number": 11,
+      "stem": "理想上，社會工作者都應扮演有效的助人者。下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "助人者應用相同態度與行為去影響所有案主"
+        },
+        {
+          "key": "B",
+          "text": "助人者對所有案主不會有預設的價值判斷"
+        },
+        {
+          "key": "C",
+          "text": "助人者能夠協助所有案主辨識自我挫敗的行為模式"
+        },
+        {
+          "key": "D",
+          "text": "助人者能讓所有案主對他們產生信任和信賴"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q12",
+      "number": 12,
+      "stem": "社會工作者要有效協助非自願的案主，可參考Trotter 所提出的整合模式，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正確的角色澄清"
+        },
+        {
+          "key": "B",
+          "text": "技巧地建立與案主的關係"
+        },
+        {
+          "key": "C",
+          "text": "示範與增強案主符合社會價值觀的言談與行動"
+        },
+        {
+          "key": "D",
+          "text": "要採用認知行為學派的模式，改變案主的認知與行為"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q13",
+      "number": 13,
+      "stem": "社會工作者需在擬定案主處遇計畫前，進行縝密的預估（assessment）。好的預估將使社會工作處遇事半 功倍。下列何者是錯誤的預估內涵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "判斷是預估的重要歷程"
+        },
+        {
+          "key": "B",
+          "text": "強調並找出案主需要輔導的缺點"
+        },
+        {
+          "key": "C",
+          "text": "預估需要「了解案主及思考處遇計畫」並重"
+        },
+        {
+          "key": "D",
+          "text": "預估是持續性的歷程"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q14",
+      "number": 14,
+      "stem": "下列何者敘述並非是好的社會工作處遇計畫該有的考慮？",
+      "options": [
+        {
+          "key": "A",
+          "text": "案主應參與擬定計畫的過程"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者是擬定計畫的知識、技術和資源專家"
+        },
+        {
+          "key": "C",
+          "text": "案主並非專家，對於計畫沒有絕對的同意權及否定權"
+        },
+        {
+          "key": "D",
+          "text": "重要他人應參與討論，才能協助案主處遇計畫的執行"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q15",
+      "number": 15,
+      "stem": "Reamer 建議社會工作者運用解決問題模式處理倫理兩難議題，首要之務為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "徵詢同儕專家意見"
+        },
+        {
+          "key": "B",
+          "text": "釐清倫理議題"
+        },
+        {
+          "key": "C",
+          "text": "透過腦力激盪提出各種可能解決問題的方案"
+        },
+        {
+          "key": "D",
+          "text": "找出所有可能會被倫理抉擇所影響的個人、團體或組織"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q16",
+      "number": 16,
+      "stem": "有關充權觀點的團體工作，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "激發成員的意識覺醒"
+        },
+        {
+          "key": "B",
+          "text": "穩定成員對壓迫的認知結構與行為"
+        },
+        {
+          "key": "C",
+          "text": "提供團體安全的支持網絡"
+        },
+        {
+          "key": "D",
+          "text": "減低成員的負向自我評價"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q17",
+      "number": 17,
+      "stem": "下列那些原則有助於團體凝聚力的增強？①團體內有競爭關係 ②團體中有高度開放的互動 ③團體間 的競爭關係 ④提供成員獎賞、資源或地位 ⑤團體規模要夠大",
+      "options": [
+        {
+          "key": "A",
+          "text": "①③⑤"
+        },
+        {
+          "key": "B",
+          "text": "僅②③④"
+        },
+        {
+          "key": "C",
+          "text": "①②④⑤"
+        },
+        {
+          "key": "D",
+          "text": "②③④⑤"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q18",
+      "number": 18,
+      "stem": "情感反轉移有礙於專業關係的發展與服務的成效，為將此現象降至最低，下列何者是社會工作者最優先 須有的重要行動？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將案主轉介給其他合適之專業人員"
+        },
+        {
+          "key": "B",
+          "text": "尋求機構督導諮詢"
+        },
+        {
+          "key": "C",
+          "text": "提升自我覺察的能力"
+        },
+        {
+          "key": "D",
+          "text": "參加成長團體和專業訓練"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q19",
+      "number": 19,
+      "stem": "有關社區工作的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社區組織是一種過程；在地區發展模式中，社會工作者扮演問題解決者的角色"
+        },
+        {
+          "key": "B",
+          "text": "社會計畫模式關心社區實質問題的解決，強調具體的任務性目標；社會行動模式關注任務性及過程性 目標"
+        },
+        {
+          "key": "C",
+          "text": "綜融社區工作強調社會工作者能關注任何有關的議題或部門；專精社區工作則關注特定議題"
+        },
+        {
+          "key": "D",
+          "text": "在社會計畫模式中，社會工作者扮演專家的角色；在社會行動模式中，社會工作者扮演倡議者的角色"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q20",
+      "number": 20,
+      "stem": "因經費有限，又需儘快掌握社區問題，社會工作者利用與社區中的團體組織及重要代表的座談來探討社 區需求。其使用的調查方法為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "服務提供與資源分析法"
+        },
+        {
+          "key": "B",
+          "text": "名目團體技術法"
+        },
+        {
+          "key": "C",
+          "text": "民意調查法"
+        },
+        {
+          "key": "D",
+          "text": "服務需要法"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q21",
+      "number": 21,
+      "stem": "社會工作者執行社區工作的實務歷程順序應為下列何者？①組織社區居民 ②研究社區 ③規劃社區 方案 ④執行社區方案 ⑤評估社區工作",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③④⑤"
+        },
+        {
+          "key": "B",
+          "text": "②③④⑤①"
+        },
+        {
+          "key": "C",
+          "text": "②①③④⑤"
+        },
+        {
+          "key": "D",
+          "text": "②③①④⑤"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q22",
+      "number": 22,
+      "stem": "「無住屋組織聯盟」和「環境保護組織」所採取的運作模式，屬於下列何種社區模式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社區組織"
+        },
+        {
+          "key": "B",
+          "text": "社會計畫"
+        },
+        {
+          "key": "C",
+          "text": "社會行動"
+        },
+        {
+          "key": "D",
+          "text": "社區增權"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q23",
+      "number": 23,
+      "stem": "案主失業，告訴社會工作者擔心資遣費撐不了太久，希望新機構的面試能通過就好了！社會工作者回應： 「面試通過能改善你的經濟情況，你很擔心面試的表現」，請問社會工作者運用的是下列何種原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "接納"
+        },
+        {
+          "key": "B",
+          "text": "同理心"
+        },
+        {
+          "key": "C",
+          "text": "有目的與有限度的情感表達"
+        },
+        {
+          "key": "D",
+          "text": "關心、溫暖、信任與尊重"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q24",
+      "number": 24,
+      "stem": "社會團體工作的核心價值觀應包含下列何者？①團結互助 ②尊重和尊嚴 ③頓悟 ④增權 ⑤了解和 友情",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③"
+        },
+        {
+          "key": "B",
+          "text": "②③④"
+        },
+        {
+          "key": "C",
+          "text": "①②④⑤"
+        },
+        {
+          "key": "D",
+          "text": "①③④⑤"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q25",
+      "number": 25,
+      "stem": "下列敘述何者不符合團體工作的倫理守則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "成員應被告知暨徵求同意"
+        },
+        {
+          "key": "B",
+          "text": "確保守密原則"
+        },
+        {
+          "key": "C",
+          "text": "有團體經驗者就可擔任領導者"
+        },
+        {
+          "key": "D",
+          "text": "成員應被公平及平等對待"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q26",
+      "number": 26,
+      "stem": "社會工作者認為案主以前拋家棄子不負扶養子女責任，而今重病失能遭子女遺棄是罪有應得，卻成為老 人保護對象。其實社會工作者在處理上應優先採取的倫理規範是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "最小傷害原則"
+        },
+        {
+          "key": "B",
+          "text": "隱私保密原則"
+        },
+        {
+          "key": "C",
+          "text": "保護生命原則"
+        },
+        {
+          "key": "D",
+          "text": "自主自由原則"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q27",
+      "number": 27,
+      "stem": "下列何者是錯誤的社區工作原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會工作者或專家只是提供意見，並非決定者"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者應快速改變社區民眾的認知或習慣步調"
+        },
+        {
+          "key": "C",
+          "text": "社會工作者應讓社區民眾參與計畫與行動的討論"
+        },
+        {
+          "key": "D",
+          "text": "社會工作者應培養民眾改變的意願"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q28",
+      "number": 28,
+      "stem": "社會工作者進行團體工作時，須注意團體動力的面向，包括下列何者？①凝聚力 ②社會整合 ③團體文 化 ④團體問題 ⑤溝通互動模式",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②④"
+        },
+        {
+          "key": "B",
+          "text": "②④⑤"
+        },
+        {
+          "key": "C",
+          "text": "①②③⑤"
+        },
+        {
+          "key": "D",
+          "text": "①③④⑤"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q29",
+      "number": 29,
+      "stem": "團體過程中產生的次團體，而對團體造成負向影響。下列何者是錯誤的處理策略或技術？",
+      "options": [
+        {
+          "key": "A",
+          "text": "運用方案活動，分開次團體成員"
+        },
+        {
+          "key": "B",
+          "text": "重新安排不同成員，組成另一個次團體"
+        },
+        {
+          "key": "C",
+          "text": "要求次團體的重要成員離開"
+        },
+        {
+          "key": "D",
+          "text": "檢視團體對成員的吸引力"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q30",
+      "number": 30,
+      "stem": "社會工作者可以用自我揭露（self-disclosure）的方式展現真誠，下列何者符合真誠的自我揭露原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "要有較多個人情感表達"
+        },
+        {
+          "key": "B",
+          "text": "為自己的疏忽，坦然面對錯誤"
+        },
+        {
+          "key": "C",
+          "text": "要儘早自我揭露"
+        },
+        {
+          "key": "D",
+          "text": "要有一點自我防衛"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q31",
+      "number": 31,
+      "stem": "下列何者是有助於有效傾聽的一般性原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "清楚會談目的"
+        },
+        {
+          "key": "B",
+          "text": "只聽想聽的"
+        },
+        {
+          "key": "C",
+          "text": "注意力要放在細節"
+        },
+        {
+          "key": "D",
+          "text": "會談中聽到的就是事實"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q32",
+      "number": 32,
+      "stem": "當我們分析社區權力結構時，下列何者是女性主義認為不能忽視的分析因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社區的人口因素"
+        },
+        {
+          "key": "B",
+          "text": "社區的經濟因素"
+        },
+        {
+          "key": "C",
+          "text": "社區的情感因素"
+        },
+        {
+          "key": "D",
+          "text": "社區的政治因素"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q33",
+      "number": 33,
+      "stem": "下列何者不是沃倫（1978）所指的地域性社區之社區功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "滿足個人休閒需要"
+        },
+        {
+          "key": "B",
+          "text": "滿足生產、分配和消費的需要"
+        },
+        {
+          "key": "C",
+          "text": "滿足社會約束的需要"
+        },
+        {
+          "key": "D",
+          "text": "滿足社會參與的需要"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q34",
+      "number": 34,
+      "stem": "任務性團體的政治性功能（political function）是不能忽略的，下列何者不屬於任務性團體的政治性議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "誰被邀請參加會議"
+        },
+        {
+          "key": "B",
+          "text": "團體凝聚力低"
+        },
+        {
+          "key": "C",
+          "text": "物理空間座位安排"
+        },
+        {
+          "key": "D",
+          "text": "排列討論議題的順序"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q35",
+      "number": 35,
+      "stem": "在團體工作發展過程中，帕波爾與樓斯門（Papell and Rothman, 1966）將團體工作區分為三大模型，下列 何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "互動模型"
+        },
+        {
+          "key": "B",
+          "text": "互惠模型"
+        },
+        {
+          "key": "C",
+          "text": "治療模型"
+        },
+        {
+          "key": "D",
+          "text": "社會目標模型"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q36",
+      "number": 36,
+      "stem": "案主改變策略上，下列何者是後現代的建構取向？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認知行為取向"
+        },
+        {
+          "key": "B",
+          "text": "焦點解決"
+        },
+        {
+          "key": "C",
+          "text": "任務中心"
+        },
+        {
+          "key": "D",
+          "text": "基變取向"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q37",
+      "number": 37,
+      "stem": "下列何者不是會談時轉移話題的適當時機？",
+      "options": [
+        {
+          "key": "A",
+          "text": "話題做深刻討論到一個段落"
+        },
+        {
+          "key": "B",
+          "text": "案主分享過多情緒"
+        },
+        {
+          "key": "C",
+          "text": "話題敏感讓案主覺得不自在"
+        },
+        {
+          "key": "D",
+          "text": "案主提供的資訊與會談目標有關聯性"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q38",
+      "number": 38,
+      "stem": "民意代表施壓社會工作者，要求優先服務其轉介的個案。社會工作者應順從民意代表或維持機構政策而 以服務個案需求優先為考慮，此時社會工作者面臨何種倫理兩難類型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "保護權益或遵守法令之間的兩難"
+        },
+        {
+          "key": "B",
+          "text": "專業價值和個人價值之間的衝突"
+        },
+        {
+          "key": "C",
+          "text": "專業價值與機構科層體制之衝突"
+        },
+        {
+          "key": "D",
+          "text": "資源分配的兩難"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q39",
+      "number": 39,
+      "stem": "下列何者不是優點評量時社會工作者要做到的原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對案主抱持正向和認可的態度"
+        },
+        {
+          "key": "B",
+          "text": "協助案主處理危機"
+        },
+        {
+          "key": "C",
+          "text": "在案主熟悉的場所進行評量，如：家中、公園、咖啡店"
+        },
+        {
+          "key": "D",
+          "text": "根據案主的想望引發行動"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104100:c107:s0602:q40",
+      "number": 40,
+      "stem": "社區營造與福利社區化均是中央政府的政策，而在執行策略上有三大方向，不包括下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "由下而上"
+        },
+        {
+          "key": "B",
+          "text": "文化切入"
+        },
+        {
+          "key": "C",
+          "text": "社區著手"
+        },
+        {
+          "key": "D",
+          "text": "由上而下"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104100:c107:s0602:Q",
+      "answerSourceFileId": "社工師:104100:c107:s0602:S",
+      "manualPatch": false
+    }
+  ]
+}

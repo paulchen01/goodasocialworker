@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:114100:c103:s0301",
+  "examInstanceId": "社工師:114100:c103",
+  "examTrack": "社工師",
+  "subject": "社會工作",
+  "subjectCode": "0301",
+  "yearRoc": 114,
+  "examCode": "114100",
+  "examName": "114年第二次專技人員高等考試營養師、護理師、社會工作師考試、114年專技人員高等考試心理師、法醫師、語言治療師、聽力師、牙體技術師、公共衛...",
+  "examAttempt": "第二次",
+  "categoryCode": "103",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114100&c=103&s=0301&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=114100&c=103&s=0301&q=1",
+  "questionSourceFileId": "社工師:114100:c103:s0301:Q",
+  "answerSourceFileId": "社工師:114100:c103:s0301:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:114100:c103:s0301:q01",
+      "number": 1,
+      "stem": "社會工作專業在1950 年代開始發展人與情境的雙元觀點，有關雙元觀點發展之敘述，下列何者錯 誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hollis-Taylor 報告清楚界定社會工作是助人活動、社會活動與連結的活動"
+        },
+        {
+          "key": "B",
+          "text": "Reynolds 提倡重視環境的改變與服務對象的優勢"
+        },
+        {
+          "key": "C",
+          "text": "Hollis 提倡人在情境中的概念"
+        },
+        {
+          "key": "D",
+          "text": "Hollis 主張社會工作介入的焦點應在家庭"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q02",
+      "number": 2,
+      "stem": "Skidmore 和Thackeray（1994）認為社會工作係基於一些假設前提（premise），下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "每個人都是重要的，且都值得予以幫助"
+        },
+        {
+          "key": "B",
+          "text": "藉由社會工作的方法，可以緩和或解決個人與社會問題"
+        },
+        {
+          "key": "C",
+          "text": "解決個人、家庭、社區產生的問題，屬於政府的責任"
+        },
+        {
+          "key": "D",
+          "text": "人與人的互動中，通常會產生各種問題"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q03",
+      "number": 3,
+      "stem": "我國現行的長期照顧服務2.0 與社會安全網計畫，均強調以社區為基礎的服務，對社會工作專業 發展之影響，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "促使社會工作專業強化跨部門與跨專業的合作能力"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者應具備服務網絡的建立與整合能力"
+        },
+        {
+          "key": "C",
+          "text": "重視社會工作專業與其他專業的溝通能力"
+        },
+        {
+          "key": "D",
+          "text": "強化社會工作者科技工具整合運用能力"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q04",
+      "number": 4,
+      "stem": "有關歐美社會工作方法整合發展的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Perlman 在1930 年所出版的「社會個案工作：一個問題解決的過程」一書，產生了「問題解決 途徑」，認為診斷是一個持續的過程，是在思考如何解決問題"
+        },
+        {
+          "key": "B",
+          "text": "新社會風險指的是在後工業社會裡，個人經驗社會經濟轉型所導致的福利喪失，如脆弱的人際 關係，這是社會工作者所面臨的新挑戰"
+        },
+        {
+          "key": "C",
+          "text": "歐美緊縮年代的社會工作困境指的是1950 年代至1960 年代"
+        },
+        {
+          "key": "D",
+          "text": "診斷學派漢彌爾頓（Hamilton）於1940 年將診斷賦予新的意義，提出「功能途徑」一詞"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q05",
+      "number": 5,
+      "stem": "有關Bartlett（1958）提出社會工作價值的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人有人類的共同需求，也有個人的獨特性"
+        },
+        {
+          "key": "B",
+          "text": "個人須對自己的問題負責，他人的問題不是我們的責任"
+        },
+        {
+          "key": "C",
+          "text": "個人與社會是相互依賴的"
+        },
+        {
+          "key": "D",
+          "text": "社會有責任提供每個人有機會面對問題、解決問題、預防問題，達成自我實現"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q06",
+      "number": 6,
+      "stem": "社會工作價值觀的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "每一個社會通常只會有一套價值觀體系"
+        },
+        {
+          "key": "B",
+          "text": "價值兩難通常係指兩種可欲求或相互競爭的價值之間難以取捨"
+        },
+        {
+          "key": "C",
+          "text": "個人的價值觀引導個人的行為，每個人僅會有一種價值觀"
+        },
+        {
+          "key": "D",
+          "text": "當個人價值觀與社會價值觀產生衝突時，建議服務對象優先遵循社會價值觀"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q07",
+      "number": 7,
+      "stem": "關於社會工作的核心價值，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "重視個人的自由"
+        },
+        {
+          "key": "B",
+          "text": "尊重個人的獨特性"
+        },
+        {
+          "key": "C",
+          "text": "強調社會參與的重要性"
+        },
+        {
+          "key": "D",
+          "text": "社會有責任協助個人發揮潛能"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q08",
+      "number": 8,
+      "stem": "有關綜融社會工作實務（generalist social work practice）的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在專業層次建立以實證研究為基礎的實務智慧（practice wisdom）"
+        },
+        {
+          "key": "B",
+          "text": "在宏觀層次的社區扮演使能者的角色（enabler）"
+        },
+        {
+          "key": "C",
+          "text": "在中距層次的個人與家庭扮演催化者（facilitator）"
+        },
+        {
+          "key": "D",
+          "text": "在宏觀層次的社區採取專業的涵化（acculturation）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q09",
+      "number": 9,
+      "stem": "下列何者不是生態系統觀點的社會工作者主要角色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使能者"
+        },
+        {
+          "key": "B",
+          "text": "調解者"
+        },
+        {
+          "key": "C",
+          "text": "照顧者"
+        },
+        {
+          "key": "D",
+          "text": "中介者"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q10",
+      "number": 10,
+      "stem": "下列何者非屬Evans（2011）運用女性主義社會工作時的四大處遇原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人的即是政治的"
+        },
+        {
+          "key": "B",
+          "text": "平等和合作的專業關係"
+        },
+        {
+          "key": "C",
+          "text": "尊重女性經驗"
+        },
+        {
+          "key": "D",
+          "text": "家庭教育與資源"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q11",
+      "number": 11,
+      "stem": "國內學者將倡導（advocacy）區分成三大類型，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自我倡導、公民倡導、集體倡導"
+        },
+        {
+          "key": "B",
+          "text": "自我倡導、公民倡導、環境倡導"
+        },
+        {
+          "key": "C",
+          "text": "同儕倡導、公民倡導、集體倡導"
+        },
+        {
+          "key": "D",
+          "text": "自我倡導、同儕倡導、環境倡導"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q12",
+      "number": 12,
+      "stem": "忠告、建議、積極說服等社會工作處遇，是屬於心理暨社會學派中的何種技術？",
+      "options": [
+        {
+          "key": "A",
+          "text": "支持性的技術"
+        },
+        {
+          "key": "B",
+          "text": "直接影響的技術"
+        },
+        {
+          "key": "C",
+          "text": "探討、描述與宣洩的技術"
+        },
+        {
+          "key": "D",
+          "text": "反映性討論的技術"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q13",
+      "number": 13,
+      "stem": "社會工作者將「關注服務對象非理性的自我對話」，視為改變的重要目標，屬於下列何種理論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "角色理論"
+        },
+        {
+          "key": "B",
+          "text": "認知行為理論"
+        },
+        {
+          "key": "C",
+          "text": "生態系統理論"
+        },
+        {
+          "key": "D",
+          "text": "問題解決學派"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q14",
+      "number": 14,
+      "stem": "有關問題解決學派，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hellen Harris Perlman 是代表人物"
+        },
+        {
+          "key": "B",
+          "text": "強調應聚焦在早期童年經驗之問題處理上"
+        },
+        {
+          "key": "C",
+          "text": "影響了Reid 與Epstein 在任務中心學派上的發展"
+        },
+        {
+          "key": "D",
+          "text": "強調服務對象的問題是個人生命中成長與改變的一部分"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q15",
+      "number": 15,
+      "stem": "有關綜融取向社會工作在充權過程的描述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對話階段：社會工作者與服務對象間在對話互動中建立夥伴關係"
+        },
+        {
+          "key": "B",
+          "text": "探索階段：針對服務對象的行為與認知問題，分析案主做錯的地方"
+        },
+        {
+          "key": "C",
+          "text": "干預：由社會工作者決定行動計畫的目標，避免與其他系統產生連結"
+        },
+        {
+          "key": "D",
+          "text": "評估：評估由社會工作者進行即可，不需服務對象參與方案成效評估"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q16",
+      "number": 16,
+      "stem": "在女性主義流派中，主張男女有與生俱來根本的不同，我們應當禮讚這些差異、肯定女性的特質。 此流派認為社會工作者若要了解一個女性，只要聽她的故事以及她對這些經歷賦予的意義。此流 派係屬下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "婦女主義女性主義"
+        },
+        {
+          "key": "B",
+          "text": "文化女性主義"
+        },
+        {
+          "key": "C",
+          "text": "後現代女性主義"
+        },
+        {
+          "key": "D",
+          "text": "存在主義女性主義"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q17",
+      "number": 17,
+      "stem": "有關後現代社會工作理論的發展趨勢，下列敘述何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "重視個人病理歸因、修正個人行為或認知"
+        },
+        {
+          "key": "B",
+          "text": "強調純粹的專業主義之催化模式"
+        },
+        {
+          "key": "C",
+          "text": "重視服務對象在社會環境的障礙及受壓迫經驗"
+        },
+        {
+          "key": "D",
+          "text": "強調提升社會工作者的專業權威地位"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q18",
+      "number": 18,
+      "stem": "下列何者不是復原力的核心概念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "具有威脅的處境"
+        },
+        {
+          "key": "B",
+          "text": "風險因子"
+        },
+        {
+          "key": "C",
+          "text": "激勵因子"
+        },
+        {
+          "key": "D",
+          "text": "保護因子"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q19",
+      "number": 19,
+      "stem": "下列何者不是美國社會工作發展歷史中出現過的價值取向？",
+      "options": [
+        {
+          "key": "A",
+          "text": "無道德取向"
+        },
+        {
+          "key": "B",
+          "text": "改革取向"
+        },
+        {
+          "key": "C",
+          "text": "臨床取向"
+        },
+        {
+          "key": "D",
+          "text": "宗教取向"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q20",
+      "number": 20,
+      "stem": "有關社會工作價值體系，下列敘述何者正確？①社會工作專業價值具有相當的持久性與穩定性 ②自由、尊嚴、正義是社會工作專業信奉的工具性價值 ③案主自決與保密等是社會工作專業強 調的終極性價值 ④社工人員的個人價值與社會工作的專業價值未必具一致性",
+      "options": [
+        {
+          "key": "A",
+          "text": "③④"
+        },
+        {
+          "key": "B",
+          "text": "①④"
+        },
+        {
+          "key": "C",
+          "text": "②④"
+        },
+        {
+          "key": "D",
+          "text": "①③"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q21",
+      "number": 21,
+      "stem": "服務對象長期受到嚴重肢體暴力而死亡，結果發現社會工作者接獲通報派案後，並未依規定前往 訪視，而僅用電話聯繫。事後卻說成是為了要幫服務對象保密。依據Bandura（1986）的道德解離 （moral disengagement）的理論，上述情形屬於何種行為反應？",
+      "options": [
+        {
+          "key": "A",
+          "text": "非人性化"
+        },
+        {
+          "key": "B",
+          "text": "責任移轉"
+        },
+        {
+          "key": "C",
+          "text": "掩過飾非"
+        },
+        {
+          "key": "D",
+          "text": "道德辯證"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q22",
+      "number": 22,
+      "stem": "下列何種倫理理論被批評「只重視行為規則，而排除道德生活中的其他要素」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "品德論"
+        },
+        {
+          "key": "B",
+          "text": "義務論"
+        },
+        {
+          "key": "C",
+          "text": "關懷倫理"
+        },
+        {
+          "key": "D",
+          "text": "情境倫理"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q23",
+      "number": 23,
+      "stem": "某社福機構主管服膺規範倫理學中的義務論，下列何者符合此主管的想法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會工作者不可以修改服務對象的薪資紀錄，以符合低收入的資格"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者可以違反機構規定，以提供更好的服務"
+        },
+        {
+          "key": "C",
+          "text": "只要企業有慈善公益捐贈，其他不法行為可以通融"
+        },
+        {
+          "key": "D",
+          "text": "非營利組織為了提供更多服務，可以要求社會工作者回捐"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q24",
+      "number": 24,
+      "stem": "在社會工作的價值內涵中，有關處理人的方式的價值取向，社會工作專業認為幫助個人自我實現 是最重要的，不僅要促使個人的自我實現，也要尊重個人的自我決定。下列實務中，何者最接近 此種價值取向？",
+      "options": [
+        {
+          "key": "A",
+          "text": "協助弱勢者找出每個人獨特能力與意向（intention）"
+        },
+        {
+          "key": "B",
+          "text": "在夫妻爭取監護權的社區家事商談中，努力促成夫妻爭吵最小化"
+        },
+        {
+          "key": "C",
+          "text": "在少年輔導個案身上，允許個人愛怎麼做，就怎麼做"
+        },
+        {
+          "key": "D",
+          "text": "在社區理事會議爭議中，努力理解居民的共通性"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q25",
+      "number": 25,
+      "stem": "當一名獨居行動越來越不方便的老人近來跌倒二次，你判斷轉介到安養機構照顧會比較妥適，但 是老人想繼續待在自家環境住所。依據Lowenberg 和Dolgoff（1992；2000）的社會工作倫理抉擇 優先順序，你在轉介與否的選擇判斷上，應優先引用下列何種原則來考量？",
+      "options": [
+        {
+          "key": "A",
+          "text": "最小傷害原則"
+        },
+        {
+          "key": "B",
+          "text": "多元文化原則"
+        },
+        {
+          "key": "C",
+          "text": "差別平等原則"
+        },
+        {
+          "key": "D",
+          "text": "自主自由原則"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q26",
+      "number": 26,
+      "stem": "負責分配救濟物資的社會工作者，常碰到社區中從事資源回收的個案，說自己年紀大了、身體不 好，而且競爭不過年輕人為理由來索取物資，但卻將剩餘物資轉送他人。當社會工作者知道這件 事後，在下次個案來機構索取物資時，就大聲質詢個案，並說個案是個騙子、假好心。個案可以 告社會工作者下列何種罪名？",
+      "options": [
+        {
+          "key": "A",
+          "text": "業務過失罪"
+        },
+        {
+          "key": "B",
+          "text": "公然侮辱罪"
+        },
+        {
+          "key": "C",
+          "text": "洩漏機密罪"
+        },
+        {
+          "key": "D",
+          "text": "洩漏個人資料罪"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q27",
+      "number": 27,
+      "stem": "Reamer 於1990 年提出的倫理兩難抉擇，下列敘述何者正確？①防止傷害到人類的行為必要前提 優先於其他一些傷害 ②其他人的自我決定權優先於個人基本福祉的權利 ③自身的基本福祉 優先於個人自我決定的權力 ④人們在自由意志之下同意遵守的法律、機構的規定等義務，應凌 駕於個人的信仰、價值與原則 ⑤當個人基本福祉的權利與法律、規定及民間組織中的規則相衝 突時，個人基本福祉的權利不可優先考量 ⑥防止傷害的義務，提升公共利益的義務，這兩種義 務優先於個人財產所有權",
+      "options": [
+        {
+          "key": "A",
+          "text": "①③⑤"
+        },
+        {
+          "key": "B",
+          "text": "②④⑥"
+        },
+        {
+          "key": "C",
+          "text": "②③⑤"
+        },
+        {
+          "key": "D",
+          "text": "①④⑥"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q28",
+      "number": 28,
+      "stem": "規範倫理學（normative ethics）有關義務論（deontological theories）與目的論（teleological theories） 的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對於相信目的論的社會工作者而言，實務上面臨倫理兩難的抉擇時，應該先衡量潛在的行為 結果"
+        },
+        {
+          "key": "B",
+          "text": "目的論者主張，某些行為無論其結果如何，都有其本有的對或錯、好或壞之分"
+        },
+        {
+          "key": "C",
+          "text": "義務論者主張，任何行為的對或錯，要視其所帶來的結果而定"
+        },
+        {
+          "key": "D",
+          "text": "對於相信義務論的社會工作者而言，可以為了達到某種目的而不擇手段，即使違反某一重要的 法律"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q29",
+      "number": 29,
+      "stem": "根據聯合國國際減災策略對於災難的定義，臺灣的夏季颱風不符合下列何種特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "突發性"
+        },
+        {
+          "key": "B",
+          "text": "造成嚴重傷害"
+        },
+        {
+          "key": "C",
+          "text": "難精準推測"
+        },
+        {
+          "key": "D",
+          "text": "低度地區性"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q30",
+      "number": 30,
+      "stem": "有關社區精神復健（psychiatric rehabilitation），下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "復健目標是改善精神疾病患者的生活品質，協助其盡可能在社區獨立生活"
+        },
+        {
+          "key": "B",
+          "text": "與病患發展夥伴關係，減少病患與專業人員之角色、權威與地位之區隔"
+        },
+        {
+          "key": "C",
+          "text": "使病患能夠參與正常化的角色與關係，並依照所屬文化認為有價值的方式生活"
+        },
+        {
+          "key": "D",
+          "text": "應避免成為被治療者的角色，使其回歸社區後不再依賴醫療資源介入"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q31",
+      "number": 31,
+      "stem": "在精神醫療社會工作領域中運用社會融合（social inclusion）策略，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主要目的是在降低精神障礙者所經歷的社會排除"
+        },
+        {
+          "key": "B",
+          "text": "鼓勵社區生活、拒絕住院治療，以促進社會融合"
+        },
+        {
+          "key": "C",
+          "text": "消除污名是有效促進精神障礙者社會融合的作法之一"
+        },
+        {
+          "key": "D",
+          "text": "旨在確保精神障礙者能夠獲得相等的機會發揮潛能"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q32",
+      "number": 32,
+      "stem": "下列何者不是修復式司法（restorative justice）的工作模式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "受害者和加害者的面對面調解"
+        },
+        {
+          "key": "B",
+          "text": "應報模式（retribution model）"
+        },
+        {
+          "key": "C",
+          "text": "和平圈（peacemaking circle）"
+        },
+        {
+          "key": "D",
+          "text": "社區修復委員會（community restorative boards）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q33",
+      "number": 33,
+      "stem": "社會工作者應避免使用資訊與通訊科技（information and communication technology, ICT），與服務 對象進行個人或非工作相關目的之溝通。上述係屬何種倫理責任？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隱私與保密"
+        },
+        {
+          "key": "B",
+          "text": "專業界線與利益衝突"
+        },
+        {
+          "key": "C",
+          "text": "最小傷害與知情同意"
+        },
+        {
+          "key": "D",
+          "text": "技巧與能力"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q34",
+      "number": 34,
+      "stem": "在新住民社會工作中，社會工作者致力導正主流社會成員對新住民潛在的歧視或偏見、促進新住 民與主流社會對話，以幫助社會大眾對於多元文化有進一步的認知與了解，係屬下列何種角色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "倡導者"
+        },
+        {
+          "key": "B",
+          "text": "催化者"
+        },
+        {
+          "key": "C",
+          "text": "問題解決者"
+        },
+        {
+          "key": "D",
+          "text": "資源連結者"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q35",
+      "number": 35,
+      "stem": "有關社會工作者在對抗社會不公平的行動或作為中，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "協助服務對象找到處境相似的人並共同解決問題"
+        },
+        {
+          "key": "B",
+          "text": "支持服務對象能夠做出對其生活有益處的決定"
+        },
+        {
+          "key": "C",
+          "text": "確定服務對象知道專業行政機構的政策和規定"
+        },
+        {
+          "key": "D",
+          "text": "提供服務對象深度治療內在的受壓迫創傷經驗"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q36",
+      "number": 36,
+      "stem": "有關「數位/網路性別暴力」之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "指透過網路或數位方式，基於性別之暴力行為"
+        },
+        {
+          "key": "B",
+          "text": "「未得同意散布性私密影像」是其中一種類型"
+        },
+        {
+          "key": "C",
+          "text": "透過手機GPS 定位跟蹤或監視他人活動的「網路跟蹤」是其中一種類型"
+        },
+        {
+          "key": "D",
+          "text": "「數位/網路性別暴力」可以透過聲請保護令加以救濟"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q37",
+      "number": 37,
+      "stem": "6 歲A 男童活潑好動、上課坐不住，午睡時間走來走去，回家時媽媽發現右耳及臉頰紅腫瘀青， 立刻帶至醫院驗傷。調閱幼兒園監視器畫面，顯示B 教師拉傷其耳朵及用手掌打臉。B 教師可能 違反下列何種法律？",
+      "options": [
+        {
+          "key": "A",
+          "text": "性別平等教育法"
+        },
+        {
+          "key": "B",
+          "text": "兒童及少年福利與權益保障法"
+        },
+        {
+          "key": "C",
+          "text": "兒童及少年性剝削防制條例"
+        },
+        {
+          "key": "D",
+          "text": "性騷擾防治法"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q38",
+      "number": 38,
+      "stem": "安置機構提供替代性服務時，在兼顧管理與維護被安置兒少表意權，下列作法何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "被安置者達法定可打工年齡時，與其討論工作計畫"
+        },
+        {
+          "key": "B",
+          "text": "因為交通不能跨行政區，在機構所屬區域內選擇高中職科系"
+        },
+        {
+          "key": "C",
+          "text": "由安置兒少負責規劃機構暑假旅行地點與行程"
+        },
+        {
+          "key": "D",
+          "text": "與兒少一起盤點自立生活資源，及結束安置後機構角色"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q39",
+      "number": 39,
+      "stem": "下列何者不是學校社會工作的功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "增強學校與家庭的關係"
+        },
+        {
+          "key": "B",
+          "text": "提供專業人員的團隊服務"
+        },
+        {
+          "key": "C",
+          "text": "維護校園秩序"
+        },
+        {
+          "key": "D",
+          "text": "結合社區的服務資源"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:114100:c103:s0301:q40",
+      "number": 40,
+      "stem": "近年來安寧療護的四全照顧理念，隨著服務方式拓展，強調以病人為中心的照顧模式，已擴大成 五全照顧理念，下列何者為第五全？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全社區"
+        },
+        {
+          "key": "B",
+          "text": "全社會"
+        },
+        {
+          "key": "C",
+          "text": "全機構"
+        },
+        {
+          "key": "D",
+          "text": "全國"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:114100:c103:s0301:Q",
+      "answerSourceFileId": "社工師:114100:c103:s0301:S",
+      "manualPatch": false
+    }
+  ]
+}

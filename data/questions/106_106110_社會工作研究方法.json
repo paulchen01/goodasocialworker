@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:106110:c107:s0606",
+  "examInstanceId": "社工師:106110:c107",
+  "examTrack": "社工師",
+  "subject": "社會工作研究方法",
+  "subjectCode": "0606",
+  "yearRoc": 106,
+  "examCode": "106110",
+  "examName": "106年第二次專技人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試、106年專技人員高等考試法醫師、語言治療師、聽力...",
+  "examAttempt": "第二次",
+  "categoryCode": "107",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106110&c=107&s=0606&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106110&c=107&s=0606&q=1",
+  "questionSourceFileId": "社工師:106110:c107:s0606:Q",
+  "answerSourceFileId": "社工師:106110:c107:s0606:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:106110:c107:s0606:q01",
+      "number": 1,
+      "stem": "在研究過程中，透過研究工具如問卷或訪問稿蒐集資料，這是一系列從無到有的過程，如果要測量一些 概念或變項，必須經過形成概念與測量的過程，下列那一過程正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "抽象構念→操作定義→概念化→名目定義→實際測量"
+        },
+        {
+          "key": "B",
+          "text": "抽象構念→概念化→名目定義→操作定義→實際測量"
+        },
+        {
+          "key": "C",
+          "text": "抽象構念→名目定義→操作定義→概念化→實際測量"
+        },
+        {
+          "key": "D",
+          "text": "抽象構念→名目定義→概念化→操作定義→實際測量"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q02",
+      "number": 2,
+      "stem": "下列那一個統計方法，適合處理「次數資料」的假設檢定？",
+      "options": [
+        {
+          "key": "A",
+          "text": "F 檢定"
+        },
+        {
+          "key": "B",
+          "text": "檢定t"
+        },
+        {
+          "key": "C",
+          "text": "χ2 檢定"
+        },
+        {
+          "key": "D",
+          "text": "U 檢定"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q03",
+      "number": 3,
+      "stem": "在統計假設檢定裡，檢定之前我們會先設定顯著水準α ，並根據樣本資料計算檢定的統計量，再檢視此 統計量在虛無假設成立的情況下屬於這個分配的機率P（P-value 或P 值）。下列有關P 與α 敘述，何者 錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "α 是判斷樣本統計量是否因機會產生的門檻機率，在檢定前必須確定"
+        },
+        {
+          "key": "B",
+          "text": "在固定的顯著水準α 下，雙尾檢定與單尾檢定的臨界點是不同的"
+        },
+        {
+          "key": "C",
+          "text": "根據同一批資料，在單尾或雙尾檢定其P 值是相同的"
+        },
+        {
+          "key": "D",
+          "text": "當P >α 時，檢定的結果須拒絕虛無假設"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q04",
+      "number": 4,
+      "stem": "下列有關「調查研究方法」的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "相較於面對面訪問與電話訪問，郵寄問卷費用較為節省"
+        },
+        {
+          "key": "B",
+          "text": "如果要獲得即時發生事件的資料，可以考慮使用電話訪問調查法"
+        },
+        {
+          "key": "C",
+          "text": "面對面訪問的完成率通常是百分之百"
+        },
+        {
+          "key": "D",
+          "text": "集體填答問卷回收率高"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q05",
+      "number": 5,
+      "stem": "下列有關「焦點團體」的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "焦點團體須選擇一群跟討論主體相關的人進行討論"
+        },
+        {
+          "key": "B",
+          "text": "焦點團體參與者通常約8～12 人最多不超過15 人"
+        },
+        {
+          "key": "C",
+          "text": "焦點團體需要表達自己的想法，最好能主導焦點討論的走向"
+        },
+        {
+          "key": "D",
+          "text": "焦點團體需要有一個主持人作為發言討論的調節者"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q06",
+      "number": 6,
+      "stem": "典範（paradigm）是指型塑我們觀察及了解事情的基本模式或參考架構，下列有關研究典範的敘述，何者 正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "當我們觀察或理解現實時，實證主義典範強調追求對現實主觀的理解"
+        },
+        {
+          "key": "B",
+          "text": "社會建構典範強調完全的客觀"
+        },
+        {
+          "key": "C",
+          "text": "後現代主義典範反對有客觀現實存在這件事"
+        },
+        {
+          "key": "D",
+          "text": "對女性主義典範者而言，做研究是她們的主要目的"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q07",
+      "number": 7,
+      "stem": "量化研究與質性研究有不同的抽樣方法取得研究樣本，下列那一抽樣方法較適合量化研究抽樣？",
+      "options": [
+        {
+          "key": "A",
+          "text": "配額抽樣"
+        },
+        {
+          "key": "B",
+          "text": "系統抽樣"
+        },
+        {
+          "key": "C",
+          "text": "理論抽樣"
+        },
+        {
+          "key": "D",
+          "text": "滾雪球抽樣"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q08",
+      "number": 8,
+      "stem": "下列有關測量誤差的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "拿成人的問卷去讓小學童作答，學童可能不懂一些專有名詞而隨意作答，是屬於「隨機誤差」"
+        },
+        {
+          "key": "B",
+          "text": "受訪者因問卷過於冗長，問卷的後半部不加思索快速完成作答，是屬於「隨機誤差」"
+        },
+        {
+          "key": "C",
+          "text": "受訪者因為愛面子，傾向於以社會期望的方式回答，是屬於「系統誤差」"
+        },
+        {
+          "key": "D",
+          "text": "「系統誤差」影響測量的「信度」，「隨機誤差」影響測量的「效度」"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q09",
+      "number": 9,
+      "stem": "在貧富差距很大的國家，有很多低所得的國民，有較少的中產階級，有為數更少的富裕階級，這個國家 國民所得的分配，最有可能是下列何種分配狀況？",
+      "options": [
+        {
+          "key": "A",
+          "text": "常態分配（平均數=中位數=眾數）"
+        },
+        {
+          "key": "B",
+          "text": "高峰在左，長尾在右的右偏分配（眾數<中位數<平均數）"
+        },
+        {
+          "key": "C",
+          "text": "高峰在右，長尾在左的左偏分配（平均數<中位數<眾數）"
+        },
+        {
+          "key": "D",
+          "text": "雙峰分配（有兩個眾數的分配）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q10",
+      "number": 10,
+      "stem": "信賴區間乃利用樣本統計量（sample statistic）加上誤差的考量，形成數值區間來推論群體的參數（population parameter），下列有關「信賴區間」的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "信賴區間的寬窄會受到樣本大小及群體標準差大小的影響"
+        },
+        {
+          "key": "B",
+          "text": "當樣本增大時信賴區間的寬度會變窄"
+        },
+        {
+          "key": "C",
+          "text": "信心水準愈高其信賴區間寬度會愈窄"
+        },
+        {
+          "key": "D",
+          "text": "在常態分配下樣本平均數約有95%的機會落在群體平均數±1.96 個標準誤之內"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q11",
+      "number": 11,
+      "stem": "有關問卷設計一些相關注意事項，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "涉及敏感或隱私的題項，應儘量放在後面"
+        },
+        {
+          "key": "B",
+          "text": "有時為了避免影響填答者的情緒，個人基本資料的填答，可放在問卷最後"
+        },
+        {
+          "key": "C",
+          "text": "為了避免填答時不看清楚問卷就作答，問卷的題項可以用隨機的方式安排其出現順序"
+        },
+        {
+          "key": "D",
+          "text": "應避免問填答者無法回答或從未聽過的問題"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q12",
+      "number": 12,
+      "stem": "下列有關測量尺度的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "溫度、年齡屬於同一測量尺度"
+        },
+        {
+          "key": "B",
+          "text": "如將婚姻狀況分為已婚、未婚是屬於名目層次的測量"
+        },
+        {
+          "key": "C",
+          "text": "如果將滿意度從非常不滿意、不滿意、不確定、滿意、到非常滿意的分類賦予1、2、3、4、5 的數據， 是屬於等距層次資料"
+        },
+        {
+          "key": "D",
+          "text": "不同測量尺度資料只要化成數據，可以用相同的統計方法分析"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q13",
+      "number": 13,
+      "stem": "在抽樣的過程中，從群體到樣本，涵蓋不同數目的抽樣單位，下列何者排列符合「由多而少」的抽樣範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "理論群體 研究群體 抽樣架構 抽樣單位"
+        },
+        {
+          "key": "B",
+          "text": "研究群體 理論群體 抽樣架構 抽樣單位"
+        },
+        {
+          "key": "C",
+          "text": "理論群體 抽樣架構 研究群體 抽樣單位"
+        },
+        {
+          "key": "D",
+          "text": "研究群體 抽樣架構 理論群體 抽樣單位"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q14",
+      "number": 14,
+      "stem": "關於行動研究（action research）的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "針對面臨到的問題，不斷整合專家學者們的智識與智慧，並設計問卷進行調查，是集合專家意見的集 體決策技術"
+        },
+        {
+          "key": "B",
+          "text": "研究團隊人員在進行方案的過程中，可將方案與研究方案過程中產生的問題一併執行，以便進行研究 又能解決問題"
+        },
+        {
+          "key": "C",
+          "text": "是在事情發生後以調查研究的方式，著手分析其原因的研究方法"
+        },
+        {
+          "key": "D",
+          "text": "步驟為：形成研究問題→測量→實驗設計→分析研究成功或失敗的原因"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q15",
+      "number": 15,
+      "stem": "研究者運用半結構式的訪談對罹患慢性疾病患者進行調查，觀察到許多男性慢性疾病患者發展出一套自 我保存的策略以免於陷入憂鬱。這種由資料來建構理論的推理過程，稱為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "演繹法"
+        },
+        {
+          "key": "B",
+          "text": "歸納法"
+        },
+        {
+          "key": "C",
+          "text": "實證主義"
+        },
+        {
+          "key": "D",
+          "text": "假說檢定"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q16",
+      "number": 16,
+      "stem": "關於一個質化訪談的完整過程，下列各階段的順序何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "訂出主題－設計－訪談－謄寫－分析－確認－報導"
+        },
+        {
+          "key": "B",
+          "text": "訂出主題－訪談－設計－分析－謄寫－報導－確認"
+        },
+        {
+          "key": "C",
+          "text": "訂出主題－設計－訪談－分析－謄寫－報導－確認"
+        },
+        {
+          "key": "D",
+          "text": "訂出主題－謄寫－分析－訪談－報導－確認－設計"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q17",
+      "number": 17,
+      "stem": "在進行推論統計時，研究人員無可避免地必須承擔錯誤的風險，名為第一型錯誤（type I error）與第二型 錯誤（type II error）。今當顯著水準由0.05 變更為0.01 時，犯上述錯誤的風險會如何改變？",
+      "options": [
+        {
+          "key": "A",
+          "text": "犯第一型錯誤的風險降低，犯第二型錯誤的風險提高"
+        },
+        {
+          "key": "B",
+          "text": "犯第一型錯誤的風險提高，犯第二型錯誤的風險降低"
+        },
+        {
+          "key": "C",
+          "text": "犯第一型錯誤的風險降低，犯第二型錯誤的風險不變"
+        },
+        {
+          "key": "D",
+          "text": "犯第一型錯誤的風險不變，犯第二型錯誤的風險降低"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q18",
+      "number": 18,
+      "stem": "有關分層隨機抽樣（stratified sampling）與集叢取樣法（cluster sampling）中「層」與「集叢」的概念， 下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "層內異質性高，集叢內同質性高"
+        },
+        {
+          "key": "B",
+          "text": "層內同質性高，集叢內異質性高"
+        },
+        {
+          "key": "C",
+          "text": "層與層間異質性高，集叢與集叢間異質性亦高"
+        },
+        {
+          "key": "D",
+          "text": "層與層間同質性高，集叢與集叢間異質性高"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q19",
+      "number": 19,
+      "stem": "當研究人員在進行變異數分析（ANOVA）時，若組內離均差平方和（within-group sum of squares）變成 原來的2 倍時，在其餘條件都不變的情況下，所計算出來的F 值會成為原來的多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/4"
+        },
+        {
+          "key": "B",
+          "text": "1/2"
+        },
+        {
+          "key": "C",
+          "text": "倍2"
+        },
+        {
+          "key": "D",
+          "text": "倍4"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q20",
+      "number": 20,
+      "stem": "自變項與依變項皆為類別變項時，欲檢定兩變項的獨立性時我們會採用卡方檢定。今若進行交叉分析的 自變項有2 個屬性、依變項有4 個屬性，試問卡方檢定之自由度為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q21",
+      "number": 21,
+      "stem": "若將電話訪問與面對面訪問進行比較，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電話訪問的長度可較面對面訪問為長"
+        },
+        {
+          "key": "B",
+          "text": "電話訪問較面對面訪問節省成本"
+        },
+        {
+          "key": "C",
+          "text": "電話訪問較面對面訪問有較高隱匿性，可降低受訪者的壓力"
+        },
+        {
+          "key": "D",
+          "text": "電話訪問較面對面訪問容易督導"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q22",
+      "number": 22,
+      "stem": "某市政府擬辦理調查，以了解該市老人使用社區照顧關懷據點的比例及使用意願，該調查的母群體為下 列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "該市所有曾使用社區照顧關懷據點的老人"
+        },
+        {
+          "key": "B",
+          "text": "該市所有未使用社區照顧關懷據點的老人"
+        },
+        {
+          "key": "C",
+          "text": "該市所有有意願使用社區照顧關懷據點的老人"
+        },
+        {
+          "key": "D",
+          "text": "該市所有的老人"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q23",
+      "number": 23,
+      "stem": "假定一個非營利組織機構的企業化程度會透過員工的滿意度及投入程度以影響機構績效，請問「員工的 滿意度及投入程度」是什麼變項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "內含變項（component variable）"
+        },
+        {
+          "key": "B",
+          "text": "抑制變項（suppressor variable）"
+        },
+        {
+          "key": "C",
+          "text": "中介變項（intervening variable）"
+        },
+        {
+          "key": "D",
+          "text": "前導變項（antecedent variable）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q24",
+      "number": 24,
+      "stem": "對於古典實驗法的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一項實驗是要檢視一個依變項對於一個自變項所產生的影響"
+        },
+        {
+          "key": "B",
+          "text": "受試者被隨機分為控制組及實驗組之後，會測量依變項是否相同之後繼續進行"
+        },
+        {
+          "key": "C",
+          "text": "雙盲實驗（double-blind experiment）指的是受試者與實驗者都會互相知道且了解知道誰是實驗組、誰是 控制組的實驗設計"
+        },
+        {
+          "key": "D",
+          "text": "霍桑效應（Hawthorne effect）係指針對伊利諾州芝加哥市郊霍桑區的西方電器廠所進行工作條件的研 究，研究發現工人生產力的提升主要是由工作條件改善所造成"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q25",
+      "number": 25,
+      "stem": "抽樣方法可分為隨機抽樣以及非隨機抽樣，下列何者屬於非隨機抽樣？",
+      "options": [
+        {
+          "key": "A",
+          "text": "分層抽樣（stratified sampling）"
+        },
+        {
+          "key": "B",
+          "text": "系統抽樣（systematic sampling）"
+        },
+        {
+          "key": "C",
+          "text": "配額取樣（quota sampling）"
+        },
+        {
+          "key": "D",
+          "text": "集叢取樣（cluster sampling）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q26",
+      "number": 26,
+      "stem": "某研究人員欲比較「已婚者與離婚者的生活滿意度分數」的平均數差異情形時，可以使用什麼統計方法 來檢驗？",
+      "options": [
+        {
+          "key": "A",
+          "text": "卡方檢定"
+        },
+        {
+          "key": "B",
+          "text": "檢定t"
+        },
+        {
+          "key": "C",
+          "text": "積差相關分析"
+        },
+        {
+          "key": "D",
+          "text": "迴歸分析"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q27",
+      "number": 27,
+      "stem": "下列關於前實驗研究設計（pre-experimental design）的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "單組末測設計是研究人員給予單一組受試者實驗設計之後，再測量他們在自變項的狀況"
+        },
+        {
+          "key": "B",
+          "text": "單組前測、末測設計是讓實驗組進行前後測，但缺少一個控制組"
+        },
+        {
+          "key": "C",
+          "text": "小組靜態比較是有實驗組和控制組，但未進行前測"
+        },
+        {
+          "key": "D",
+          "text": "單案研究採用時間序列設計的邏輯，用以評鑑介入或是政策對單一個案或是單一系統的影響"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q28",
+      "number": 28,
+      "stem": "下列何種研究方法屬於非介入性研究（unobtrusive research）？",
+      "options": [
+        {
+          "key": "A",
+          "text": "實驗法"
+        },
+        {
+          "key": "B",
+          "text": "社會調查"
+        },
+        {
+          "key": "C",
+          "text": "次級資料分析"
+        },
+        {
+          "key": "D",
+          "text": "深度訪談"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q29",
+      "number": 29,
+      "stem": "下列關於社會工作研究倫理的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "若有任何可鑑別出研究對象的資料必須保密的話，需有描述如何維護的聲明"
+        },
+        {
+          "key": "B",
+          "text": "當研究者能夠辨認出研究回應意見是來自某一研究對象，但承諾不會公開，這個研究計畫就保證是匿 名的"
+        },
+        {
+          "key": "C",
+          "text": "研究對象必須在充分了解研究可能會有的風險之基礎上，而自願參與該研究計畫"
+        },
+        {
+          "key": "D",
+          "text": "研究必須要描述任何可能對研究對象產生之合理可預見的危險或不舒適"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q30",
+      "number": 30,
+      "stem": "研究人員在選舉期間，每個月訪問同一組樣本選民，詢問他們要投票給誰，了解選民投票意向的持續性 與改變的型態。請問研究人員運用下列何者方法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "固定樣本覆訪研究（panel study）"
+        },
+        {
+          "key": "B",
+          "text": "世代研究（cohort study）"
+        },
+        {
+          "key": "C",
+          "text": "趨勢研究（trend study）"
+        },
+        {
+          "key": "D",
+          "text": "橫斷研究（cross-sectional study）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q31",
+      "number": 31,
+      "stem": "社會研究具有多重目的，較常見的包括探索、描述及解釋三者。下列關於探索性研究的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "運用人口普查以精準地反映人口特質"
+        },
+        {
+          "key": "B",
+          "text": "用來檢驗進行較大規模研究的可行性"
+        },
+        {
+          "key": "C",
+          "text": "做為發展後續研究可以使用的方法"
+        },
+        {
+          "key": "D",
+          "text": "滿足研究者的好奇心以及更進一步了解事情的渴望"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q32",
+      "number": 32,
+      "stem": "關於質化田野研究的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "適合於自然情境中了解的行為與態度之研究"
+        },
+        {
+          "key": "B",
+          "text": "適合研究跨時間的社會過程"
+        },
+        {
+          "key": "C",
+          "text": "強調對現象發生脈絡的理解"
+        },
+        {
+          "key": "D",
+          "text": "研究發現比較表面，但比較通則化"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q33",
+      "number": 33,
+      "stem": "田野研究者在研究裡實際進入研究情境中所建構的一個角色或角色組（set of roles），並參與被觀察對象 的所有日常生活，則他的角色屬於下列何種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "完全觀察者"
+        },
+        {
+          "key": "B",
+          "text": "完全參與者"
+        },
+        {
+          "key": "C",
+          "text": "參與者身分的觀察者"
+        },
+        {
+          "key": "D",
+          "text": "觀察者身分的參與者"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q34",
+      "number": 34,
+      "stem": "研究人員想探究一個社區組織長久以來招募人員的型態，一開始先訪問最近加入的成員，問他們由誰介 紹加入這個組織，再來訪問被提及的介紹人，再問這些人由誰介紹他們加入，然後再訪問那些被指名的 人。請問此運用方法是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "配額抽樣（quota sampling）"
+        },
+        {
+          "key": "B",
+          "text": "立意或判斷抽樣（purposive or judgmental sampling）"
+        },
+        {
+          "key": "C",
+          "text": "機率抽樣（probability sampling）"
+        },
+        {
+          "key": "D",
+          "text": "滾雪球抽樣（snowball sampling）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q35",
+      "number": 35,
+      "stem": "關於李克特量表（Likert scale）的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是由李克特（Rensis Likert）發展出來測量態度的工具"
+        },
+        {
+          "key": "B",
+          "text": "受訪者一般會被要求針對一系列的陳述表達同意或不同意的程度"
+        },
+        {
+          "key": "C",
+          "text": "李克特量表的原始規劃是每一陳述的權重都完全相同"
+        },
+        {
+          "key": "D",
+          "text": "通常都為複合指標的形式來測量受訪者對一議題態度的強度"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q36",
+      "number": 36,
+      "stem": "下列有關橫斷研究（cross-sectional study）與縱貫研究（longitudinal study）的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "橫斷研究的研究者通常只選擇一個時段觀察或調查其研究對象"
+        },
+        {
+          "key": "B",
+          "text": "橫斷研究的研究結果通常無法做因果推論"
+        },
+        {
+          "key": "C",
+          "text": "「世代研究（cohort study）」是縱貫研究的類型之一，每次都針對同一組對象進行研究"
+        },
+        {
+          "key": "D",
+          "text": "「固定樣本覆訪研究（panel study）」比「世代研究」更能追蹤研究對象的改變"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q37",
+      "number": 37,
+      "stem": "下列有關方案評估或評估研究的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "評估研究的重點在嚴格的檢視介入方案的適當性、有效性與效率等方案的品質"
+        },
+        {
+          "key": "B",
+          "text": "方案評估影響資金贊助的決策具有高度的政治性，因此應避免利害關係人參與評估的過程"
+        },
+        {
+          "key": "C",
+          "text": "需求評估屬於方案規劃的評估"
+        },
+        {
+          "key": "D",
+          "text": "評估方案的效率可分別從成本效用分析及成本效益分析來達成"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q38",
+      "number": 38,
+      "stem": "下列有關單案研究設計的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "單案研究設計研究對象只有一個，其對象可能是個人、家庭、機構、團體、社區或方案"
+        },
+        {
+          "key": "B",
+          "text": "單案研究設計利用重複測量以求穩定的趨勢可供觀察，對可能的外在因素造成的干擾影響有較好的控制"
+        },
+        {
+          "key": "C",
+          "text": "單案研究設計沒有控制組，在介入前的基線期可視為控制期，介入後的干預期可視為實驗期"
+        },
+        {
+          "key": "D",
+          "text": "ABAB 設計在第二基線期，抽離原有的介入，一段時間後再介入干預，並沒有研究倫理的問題"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q39",
+      "number": 39,
+      "stem": "一個好的研究必須有一定的信賴度（dependability）與一致性（consistency），也就是所謂的信度，下列 何者不是常見的信度類型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "再測（test-retest）信度"
+        },
+        {
+          "key": "B",
+          "text": "分數（score）信度"
+        },
+        {
+          "key": "C",
+          "text": "預測（predictive）信度"
+        },
+        {
+          "key": "D",
+          "text": "折半（split-half）信度"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:106110:c107:s0606:q40",
+      "number": 40,
+      "stem": "下列何種做法未違反研究倫理？",
+      "options": [
+        {
+          "key": "A",
+          "text": "實驗者在受試者不知情狀況下利用單面鏡觀察受試者行為"
+        },
+        {
+          "key": "B",
+          "text": "某研究幫派的研究者拒絕將幫派名單給警察單位"
+        },
+        {
+          "key": "C",
+          "text": "為了讓研究能觀察出受試者的真正行為表現，研究者隱瞞自己研究者身分"
+        },
+        {
+          "key": "D",
+          "text": "為了招募更多的實驗參與者，研究主持人事先告知參與實驗者會有好處"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:106110:c107:s0606:Q",
+      "answerSourceFileId": "社工師:106110:c107:s0606:S",
+      "manualPatch": false
+    }
+  ]
+}

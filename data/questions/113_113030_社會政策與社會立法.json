@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:113030:c103:s0304",
+  "examInstanceId": "社工師:113030:c103",
+  "examTrack": "社工師",
+  "subject": "社會政策與社會立法",
+  "subjectCode": "0304",
+  "yearRoc": 113,
+  "examCode": "113030",
+  "examName": "113年第一次專技人員高等考試營養師、護理師、社會工作師考試",
+  "examAttempt": "第一次",
+  "categoryCode": "103",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113030&c=103&s=0304&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113030&c=103&s=0304&q=1",
+  "questionSourceFileId": "社工師:113030:c103:s0304:Q",
+  "answerSourceFileId": "社工師:113030:c103:s0304:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:113030:c103:s0304:q01",
+      "number": 1,
+      "stem": "在社會正義相關的哲學討論中，提出差異原則的學者是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "羅爾斯（John Rawls）"
+        },
+        {
+          "key": "B",
+          "text": "諾齊克（Robert Nozick）"
+        },
+        {
+          "key": "C",
+          "text": "沈思（Amartya Sen）"
+        },
+        {
+          "key": "D",
+          "text": "海耶克（Friedrich A. Hayek）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q02",
+      "number": 2,
+      "stem": "下列何種敘述不是馬克思主義所強調的重點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認為資本主義國家必須要滿足資本累積和政治合法性兩者互相矛盾的功能"
+        },
+        {
+          "key": "B",
+          "text": "認為福利國家是一種社會控制的手段"
+        },
+        {
+          "key": "C",
+          "text": "福利制度是為了回應世代之間衝突"
+        },
+        {
+          "key": "D",
+          "text": "社會福利會讓人民形成虛假意識"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q03",
+      "number": 3,
+      "stem": "撰寫到奴役之路（The Road to Serfdom），認為政府所推動的公共福利是對自由造成侵害，該學者 為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "伯林（lsaiah Berlin）"
+        },
+        {
+          "key": "B",
+          "text": "海耶克（Friedrich Hayek）"
+        },
+        {
+          "key": "C",
+          "text": "斯密（Adam Smith）"
+        },
+        {
+          "key": "D",
+          "text": "傅利曼（Milton Friedman）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q04",
+      "number": 4,
+      "stem": "布蘭蕭（J. Bradshaw）提出福利服務輸送的四種需求類型，其中將需求感受付諸於行動，這是屬 於何種需求？",
+      "options": [
+        {
+          "key": "A",
+          "text": "規範性需求"
+        },
+        {
+          "key": "B",
+          "text": "表達性需求"
+        },
+        {
+          "key": "C",
+          "text": "比較性需求"
+        },
+        {
+          "key": "D",
+          "text": "感覺性需求"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q05",
+      "number": 5,
+      "stem": "1601 年英國的「伊莉莎白43 號」法案，強調「親屬責任」的精神下，確立並統整既有三大救濟 體系，下列何者非其措施？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對懶惰者加以懲罰"
+        },
+        {
+          "key": "B",
+          "text": "對羸弱者收容在濟貧院中"
+        },
+        {
+          "key": "C",
+          "text": "對身體健壯者要求工作"
+        },
+        {
+          "key": "D",
+          "text": "依麵包價格與家庭人口，補貼工資之不足"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q06",
+      "number": 6,
+      "stem": "美國近代的社會政策發展中，下列相關重要社會政策敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1935 年通過「社會安全法案」，為美國當前社會福利的基礎"
+        },
+        {
+          "key": "B",
+          "text": "美國詹森（Johnson）總統於1964 年開啟對貧窮作戰計畫"
+        },
+        {
+          "key": "C",
+          "text": "1965 年之「醫療補助」（Medicaid）方案，主要提供老人健康保險，由民間經營，政府補助行 政費用"
+        },
+        {
+          "key": "D",
+          "text": "1996 年克林頓（Clinton）政府簽署「個人責任與工作機會協調法案」"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q07",
+      "number": 7,
+      "stem": "關於社會福利提供體系的結構，不包括下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "福利資源提供者"
+        },
+        {
+          "key": "B",
+          "text": "福利接受者或使用者"
+        },
+        {
+          "key": "C",
+          "text": "福利方案評估者"
+        },
+        {
+          "key": "D",
+          "text": "移轉機制"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q08",
+      "number": 8,
+      "stem": "有關英國家庭政策觀點發展之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭保守主義者認為家庭在解組中，希望政策重建傳統的家庭型態"
+        },
+        {
+          "key": "B",
+          "text": "戰後英國福利國家供給制度，其家庭生活模式為男人是全職工作者，女人是全職照顧者"
+        },
+        {
+          "key": "C",
+          "text": "家庭務實主義者認為家庭變遷，代表人們選擇自己想過的生活自由和自主權增大"
+        },
+        {
+          "key": "D",
+          "text": "1970 年代，福利國家政策使得結婚者減少，而單親家庭增加"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q09",
+      "number": 9,
+      "stem": "提出福利的社會分工（Social Division of Welfare）是下列那位學者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "笛姆斯（R. Titmuss）"
+        },
+        {
+          "key": "B",
+          "text": "希爾（M. Hill）"
+        },
+        {
+          "key": "C",
+          "text": "詹森（N. Johnson）"
+        },
+        {
+          "key": "D",
+          "text": "馬歇爾（T. H. Marshall）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q10",
+      "number": 10,
+      "stem": "英國保守黨在2010 年重新執政之後，提出了所謂的大社會（Big Society）的概念，最主要強調下 列那一個福利供給部門？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭"
+        },
+        {
+          "key": "B",
+          "text": "市場部門"
+        },
+        {
+          "key": "C",
+          "text": "志願部門"
+        },
+        {
+          "key": "D",
+          "text": "國家部門"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q11",
+      "number": 11,
+      "stem": "私有化往往會涉及到福利服務的契約化，下列敘述何者比較正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "無法促進福利輸送系統的效率與效益"
+        },
+        {
+          "key": "B",
+          "text": "可以提升社會服務的民主化機制"
+        },
+        {
+          "key": "C",
+          "text": "無法解決缺乏競爭"
+        },
+        {
+          "key": "D",
+          "text": "無法促進福利服務的個別需求"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q12",
+      "number": 12,
+      "stem": "家庭暴力防治法之保護令的聲請，是由下列何種機關負責核發？",
+      "options": [
+        {
+          "key": "A",
+          "text": "法院"
+        },
+        {
+          "key": "B",
+          "text": "檢察機關"
+        },
+        {
+          "key": "C",
+          "text": "警政機關"
+        },
+        {
+          "key": "D",
+          "text": "社政機關"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q13",
+      "number": 13,
+      "stem": "針對新管理主義（new managerialism）的可能缺失，丹哈特夫婦（R. Denhardt and J. Denhardt）提 出下列何種觀點加以補充？",
+      "options": [
+        {
+          "key": "A",
+          "text": "新公共行政"
+        },
+        {
+          "key": "B",
+          "text": "新福利行政"
+        },
+        {
+          "key": "C",
+          "text": "新公共服務"
+        },
+        {
+          "key": "D",
+          "text": "新保守行政"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q14",
+      "number": 14,
+      "stem": "在社會福利脈絡下，網絡治理（network governance）模式的使用者角色，屬於下列那一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "公民"
+        },
+        {
+          "key": "B",
+          "text": "顧客"
+        },
+        {
+          "key": "C",
+          "text": "案主"
+        },
+        {
+          "key": "D",
+          "text": "弱勢者"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q15",
+      "number": 15,
+      "stem": "歐康納（J. O'Connor）將國家支出分成下列那兩大類型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會資本、社會費用"
+        },
+        {
+          "key": "B",
+          "text": "投資支出、福利費用"
+        },
+        {
+          "key": "C",
+          "text": "功能支出、發展資本"
+        },
+        {
+          "key": "D",
+          "text": "移轉資本、消費支出"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q16",
+      "number": 16,
+      "stem": "關於「責信（accountability）」的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "「誰的責信」意指用什麼準則來判斷"
+        },
+        {
+          "key": "B",
+          "text": "「對什麼事的責信」意指如何讓人負起責任"
+        },
+        {
+          "key": "C",
+          "text": "「對誰的責信」意指對上級主管、對服務使用者、對同事、對顧客、對自己等負起責任"
+        },
+        {
+          "key": "D",
+          "text": "「透過什麼手段的責信」意指對金錢、對服務績效負起責任"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q17",
+      "number": 17,
+      "stem": "關於社會安全體系的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會安全可以泛指為一種促成人民以社會團結的形式，來因應所得不足、減少或喪失等風險的 一種集體制度"
+        },
+        {
+          "key": "B",
+          "text": "社會安全體系可分為：繳保費的給付、資產調查的給付、普及的非繳保費與非資產調查的事故 或分類給付"
+        },
+        {
+          "key": "C",
+          "text": "社會安全制度都是使用現金給付的方式"
+        },
+        {
+          "key": "D",
+          "text": "我國社會福利政策綱領宣示，政府應建構以社會保險為主的社會安全體系"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q18",
+      "number": 18,
+      "stem": "關於社會津貼的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會津貼為一種非繳保費、非資產調查的一種制度"
+        },
+        {
+          "key": "B",
+          "text": "社會津貼的給付資格通常根據人口屬性或補償原則"
+        },
+        {
+          "key": "C",
+          "text": "社會津貼的行政通常由政府主導"
+        },
+        {
+          "key": "D",
+          "text": "社會津貼的財源通常來自社會保險基金"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q19",
+      "number": 19,
+      "stem": "下列何者不是長照2.0 的財源方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "菸品健康福利捐"
+        },
+        {
+          "key": "B",
+          "text": "使用者付費"
+        },
+        {
+          "key": "C",
+          "text": "公益彩券盈餘"
+        },
+        {
+          "key": "D",
+          "text": "長照基金孳息收入"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q20",
+      "number": 20,
+      "stem": "學者艾斯平．安德森（Esping-Andersen）指出，1990 年代福利國家要面對新的社會風險，不包括 下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全球化"
+        },
+        {
+          "key": "B",
+          "text": "不平等與社會排除"
+        },
+        {
+          "key": "C",
+          "text": "後物質主義"
+        },
+        {
+          "key": "D",
+          "text": "家庭不穩定"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q21",
+      "number": 21,
+      "stem": "下列何者為老人福利法所規定之老人經濟安全保障的方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "健康保險制度"
+        },
+        {
+          "key": "B",
+          "text": "微型保險制度"
+        },
+        {
+          "key": "C",
+          "text": "年金保險制度"
+        },
+        {
+          "key": "D",
+          "text": "個人儲蓄制度"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q22",
+      "number": 22,
+      "stem": "依據老人福利法規定，下列有關老人受監護或輔助宣告的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "老人有受監護或輔助宣告之必要時，直轄市、縣市主管機關得協助其向法院聲請。受監護或輔 助宣告原因消滅時，直轄市、縣市主管機關得協助進行撤銷宣告之聲請"
+        },
+        {
+          "key": "B",
+          "text": "老人有受監護或輔助宣告之必要時，僅家屬才可向法院提出聲請。受監護或輔助宣告原因消滅 時，必須由聲請者進行撤銷宣告"
+        },
+        {
+          "key": "C",
+          "text": "老人有受監護或輔助宣告之必要時，僅同戶籍者可向法院提出聲請。受監護或輔助宣告原因消 滅時，由同戶籍者進行撤銷宣告之聲請"
+        },
+        {
+          "key": "D",
+          "text": "老人有受監護或輔助宣告之必要時，僅老人直系血親可向法院提出聲請。受監護或輔助宣告原 因消滅時，亦須由老人直系血親進行撤銷宣告之聲請"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q23",
+      "number": 23,
+      "stem": "依據長期照顧服務機構設立標準之規定，社區式及住宿式長照機構，每聘滿多少社會工作人員， 應有1 人以上領有社會工作師證書及執業執照？",
+      "options": [
+        {
+          "key": "A",
+          "text": "4 人"
+        },
+        {
+          "key": "B",
+          "text": "6 人"
+        },
+        {
+          "key": "C",
+          "text": "8 人"
+        },
+        {
+          "key": "D",
+          "text": "10 人"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q24",
+      "number": 24,
+      "stem": "依兒童及少年福利與權益保障法之規定，下列何者不是法定取得居家式托育服務提供者資格的條件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "成年人"
+        },
+        {
+          "key": "B",
+          "text": "修畢托育人員專業訓練課程，並領有結業證書"
+        },
+        {
+          "key": "C",
+          "text": "大學以上幼兒保育、家政、護理相關學程、科、系、所畢業"
+        },
+        {
+          "key": "D",
+          "text": "取得保母人員技術士證"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q25",
+      "number": 25,
+      "stem": "依兒童及少年福利與權益保障法之規定，「兒童及少年福利機構」包括下列那些類別？①托嬰中心 ②幼兒園 ③感化教育機構 ④心理輔導或家庭諮詢機構",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②"
+        },
+        {
+          "key": "B",
+          "text": "①④"
+        },
+        {
+          "key": "C",
+          "text": "②③"
+        },
+        {
+          "key": "D",
+          "text": "③④"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q26",
+      "number": 26,
+      "stem": "依據身心障礙者權益保障法規定，下列何者不是身心障礙者個人支持及照顧服務的辦理目標？",
+      "options": [
+        {
+          "key": "A",
+          "text": "促進障礙者自立生活"
+        },
+        {
+          "key": "B",
+          "text": "促進障礙者社會參與"
+        },
+        {
+          "key": "C",
+          "text": "增加障礙者失能程度"
+        },
+        {
+          "key": "D",
+          "text": "促進障礙者生活品質"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q27",
+      "number": 27,
+      "stem": "依據身心障礙者權益保障法規定，下列何者為直轄市、縣（市）主管機關掌理的事項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全國身心障礙福利服務相關專業人員訓練之規劃事項"
+        },
+        {
+          "key": "B",
+          "text": "全國身心障礙者資料統整及福利服務整合事項"
+        },
+        {
+          "key": "C",
+          "text": "民間參與身心障礙福利服務之推動及協助事項"
+        },
+        {
+          "key": "D",
+          "text": "國際身心障礙福利服務權益保障業務之聯繫、交流及合作事項"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q28",
+      "number": 28,
+      "stem": "下列何者不是身心障礙者權益保障法中，主管機關辦理身心障礙者權益保障事項所應遴聘的對象？",
+      "options": [
+        {
+          "key": "A",
+          "text": "民意代表"
+        },
+        {
+          "key": "B",
+          "text": "醫療院所代表"
+        },
+        {
+          "key": "C",
+          "text": "身心障礙者或其監護人代表"
+        },
+        {
+          "key": "D",
+          "text": "身心障礙福利學者或專家"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q29",
+      "number": 29,
+      "stem": "依據家庭暴力防治法規定，醫事人員、社會工作人員、教育人員、教保服務人員、保育人員、警 察人員、移民業務人員及其他執行家庭暴力防治人員，在執行職務時知有疑似家庭暴力，應立即 通報當地主管機關，至遲不得逾幾小時？",
+      "options": [
+        {
+          "key": "A",
+          "text": "12 小時"
+        },
+        {
+          "key": "B",
+          "text": "24 小時"
+        },
+        {
+          "key": "C",
+          "text": "36 小時"
+        },
+        {
+          "key": "D",
+          "text": "48 小時"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q30",
+      "number": 30,
+      "stem": "依據家庭暴力防治法規定，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將目睹家暴的兒少列入保護對象"
+        },
+        {
+          "key": "B",
+          "text": "將經濟上之騷擾、控制、脅迫納入家庭暴力之範疇"
+        },
+        {
+          "key": "C",
+          "text": "對於加害人之處遇要求親職教育輔導"
+        },
+        {
+          "key": "D",
+          "text": "將通常保護令有效期限延長為5 年，且延長期間為2 年"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q31",
+      "number": 31,
+      "stem": "有關「現金給付」之特性說明，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "現金給付最大優點是自由"
+        },
+        {
+          "key": "B",
+          "text": "福利需求者自行到市場購買，往往可以獲得最大效用的滿足"
+        },
+        {
+          "key": "C",
+          "text": "易於儲存及攜帶，行政相當簡便"
+        },
+        {
+          "key": "D",
+          "text": "選擇性少，易有較大烙印效果"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q32",
+      "number": 32,
+      "stem": "依社會救助法或其他法令，每人每月所領取政府核發之救助總金額，不得超過下列那一項當年政 府公告的標準？",
+      "options": [
+        {
+          "key": "A",
+          "text": "最低生活費"
+        },
+        {
+          "key": "B",
+          "text": "失業給付"
+        },
+        {
+          "key": "C",
+          "text": "中央勞工主管機關公布之最近一次各業初任人員每月平均經常性薪資"
+        },
+        {
+          "key": "D",
+          "text": "基本工資"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q33",
+      "number": 33,
+      "stem": "依據社會工作師法規定，社會工作師因業務上重大過失行為而移付懲戒程序之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會工作師移付懲戒事件，由社會工作師懲戒委員會處理之"
+        },
+        {
+          "key": "B",
+          "text": "社會工作師懲戒委員會應將移付懲戒事件，通知被付懲戒之社會工作師，並限其於通知送達之 翌日起20 日內提出答辯或於指定期日到會陳述"
+        },
+        {
+          "key": "C",
+          "text": "被懲戒人對於社會工作師懲戒委員會之決議有不服者，得於決議書送達之翌日起20 日內，向 社會工作師懲戒覆審委員會請求覆審"
+        },
+        {
+          "key": "D",
+          "text": "社會工作師懲戒委員會之委員，應就不具民意代表身分之社會工作、法學專家學者及社會人士 遴聘之，其中法學專家學者及社會人士之比例不得少於二分之一"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q34",
+      "number": 34,
+      "stem": "依據公益勸募條例規定，針對勸募活動所得財物使用，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "勸募團體在勸募計畫許可後，仍可依勸募團體之設立宗旨使用"
+        },
+        {
+          "key": "B",
+          "text": "應依主管機關許可的使用計畫使用，不得移作他用"
+        },
+        {
+          "key": "C",
+          "text": "依主管機關許可的使用計畫原則彈性使用，但需事後報告主管機關"
+        },
+        {
+          "key": "D",
+          "text": "賸餘款項再執行期限，不得超過5 年"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q35",
+      "number": 35,
+      "stem": "特殊境遇家庭扶助條例所稱特殊境遇家庭，指申請人其家庭總收入按全家人口平均分配，每人每 月未超過政府當年公布最低生活費2.5 倍及臺灣地區平均每人每月消費支出1.5 倍，且家庭財產 未超過中央主管機關公告之一定金額，並具有下列何種情形之一者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭暴力受害"
+        },
+        {
+          "key": "B",
+          "text": "65 歲以上，其配偶死亡"
+        },
+        {
+          "key": "C",
+          "text": "懷胎3 個月以上之已婚婦女"
+        },
+        {
+          "key": "D",
+          "text": "本人曾入獄服刑1 年以上或受拘束人身自由之保安處分1 年以上"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q36",
+      "number": 36,
+      "stem": "依據性侵害犯罪防治法，有關性侵害防治教育課程，包括下列何者？①兩性性器官構造與功能 ②安全性行為與自我保護性知識 ③性別平等之教育 ④學校應運用單一方式進行教學",
+      "options": [
+        {
+          "key": "A",
+          "text": "①③④"
+        },
+        {
+          "key": "B",
+          "text": "②③④"
+        },
+        {
+          "key": "C",
+          "text": "①②④"
+        },
+        {
+          "key": "D",
+          "text": "①②③"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q37",
+      "number": 37,
+      "stem": "依據志願服務法規定，下列何者屬於志工的義務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一視同仁，尊重其自由、尊嚴、隱私及信仰"
+        },
+        {
+          "key": "B",
+          "text": "遵守志願服務運用單位訂定之規章"
+        },
+        {
+          "key": "C",
+          "text": "獲得從事服務之完整資訊"
+        },
+        {
+          "key": "D",
+          "text": "依據工作之性質與特點，確保在適當之安全與衛生條件下從事工作"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q38",
+      "number": 38,
+      "stem": "依據國民年金法規定，當隔代教養之服務家庭，被保險人案祖父或祖母身亡且無其他親屬，下列 被扶養之孫子女，何者無法請領遺屬年金給付？",
+      "options": [
+        {
+          "key": "A",
+          "text": "19 歲高中畢業後，擔任汽修技師培訓人員每月賺取基本工資之收入"
+        },
+        {
+          "key": "B",
+          "text": "21 歲正就讀大學，在加油站打工每月賺取未達基本工資之收入"
+        },
+        {
+          "key": "C",
+          "text": "23 歲正就讀研究所，擔任家教與餐飲店打工，每月賺取未達基本工資之收入"
+        },
+        {
+          "key": "D",
+          "text": "應受被保險人扶養而無謀生能力者"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q39",
+      "number": 39,
+      "stem": "依據長期照顧服務法規定，有關長照服務提供方式之敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "按民眾獨居狀況核定其長照需要等級"
+        },
+        {
+          "key": "B",
+          "text": "按民眾失能程度核定自行負擔的額度"
+        },
+        {
+          "key": "C",
+          "text": "長照服務提供方式分為居家式、社區式、機構住宿式及家庭照顧者支持服務"
+        },
+        {
+          "key": "D",
+          "text": "低收入戶要負擔一定比例的自付費用"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:113030:c103:s0304:q40",
+      "number": 40,
+      "stem": "依據長期照顧服務機構法人條例，長照機構法人之董事會至少多久時間須召開1 次會議？",
+      "options": [
+        {
+          "key": "A",
+          "text": "至少3 個月1 次"
+        },
+        {
+          "key": "B",
+          "text": "至少6 個月1 次"
+        },
+        {
+          "key": "C",
+          "text": "至少1 年1 次"
+        },
+        {
+          "key": "D",
+          "text": "至少2 年3 次"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:113030:c103:s0304:Q",
+      "answerSourceFileId": "社工師:113030:c103:s0304:S",
+      "manualPatch": false
+    }
+  ]
+}

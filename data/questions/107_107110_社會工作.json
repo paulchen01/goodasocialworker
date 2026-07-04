@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:107110:c107:s0601",
+  "examInstanceId": "社工師:107110:c107",
+  "examTrack": "社工師",
+  "subject": "社會工作",
+  "subjectCode": "0601",
+  "yearRoc": 107,
+  "examCode": "107110",
+  "examName": "107年第二次專技人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試、107年專技人員高等考試法醫師、語言治療師、聽力...",
+  "examAttempt": "第二次",
+  "categoryCode": "107",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107110&c=107&s=0601&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=107110&c=107&s=0601&q=1",
+  "questionSourceFileId": "社工師:107110:c107:s0601:Q",
+  "answerSourceFileId": "社工師:107110:c107:s0601:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:107110:c107:s0601:q01",
+      "number": 1,
+      "stem": "社會工作理論所涵蓋或觸及的問題範疇而言，可以分為鉅視層次、居間層次與微觀層次。請問下 列那一個理論與其他理論所屬的層次不同？",
+      "options": [
+        {
+          "key": "A",
+          "text": "基變理論"
+        },
+        {
+          "key": "B",
+          "text": "精神分析理論"
+        },
+        {
+          "key": "C",
+          "text": "認知行為理論"
+        },
+        {
+          "key": "D",
+          "text": "心理暨社會派"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q02",
+      "number": 2,
+      "stem": "同理的溝通是個案會談時常用的技巧之一。有關同理的溝通之敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "同理的溝通主要是要抓取案主當下外顯的感受，不需要發現感覺與行為的意義"
+        },
+        {
+          "key": "B",
+          "text": "依據黑普渥斯（Hepworth）等人的觀點，同理的回應可以分為低層次→中度→高層次三個等級"
+        },
+        {
+          "key": "C",
+          "text": "低層次的同理回應是指回應者針對內在的訊息進行回應"
+        },
+        {
+          "key": "D",
+          "text": "同理與同情的差異在於同理即使境遇不同，也能了解他人的感受與處境"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q03",
+      "number": 3,
+      "stem": "下列何者不是增強權能的觀點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人之所以無法實現自己，主要是源於環境加諸本身的壓迫與限制"
+        },
+        {
+          "key": "B",
+          "text": "個人問題的發生是歸因於個人的缺陷"
+        },
+        {
+          "key": "C",
+          "text": "增強權能取向的實施是要致力於改革壓迫案主的環境或結構"
+        },
+        {
+          "key": "D",
+          "text": "探索個人問題成因，以了解及欣賞個人"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q04",
+      "number": 4,
+      "stem": "下列有關社會工作理論之描述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認知行為理論認為案主現在思考模式和生活型態才是影響問題的主要原因"
+        },
+        {
+          "key": "B",
+          "text": "精神分析觀點認為個人問題是源自於內在的精神衝突與防衛機轉失敗"
+        },
+        {
+          "key": "C",
+          "text": "系統理論著重於個人層面的介入以及強調自我理性的部分"
+        },
+        {
+          "key": "D",
+          "text": "社會網絡干預模型強調運用網絡中的人們，協助案主解決問題"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q05",
+      "number": 5,
+      "stem": "依據社會工作師法規定，社會工作紀錄保存不得少於幾年？",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 年"
+        },
+        {
+          "key": "B",
+          "text": "3 年"
+        },
+        {
+          "key": "C",
+          "text": "7 年"
+        },
+        {
+          "key": "D",
+          "text": "1 年"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q06",
+      "number": 6,
+      "stem": "申請設立社會工作師事務所之社會工作師須具有執行社工相關業務幾年以上之經驗？",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 年"
+        },
+        {
+          "key": "B",
+          "text": "5 年"
+        },
+        {
+          "key": "C",
+          "text": "6 年"
+        },
+        {
+          "key": "D",
+          "text": "7 年"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q07",
+      "number": 7,
+      "stem": "家庭暴力相關理論眾多。若社會工作者認為「家庭暴力的發生主要原因在於男性在社會化過程 中，被教導以先天生理上的優勢及社會文化賦予的資源來征服及控制女性」，則該位社會工作者 偏向以下列那個理論來解讀家庭暴力的發生？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會學習理論"
+        },
+        {
+          "key": "B",
+          "text": "女性主義觀點"
+        },
+        {
+          "key": "C",
+          "text": "依附理論"
+        },
+        {
+          "key": "D",
+          "text": "系統理論"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q08",
+      "number": 8,
+      "stem": "關於社區組織之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "地方發展模式認為社區居民是問題解決過程中的參與者"
+        },
+        {
+          "key": "B",
+          "text": "社會計畫模式的主要目標在於解決實質的社區問題"
+        },
+        {
+          "key": "C",
+          "text": "社會計畫模式認為社區居民扮演消費者或受益人的角色"
+        },
+        {
+          "key": "D",
+          "text": "社會行動模式主要目標偏向以完成自助、社區能量整合之過程目標"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q09",
+      "number": 9,
+      "stem": "關於社會工作理論運用發展的脈絡，如以發展時間序列為指標，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認知行為理論→精神分析理論→人本主義觀點→危機介入模型"
+        },
+        {
+          "key": "B",
+          "text": "人本主義觀點→認知行為理論→危機介入模型→任務中心模型"
+        },
+        {
+          "key": "C",
+          "text": "精神分析觀點→認知行為理論→心理暨社會學派→人本主義觀點"
+        },
+        {
+          "key": "D",
+          "text": "精神分析觀點→危機介入模型→認知行為理論→人本主義觀點"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q10",
+      "number": 10,
+      "stem": "在社會工作倫理的觀點中主張：「倫理標準是基於文化、政治環境、當代的規範與道德標準，以 及其他外在環境等因素考量。所以倫理的考量無法斷言何種信仰或何人的信念優於他人」。請問 這是屬於何種倫理觀點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "目的論（teleological theories）"
+        },
+        {
+          "key": "B",
+          "text": "相對論（relativism）"
+        },
+        {
+          "key": "C",
+          "text": "直覺論（intuitionist）"
+        },
+        {
+          "key": "D",
+          "text": "義務論（de-ontological theories）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q11",
+      "number": 11,
+      "stem": "社會工作發展中，價值觀不斷地轉變。請問下列有關社會工作價值觀取向之描述，何者比較正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會正義取向的價值觀認為資本主義的缺失和種族主義與其他形式的壓迫，產生受剝奪的低下 階層。因此，必須進行基本的社會改革"
+        },
+        {
+          "key": "B",
+          "text": "臨床取向的價值觀著重於對實務工作者的保護"
+        },
+        {
+          "key": "C",
+          "text": "父權主義取向的價值觀認為應該依賴政府或民間的財源幫助案主過有德性、完整且豐富的生活"
+        },
+        {
+          "key": "D",
+          "text": "專業自我保衛取向的價值觀強調價值衝突與倫理兩難的議題"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q12",
+      "number": 12,
+      "stem": "近年來大型災難頻傳，下列有關災難心理衛生觀念何者正確？①一定要受到災難的人才會受到影 響 ②大部分的人在災難後不認為自己需要心理衛生的服務，也不會尋求此方面的協助 ③災難 心理衛生的協助偏向心理層面，而非實際面 ④心理衛生工作人員為了順利介入災難事件的處 理，應該使用心理衛生標籤方式介入 ⑤心理衛生工作人員為了順利介入災難事件的處理，應該 擱置傳統方法，採取積極主動的接觸方式 ⑥介入方式必須適合災難的不同階段",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③④⑤⑥"
+        },
+        {
+          "key": "B",
+          "text": "①②④⑥"
+        },
+        {
+          "key": "C",
+          "text": "②⑤⑥"
+        },
+        {
+          "key": "D",
+          "text": "②④⑥"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q13",
+      "number": 13,
+      "stem": "下列何者於1869 年成立，並展開濟貧與資源整合的工作？",
+      "options": [
+        {
+          "key": "A",
+          "text": "瑪莉（Mary）館"
+        },
+        {
+          "key": "B",
+          "text": "雷根（Regan）館"
+        },
+        {
+          "key": "C",
+          "text": "湯恩比（Toynbee）館"
+        },
+        {
+          "key": "D",
+          "text": "慈善組織會社（Charity Organization Society）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q14",
+      "number": 14,
+      "stem": "評估夫妻或家庭的溝通方式時，必須能夠觀察到非語言的行為，舉例來說，家庭成員對望次數、 注意力的轉移情形、變換姿勢、手勢、聲調等。請問下列案例，先生為那種型態的婚姻溝通方式？ 太太說：對你來說，朋友與工作永遠是最重要的，你卻從來沒有花時間與孩子在一起。 先生說：我有花時間跟小孩子在一起啊！只是你從來都沒注意到。 太太說：你花了一些非常寶貴的且非常少的時間陪孩子，然後迫不及待的回到工作上或朋友一通 電話就出去。 先生說：這星期我已經花了好幾天陪孩子做功課……",
+      "options": [
+        {
+          "key": "A",
+          "text": "防衛型"
+        },
+        {
+          "key": "B",
+          "text": "退縮逃避型"
+        },
+        {
+          "key": "C",
+          "text": "指責型"
+        },
+        {
+          "key": "D",
+          "text": "迂迴型"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q15",
+      "number": 15,
+      "stem": "下列有關「充權」理論的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "充權在社會工作領域中，代表的是協助案主在其生活歷程中獲得力量與權力"
+        },
+        {
+          "key": "B",
+          "text": "充權的引導原則中，其中一種方式便是將重點放在檢視案主的優勢方面"
+        },
+        {
+          "key": "C",
+          "text": "充權主要的焦點只在於消除壓迫案主之環境因素，而非案主個人能力的提升"
+        },
+        {
+          "key": "D",
+          "text": "在充權的過程中，案主必須先相信自己有能力為自己做某些事情，而後才能為自己的生活及生 活以外的事件，增加主導與控制權"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q16",
+      "number": 16,
+      "stem": "面對不斷發生之天然災害，社會工作人員在災難管理中占有不可或缺的角色。若將災難管理依其 階段性之工作分類，社會工作者於災難現場提供物資發放、悲傷輔導等服務，這是屬於那一個階 段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "災難預防期"
+        },
+        {
+          "key": "B",
+          "text": "災難整備期"
+        },
+        {
+          "key": "C",
+          "text": "災難應變期"
+        },
+        {
+          "key": "D",
+          "text": "災難復原期"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q17",
+      "number": 17,
+      "stem": "安寧照護強調所謂「四全」，請問此四全指的是下列那「四全」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全人、全家、全心、全程"
+        },
+        {
+          "key": "B",
+          "text": "全人、全家、全院、全程"
+        },
+        {
+          "key": "C",
+          "text": "全人、全家、全隊、全程"
+        },
+        {
+          "key": "D",
+          "text": "全人、全家、全心、全隊"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q18",
+      "number": 18,
+      "stem": "家事事件法是民事訴訟法中新增的法律，但其對於身心障礙保護與安置、家庭暴力事件、兒童保 護皆有相關。請問下列關於家事事件法之敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家事事件法將事件分為甲、乙、丙、丁四類"
+        },
+        {
+          "key": "B",
+          "text": "設立家事調查官，協助法官分析家事事件個案所需之專業輔助"
+        },
+        {
+          "key": "C",
+          "text": "為保護未成年子女權利義務行使或負擔，當未成年子女為當事人，也得以設置程序監理人"
+        },
+        {
+          "key": "D",
+          "text": "為緩和未成年人情緒及心理壓力，法院於必要時，應通知主管機關指派社工人員或其他適當人 員陪同在場"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q19",
+      "number": 19,
+      "stem": "關於聯合國身心障礙者權利公約第19 條「自立生活與融合社區」之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "身心障礙者可平等的使用政府為大眾所提供的社區服務及設施"
+        },
+        {
+          "key": "B",
+          "text": "身心障礙者行動不便，且需要他人照顧，所以可由家人代為決定其居住地點"
+        },
+        {
+          "key": "C",
+          "text": "身心障礙者有權選擇居住的地方及與何人一起生活"
+        },
+        {
+          "key": "D",
+          "text": "身心障礙者享有各種居家、住所和其他社區支持服務，以支持於社區生活及融合社區"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q20",
+      "number": 20,
+      "stem": "一位害羞，社交較為退縮的少年參加社會化團體，可以藉由下列那一項主要的活動，來獲得改善？",
+      "options": [
+        {
+          "key": "A",
+          "text": "參與團體個案研討的活動"
+        },
+        {
+          "key": "B",
+          "text": "提升社會技巧的活動"
+        },
+        {
+          "key": "C",
+          "text": "治療情緒障礙的活動"
+        },
+        {
+          "key": "D",
+          "text": "與團體成員合作，以滿足社區需求的活動"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q21",
+      "number": 21,
+      "stem": "社會工作可分為七大階段，請問尋求澄清、反應內容與感受是屬於那一階段主要使用的技巧？",
+      "options": [
+        {
+          "key": "A",
+          "text": "開始期"
+        },
+        {
+          "key": "B",
+          "text": "探索期"
+        },
+        {
+          "key": "C",
+          "text": "執行和評估期"
+        },
+        {
+          "key": "D",
+          "text": "結束期"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q22",
+      "number": 22,
+      "stem": "下列關於家庭系統理論的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭系統理論中的輸入系統是指家庭功能"
+        },
+        {
+          "key": "B",
+          "text": "要了解或接近一個家庭需要從整個社會生活環境來看"
+        },
+        {
+          "key": "C",
+          "text": "家庭系統理論探討的包含家庭的範圍、關係、權力、角色"
+        },
+        {
+          "key": "D",
+          "text": "家庭系統理論主要是要使專業人員了解一個家庭為什麼變成現在這樣，並了解從那裡介入是阻 力和衝擊最少的切入點"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q23",
+      "number": 23,
+      "stem": "設立胡爾（Hull）館的是下列那一位？",
+      "options": [
+        {
+          "key": "A",
+          "text": "珍．亞當斯（Jane Addams）"
+        },
+        {
+          "key": "B",
+          "text": "珍．芮奇孟（Jane Richmond）"
+        },
+        {
+          "key": "C",
+          "text": "瑪麗．芮奇孟（Mary Richmond）"
+        },
+        {
+          "key": "D",
+          "text": "亨利．亞當斯（Henry Addams）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q24",
+      "number": 24,
+      "stem": "早期慈善組織會社（COS）主要採取的是下列何種原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "佛洛依德（Freud）的心理分析原則"
+        },
+        {
+          "key": "B",
+          "text": "高蘭（Golan）的危機介入原則"
+        },
+        {
+          "key": "C",
+          "text": "查墨斯（Thomas Chalmers）的睦鄰原則"
+        },
+        {
+          "key": "D",
+          "text": "巴克雷（Barclay）的社會照顧計畫原則"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q25",
+      "number": 25,
+      "stem": "莫勒斯與西佛（Morales & Sheafor, 1998）說社會工作者有三個主要使命（3C）。下列何者不在 其中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "治療（Curing）"
+        },
+        {
+          "key": "B",
+          "text": "改變社會（Changing the Society）"
+        },
+        {
+          "key": "C",
+          "text": "照顧（Caring）"
+        },
+        {
+          "key": "D",
+          "text": "導引（Channeling）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q26",
+      "number": 26,
+      "stem": "下列何者不屬於「老人福利法」中所規定的老人照顧服務原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全人照顧"
+        },
+        {
+          "key": "B",
+          "text": "健康促進"
+        },
+        {
+          "key": "C",
+          "text": "社會參與"
+        },
+        {
+          "key": "D",
+          "text": "安全舒適"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q27",
+      "number": 27,
+      "stem": "主張「從改善人們和外在環境的適當配合（Fit）」開始，是下列何種模式的說法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "生活模型"
+        },
+        {
+          "key": "B",
+          "text": "問題解決模型"
+        },
+        {
+          "key": "C",
+          "text": "優勢模型"
+        },
+        {
+          "key": "D",
+          "text": "依附模型"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q28",
+      "number": 28,
+      "stem": "下列那項是行政院所通過長照2.0 計畫中的新增服務項目？",
+      "options": [
+        {
+          "key": "A",
+          "text": "居家護理"
+        },
+        {
+          "key": "B",
+          "text": "復健服務"
+        },
+        {
+          "key": "C",
+          "text": "小規模多機能"
+        },
+        {
+          "key": "D",
+          "text": "喘息服務"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q29",
+      "number": 29,
+      "stem": "下列何者是錯誤的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "慈善組織會社（Charity Organization Society）成立於1769 年"
+        },
+        {
+          "key": "B",
+          "text": "湯恩比（Toynbee）館成立於1884 年"
+        },
+        {
+          "key": "C",
+          "text": "慈善組織會社（Charity Organization Society）成立於倫敦"
+        },
+        {
+          "key": "D",
+          "text": "胡爾（Hull）館成立於芝加哥"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q30",
+      "number": 30,
+      "stem": "下列有關家庭生命週期與現代社會的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Duvall 將家庭生命週期分為：建立、初為父母、子女學前、子女學齡、子女青少年、子女遷 出、中年父母與退休八個階段"
+        },
+        {
+          "key": "B",
+          "text": "空巢期是指子女獨立離家"
+        },
+        {
+          "key": "C",
+          "text": "子女長大離家是屬於家庭生命週期的擴張期第五階段"
+        },
+        {
+          "key": "D",
+          "text": "收縮期的任務包括退休生活的安排、與成年子女關係的調整等"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q31",
+      "number": 31,
+      "stem": "下列有關樓溫伯格（Lowenberg）和道格夫（Dolgoff）對於社會工作倫理抉擇原則的敘述，何者 正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "「保護生命原則」與「保密原則」何者重要，需視狀況而定"
+        },
+        {
+          "key": "B",
+          "text": "「保護生命原則」與「保密原則」是同等重要的"
+        },
+        {
+          "key": "C",
+          "text": "「保密原則」比「保護生命原則」重要"
+        },
+        {
+          "key": "D",
+          "text": "「保護生命原則」比「保密原則」重要"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q32",
+      "number": 32,
+      "stem": "下列有關多元文化社會工作的敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "多元文化社會工作的發展是因應膚色社區的衝突與挑戰而來"
+        },
+        {
+          "key": "B",
+          "text": "種族中心觀點認為主張多元差異"
+        },
+        {
+          "key": "C",
+          "text": "第一本族群敏感的社會工作書籍是由狄沃與薛勒辛格（Devore and Schlesinger）所著"
+        },
+        {
+          "key": "D",
+          "text": "族群覺醒觀點的社會工作是為了因應族群敏感的社會工作而生"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q33",
+      "number": 33,
+      "stem": "小名是一位精神病人，拒絕被安置到精神護理之家。但臨床工作者受家屬要求，拒絕小名自行辦 理結案手續。該名臨床工作者違反了下列那項身心障礙者權利公約的規定？",
+      "options": [
+        {
+          "key": "A",
+          "text": "尊重隱私"
+        },
+        {
+          "key": "B",
+          "text": "人身自由與安全"
+        },
+        {
+          "key": "C",
+          "text": "個人行動能力"
+        },
+        {
+          "key": "D",
+          "text": "教育"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q34",
+      "number": 34,
+      "stem": "社會工作中的「任務中心模型」（task-centered model）包括下列何種要素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "策略、經費、方法、績效"
+        },
+        {
+          "key": "B",
+          "text": "目標、人力、經費、方案"
+        },
+        {
+          "key": "C",
+          "text": "工作、經費、目標、績效"
+        },
+        {
+          "key": "D",
+          "text": "問題、目標、任務、時限"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q35",
+      "number": 35,
+      "stem": "下列有關「家庭暴力防治法」中保護令規定的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "保護令可分為暫時保護令、緊急保護令及通常保護令"
+        },
+        {
+          "key": "B",
+          "text": "法官為保護被害人，得於通常保護令審理終結前，依聲請或職權核發暫時保護令"
+        },
+        {
+          "key": "C",
+          "text": "通常保護令有效期間為兩年以下，得依需要聲請延長"
+        },
+        {
+          "key": "D",
+          "text": "法院若認為被害人有受家庭暴力之急迫危險者，應於24 小時內以書面核發緊急保護令"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q36",
+      "number": 36,
+      "stem": "亞隆（Yalom）針對團體心理治療提出十個治療因子，請問若是參與的團體成員因為參加團體， 而覺得他對其他成員有所幫助，並從而提升自尊，請問這是屬於那一個治療因子？",
+      "options": [
+        {
+          "key": "A",
+          "text": "普同性"
+        },
+        {
+          "key": "B",
+          "text": "利他性"
+        },
+        {
+          "key": "C",
+          "text": "資訊的傳授"
+        },
+        {
+          "key": "D",
+          "text": "情緒的宣洩"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q37",
+      "number": 37,
+      "stem": "認知治療中的ABC 理論，其ABC 所指為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "A 態度B 行為C 改變"
+        },
+        {
+          "key": "B",
+          "text": "A 態度B 信念C 改變"
+        },
+        {
+          "key": "C",
+          "text": "A 前因B 行為C 改變"
+        },
+        {
+          "key": "D",
+          "text": "A 前因B 信念C 後果"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q38",
+      "number": 38,
+      "stem": "下列何者不是「問題解決模型」所強調的面向？",
+      "options": [
+        {
+          "key": "A",
+          "text": "解決問題的機率（probability）"
+        },
+        {
+          "key": "B",
+          "text": "等待處理的問題（problem）"
+        },
+        {
+          "key": "C",
+          "text": "一起工作的人（person）"
+        },
+        {
+          "key": "D",
+          "text": "工作的過程（process）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q39",
+      "number": 39,
+      "stem": "所謂「防衛機轉」（defense mechanism）不包括下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "分析（analysis）"
+        },
+        {
+          "key": "B",
+          "text": "投射（projection）"
+        },
+        {
+          "key": "C",
+          "text": "替代（displacement）"
+        },
+        {
+          "key": "D",
+          "text": "壓抑（repression）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107110:c107:s0601:q40",
+      "number": 40,
+      "stem": "下列有關社會工作教育訓練的描述，那一項是正確的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1898 年倫敦成立第一個慈善組織會社，開始提供睦鄰服務"
+        },
+        {
+          "key": "B",
+          "text": "1898 年美國敦親睦鄰員協會設立，成為美國第一個社工專業組織"
+        },
+        {
+          "key": "C",
+          "text": "1898 年紐約慈善組織會社於哥倫比亞大學首開社工員專業教育訓練"
+        },
+        {
+          "key": "D",
+          "text": "1898 年美國「全國社工員協會」成立，成為美國第一個社工專業組織"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107110:c107:s0601:Q",
+      "answerSourceFileId": "社工師:107110:c107:s0601:S",
+      "manualPatch": false
+    }
+  ]
+}

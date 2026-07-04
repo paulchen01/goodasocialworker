@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:107030:c107:s0602",
+  "examInstanceId": "社工師:107030:c107",
+  "examTrack": "社工師",
+  "subject": "社會工作直接服務",
+  "subjectCode": "0602",
+  "yearRoc": 107,
+  "examCode": "107030",
+  "examName": "107年第一次專技人員高等考試中醫師考試分階段考試、營養師、心理師、護理師、社會工作師考試",
+  "examAttempt": "第一次",
+  "categoryCode": "107",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107030&c=107&s=0602&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=107030&c=107&s=0602&q=1",
+  "questionSourceFileId": "社工師:107030:c107:s0602:Q",
+  "answerSourceFileId": "社工師:107030:c107:s0602:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:107030:c107:s0602:q01",
+      "number": 1,
+      "stem": "「對於助人的專業關係並不重視，認為工作者與案主的關係是專家對案主的關係，工作者必須保持客觀、 控制自己的情緒來幫助案主，使其可以頓悟及解決內心衝突」，以上敘述是屬於下列那種社會工作實施 理論的觀點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "功能學派"
+        },
+        {
+          "key": "B",
+          "text": "問題解決學派"
+        },
+        {
+          "key": "C",
+          "text": "行為修正學派"
+        },
+        {
+          "key": "D",
+          "text": "診斷學派"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q02",
+      "number": 2,
+      "stem": "關於自我表露（self-disclosure），下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自我表露指的是社工者透過口語及非口語的方式，有意且有目的的透露自己的相關訊息給案主知道"
+        },
+        {
+          "key": "B",
+          "text": "自我表露的類型可分為立即性（immediacy）以及個人性的自我表露（personal self-disclosure）"
+        },
+        {
+          "key": "C",
+          "text": "自我表露要以誠實為基礎來運作，不論是否會威脅到專業關係"
+        },
+        {
+          "key": "D",
+          "text": "自我表露會提出與案主互動過程中對於案主的看法，帶有分享與面質的意味"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q03",
+      "number": 3,
+      "stem": "面對倫理兩難的困境，Lowenberg 和Dolgoff（1992）將①自決自主原則、②生命品質原則、③保護案主 案家生命、④平等待遇原則、⑤最小傷害原則、⑥真誠原則以及⑦隱私保密原則等七大項倫理規範排出 優先順序，以下何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "③④⑤①②⑦⑥"
+        },
+        {
+          "key": "B",
+          "text": "③④①⑤②⑦⑥"
+        },
+        {
+          "key": "C",
+          "text": "③⑤④①②⑦⑥"
+        },
+        {
+          "key": "D",
+          "text": "③⑤①④②⑦⑥"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q04",
+      "number": 4,
+      "stem": "關於個案管理（case management）與社會個案工作的比較，以下何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個案管理更注重人與環境，必要時會將環境因素納入處遇策略"
+        },
+        {
+          "key": "B",
+          "text": "個案管理者通常被期待成為通才，而非專家角色"
+        },
+        {
+          "key": "C",
+          "text": "個案管理更重視資源的連結與運用"
+        },
+        {
+          "key": "D",
+          "text": "個案管理對問題的解決大多採直接服務的方式，特別是以任務導向的短期處遇"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q05",
+      "number": 5,
+      "stem": "在接案會談（intake interview）中，下列何者非社會工作者該做的事？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對於案主的問題儘可能地深入探詢與瞭解"
+        },
+        {
+          "key": "B",
+          "text": "與案主建立信賴的關係"
+        },
+        {
+          "key": "C",
+          "text": "若非機構職掌範圍則可協助轉介"
+        },
+        {
+          "key": "D",
+          "text": "介紹機構的功能與服務進行的方式"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q06",
+      "number": 6,
+      "stem": "關於會談中「面質」（confronting）技巧的運用，以下敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "要在已和案主有良好關係後才使用"
+        },
+        {
+          "key": "B",
+          "text": "面質前後使用同理心技巧有助面質成功"
+        },
+        {
+          "key": "C",
+          "text": "可能會造成與案主的對立，因此應避免使用"
+        },
+        {
+          "key": "D",
+          "text": "使用時機為當案主在會談過程中表現出不一致或過度防衛行為時"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q07",
+      "number": 7,
+      "stem": "關於案主的自我決定（self-determination），以下敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "案主自我決定是基於案主的能力做積極建設的決定"
+        },
+        {
+          "key": "B",
+          "text": "自我決定是社會個案工作的價值，無論如何均要予以尊重"
+        },
+        {
+          "key": "C",
+          "text": "為了讓案主能自我決定，工作者需引導案主看清自己的問題和需要所在，瞭解有那些資源可運用，引 發案主的分辨力"
+        },
+        {
+          "key": "D",
+          "text": "營造能使案主成長，解決自己問題的信賴關係的工作環境很重要"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q08",
+      "number": 8,
+      "stem": "依團體目的（purpose），可將組成團體（formed groups）分為治療性團體（treatment group）以及任務性 團體（task group）。以下何者屬任務性團體的類型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "跨專業的治療會議"
+        },
+        {
+          "key": "B",
+          "text": "安養機構的住民會議"
+        },
+        {
+          "key": "C",
+          "text": "唐氏症兒童的家長團體"
+        },
+        {
+          "key": "D",
+          "text": "病患適應團體"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q09",
+      "number": 9,
+      "stem": "系統理論嘗試將團體視為互動元素的一個體系。根據Parsons、Bales 及Shils（1953）的觀點，團體體系 必須要完成四個主要功能性的任務，並維持平衡狀態。下列何者非其任務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "整合（integration）"
+        },
+        {
+          "key": "B",
+          "text": "應用（application）"
+        },
+        {
+          "key": "C",
+          "text": "適應（adaptation）"
+        },
+        {
+          "key": "D",
+          "text": "目標達成（goal attainment）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q10",
+      "number": 10,
+      "stem": "根據Papell 和Rothman（1962）的團體工作實務模型分類，｢失智症家屬互助團體」屬於下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會目標模型（social goals model）"
+        },
+        {
+          "key": "B",
+          "text": "治療模型（remedial model）"
+        },
+        {
+          "key": "C",
+          "text": "交互模型（reciprocal model）"
+        },
+        {
+          "key": "D",
+          "text": "發展途徑（development approach）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q11",
+      "number": 11,
+      "stem": "雖然凝聚力對於團體有許多好處，但工作者亦需留意其所造成的負面影響，以下何者不是凝聚力的負面 影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "團體思考（group think）"
+        },
+        {
+          "key": "B",
+          "text": "第三隻耳朵（third ear）"
+        },
+        {
+          "key": "C",
+          "text": "對團體的依賴"
+        },
+        {
+          "key": "D",
+          "text": "同儕壓力"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q12",
+      "number": 12,
+      "stem": "團體開始階段的特徵是團體情感的出現，若團體成員渴望成為團體的一份子，但卻又希望保有其自主權， 此狀況稱為什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "推磨過程（milling process）"
+        },
+        {
+          "key": "B",
+          "text": "動態性平衡（dynamic equilibrium）"
+        },
+        {
+          "key": "C",
+          "text": "抗拒型依附（resistant attachment）"
+        },
+        {
+          "key": "D",
+          "text": "趨避衝突（approach-avoidance conflict）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q13",
+      "number": 13,
+      "stem": "協同領導（coleadership）雖有許多好處，但也有潛存的傷害，透過安排可以避免不利的產生，以下敘述 何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "協同領導者以擁有平等的地位和經驗為佳"
+        },
+        {
+          "key": "B",
+          "text": "需定期一起計畫與溝通相關事宜"
+        },
+        {
+          "key": "C",
+          "text": "應基於團體的需要來決定安排協同領導"
+        },
+        {
+          "key": "D",
+          "text": "以類似性來搭配能讓領導風格一致"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q14",
+      "number": 14,
+      "stem": "關於湯恩比館（Toynbee Hall）對社區工作的重要啟示，以下何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "視社區情況發展及需要而訂定工作計畫"
+        },
+        {
+          "key": "B",
+          "text": "強調助人者要與受助的貧民一同生活"
+        },
+        {
+          "key": "C",
+          "text": "涉及對政府及階級結構的反省"
+        },
+        {
+          "key": "D",
+          "text": "強調激發受助者對改變困境的盼望，貧民需為改變而行動"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q15",
+      "number": 15,
+      "stem": "社區工作者協助社區推動工作，不同階段扮演著不同的角色，以下何者非起步階段的角色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "研究者"
+        },
+        {
+          "key": "B",
+          "text": "使能者"
+        },
+        {
+          "key": "C",
+          "text": "親善者"
+        },
+        {
+          "key": "D",
+          "text": "資料蒐集者"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q16",
+      "number": 16,
+      "stem": "以下何者非社區需求調查的常見方法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "實驗法（Experimental method）"
+        },
+        {
+          "key": "B",
+          "text": "社會與健康指標分析法（social and health indicator analysis）"
+        },
+        {
+          "key": "C",
+          "text": "名目團體技術（nominal group techniques）"
+        },
+        {
+          "key": "D",
+          "text": "德菲法（Delphi technique）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q17",
+      "number": 17,
+      "stem": "下列何者可以說明個案紀錄的功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "依據紀錄內容有不同的紀錄要點與格式"
+        },
+        {
+          "key": "B",
+          "text": "紀錄內容能成為教學與研究的重要資料"
+        },
+        {
+          "key": "C",
+          "text": "依據服務過程，應該有不同的紀錄格式"
+        },
+        {
+          "key": "D",
+          "text": "在司法的要求下方得以提供紀錄的內容"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q18",
+      "number": 18,
+      "stem": "根據Jonathan Bradshaw 的需求分類，「透過問卷調查瞭解社區居民對於托育服務的需要」，屬於下列那 一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "規範性需求（normal need）"
+        },
+        {
+          "key": "B",
+          "text": "感覺性需求（felt need）"
+        },
+        {
+          "key": "C",
+          "text": "表達性需求（expressed need）"
+        },
+        {
+          "key": "D",
+          "text": "比較性需求（comparative need）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q19",
+      "number": 19,
+      "stem": "關於美國學者克里茲曼與麥克奈（Kretzmann & Mcknight）在1993 年提出的「以資產為基礎的社區發展」 （Asset-Based Community Development, ABCD）模式，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "以「社區問題與需求」為取向"
+        },
+        {
+          "key": "B",
+          "text": "以夥伴關係來推動"
+        },
+        {
+          "key": "C",
+          "text": "社區資產包含居民、硬體、組織和生活"
+        },
+        {
+          "key": "D",
+          "text": "以社區內部為焦點"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q20",
+      "number": 20,
+      "stem": "關於「福利社區化」的敘述，以下何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "根據「推動社會福利社區化實施要點」的內容，更名為「福利服務社區化」更為名實相符"
+        },
+        {
+          "key": "B",
+          "text": "服務可近性、社會整合以及福利社會的具體實踐是其目的"
+        },
+        {
+          "key": "C",
+          "text": "福利社區化包含了在社區中服務（service in the community）以及由社區來服務（service by the community）兩大意涵"
+        },
+        {
+          "key": "D",
+          "text": "政府80 年代以來的社會福利政策之一，參酌社區照顧的理念，希望社區組織成為「由社區照顧」的服 務提供者"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q21",
+      "number": 21,
+      "stem": "對於Rothman 所提出的社區工作模式，下列何者說法正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社工員在社會行動的工作模式裡的角色是非主導性的輔助者"
+        },
+        {
+          "key": "B",
+          "text": "社會計畫模式是以公眾利益為依歸，所以是由下而上的改變"
+        },
+        {
+          "key": "C",
+          "text": "社會行動模式所使用的抗議性行動包含有公民抗命、杯葛等"
+        },
+        {
+          "key": "D",
+          "text": "社區居民在社區發展的模式裡，是促成改變的重要媒介之一"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q22",
+      "number": 22,
+      "stem": "對於社區工作的實踐原則，以下說法何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "為了達成民主及理性的社區行動，社會工作者應讓不同年齡層居民都能一人一票參與社區事務決定"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者應儘可能地讓社區內的不同群體都獲得參與的機會，才能達成廣泛性和包容性參與原則"
+        },
+        {
+          "key": "C",
+          "text": "社會工作者要能尊重社區居民的自我決定，即使該決定對社區不利，社會工作者也不應該介入干涉"
+        },
+        {
+          "key": "D",
+          "text": "所謂的實踐原則指的是社會工作者在執行工作時要遵守的規則，與社會工作者的工作準則是不同的"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q23",
+      "number": 23,
+      "stem": "下列那個選項內容均為個案工作開案階段要處理的工作項目？①確認案主問題與機構服務相符 ②查 閱案主相關紀錄 ③進行開案會談 ④簽訂服務契約 ⑤連結案主所需要的資源 ⑥瞭解案主的服務 期待",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③"
+        },
+        {
+          "key": "B",
+          "text": "②③④"
+        },
+        {
+          "key": "C",
+          "text": "③④⑤"
+        },
+        {
+          "key": "D",
+          "text": "④⑤⑥"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q24",
+      "number": 24,
+      "stem": "對於個案工作的資料蒐集和評估（assessment）階段，下列何者敘述錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社工員和案主所進行的會談是蒐集資料很重要的方式"
+        },
+        {
+          "key": "B",
+          "text": "此階段的評估結果涉及到處遇計畫擬定，不可以變更"
+        },
+        {
+          "key": "C",
+          "text": "為了蒐集資料，可能需要到案主的生活場域進行訪視"
+        },
+        {
+          "key": "D",
+          "text": "社工員所繪製的家系圖、生態圖都是幫助評估的工具"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q25",
+      "number": 25,
+      "stem": "McLeod 和Meyer 在1967 年曾提出十組社會工作專業的價值衝突，下列何者敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "相對、實用論或文化決定論之間的衝突"
+        },
+        {
+          "key": "B",
+          "text": "個人獨立或團體責任之間的衝突"
+        },
+        {
+          "key": "C",
+          "text": "重視過程或強調結果之間的衝突"
+        },
+        {
+          "key": "D",
+          "text": "個人本能論或傳統主義之間的衝突"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q26",
+      "number": 26,
+      "stem": "社會工作非常重視專業關係，請找出社會工作專業關係錯誤的描述：",
+      "options": [
+        {
+          "key": "A",
+          "text": "指的是社工員和案主之間相互影響的情緒狀態"
+        },
+        {
+          "key": "B",
+          "text": "社工員對案主的接納度有助於正向關係的建立"
+        },
+        {
+          "key": "C",
+          "text": "社工員和案主在此關係中應該是一種夥伴關係"
+        },
+        {
+          "key": "D",
+          "text": "是同時滿足案主和社工員自身需求的服務基礎"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q27",
+      "number": 27,
+      "stem": "關於次團體（subgroup），以下敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "次團體的形成表示團體不能迎合需求"
+        },
+        {
+          "key": "B",
+          "text": "團體中的成員會因情感連結和利益上的結盟而形成各個次團體"
+        },
+        {
+          "key": "C",
+          "text": "次團體的形成在治療性團體特別能發揮效用"
+        },
+        {
+          "key": "D",
+          "text": "次團體的吸引力過強，可能導致團體分裂或瓦解"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q28",
+      "number": 28,
+      "stem": "Perlman（1973）認為問題解決學派（Problem-solving Approach）的社會個案工作包含四個重要元素，簡 稱4P，以下何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "計畫（plan）"
+        },
+        {
+          "key": "B",
+          "text": "個人（a person）"
+        },
+        {
+          "key": "C",
+          "text": "機構（a place）"
+        },
+        {
+          "key": "D",
+          "text": "問題（problems）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q29",
+      "number": 29,
+      "stem": "社會工作者在個案工作中，對案主提供協助之前，必須對個人進行評估，下列何者的陳述錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "因為人和環境交互影響，所以個人評估也要包含環境面向"
+        },
+        {
+          "key": "B",
+          "text": "案主說謊、辯解、責怪他人等防衛性反應會影響評估結果"
+        },
+        {
+          "key": "C",
+          "text": "外貌是重要的訊息，可以決定某些協助對象的需求或類型"
+        },
+        {
+          "key": "D",
+          "text": "在進行評估時，應對特殊需求的個案提供參與評估的機會"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q30",
+      "number": 30,
+      "stem": "社會工作常需要面對非自願案主，在與其會談時要注意的是：",
+      "options": [
+        {
+          "key": "A",
+          "text": "強調社工員對案主的社會控制權力"
+        },
+        {
+          "key": "B",
+          "text": "告知案主，社工員在保密上的限制"
+        },
+        {
+          "key": "C",
+          "text": "尊重案主的自我決定權不加以干涉"
+        },
+        {
+          "key": "D",
+          "text": "不花過多時間給沒有改變意願案主"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q31",
+      "number": 31,
+      "stem": "下列何者不是團體方案產生的原因？",
+      "options": [
+        {
+          "key": "A",
+          "text": "基於案主的需求"
+        },
+        {
+          "key": "B",
+          "text": "考量社區的需求"
+        },
+        {
+          "key": "C",
+          "text": "機構的服務使命"
+        },
+        {
+          "key": "D",
+          "text": "社工員自己的需求"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q32",
+      "number": 32,
+      "stem": "下列何者對任務中心的陳述是正確的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是一種短期處遇模式，處遇期不多於4-8 週的期程"
+        },
+        {
+          "key": "B",
+          "text": "不適合用來協助案主解決其社會關係不滿足的問題"
+        },
+        {
+          "key": "C",
+          "text": "任務指的是案主為緩和問題的嚴重性所採取的行動"
+        },
+        {
+          "key": "D",
+          "text": "在處遇上，會運用嚴謹的實務架構提供協助給案主"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q33",
+      "number": 33,
+      "stem": "下列對個案工作訪視的描述，那些是正確的？①是為了瞭解或促進案主適應的相關情況而使用的方法之 一 ②像是病人因為都在醫院獲得協助，所以不用進行家庭訪視 ③社工員進行訪視時，也必須要考量 到自己的人身安全風險 ④為了瞭解案主的真實情況，社工員要安排出其不意地訪視 ⑤家庭訪視的焦 點雖是在家庭，也要瞭解其所在的社區環境 ⑥社工員進行訪視時，要選擇類似會談室的場合進行訪視",
+      "options": [
+        {
+          "key": "A",
+          "text": "①③⑤"
+        },
+        {
+          "key": "B",
+          "text": "②④⑥"
+        },
+        {
+          "key": "C",
+          "text": "④⑤⑥"
+        },
+        {
+          "key": "D",
+          "text": "①②③"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q34",
+      "number": 34,
+      "stem": "下列何者對於危機調適模式概念和運用的陳述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小學轉換國中就讀階段，就可能產生情境性危機（situational crisis）"
+        },
+        {
+          "key": "B",
+          "text": "和優勢觀點一致，認為案主有能力積極參與處遇"
+        },
+        {
+          "key": "C",
+          "text": "危機調適可以運用在天災和角色執行困難的議題"
+        },
+        {
+          "key": "D",
+          "text": "危機是指人無法處理並出現身心狀態失衡的問題"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q35",
+      "number": 35,
+      "stem": "下列對團體工作的價值與倫理議題說明，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "團體工作者應該要保護團體成員在團體中不受傷害"
+        },
+        {
+          "key": "B",
+          "text": "團體工作者要避免因自身利益剝削成員應有的權益"
+        },
+        {
+          "key": "C",
+          "text": "團體工作者應該告知成員在團體中履行保密的限制"
+        },
+        {
+          "key": "D",
+          "text": "團體的決定有風險時，團體工作者都應尊重不介入"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q36",
+      "number": 36,
+      "stem": "下列對團體工作結束的相關議題，何者陳述正確？①團體結束讓成員感覺失落沒有希望感 ②團體的結 束通常是有明確具體期程 ③團體目標達成就是團體要結束的時候 ④團體工作者要強化成員彼此的凝 聚力",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②"
+        },
+        {
+          "key": "B",
+          "text": "②③"
+        },
+        {
+          "key": "C",
+          "text": "③④"
+        },
+        {
+          "key": "D",
+          "text": "①④"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q37",
+      "number": 37,
+      "stem": "對於社會團體工作成效，下列何者的陳述是正確的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "團體成效評估並不應該是團體工作者要執行的工作任務"
+        },
+        {
+          "key": "B",
+          "text": "團體工作的成效評估重點是為回應經費補助單位而非成員"
+        },
+        {
+          "key": "C",
+          "text": "團體出席率、記錄和滿意度量表都是評估團體成效的資料"
+        },
+        {
+          "key": "D",
+          "text": "團體的成效評估是在團體結束時進行，並不包含後續追蹤"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q38",
+      "number": 38,
+      "stem": "下列何者屬於社區照顧可能會運用到的正式資源？①社區發展協會 ②鄰居 ③臨托中心 ④家族成員 ⑤在宅服務 ⑥朋友",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③"
+        },
+        {
+          "key": "B",
+          "text": "④⑤⑥"
+        },
+        {
+          "key": "C",
+          "text": "①③⑤"
+        },
+        {
+          "key": "D",
+          "text": "②④⑥"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q39",
+      "number": 39,
+      "stem": "對於社區的功能，下列何者說法正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社區的社會控制功能讓居民相互扶持"
+        },
+        {
+          "key": "B",
+          "text": "社區的情感功能讓居民和社會有聯繫"
+        },
+        {
+          "key": "C",
+          "text": "教育功能保持居民的行為和思想穩定"
+        },
+        {
+          "key": "D",
+          "text": "經濟功能讓社區居民能進行商業活動"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:107030:c107:s0602:q40",
+      "number": 40,
+      "stem": "下列那一項不是社區工作的價值觀？",
+      "options": [
+        {
+          "key": "A",
+          "text": "互助、共享與社區關懷"
+        },
+        {
+          "key": "B",
+          "text": "民主、自決與民眾參與"
+        },
+        {
+          "key": "C",
+          "text": "強調社會責任感與犧牲"
+        },
+        {
+          "key": "D",
+          "text": "重視社會制度的福利承擔"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:107030:c107:s0602:Q",
+      "answerSourceFileId": "社工師:107030:c107:s0602:S",
+      "manualPatch": false
+    }
+  ]
+}

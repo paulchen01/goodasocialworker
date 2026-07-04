@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:102110:c110:s0605",
+  "examInstanceId": "社工師:102110:c110",
+  "examTrack": "社工師",
+  "subject": "人類行為與社會環境",
+  "subjectCode": "0605",
+  "yearRoc": 102,
+  "examCode": "102110",
+  "examName": "102年第二次專技醫師中醫師分試中醫師營養師心理師護理師社會工作師、特考聽力牙體技術人員、法醫師語言聽力牙體技術師考試",
+  "examAttempt": "第二次",
+  "categoryCode": "110",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102110&c=110&s=0605&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102110&c=110&s=0605&q=1",
+  "questionSourceFileId": "社工師:102110:c110:s0605:Q",
+  "answerSourceFileId": "社工師:102110:c110:s0605:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:102110:c110:s0605:q01",
+      "number": 1,
+      "stem": "愛情是成年前期心理層面發展的主要課題，史登柏格（Sternberg）的愛情三角理論中，指出愛情包含三個 元素，不包括下列那一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "親密"
+        },
+        {
+          "key": "B",
+          "text": "熱情"
+        },
+        {
+          "key": "C",
+          "text": "承諾"
+        },
+        {
+          "key": "D",
+          "text": "信心"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q02",
+      "number": 2,
+      "stem": "下列名詞解釋，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "同化（assimilation）指將所見所聞的新資訊納入現有基模的認知過程"
+        },
+        {
+          "key": "B",
+          "text": "適應（adaptation）指個體對環境需求的反應能力"
+        },
+        {
+          "key": "C",
+          "text": "依附（attachment）指青少年對父母形成強烈的情感連結"
+        },
+        {
+          "key": "D",
+          "text": "認知（cognition）指從環境及過去經驗當中，運用各種知覺與感覺訊息的過程"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q03",
+      "number": 3,
+      "stem": "下列那一項敘述不符合恐懼同志症（homophobia）的表現？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對同性戀抱持不符合理智的負面態度"
+        },
+        {
+          "key": "B",
+          "text": "對性取向抱持開放的態度"
+        },
+        {
+          "key": "C",
+          "text": "對同性之間性關係的恐懼與仇恨"
+        },
+        {
+          "key": "D",
+          "text": "具有權威型人格特質者較有可能厭惡同志"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q04",
+      "number": 4,
+      "stem": "Carter & McGoldrick 提出的家庭生命週期模式中，身在「有青少年子女的家庭」階段的發展任務為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭界線更有彈性"
+        },
+        {
+          "key": "B",
+          "text": "接受家庭系統"
+        },
+        {
+          "key": "C",
+          "text": "接受代間角色的轉換"
+        },
+        {
+          "key": "D",
+          "text": "系統接納新成員"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q05",
+      "number": 5,
+      "stem": "下列那一項不屬於注意力缺陷過動症（ADHD）的診斷標準？",
+      "options": [
+        {
+          "key": "A",
+          "text": "活動上經常忽略細節"
+        },
+        {
+          "key": "B",
+          "text": "輪流過程無法等待"
+        },
+        {
+          "key": "C",
+          "text": "坐立不安、煩躁"
+        },
+        {
+          "key": "D",
+          "text": "安靜專注於玩耍"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q06",
+      "number": 6,
+      "stem": "1 歲半的小美，正是牙牙學語的年紀，當她說出「狗狗、汪汪、怕怕」時，是屬於皮亞傑（Piaget）兒童 語言發展歷程中的那一種語言？",
+      "options": [
+        {
+          "key": "A",
+          "text": "情緒式語言"
+        },
+        {
+          "key": "B",
+          "text": "無意識語言"
+        },
+        {
+          "key": "C",
+          "text": "電報式語言"
+        },
+        {
+          "key": "D",
+          "text": "指稱性語言"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q07",
+      "number": 7,
+      "stem": "美國國家兒童健康及人類發展研究所（NICHD），在1990 年曾進行一項兒童照顧的調查，以了解照顧者 與其照顧品質的相關性，以下那一項不符合其研究結果？",
+      "options": [
+        {
+          "key": "A",
+          "text": "照顧者採取權威式的管教方式，有較好的照顧品質"
+        },
+        {
+          "key": "B",
+          "text": "照顧者照顧的孩子愈少，則照顧品質愈好"
+        },
+        {
+          "key": "C",
+          "text": "最佳的照顧比是：一個照顧者照顧一個孩子"
+        },
+        {
+          "key": "D",
+          "text": "家中育兒的照顧方式優於托兒中心"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q08",
+      "number": 8,
+      "stem": "關於兒童早期性別角色的發展歷程，下列那一項敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "性別觀念形成受老師影響最大"
+        },
+        {
+          "key": "B",
+          "text": "對自己和他人的身體功能有強烈的好奇心"
+        },
+        {
+          "key": "C",
+          "text": "男生遊戲選擇傾向人際關係為主"
+        },
+        {
+          "key": "D",
+          "text": "選擇玩伴以異性為優先"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q09",
+      "number": 9,
+      "stem": "針對青少年犯罪行為的處遇，行為模式是最常被使用的評估方法。下列那一項處遇方法，實施在青少年 身上效果較差？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭處遇模式"
+        },
+        {
+          "key": "B",
+          "text": "社區服務模式"
+        },
+        {
+          "key": "C",
+          "text": "社會技巧訓練"
+        },
+        {
+          "key": "D",
+          "text": "精神病理模式"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q10",
+      "number": 10,
+      "stem": "下列那一項敘述最能描述成年前期（約22-34 歲）的心理認知發展？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自我中心觀念強烈"
+        },
+        {
+          "key": "B",
+          "text": "尋求肯定答案的需求"
+        },
+        {
+          "key": "C",
+          "text": "思考單一性"
+        },
+        {
+          "key": "D",
+          "text": "較能以客觀的方式解決問題"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q11",
+      "number": 11,
+      "stem": "由Lemon 等人（1972）提出，關於老人社會活動與生活滿意度之間的關係，其主要假設是：個體愈保持 活躍，生活滿意度就愈高。這是指下列那一項理論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "撤離理論"
+        },
+        {
+          "key": "B",
+          "text": "轉移理論"
+        },
+        {
+          "key": "C",
+          "text": "活動理論"
+        },
+        {
+          "key": "D",
+          "text": "功能理論"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q12",
+      "number": 12,
+      "stem": "面對家中有身心障礙兒童的陳太太尋求相關照顧資源，社會工作師可提供的協助較不可能包含下列那一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "就業輔導計畫"
+        },
+        {
+          "key": "B",
+          "text": "提供特殊教育學校資訊"
+        },
+        {
+          "key": "C",
+          "text": "照顧者喘息服務"
+        },
+        {
+          "key": "D",
+          "text": "專業醫療諮詢服務"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q13",
+      "number": 13,
+      "stem": "下列那一項不屬於嬰兒生理發展的成長原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "由近到遠的動作發展"
+        },
+        {
+          "key": "B",
+          "text": "由簡單到複雜細膩的活動"
+        },
+        {
+          "key": "C",
+          "text": "從四肢尾端到頭的發展"
+        },
+        {
+          "key": "D",
+          "text": "由精細動作至整合動作的發展"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q14",
+      "number": 14,
+      "stem": "Erikson 心理社會發展階段中，關於兒童中期（6-12 歲）的發展任務為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "信任與不信任"
+        },
+        {
+          "key": "B",
+          "text": "親密與孤立"
+        },
+        {
+          "key": "C",
+          "text": "勤奮與自卑"
+        },
+        {
+          "key": "D",
+          "text": "主動與罪惡感"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q15",
+      "number": 15,
+      "stem": "根據皮亞傑（Piaget）的認知發展理論，下列那一項不是2 至7 歲兒童「運思前期」的認知發展特徵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "具備物體質量保留的觀念"
+        },
+        {
+          "key": "B",
+          "text": "自我中心主義"
+        },
+        {
+          "key": "C",
+          "text": "將焦點集中在某一細節上而忽略了其他特徵"
+        },
+        {
+          "key": "D",
+          "text": "以為所有的東西均有生命及能力"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q16",
+      "number": 16,
+      "stem": "下列那一項符合或屬於Friedman 和Rosenman 對於B 型人格（type B personality）的瞭解？",
+      "options": [
+        {
+          "key": "A",
+          "text": "許多事情獨立支撐"
+        },
+        {
+          "key": "B",
+          "text": "隨和、依賴他人支持"
+        },
+        {
+          "key": "C",
+          "text": "過度推展自己的能力和精力"
+        },
+        {
+          "key": "D",
+          "text": "可能為導致心臟病和影響病情發展的主因之一"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q17",
+      "number": 17,
+      "stem": "下列那一項敘述符合老人虐待形式中的積極疏忽？",
+      "options": [
+        {
+          "key": "A",
+          "text": "言語不當或羞辱"
+        },
+        {
+          "key": "B",
+          "text": "不當或非法處理老人財物"
+        },
+        {
+          "key": "C",
+          "text": "照顧者無知，疏於照顧"
+        },
+        {
+          "key": "D",
+          "text": "故意不給予食物"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q18",
+      "number": 18,
+      "stem": "「強調人們經由訊息處理的過程可主動與環境產生互動，觀察角色楷模對人格發展的重要性」，這屬於 下列那種理論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會學習理論"
+        },
+        {
+          "key": "B",
+          "text": "生態系統理論"
+        },
+        {
+          "key": "C",
+          "text": "互動理論"
+        },
+        {
+          "key": "D",
+          "text": "心理分析理論"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q19",
+      "number": 19,
+      "stem": "少男少女很容易害怕跟其他人不一樣，下列那一個學者對此現象提出了解釋?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Erikson"
+        },
+        {
+          "key": "B",
+          "text": "Kohlberg"
+        },
+        {
+          "key": "C",
+          "text": "Levinson"
+        },
+        {
+          "key": "D",
+          "text": "Piaget"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q20",
+      "number": 20,
+      "stem": "再婚後而組成的家庭稱為繼親家庭（stepfamily），下列那一項不是繼親家庭的特徵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "開始家庭的第二個生命周期"
+        },
+        {
+          "key": "B",
+          "text": "夫妻關係先於親子關係"
+        },
+        {
+          "key": "C",
+          "text": "面對許多失落和變動的情境"
+        },
+        {
+          "key": "D",
+          "text": "兒女適應兩個家庭的生活"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q21",
+      "number": 21,
+      "stem": "下列那個說法最能描述中年時期的發展特徵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "受到生理變化的影響很大"
+        },
+        {
+          "key": "B",
+          "text": "可以明確界定出此時期的年齡"
+        },
+        {
+          "key": "C",
+          "text": "個體的差異性極大"
+        },
+        {
+          "key": "D",
+          "text": "不同年代出生的人，所表現的想法、期待及發展任務類似"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q22",
+      "number": 22,
+      "stem": "關於兒童早期所發生的分離焦慮（separation anxiety），下列那一項敘述錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "轉向另一活動，表現高度興趣"
+        },
+        {
+          "key": "B",
+          "text": "表現退縮或精神無法集中"
+        },
+        {
+          "key": "C",
+          "text": "常發生在關係緊密的家庭"
+        },
+        {
+          "key": "D",
+          "text": "常發生在剛經歷過創痛事件之家庭"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q23",
+      "number": 23,
+      "stem": "柯柏格（Kohlberg）所提出的道德發展理論，引發了許多不同的批評，下列那一項不屬於批評其理論的要點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "人類行為未必會依照道德判斷而行動"
+        },
+        {
+          "key": "B",
+          "text": "假設情境並不能真實反應出不同年齡層所面對的難題"
+        },
+        {
+          "key": "C",
+          "text": "低估了道德發展背後的關懷因素"
+        },
+        {
+          "key": "D",
+          "text": "以女性為中心的研究論點"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q24",
+      "number": 24,
+      "stem": "佛洛伊德（Sigmund Freud）認為兒童早期的發展，對日後人格有關鍵性的影響，發展「成人角色楷模認 同」的任務是屬於下列那一個性心理發展階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "口腔期"
+        },
+        {
+          "key": "B",
+          "text": "肛門期"
+        },
+        {
+          "key": "C",
+          "text": "性器期"
+        },
+        {
+          "key": "D",
+          "text": "潛伏期"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q25",
+      "number": 25,
+      "stem": "憂鬱症是女性最主要的精神疾病，關於女性與憂鬱症的敘述，下列那一項未經證實？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不幸的婚姻導致女性得到憂鬱症的比例為男性的三倍"
+        },
+        {
+          "key": "B",
+          "text": "女性的挫折耐受力低於男性，導致女性較男性容易得到憂鬱症"
+        },
+        {
+          "key": "C",
+          "text": "有幼兒需要照顧的女性得到憂鬱症的比例較高"
+        },
+        {
+          "key": "D",
+          "text": "婦女有被虐待或被性傷害的經驗者，憂鬱症比例較高"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q26",
+      "number": 26,
+      "stem": "下列那一個概念不是佛洛伊德（Sigmund Freud）所提出？",
+      "options": [
+        {
+          "key": "A",
+          "text": "固著（fixation）"
+        },
+        {
+          "key": "B",
+          "text": "戀母情結（oedipal crisis）"
+        },
+        {
+          "key": "C",
+          "text": "基模（schema）"
+        },
+        {
+          "key": "D",
+          "text": "原慾（libido）"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q27",
+      "number": 27,
+      "stem": "假如你有車禍的經驗，可能會對開車感到害怕。請問：在古典制約理論中，「開車」屬於什麼概念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "負向刺激"
+        },
+        {
+          "key": "B",
+          "text": "制約刺激"
+        },
+        {
+          "key": "C",
+          "text": "操作刺激"
+        },
+        {
+          "key": "D",
+          "text": "中性刺激"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q28",
+      "number": 28,
+      "stem": "操作制約學習（operant conditioning）與社會學習（social learning）理論的比較，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二者都認為個體對自己有無能力達成目標的信念是學習的關鍵"
+        },
+        {
+          "key": "B",
+          "text": "二者都認為行為不一定要親身經驗就可以學習"
+        },
+        {
+          "key": "C",
+          "text": "二者都認為人們經由訊息處理過程可主動與環境產生互動"
+        },
+        {
+          "key": "D",
+          "text": "二者都認為環境在個人學習上扮演重要角色"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q29",
+      "number": 29,
+      "stem": "個人不直接參與或介入之機構，但此機構對生活卻有著深遠影響，例如父母的工作場所可能會影響孩子 的生活，即使子女並不直接參與父母親的工作。請問「父母的工作場所」在Bronfenbrenner 的生態模式中 稱為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "鉅視系統（macrosystem）"
+        },
+        {
+          "key": "B",
+          "text": "外部系統（exosystem）"
+        },
+        {
+          "key": "C",
+          "text": "中間系統（mesosystem）"
+        },
+        {
+          "key": "D",
+          "text": "微視系統（microsystem）"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q30",
+      "number": 30,
+      "stem": "下列那一個理論家所提出之觀點不是所謂「階段論」（Stage 或Period）取向？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Albert Bandura"
+        },
+        {
+          "key": "B",
+          "text": "Erik Erikson"
+        },
+        {
+          "key": "C",
+          "text": "Sigmund Freud"
+        },
+        {
+          "key": "D",
+          "text": "Jean Piaget"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q31",
+      "number": 31,
+      "stem": "下列關於產婦吸菸對胎兒的影響，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "會使孕婦血液裡的二氧化碳增加，減少胎兒氧氣量的獲取"
+        },
+        {
+          "key": "B",
+          "text": "增加早產、胎兒死亡、流產的機率"
+        },
+        {
+          "key": "C",
+          "text": "減少子宮內胎兒對外界的反應"
+        },
+        {
+          "key": "D",
+          "text": "對胎兒的影響是長期的，到孩童時期可能個頭較小、有認知發展上的問題"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q32",
+      "number": 32,
+      "stem": "下列何者不是M. Ainsworth 所提出之依附類型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "穩固型依附（solid attachment）"
+        },
+        {
+          "key": "B",
+          "text": "焦慮型依附（anxious attachment）"
+        },
+        {
+          "key": "C",
+          "text": "迴避型依附（avoidant attachment）"
+        },
+        {
+          "key": "D",
+          "text": "安全型依附（secure attachment）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q33",
+      "number": 33,
+      "stem": "年紀較小的兒童早期，會為了得到想要的東西（例如玩具）而踢或打，此種攻擊行為通常是那一類型的 攻擊？",
+      "options": [
+        {
+          "key": "A",
+          "text": "替代性攻擊"
+        },
+        {
+          "key": "B",
+          "text": "干擾性攻擊"
+        },
+        {
+          "key": "C",
+          "text": "工具性攻擊"
+        },
+        {
+          "key": "D",
+          "text": "敵對性攻擊"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q34",
+      "number": 34,
+      "stem": "Erikson 認為青少年處於「心理的延期償付時期」（psychological moratorium），下列關於此概念的敘述， 何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認知發展的速度影響自我認同，因而出現延後現象"
+        },
+        {
+          "key": "B",
+          "text": "正式運思期的思考特性，使得生理特徵變化造成的困擾得以緩解或補償"
+        },
+        {
+          "key": "C",
+          "text": "青少年心理上的獨立自主需求，時常與父母管教方式產生衝突，阻礙其發展"
+        },
+        {
+          "key": "D",
+          "text": "一方面追求兒童時期的安全感，另方面又追求成年期的自主性，產生矛盾"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q35",
+      "number": 35,
+      "stem": "「中年危機」一詞常被用來形容某些中年人遭遇的處境，下列關於此一概念敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "被視為是中年期的典型特徵"
+        },
+        {
+          "key": "B",
+          "text": "此概念有很大影響力，主要因為社會大眾為了避開不確定感，仍偏好可預期和可觸摸的里程碑或發展階段"
+        },
+        {
+          "key": "C",
+          "text": "很少實證上的證據支持「中年危機」這種說法"
+        },
+        {
+          "key": "D",
+          "text": "原指中年人面臨同時撫養年長者與年幼者，壓力過大而產生焦慮甚至情緒崩潰，後來被廣泛應用分析 中年期的嚴重焦慮情形"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q36",
+      "number": 36,
+      "stem": "所謂「去幻象化」（de-illusionment）所指為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "兒童早期事實與虛幻容易混在一起，到兒童中期慢慢能區分此二者"
+        },
+        {
+          "key": "B",
+          "text": "是具體運思期的特徵，所有的認知乃立基於具象經驗，而非假設性抽象思維"
+        },
+        {
+          "key": "C",
+          "text": "中年人經歷許多事與願違情形，喪失某些對人和過去所持守的信念，較為務實看待人生"
+        },
+        {
+          "key": "D",
+          "text": "是老年人檢視過去夢想達成情形、自我統整的方法與過程"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q37",
+      "number": 37,
+      "stem": "有關新生兒的特性，下列何者錯誤?",
+      "options": [
+        {
+          "key": "A",
+          "text": "由陰道產出與由剖腹產方式出生的新生兒頭形通常不太一樣"
+        },
+        {
+          "key": "B",
+          "text": "皮膚略呈紅色，光滑柔嫩"
+        },
+        {
+          "key": "C",
+          "text": "已有反射動作"
+        },
+        {
+          "key": "D",
+          "text": "一般的新生兒手腳略呈青色"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q38",
+      "number": 38,
+      "stem": "下列關於成人晚期（60 歲到死亡）的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "神經傳導物改變、血流量減少"
+        },
+        {
+          "key": "B",
+          "text": "流動智力隨著年齡增加而增長"
+        },
+        {
+          "key": "C",
+          "text": "肌肉收縮速度和力道減弱、肌肉力量和耐力衰退"
+        },
+        {
+          "key": "D",
+          "text": "八十歲甚至更老的男性都還可以有性生活"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q39",
+      "number": 39,
+      "stem": "下列關於阿茲海默型失智症的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是不可逆轉的腦部異常"
+        },
+        {
+          "key": "B",
+          "text": "因為失去記憶而發生意外事故，是這個疾病的主要死因"
+        },
+        {
+          "key": "C",
+          "text": "有基因異常者約30、40 歲就發病"
+        },
+        {
+          "key": "D",
+          "text": "會漸漸引起記憶、知覺、智力、身體控制能力的退化"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:102110:c110:s0605:q40",
+      "number": 40,
+      "stem": "對於他人的思想、感受及意圖能夠察覺的程度，稱為：",
+      "options": [
+        {
+          "key": "A",
+          "text": "人際覺知"
+        },
+        {
+          "key": "B",
+          "text": "自我覺知"
+        },
+        {
+          "key": "C",
+          "text": "社會認知"
+        },
+        {
+          "key": "D",
+          "text": "社會參考"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:102110:c110:s0605:Q",
+      "answerSourceFileId": "社工師:102110:c110:s0605:S",
+      "manualPatch": false
+    }
+  ]
+}

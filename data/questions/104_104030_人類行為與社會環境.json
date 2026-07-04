@@ -1,0 +1,1101 @@
+{
+  "examId": "社工師:104030:c110:s0605",
+  "examInstanceId": "社工師:104030:c110",
+  "examTrack": "社工師",
+  "subject": "人類行為與社會環境",
+  "subjectCode": "0605",
+  "yearRoc": 104,
+  "examCode": "104030",
+  "examName": "104年第一次專技醫師中醫師分階段考試、中醫師營養師心理師護理師社會工作師考試",
+  "examAttempt": "第一次",
+  "categoryCode": "110",
+  "categoryName": "高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104030&c=110&s=0605&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104030&c=110&s=0605&q=1",
+  "questionSourceFileId": "社工師:104030:c110:s0605:Q",
+  "answerSourceFileId": "社工師:104030:c110:s0605:S",
+  "pointsPerQuestion": 1.25,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:104030:c110:s0605:q01",
+      "number": 1,
+      "stem": "有關青少年逃家事件的主要原因，下列何種因素居多？",
+      "options": [
+        {
+          "key": "A",
+          "text": "青少年曾遭受身體或性虐待"
+        },
+        {
+          "key": "B",
+          "text": "青少年本身有暴力傾向"
+        },
+        {
+          "key": "C",
+          "text": "青少年曾有自殺企圖"
+        },
+        {
+          "key": "D",
+          "text": "青少年曾有翹課或逃課的紀錄"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q02",
+      "number": 2,
+      "stem": "「青少年將自己想像成站在舞臺的聚光燈下，其他人都是觀眾，大家都在注意他（她）們」。此說法屬 於下列何種觀點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "優勢觀點"
+        },
+        {
+          "key": "B",
+          "text": "生態觀點"
+        },
+        {
+          "key": "C",
+          "text": "培力及充權主義"
+        },
+        {
+          "key": "D",
+          "text": "自我中心主義"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q03",
+      "number": 3,
+      "stem": "有關「注意力缺陷過動失調」（ADHD）兒童的行為特徵描述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "過度活動"
+        },
+        {
+          "key": "B",
+          "text": "衝動"
+        },
+        {
+          "key": "C",
+          "text": "注意力不集中"
+        },
+        {
+          "key": "D",
+          "text": "睡眠不足"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q04",
+      "number": 4,
+      "stem": "有關Bronfenbrenner 的生態系統觀點，個體與環境互動的過程必須具備的因應技巧中，下列那一項不包含 在內？",
+      "options": [
+        {
+          "key": "A",
+          "text": "取得與使用社會資源"
+        },
+        {
+          "key": "B",
+          "text": "個體必須改變無效的因應策略"
+        },
+        {
+          "key": "C",
+          "text": "主動影響與改變社會環境"
+        },
+        {
+          "key": "D",
+          "text": "創造生態環境的最佳價值"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q05",
+      "number": 5,
+      "stem": "有關親職教育目的之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "教導父母學習有效的親子溝通方法"
+        },
+        {
+          "key": "B",
+          "text": "增進正確的教養方式與知能"
+        },
+        {
+          "key": "C",
+          "text": "協助特殊兒童的父母克服兒童上學求知的障礙"
+        },
+        {
+          "key": "D",
+          "text": "協助父母教導子女提高成就與潛能"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q06",
+      "number": 6,
+      "stem": "近年來，自助團體在社會工作實務中逐漸受到重視。要區分自助團體與其他團體的最大差異在於下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自助團體成員關係較密切"
+        },
+        {
+          "key": "B",
+          "text": "自助團體成員掌控資源與規則"
+        },
+        {
+          "key": "C",
+          "text": "自助團體成員能自由加入或退出"
+        },
+        {
+          "key": "D",
+          "text": "自助團體成員屬性較成熟"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q07",
+      "number": 7,
+      "stem": "有關「對特定團體，施以不平等的外顯行為」，是屬於下列何種選項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "偏見"
+        },
+        {
+          "key": "B",
+          "text": "歧視"
+        },
+        {
+          "key": "C",
+          "text": "傲慢"
+        },
+        {
+          "key": "D",
+          "text": "刻板印象"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q08",
+      "number": 8,
+      "stem": "依據Francis 的觀點，遭受強暴後的婦女在重整階段有四項重要的課題需要面對與處理，下列選項何者正 確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "重建對身體的安全感、突破恐懼、坦然面對失去的自尊與信任、重新自我認同"
+        },
+        {
+          "key": "B",
+          "text": "重建對身體的安全感、突破恐懼、坦然面對家人與親友、重新自我認同"
+        },
+        {
+          "key": "C",
+          "text": "重建對身體的安全感、坦然面對家人與親友、重新自我認同、重新尋找伴侶或朋友"
+        },
+        {
+          "key": "D",
+          "text": "重建對自我的安全感、突破恐懼、重新自我認同、坦然面對家人與親友"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q09",
+      "number": 9,
+      "stem": "美國社會近年開始倡導男權運動（men’s movement），焦點與女權運動不同，美國男權運動的主要焦點為 下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "體制的變革"
+        },
+        {
+          "key": "B",
+          "text": "男性的改變"
+        },
+        {
+          "key": "C",
+          "text": "家庭的改變"
+        },
+        {
+          "key": "D",
+          "text": "社區的改變"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q10",
+      "number": 10,
+      "stem": "依據研究發現，成人中期的認知能力中，下列那一項能力會達到最高峰？",
+      "options": [
+        {
+          "key": "A",
+          "text": "推理"
+        },
+        {
+          "key": "B",
+          "text": "語言"
+        },
+        {
+          "key": "C",
+          "text": "字詞流利"
+        },
+        {
+          "key": "D",
+          "text": "寫字"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q11",
+      "number": 11,
+      "stem": "有關「社會環境」對人類行為影響的觀點，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "人類可以在適當的關鍵時刻成就自我"
+        },
+        {
+          "key": "B",
+          "text": "環境會限制人類作選擇的範圍"
+        },
+        {
+          "key": "C",
+          "text": "環境的壓力會使個人修正自己的目標與選擇的標準"
+        },
+        {
+          "key": "D",
+          "text": "人類在關鍵時刻的成就全取決於自己的決定"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q12",
+      "number": 12,
+      "stem": "有關社會功能（social function）的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "案主有能力滿足自己在生活的需求及任務"
+        },
+        {
+          "key": "B",
+          "text": "理解一個人對改變與壓力的反應"
+        },
+        {
+          "key": "C",
+          "text": "了解環境力量對個人資賦的單方面影響以增進社會功能的發展"
+        },
+        {
+          "key": "D",
+          "text": "了解環境的力量可能會增進或危及社會功能發展的可能性"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q13",
+      "number": 13,
+      "stem": "杭廷頓舞蹈症（Huntington’s chorea）是一種染色體違常的病症。有關該症狀的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "屬於顯性基因違常"
+        },
+        {
+          "key": "B",
+          "text": "特徵是漸進式肌肉痙攣"
+        },
+        {
+          "key": "C",
+          "text": "最後會演變至失智退化"
+        },
+        {
+          "key": "D",
+          "text": "後代發生率為70%～75%"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q14",
+      "number": 14,
+      "stem": "有關典型健康老人的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "關切生命與生活的傳承"
+        },
+        {
+          "key": "B",
+          "text": "傾向於活在當下"
+        },
+        {
+          "key": "C",
+          "text": "想要發揮老人的功能，分享累積的知識"
+        },
+        {
+          "key": "D",
+          "text": "對熟悉事務的依附，但創造力與好奇心會降低"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q15",
+      "number": 15,
+      "stem": "新近研究顯示，由於人類年齡的延長趨勢，成年晚期的階段有必要加以細分。依據Hartford 的觀點， 老年階段可區分為青老年、中老年、老老年；其中，中老年的年齡範圍為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "65～74 歲"
+        },
+        {
+          "key": "B",
+          "text": "75～84 歲"
+        },
+        {
+          "key": "C",
+          "text": "85～90 歲"
+        },
+        {
+          "key": "D",
+          "text": "90 歲以上"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q16",
+      "number": 16,
+      "stem": "社會工作人員在評估案主社會功能的心理層面時，必須能分辨心情（mood）與感受（affect）的差異。 所謂「感受」是指下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "比較持久的情緒"
+        },
+        {
+          "key": "B",
+          "text": "當下的情緒"
+        },
+        {
+          "key": "C",
+          "text": "已經發生過的情緒"
+        },
+        {
+          "key": "D",
+          "text": "一種自我激勵的意義"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q17",
+      "number": 17,
+      "stem": "王姓夫婦平時在家中多少都會教導子女一些基本禮貌及做事情的態度和方法，此為家庭之下列何種功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "親子關係"
+        },
+        {
+          "key": "B",
+          "text": "傳宗接代"
+        },
+        {
+          "key": "C",
+          "text": "情感支持"
+        },
+        {
+          "key": "D",
+          "text": "社會化"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q18",
+      "number": 18,
+      "stem": "若以Rollins 與Feldman 提出之婚姻滿意程度U 曲線論述，夫妻通常在下列那個階段對婚姻關係最不滿意？",
+      "options": [
+        {
+          "key": "A",
+          "text": "學齡兒童期"
+        },
+        {
+          "key": "B",
+          "text": "中年期"
+        },
+        {
+          "key": "C",
+          "text": "老年期"
+        },
+        {
+          "key": "D",
+          "text": "空巢期"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q19",
+      "number": 19,
+      "stem": "當某位社會工作人員將服務對象之家庭與其周遭其他體系（例如：親人、朋友、同事、醫療機構、宗教 組織等），以單向或雙向箭頭之線連結，代表其間之關係，此種圖稱為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭結構圖"
+        },
+        {
+          "key": "B",
+          "text": "家庭生態圖"
+        },
+        {
+          "key": "C",
+          "text": "家庭功能圖"
+        },
+        {
+          "key": "D",
+          "text": "家系圖"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q20",
+      "number": 20,
+      "stem": "有關「人在環境（PIE）」的論述，下列何者正確？①主要是用來取代多元層面之評量 ②描述了問題的 分類系統 ③只檢視問題狀況 ④有利於相關研究之進行 ⑤分為四個向度",
+      "options": [
+        {
+          "key": "A",
+          "text": "②③④"
+        },
+        {
+          "key": "B",
+          "text": "①②③"
+        },
+        {
+          "key": "C",
+          "text": "②④⑤"
+        },
+        {
+          "key": "D",
+          "text": "③④⑤"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q21",
+      "number": 21,
+      "stem": "依據Bronfenbrenner 的社會系統理論，外祖母將2 歲的林小妹每件衣服背後都繡上一個「卍」字，這種行 為是受到下列何種系統的影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "微視系統（Microsystems）"
+        },
+        {
+          "key": "B",
+          "text": "中間系統（Mesosystems）"
+        },
+        {
+          "key": "C",
+          "text": "外部系統（Exosystems）"
+        },
+        {
+          "key": "D",
+          "text": "鉅視系統（Macrosystems）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q22",
+      "number": 22,
+      "stem": "依據Hooyman（1994）所提出女性主義模式（the feminist model）之論述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "性別是個體經驗的多元建構"
+        },
+        {
+          "key": "B",
+          "text": "認同性別二元化"
+        },
+        {
+          "key": "C",
+          "text": "承襲傳統之性別觀念"
+        },
+        {
+          "key": "D",
+          "text": "否認性別是無法改變之事實"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q23",
+      "number": 23,
+      "stem": "初次懷孕期間，魏太太最擔心的就是自己將來能不能當個好媽媽，此時她所需要做的調適為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "改變角色行使"
+        },
+        {
+          "key": "B",
+          "text": "檢視自我認同"
+        },
+        {
+          "key": "C",
+          "text": "調整他人對自己的看法"
+        },
+        {
+          "key": "D",
+          "text": "對抗失落感"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q24",
+      "number": 24,
+      "stem": "從小到學校上學及接受教育，知道考試不可以作弊，此為下列何種過程？",
+      "options": [
+        {
+          "key": "A",
+          "text": "心理發展"
+        },
+        {
+          "key": "B",
+          "text": "社會認知發展"
+        },
+        {
+          "key": "C",
+          "text": "自我認同"
+        },
+        {
+          "key": "D",
+          "text": "自我肯定"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q25",
+      "number": 25,
+      "stem": "桌上明明放的是一杯剛煮好的熱咖啡，彭先生卻說這杯是冰咖啡，他的問題出在下列何者？①感覺 ②知覺 ③認知 ④態度 ⑤判斷",
+      "options": [
+        {
+          "key": "A",
+          "text": "②④⑤"
+        },
+        {
+          "key": "B",
+          "text": "①②③④"
+        },
+        {
+          "key": "C",
+          "text": "①②③⑤"
+        },
+        {
+          "key": "D",
+          "text": "①③④⑤"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q26",
+      "number": 26,
+      "stem": "社會工作人員在與青少年溝通的時候，應特別注意下列何種議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "道德發展"
+        },
+        {
+          "key": "B",
+          "text": "侵犯性"
+        },
+        {
+          "key": "C",
+          "text": "叛逆行為"
+        },
+        {
+          "key": "D",
+          "text": "訊息保密"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q27",
+      "number": 27,
+      "stem": "青少年能夠將新學到或經驗的訊息，納入並整合到現有的訊息（所知道的事）之過程，稱為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "調節"
+        },
+        {
+          "key": "B",
+          "text": "反思"
+        },
+        {
+          "key": "C",
+          "text": "同化"
+        },
+        {
+          "key": "D",
+          "text": "具象思維"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q28",
+      "number": 28,
+      "stem": "在兒童中期，孩子開始能夠扮演某些社會角色，此為下列何種能力的降低？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自我中心思維"
+        },
+        {
+          "key": "B",
+          "text": "具象思維"
+        },
+        {
+          "key": "C",
+          "text": "人際覺察能力"
+        },
+        {
+          "key": "D",
+          "text": "自尊心"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q29",
+      "number": 29,
+      "stem": "兒童早期的利他主義（altruism）概念，最主要會反應在下列何種行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主動幫忙"
+        },
+        {
+          "key": "B",
+          "text": "模仿"
+        },
+        {
+          "key": "C",
+          "text": "對人微笑"
+        },
+        {
+          "key": "D",
+          "text": "與他人分享"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q30",
+      "number": 30,
+      "stem": "大約2 歲時，嬰幼兒開始知道如何說「不要」，此種現象代表孩子開始具有：",
+      "options": [
+        {
+          "key": "A",
+          "text": "反抗心理"
+        },
+        {
+          "key": "B",
+          "text": "敵意感受"
+        },
+        {
+          "key": "C",
+          "text": "自我感受"
+        },
+        {
+          "key": "D",
+          "text": "社會規律"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q31",
+      "number": 31,
+      "stem": "1 至2 歲的嬰幼兒常會觀察周遭大人如何對某些行為的情緒反應而有所反應，此現象稱為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正向增強"
+        },
+        {
+          "key": "B",
+          "text": "社會參照"
+        },
+        {
+          "key": "C",
+          "text": "社會規範"
+        },
+        {
+          "key": "D",
+          "text": "情緒教導"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q32",
+      "number": 32,
+      "stem": "依據Erikson 的論點，到老年期仍無法對一生經歷的生活統整，將陷入下列何種狀態？",
+      "options": [
+        {
+          "key": "A",
+          "text": "妄想"
+        },
+        {
+          "key": "B",
+          "text": "絕望"
+        },
+        {
+          "key": "C",
+          "text": "憂鬱沮喪"
+        },
+        {
+          "key": "D",
+          "text": "失落"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q33",
+      "number": 33,
+      "stem": "有關老年人受到不當對待或虐待的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "照顧過程中也有可能造成虐待"
+        },
+        {
+          "key": "B",
+          "text": "施虐者一定是家人"
+        },
+        {
+          "key": "C",
+          "text": "只有身體和精神虐待兩類"
+        },
+        {
+          "key": "D",
+          "text": "受虐者通常會勇於舉報"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q34",
+      "number": 34,
+      "stem": "發現自己懷孕了最初的3 個星期，一般孕婦最主要關心的是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "先生的感受"
+        },
+        {
+          "key": "B",
+          "text": "胎兒的長相"
+        },
+        {
+          "key": "C",
+          "text": "自己的想法"
+        },
+        {
+          "key": "D",
+          "text": "公婆的想法"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q35",
+      "number": 35,
+      "stem": "有關心理防衛機轉之敘述，下列何者正確？①一種正常反應，不會導致行為偏差 ②可用來紓解壓力 ③全然都有問題 ④通常在不知不覺中進行 ⑤較無法發揮真正的自我 ⑥常是多重防衛機轉交互使用",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②③⑤"
+        },
+        {
+          "key": "B",
+          "text": "①③⑤⑥"
+        },
+        {
+          "key": "C",
+          "text": "②④⑤⑥"
+        },
+        {
+          "key": "D",
+          "text": "②③④⑥"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q36",
+      "number": 36,
+      "stem": "有關安寧照護服務（hospice）之敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "兼顧臨終病人與其家屬之服務"
+        },
+        {
+          "key": "B",
+          "text": "服務對象均為老年病人"
+        },
+        {
+          "key": "C",
+          "text": "全部都在醫院的安寧病房實施"
+        },
+        {
+          "key": "D",
+          "text": "主要之理念為儘可能延長生命"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q37",
+      "number": 37,
+      "stem": "在精神醫療團隊中，社會工作師對於精神病患家庭結構的分析受到其他成員的肯定，而願意採納社會工 作師的建議，該社會工作師是以下列何種權力影響團隊成員？",
+      "options": [
+        {
+          "key": "A",
+          "text": "強制權"
+        },
+        {
+          "key": "B",
+          "text": "法定權"
+        },
+        {
+          "key": "C",
+          "text": "獎賞權"
+        },
+        {
+          "key": "D",
+          "text": "專家權"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q38",
+      "number": 38,
+      "stem": "若某社會福利機構將低收入戶服務對象分派給年資較淺之社會工作人員，這種不成文的差別待遇派案原則 屬於下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "制度層面之歧視"
+        },
+        {
+          "key": "B",
+          "text": "個人層面之歧視"
+        },
+        {
+          "key": "C",
+          "text": "組織層面之歧視"
+        },
+        {
+          "key": "D",
+          "text": "社會層面之歧視"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q39",
+      "number": 39,
+      "stem": "當某個原住民青少年在族群認同上拒絕漢人文化及其所提供之各種機會時，他所可能面臨的後果為下列 何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "妥協"
+        },
+        {
+          "key": "B",
+          "text": "疏離"
+        },
+        {
+          "key": "C",
+          "text": "雙文化觀"
+        },
+        {
+          "key": "D",
+          "text": "同化"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    },
+    {
+      "id": "社工師:104030:c110:s0605:q40",
+      "number": 40,
+      "stem": "有些同性戀者能夠無視社會的歧視，但有些同性戀者會吸收他人無法容忍的偏執而憎恨自己，這種現象 稱為「內化之同性戀恐懼」，此種負面感覺最主要會影響他們下列的何種生活能力？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立親密關係"
+        },
+        {
+          "key": "B",
+          "text": "溝通"
+        },
+        {
+          "key": "C",
+          "text": "建立社交關係"
+        },
+        {
+          "key": "D",
+          "text": "教養子女"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:104030:c110:s0605:Q",
+      "answerSourceFileId": "社工師:104030:c110:s0605:S",
+      "manualPatch": false
+    }
+  ]
+}
