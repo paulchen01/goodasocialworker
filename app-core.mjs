@@ -1,4 +1,15 @@
 const PROGRESS_KEY = "kaoshangSocialWorkerProgress";
+const ANALYTICS_EVENTS = {
+  quick: { path: "click-quick-practice", title: "Click quick practice", event: true },
+  past: { path: "click-past-bank", title: "Click past bank", event: true },
+  mock: { path: "click-mock-exam", title: "Click mock exam", event: true },
+  weak: { path: "click-weakness", title: "Click weakness", event: true },
+  install: { path: "click-install-guide", title: "Click install guide", event: true }
+};
+
+export function getAnalyticsEvent(screen) {
+  return ANALYTICS_EVENTS[screen] ? { ...ANALYTICS_EVENTS[screen] } : null;
+}
 
 export function selectRecentYears(index, count = 5) {
   const latest = index.latestYearRoc;

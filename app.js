@@ -9,6 +9,7 @@ import {
   formatRemainingTime,
   getCountdownRemainingSeconds,
   getOptionStateClasses,
+  getAnalyticsEvent,
   getQuestionCompletionTarget,
   getResultEncouragement,
   getWeakItems,
@@ -20,7 +21,7 @@ import {
   scoreExam,
   selectRecentYears,
   shouldRevealAnswerAfterSelection
-} from "./app-core.mjs?v=20260704-11";
+} from "./app-core.mjs?v=20260704-12";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260704-152";
@@ -138,6 +139,12 @@ function setScreen(markup) {
   stopTimer();
   app.innerHTML = markup;
   window.scrollTo(0, 0);
+}
+
+function trackUsageEvent(screen) {
+  const event = getAnalyticsEvent(screen);
+  if (!event || !window.goatcounter?.count) return;
+  window.goatcounter.count(event);
 }
 
 function examsBySubject() {
@@ -847,6 +854,7 @@ document.addEventListener("click", (event) => {
   const target = event.target.closest("[data-screen]");
   if (!target) return;
   const screen = target.dataset.screen;
+  trackUsageEvent(screen);
   if (screen === "home") {
     syncMockCountdown();
     persistCurrentProgress();
