@@ -981,13 +981,13 @@
         },
         {
           "key": "D",
-          "text": "生態學的謬誤 情況：小英的姑姑去年收養了一位2 歲小孩，念社工研究所的小英想了解北部地區收養家庭的親子互動情形及 其家庭動力分析。依此回答下列第37 題至第38 題。"
+          "text": "生態學的謬誤"
         }
       ],
       "answer": "D",
       "sourceFileId": "社工師:101030:c902:s0806:Q",
       "answerSourceFileId": "社工師:101030:c902:s0806:S",
-      "manualPatch": false
+      "manualPatch": true
     },
     {
       "id": "社工師:101030:c902:s0806:q37",
@@ -1014,7 +1014,8 @@
       "answer": "A",
       "sourceFileId": "社工師:101030:c902:s0806:Q",
       "answerSourceFileId": "社工師:101030:c902:s0806:S",
-      "manualPatch": false
+      "manualPatch": true,
+      "previousStem": "情況：小英的姑姑去年收養了一位2 歲小孩，念社工研究所的小英想了解北部地區收養家庭的親子互動情形及 其家庭動力分析。依此回答下列第37 題至第38 題。"
     },
     {
       "id": "社工師:101030:c902:s0806:q38",
@@ -1041,7 +1042,8 @@
       "answer": "D",
       "sourceFileId": "社工師:101030:c902:s0806:Q",
       "answerSourceFileId": "社工師:101030:c902:s0806:S",
-      "manualPatch": false
+      "manualPatch": true,
+      "previousStem": "情況：小英的姑姑去年收養了一位2 歲小孩，念社工研究所的小英想了解北部地區收養家庭的親子互動情形及 其家庭動力分析。依此回答下列第37 題至第38 題。"
     },
     {
       "id": "社工師:101030:c902:s0806:q39",

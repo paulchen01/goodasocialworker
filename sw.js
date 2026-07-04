@@ -1,9 +1,9 @@
-const CACHE_NAME = "kaoshang-social-worker-v37";
+const CACHE_NAME = "kaoshang-social-worker-v38";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./styles.css?v=20260704-29",
-  "./app.js?v=20260704-33",
+  "./app.js?v=20260704-34",
   "./app-core.mjs?v=20260704-12",
   "./manifest.webmanifest",
   "./icons/apple-touch-icon.png",
@@ -13,7 +13,7 @@ const APP_SHELL = [
   "./install-guide/install-step-1-share.png",
   "./install-guide/install-step-2-more.png",
   "./install-guide/install-step-3-add-home.png",
-  "./data/index.json?v=20260704-152"
+  "./data/index.json?v=20260704-153"
 ];
 
 self.addEventListener("install", (event) => {

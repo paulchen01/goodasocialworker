@@ -24,7 +24,7 @@ import {
 } from "./app-core.mjs?v=20260704-12";
 
 const app = document.querySelector("#app");
-const DATA_VERSION = "20260704-152";
+const DATA_VERSION = "20260704-153";
 
 const state = {
   index: null,
