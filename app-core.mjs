@@ -47,6 +47,31 @@ export function getOptionStateClasses(optionKey, selected, answer, showAnswer) {
   return classes;
 }
 
+export function getQuestionExplanationText(question, maxLength = 200) {
+  const normalized = normalizeDisplayText(question?.explanation || "").trim();
+  if (!normalized) return "";
+  const safeMax = Math.max(20, Number(maxLength) || 200);
+  if (normalized.length <= safeMax) return normalized;
+  return normalized.slice(0, safeMax).replace(/[，。；：、,;:\s]+$/u, "");
+}
+
+function escapeHtmlAttribute(value) {
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+export function buildQuestionImagesMarkup(question) {
+  const images = Array.isArray(question?.images) ? question.images : [];
+  const safeImages = images.filter((image) => image?.src);
+  if (!safeImages.length) return "";
+  return `<div class="question-images">${safeImages.map((image) =>
+    `<figure><img src="${escapeHtmlAttribute(image.src)}" alt="${escapeHtmlAttribute(image.alt || "題目附圖")}" loading="lazy"></figure>`
+  ).join("")}</div>`;
+}
+
 export function getQuestionCompletionTarget(mode) {
   return mode === "weakReview" ? "weak" : "result";
 }

@@ -344,7 +344,7 @@
     {
       "id": "社工師:113100:c103:s0302:q13",
       "number": 13,
-      "stem": "有關下圖案母與案主之間的關係狀況，下列何者正確？ 1970 結婚 寵物：狗",
+      "stem": "有關下圖案母與案主之間的關係狀況，下列何者正確？",
       "options": [
         {
           "key": "A",
@@ -366,7 +366,13 @@
       "answer": "B",
       "sourceFileId": "社工師:113100:c103:s0302:Q",
       "answerSourceFileId": "社工師:113100:c103:s0302:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "images": [
+        {
+          "src": "data/question-assets/113_113100_0302_q13.png",
+          "alt": "民國113年第二次社會工作直接服務第13題關係圖"
+        }
+      ]
     },
     {
       "id": "社工師:113100:c103:s0302:q14",

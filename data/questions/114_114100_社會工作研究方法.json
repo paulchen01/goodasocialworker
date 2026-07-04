@@ -339,7 +339,13 @@
       "answer": "B",
       "sourceFileId": "社工師:114100:c103:s0306:Q",
       "answerSourceFileId": "社工師:114100:c103:s0306:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "images": [
+        {
+          "src": "data/question-assets/114_114100_0306_q12.png",
+          "alt": "民國114年第二次社會工作研究方法第12題量表圖"
+        }
+      ]
     },
     {
       "id": "社工師:114100:c103:s0306:q13",

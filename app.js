@@ -1,4 +1,5 @@
 import {
+  buildQuestionImagesMarkup,
   buildQuestionMetaParts,
   clearProgress,
   createQuestionSetFromExams,
@@ -10,6 +11,7 @@ import {
   getCountdownRemainingSeconds,
   getOptionStateClasses,
   getAnalyticsEvent,
+  getQuestionExplanationText,
   getQuestionCompletionTarget,
   getResultEncouragement,
   getWeakItems,
@@ -21,7 +23,7 @@ import {
   scoreExam,
   selectRecentYears,
   shouldRevealAnswerAfterSelection
-} from "./app-core.mjs?v=20260704-12";
+} from "./app-core.mjs?v=20260704-13";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260704-153";
@@ -436,13 +438,14 @@ function renderQuestion() {
       ${sourceNote ? `<p class="source-note">${escapeHtml(sourceNote)}</p>` : ""}
       ${question.previousQuestionContext ? renderPreviousQuestionContext(question.previousQuestionContext) : ""}
       <p class="stem">${escapeHtml(displayText(question.stem))}</p>
+      ${buildQuestionImagesMarkup(question)}
       <div class="options">
         ${question.options.map((option) => {
           const classes = getOptionStateClasses(option.key, selected, question.answer, showAnswer);
           return `<button class="${classes.join(" ")}" data-answer="${option.key}"><strong>${option.key}</strong><span>${escapeHtml(displayText(option.text))}</span></button>`;
         }).join("")}
       </div>
-      ${showAnswer ? `<div class="answer-box">官方答案：<strong>${question.answer}</strong></div>` : ""}
+      ${showAnswer ? renderAnswerBox(question) : ""}
       <div class="toolbar">
         <button class="ghost" id="markUnfamiliar">不熟，之後再看</button>
         <button class="secondary" id="prevQuestion" ${isFirstQuestion ? "disabled" : ""}>上一題</button>
@@ -452,6 +455,16 @@ function renderQuestion() {
   `);
   wireQuestion(question);
   startTimer();
+}
+
+function renderAnswerBox(question) {
+  const explanation = getQuestionExplanationText(question);
+  return html`
+    <div class="answer-box">
+      <div>官方答案：<strong>${question.answer}</strong></div>
+      ${explanation ? `<p class="explanation-text">考點解析：${escapeHtml(explanation)}</p>` : ""}
+    </div>
+  `;
 }
 
 function renderPreviousQuestionContext(previousQuestion) {

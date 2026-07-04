@@ -1,10 +1,10 @@
-const CACHE_NAME = "kaoshang-social-worker-v38";
+const CACHE_NAME = "kaoshang-social-worker-v39";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=20260704-29",
-  "./app.js?v=20260704-34",
-  "./app-core.mjs?v=20260704-12",
+  "./styles.css?v=20260704-30",
+  "./app.js?v=20260704-35",
+  "./app-core.mjs?v=20260704-13",
   "./manifest.webmanifest",
   "./icons/apple-touch-icon.png",
   "./icons/icon-192.png",
@@ -13,6 +13,8 @@ const APP_SHELL = [
   "./install-guide/install-step-1-share.png",
   "./install-guide/install-step-2-more.png",
   "./install-guide/install-step-3-add-home.png",
+  "./data/question-assets/113_113100_0302_q13.png",
+  "./data/question-assets/114_114100_0306_q12.png",
   "./data/index.json?v=20260704-153"
 ];
 

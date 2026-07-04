@@ -548,6 +548,27 @@ select {
   white-space: pre-wrap;
 }
 
+.question-images {
+  display: grid;
+  gap: 12px;
+  margin: 12px 0 18px;
+}
+
+.question-images figure {
+  margin: 0;
+  padding: 8px;
+  border: 2px solid rgba(6, 26, 68, 0.08);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.question-images img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
 .options {
   display: grid;
   gap: 16px;
@@ -606,6 +627,11 @@ select {
   border-radius: 8px;
   font-size: 18px;
   line-height: 1.6;
+}
+
+.explanation-text {
+  margin: 8px 0 0;
+  font-size: 16px;
 }
 
 .question-card > .toolbar {
