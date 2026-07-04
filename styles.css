@@ -97,6 +97,10 @@ h1 {
   gap: 24px;
 }
 
+.app-main:focus {
+  outline: none;
+}
+
 .panel,
 .mode-card,
 .question-card {

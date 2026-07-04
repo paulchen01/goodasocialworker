@@ -1,8 +1,8 @@
-const CACHE_NAME = "kaoshang-social-worker-v33";
+const CACHE_NAME = "kaoshang-social-worker-v34";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=20260704-28",
+  "./styles.css?v=20260704-29",
   "./app.js?v=20260704-31",
   "./app-core.mjs?v=20260704-11",
   "./manifest.webmanifest",
