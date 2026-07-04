@@ -4,7 +4,8 @@ const ANALYTICS_EVENTS = {
   past: { path: "click-past-bank", title: "Click past bank", event: true },
   mock: { path: "click-mock-exam", title: "Click mock exam", event: true },
   weak: { path: "click-weakness", title: "Click weakness", event: true },
-  install: { path: "click-install-guide", title: "Click install guide", event: true }
+  install: { path: "click-install-guide", title: "Click install guide", event: true },
+  law: { path: "click-law-lookup", title: "Click law lookup", event: true }
 };
 
 export function getAnalyticsEvent(screen) {
@@ -194,7 +195,7 @@ export function getCountdownRemainingSeconds(deadlineAt, now = Date.now()) {
 }
 
 export function shouldRevealAnswerAfterSelection(mode) {
-  return ["memorize", "quick"].includes(mode);
+  return ["memorize", "quick", "weakExam"].includes(mode);
 }
 
 export function getWeakItems(weakState, category) {
@@ -231,6 +232,25 @@ export function createWeakPracticeSet(weakState, categories, options = {}, rng =
     .sort((a, b) => a.sort - b.sort)
     .slice(0, count)
     .map((item) => item.question);
+}
+
+export function updateWrongItemsAfterAnsweredPractice(weakState, questions, selectedAnswers) {
+  const next = {
+    wrong: { ...(weakState?.wrong || {}) },
+    unfamiliar: { ...(weakState?.unfamiliar || {}) },
+    favorite: { ...(weakState?.favorite || {}) }
+  };
+
+  for (const question of questions || []) {
+    if (!question?.id || !selectedAnswers?.[question.id]) continue;
+    if (selectedAnswers[question.id] === question.answer) {
+      delete next.wrong[question.id];
+    } else {
+      next.wrong[question.id] = question;
+    }
+  }
+
+  return next;
 }
 
 export function loadProgress(storage = globalThis.localStorage) {

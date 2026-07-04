@@ -94,7 +94,7 @@ h1 {
 
 .app-main {
   display: grid;
-  gap: 24px;
+  gap: 14px;
 }
 
 .app-main:focus {
@@ -232,8 +232,17 @@ h1 {
 }
 
 .home-section h2,
-.home-summary h2 {
+.home-summary h2,
+.home-tools-section h2 {
   margin-bottom: 14px;
+}
+
+.home-tools-section {
+  margin-top: 0;
+}
+
+.compact-home-grid {
+  gap: 0;
 }
 
 .home-support-grid {
@@ -393,6 +402,83 @@ button.stat {
   color: var(--muted);
   font-size: 18px;
   line-height: 1.55;
+}
+
+.law-page-intro {
+  margin-top: 12px;
+  margin-bottom: 20px;
+  line-height: 1.7;
+}
+
+.law-list {
+  display: grid;
+  gap: 14px;
+}
+
+.law-tier-card {
+  width: 100%;
+}
+
+.scroll-law-list {
+  max-height: min(64dvh, 680px);
+  overflow-y: auto;
+  padding-right: 4px;
+  overscroll-behavior: contain;
+}
+
+.law-card {
+  position: relative;
+  display: grid;
+  gap: 8px;
+  padding: 16px 46px 16px 14px;
+  color: var(--navy);
+  text-align: left;
+  text-decoration: none;
+  border: 1px solid rgba(6, 26, 68, 0.08);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: 0 7px 16px rgba(20, 27, 45, 0.07);
+}
+
+.law-card::after {
+  content: "↗";
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  color: rgba(6, 26, 68, 0.48);
+  font-size: 20px;
+}
+
+.law-card strong {
+  font-size: 19px;
+  line-height: 1.45;
+}
+
+.law-card span {
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.law-card small {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.law-card em {
+  color: #06aee7;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.law-footnote {
+  margin: 18px 2px 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.55;
+  text-align: center;
 }
 
 .primary {
