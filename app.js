@@ -137,7 +137,7 @@ function html(strings, ...values) {
 function setScreen(markup) {
   stopTimer();
   app.innerHTML = markup;
-  app.focus();
+  window.scrollTo(0, 0);
 }
 
 function examsBySubject() {
