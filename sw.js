@@ -1,4 +1,4 @@
-const CACHE_NAME = "kaoshang-social-worker-v36";
+const CACHE_NAME = "kaoshang-social-worker-v37";
 const APP_SHELL = [
   "./",
   "./index.html",

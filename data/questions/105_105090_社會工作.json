@@ -668,29 +668,29 @@
     {
       "id": "社工師:105090:c107:s0601:q25",
       "number": 25,
-      "stem": "每一門專業都有其核心的社會使命要去完成，有關Morales & Sheafor（1998）提出的社會工作存在的三個 使命（3C’s），下列何者正確？①照顧（caring） ②改變社會（changing the society） ③慈善（charity） ④治療（curing）",
+      "stem": "每一門專業都有其核心的社會使命要去完成，有關Morales & Sheafor（1998）提出的社會工作存在的三個使命（3C’s），下列何者正確？①照顧（caring） ②改變社會（changing the society） ③慈善（charity） ④治療（curing）",
       "options": [
         {
           "key": "A",
-          "text": "①①①"
+          "text": "①②③"
         },
         {
           "key": "B",
-          "text": "①①①"
+          "text": "①②④"
         },
         {
           "key": "C",
-          "text": "①①①"
+          "text": "①③④"
         },
         {
           "key": "D",
-          "text": "①①①"
+          "text": "②③④"
         }
       ],
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0601:Q",
       "answerSourceFileId": "社工師:105090:c107:s0601:S",
-      "manualPatch": false
+      "manualPatch": true
     },
     {
       "id": "社工師:105090:c107:s0601:q26",
