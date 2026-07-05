@@ -1,5 +1,4 @@
 import {
-  buildQuestionImagesMarkup,
   buildQuestionMetaParts,
   clearProgress,
   createQuestionSetFromExams,
@@ -7,11 +6,13 @@ import {
   enrichQuestionsWithExamContext,
   formatResultScoreLine,
   formatQuestionSource,
+  formatOfficialAnswerText,
   formatRemainingTime,
+  getAcceptedAnswers,
   getCountdownRemainingSeconds,
   getOptionStateClasses,
   getAnalyticsEvent,
-  getQuestionExplanationText,
+  getOfficialAnswerNoticeText,
   getQuestionCompletionTarget,
   getResultEncouragement,
   getWeakItems,
@@ -22,12 +23,11 @@ import {
   shouldPersistProgress,
   scoreExam,
   selectRecentYears,
-  shouldRevealAnswerAfterSelection,
-  updateWrongItemsAfterAnsweredPractice
-} from "./app-core.mjs?v=20260705-15";
+  shouldRevealAnswerAfterSelection
+} from "./app-core.mjs?v=20260705-18";
 
 const app = document.querySelector("#app");
-const DATA_VERSION = "20260705-154";
+const DATA_VERSION = "20260705-157";
 
 const state = {
   index: null,
@@ -42,8 +42,7 @@ const state = {
   deadlineAt: null,
   timerId: null,
   weak: loadWeakState(),
-  weakPage: { wrong: 1, unfamiliar: 1, favorite: 1 },
-  lawLookup: null
+  weakPage: { wrong: 1, unfamiliar: 1, favorite: 1 }
 };
 
 function loadWeakState() {
@@ -63,14 +62,6 @@ async function loadIndex() {
   const index = await response.json();
   state.index = index;
   return index;
-}
-
-async function loadLawLookup() {
-  if (state.lawLookup) return state.lawLookup;
-  const response = await fetch(`data/law-lookup.json?v=${DATA_VERSION}`);
-  if (!response.ok) throw new Error("法規清冊載入失敗");
-  state.lawLookup = await response.json();
-  return state.lawLookup;
 }
 
 async function loadExam(exam) {
@@ -205,16 +196,6 @@ function renderHome() {
       </div>
     </section>
 
-    <section class="panel home-tools-section">
-      <h2>考試工具</h2>
-      <div class="home-grid compact-home-grid">
-        <button class="mode-card" data-screen="law">
-          <strong>法規速查</strong>
-          <span>收錄社工師歷年考試出過的法規，且統計考過幾次，供考生參考。</span>
-        </button>
-      </div>
-    </section>
-
     <div class="home-support-grid">
       <section class="panel home-summary">
         <h2>考題更新狀況</h2>
@@ -229,75 +210,11 @@ function renderHome() {
         <img src="icons/icon-192.png" alt="" aria-hidden="true">
         <strong>第一次使用請先點我</strong>
         <span>加入到手機桌面</span>
-        <span>每天練習更方便</span>
+        <span>iPhone／Android 都可以</span>
       </button>
     </div>
   `);
   wireHome();
-}
-
-async function renderLawCategories() {
-  setScreen(html`<section class="panel"><h2>法規速查</h2><p class="muted">法規清冊載入中...</p></section>`);
-  try {
-    const lookup = await loadLawLookup();
-    setScreen(html`
-      <section class="panel">
-        <button class="ghost" data-screen="home">回首頁</button>
-        <h2>法規速查</h2>
-        <p class="muted law-page-intro">收錄社工師歷年考試出過的法規，且統計考過幾次，供考生參考。</p>
-        <div class="law-list">
-          ${lookup.groups.map((group) => html`
-            <button class="mode-card law-tier-card" data-law-tier="${escapeHtml(group.id)}">
-              <strong>${escapeHtml(group.label)}</strong>
-              <span>${group.lawCount}部法規｜近5年${group.recent5YearQuestionCount}題｜歷屆題庫共${group.totalQuestionCount}題</span>
-            </button>
-          `).join("")}
-        </div>
-        <p class="law-footnote">法規內容以全國法規資料庫官方頁面為準。統計會隨題庫更新重新計算。</p>
-      </section>
-    `);
-  } catch (error) {
-    setScreen(html`
-      <section class="panel warning">
-        <button class="ghost" data-screen="home">回首頁</button>
-        <h2>法規清冊載入失敗</h2>
-        <p>${escapeHtml(error.message)}</p>
-      </section>
-    `);
-  }
-}
-
-async function renderLawList(groupId) {
-  try {
-    const lookup = await loadLawLookup();
-    const group = lookup.groups.find((item) => item.id === groupId) || lookup.groups[0];
-    setScreen(html`
-      <section class="panel law-list-panel">
-        <button class="ghost" data-screen="law">回分類</button>
-        <h2>${escapeHtml(group.label)}</h2>
-        <p class="muted law-page-intro">本分類共${group.lawCount}部法規，近5年${group.recent5YearQuestionCount}題，歷屆題庫共出現${group.totalQuestionCount}題。點法規名稱後，會另開全國法規資料庫。</p>
-        <div class="law-list scroll-law-list">
-          ${group.laws.map((law) => html`
-            <a class="law-card" href="${escapeHtml(law.url)}" target="_blank" rel="noopener noreferrer">
-              <strong>${escapeHtml(law.name)}</strong>
-              <span>近5年${law.recent5YearQuestionCount}題｜歷屆${law.totalQuestionCount}題</span>
-              <small>出現年度：${escapeHtml(law.yearRangeRoc || "未標示")}｜最新修正：${escapeHtml(law.lawModifiedDate || "未標示")}</small>
-              <em>開啟全國法規資料庫</em>
-            </a>
-          `).join("")}
-        </div>
-        <p class="law-footnote">法規內容以全國法規資料庫官方頁面為準。</p>
-      </section>
-    `);
-  } catch (error) {
-    setScreen(html`
-      <section class="panel warning">
-        <button class="ghost" data-screen="law">回分類</button>
-        <h2>法規列表載入失敗</h2>
-        <p>${escapeHtml(error.message)}</p>
-      </section>
-    `);
-  }
 }
 
 function wireHome() {
@@ -312,34 +229,62 @@ function renderInstallGuide() {
   setScreen(html`
     <section class="panel past-selector-panel">
       <button class="ghost" data-screen="home">回首頁</button>
-      <h2>把 <span class="app-name-highlight">考上社工師</span> 放到 iPhone 桌面</h2>
-      <p class="muted">請用 Safari 開啟，不要用 LINE、Facebook 或其他 APP 內建瀏覽器。</p>
-      <div class="install-steps">
-        <article class="install-step">
-          <strong>點 Safari 的分享按鈕</strong>
-          <div class="phone-shot">
-            <img src="install-guide/install-step-1-share.png" alt="Safari 選單中分享按鈕的位置">
+      <h2>把 <span class="app-name-highlight">考上社工師</span> 放到手機桌面</h2>
+      <p class="muted">請用手機瀏覽器開啟網站，不要用 LINE、Facebook 或其他 APP 內建瀏覽器。</p>
+      <div class="install-platforms">
+        <section class="install-platform">
+          <h3>iPhone 使用者</h3>
+          <p class="muted">請用 Safari 開啟網站，再照下面步驟加入主畫面。</p>
+          <div class="install-steps">
+            <article class="install-step">
+              <strong>點 Safari 的分享按鈕</strong>
+              <div class="phone-shot">
+                <img src="install-guide/install-step-1-share.png" alt="Safari 選單中分享按鈕的位置">
+              </div>
+              <p>先在 Safari 打開網站，找到選單裡的「分享」。</p>
+            </article>
+            <article class="install-step">
+              <strong>點「檢視較多」</strong>
+              <div class="phone-shot">
+                <img src="install-guide/install-step-2-more.png" alt="iPhone 分享面板中檢視較多的位置">
+              </div>
+              <p>如果一開始沒有看到「加入主畫面」，先點「檢視較多」。</p>
+            </article>
+            <article class="install-step">
+              <strong>選「加入主畫面」</strong>
+              <div class="phone-shot">
+                <img src="install-guide/install-step-3-add-home.png" alt="iPhone 選單中加入主畫面的位置">
+              </div>
+              <p>接著確認名稱是「考上社工師」，按加入後就會出現在桌面。</p>
+            </article>
+            <article class="install-step">
+              <strong>回桌面點「考上社工師」</strong>
+              <p>之後就可以像 APP 一樣從桌面開啟，不需要登入。</p>
+            </article>
           </div>
-          <p>先在 Safari 打開網站，找到選單裡的「分享」。</p>
-        </article>
-        <article class="install-step">
-          <strong>點「檢視較多」</strong>
-          <div class="phone-shot">
-            <img src="install-guide/install-step-2-more.png" alt="iPhone 分享面板中檢視較多的位置">
+        </section>
+        <section class="install-platform">
+          <h3>Android 使用者</h3>
+          <p class="muted">請用 Google Chrome 開啟網站，再把它加到主畫面。</p>
+          <div class="install-steps android-install-steps">
+            <article class="install-step">
+              <strong>用 Google Chrome 開啟網站</strong>
+              <p>打開 Chrome 瀏覽器，前往「考上社工師」網頁。</p>
+            </article>
+            <article class="install-step">
+              <strong>點右上角「⋮」</strong>
+              <p>找到 Chrome 右上角的更多選單。</p>
+            </article>
+            <article class="install-step">
+              <strong>選「加到主畫面」</strong>
+              <p>向下滑動選單，點選「加到主畫面」。</p>
+            </article>
+            <article class="install-step">
+              <strong>按「新增」完成</strong>
+              <p>確認名稱是「考上社工師」，按新增後就會出現在手機桌面。</p>
+            </article>
           </div>
-          <p>如果一開始沒有看到「加入主畫面」，先點「檢視較多」。</p>
-        </article>
-        <article class="install-step">
-          <strong>選「加入主畫面」</strong>
-          <div class="phone-shot">
-            <img src="install-guide/install-step-3-add-home.png" alt="iPhone 選單中加入主畫面的位置">
-          </div>
-          <p>接著確認名稱是「考上社工師」，按加入後就會出現在桌面。</p>
-        </article>
-        <article class="install-step">
-          <strong>回桌面點「考上社工師」</strong>
-          <p>之後就可以像 APP 一樣從桌面開啟，不需要登入。</p>
-        </article>
+        </section>
       </div>
     </section>
   `);
@@ -509,7 +454,6 @@ function renderQuestion() {
   const metaParts = buildQuestionMetaParts(exam, question, state.mode, state.currentQuestionIndex);
   const sourceNote = state.mode === "quick" ? "" : question.sourceLabel;
   const isFirstQuestion = state.currentQuestionIndex === 0;
-  const canRemoveWrong = state.mode === "weakReview" && state.weakReturnCategory === "wrong" && Boolean(state.weak.wrong[question.id]);
   setScreen(html`
     <section class="question-card mode-${state.mode}">
       <div class="top-actions">
@@ -523,16 +467,14 @@ function renderQuestion() {
       ${sourceNote ? `<p class="source-note">${escapeHtml(sourceNote)}</p>` : ""}
       ${question.previousQuestionContext ? renderPreviousQuestionContext(question.previousQuestionContext) : ""}
       <p class="stem">${escapeHtml(displayText(question.stem))}</p>
-      ${buildQuestionImagesMarkup(question)}
       <div class="options">
         ${question.options.map((option) => {
-          const classes = getOptionStateClasses(option.key, selected, question.answer, showAnswer);
+          const classes = getOptionStateClasses(option.key, selected, getAcceptedAnswers(question), showAnswer);
           return `<button class="${classes.join(" ")}" data-answer="${option.key}"><strong>${option.key}</strong><span>${escapeHtml(displayText(option.text))}</span></button>`;
         }).join("")}
       </div>
       ${showAnswer ? renderAnswerBox(question) : ""}
       <div class="toolbar">
-        ${canRemoveWrong ? `<button class="ghost danger-ghost" id="removeWrongQuestion">移除錯題</button>` : ""}
         <button class="ghost" id="markUnfamiliar">不熟，之後再看</button>
         <button class="secondary" id="prevQuestion" ${isFirstQuestion ? "disabled" : ""}>上一題</button>
         <button class="primary" id="nextQuestion">${state.currentQuestionIndex === exam.questions.length - 1 ? "完成" : "下一題"}</button>
@@ -544,11 +486,11 @@ function renderQuestion() {
 }
 
 function renderAnswerBox(question) {
-  const explanation = getQuestionExplanationText(question);
+  const notice = getOfficialAnswerNoticeText(question);
   return html`
     <div class="answer-box">
-      <div>官方答案：<strong>${question.answer}</strong></div>
-      ${explanation ? `<p class="explanation-text">考點解析：${escapeHtml(explanation)}</p>` : ""}
+      <div>官方答案：<strong>${formatOfficialAnswerText(question)}</strong></div>
+      ${notice ? `<p class="official-answer-notice">${escapeHtml(notice)}</p>` : ""}
     </div>
   `;
 }
@@ -575,10 +517,7 @@ function wireQuestion(question) {
     button.addEventListener("click", () => {
       state.selected[question.id] = button.dataset.answer;
       if (shouldRevealAnswerAfterSelection(state.mode)) state.showAnswer = true;
-      if (state.mode === "weakExam") {
-        state.weak = updateWrongItemsAfterAnsweredPractice(state.weak, [question], state.selected);
-        saveWeakState();
-      } else if (shouldRevealAnswerAfterSelection(state.mode) && button.dataset.answer !== question.answer) {
+      if (shouldRevealAnswerAfterSelection(state.mode) && button.dataset.answer !== question.answer) {
         state.weak.wrong[question.id] = question;
         saveWeakState();
       }
@@ -591,11 +530,6 @@ function wireQuestion(question) {
     saveWeakState();
     persistCurrentProgress();
     renderQuestion();
-  });
-  document.querySelector("#removeWrongQuestion")?.addEventListener("click", () => {
-    delete state.weak.wrong[question.id];
-    saveWeakState();
-    renderWeak("wrong");
   });
   document.querySelector("#prevQuestion").addEventListener("click", () => {
     if (state.currentQuestionIndex === 0) return;
@@ -958,12 +892,6 @@ function displayText(value) {
 }
 
 document.addEventListener("click", (event) => {
-  const lawTier = event.target.closest("[data-law-tier]");
-  if (lawTier) {
-    renderLawList(lawTier.dataset.lawTier);
-    return;
-  }
-
   const target = event.target.closest("[data-screen]");
   if (!target) return;
   const screen = target.dataset.screen;
@@ -978,7 +906,6 @@ document.addEventListener("click", (event) => {
   if (screen === "quick") renderQuickPractice();
   if (screen === "mock") renderMockNotice();
   if (screen === "weak") renderWeak();
-  if (screen === "law") renderLawCategories();
 });
 
 if ("serviceWorker" in navigator) {

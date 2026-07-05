@@ -96,7 +96,15 @@
       "answer": "D",
       "sourceFileId": "社工師:100160:c902:s0704:Q",
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "100年",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
+        "officialRemark": "第3題一律給分"
+      }
     },
     {
       "id": "社工師:100160:c902:s0704:q04",
@@ -123,7 +131,15 @@
       "answer": "C",
       "sourceFileId": "社工師:100160:c902:s0704:Q",
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "100年",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
+        "officialRemark": "第4題答Ａ或Ｂ或Ｃ或Ｄ者給分"
+      }
     },
     {
       "id": "社工師:100160:c902:s0704:q05",
@@ -204,7 +220,15 @@
       "answer": "B",
       "sourceFileId": "社工師:100160:c902:s0704:Q",
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "100年",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
+        "officialRemark": "第7題一律給分"
+      }
     },
     {
       "id": "社工師:100160:c902:s0704:q08",
@@ -501,7 +525,19 @@
       "answer": "A",
       "sourceFileId": "社工師:100160:c902:s0704:Q",
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／B 均給分。",
+        "sourceDate": "100年",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
+        "officialRemark": "第18題答Ａ或Ｂ者均給分"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ]
     },
     {
       "id": "社工師:100160:c902:s0704:q19",

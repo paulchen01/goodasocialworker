@@ -474,7 +474,15 @@
       "answer": "B",
       "sourceFileId": "社工師:103100:c110:s0606:Q",
       "answerSourceFileId": "社工師:103100:c110:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "103年第二次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=103100&t=A",
+        "officialRemark": "第17題一律給分。 每題配分：1.25分題數：40題 科目代碼："
+      }
     },
     {
       "id": "社工師:103100:c110:s0606:q18",

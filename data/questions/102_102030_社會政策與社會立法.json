@@ -852,7 +852,19 @@
       "answer": "B",
       "sourceFileId": "社工師:102030:c111:s0702:Q",
       "answerSourceFileId": "社工師:102030:c111:s0702:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／D 均給分。",
+        "sourceDate": "102年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=102030&t=A",
+        "officialRemark": "第31題答Ｂ或Ｄ或BD者均給分"
+      },
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ]
     },
     {
       "id": "社工師:102030:c111:s0702:q32",

@@ -23,7 +23,7 @@ export function scoreExam(questions, answers) {
   const wrongQuestionIds = [];
 
   for (const question of questions) {
-    if (answers[question.id] === question.answer) {
+    if (isCorrectAnswer(question, answers[question.id])) {
       correct += 1;
     } else {
       wrongQuestionIds.push(question.id);
@@ -31,6 +31,52 @@ export function scoreExam(questions, answers) {
   }
 
   return { correct, total: questions.length, wrongQuestionIds };
+}
+
+export function isCorrectAnswer(question, selectedAnswer) {
+  if (!selectedAnswer) return false;
+  if (question?.officialAnswerNotice?.type === "allGiveScore") {
+    return ["A", "B", "C", "D"].includes(selectedAnswer);
+  }
+  return getAcceptedAnswers(question).includes(selectedAnswer);
+}
+
+export function getAcceptedAnswers(question) {
+  if (question?.officialAnswerNotice?.type === "allGiveScore") {
+    return ["A", "B", "C", "D"];
+  }
+  const answers = Array.isArray(question?.acceptedAnswers)
+    ? question.acceptedAnswers
+    : [question?.answer];
+  return answers
+    .map((answer) => String(answer || "").trim())
+    .filter((answer) => /^[A-D]$/.test(answer));
+}
+
+export function formatOfficialAnswerText(question) {
+  const originalAnswer = String(question?.answer || "").trim();
+  if (question?.officialAnswerNotice?.type === "allGiveScore") {
+    return originalAnswer ? `一律給分（原答案 ${originalAnswer}）` : "一律給分";
+  }
+  const answers = getAcceptedAnswers(question);
+  if (question?.officialAnswerNotice?.type === "multipleAnswers" && answers.length > 1) {
+    return `${answers.join("／")}（均給分）`;
+  }
+  if (question?.officialAnswerNotice?.type === "singleAnswerCredit" && answers.length === 1) {
+    return `${answers[0]}（更正給分）`;
+  }
+  return answers.length ? answers.join("／") : originalAnswer;
+}
+
+export function getOfficialAnswerNoticeText(question) {
+  const notice = question?.officialAnswerNotice;
+  if (!notice?.text) return "";
+  const parts = [String(notice.text).trim()];
+  if (notice.sourceTitle || notice.sourceDate) {
+    const source = [notice.sourceDate, notice.sourceTitle].filter(Boolean).join("｜");
+    parts.push(`來源：${source}`);
+  }
+  return parts.filter(Boolean).join("\n");
 }
 
 export function formatResultScoreLine(result) {
@@ -42,9 +88,10 @@ export function formatResultScoreLine(result) {
 
 export function getOptionStateClasses(optionKey, selected, answer, showAnswer) {
   const classes = ["option"];
+  const answers = Array.isArray(answer) ? answer : [answer];
   if (!showAnswer && selected === optionKey) classes.push("selected");
-  if (showAnswer && optionKey === answer) classes.push("correct");
-  if (showAnswer && selected === optionKey && selected !== answer) classes.push("wrong");
+  if (showAnswer && answers.includes(optionKey)) classes.push("correct");
+  if (showAnswer && selected === optionKey && !answers.includes(selected)) classes.push("wrong");
   return classes;
 }
 

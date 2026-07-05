@@ -417,10 +417,22 @@
           "text": "幫助什麼樣的人"
         }
       ],
-      "answer": "D",
+      "answer": "C",
       "sourceFileId": "社工師:105030:c107:s0601:Q",
       "answerSourceFileId": "社工師:105030:c107:s0601:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "singleAnswerCredit",
+        "text": "考選部公告：本題答 C 給分。",
+        "sourceDate": "105年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A",
+        "officialRemark": "第15題答Ｃ給分"
+      },
+      "acceptedAnswers": [
+        "C"
+      ],
+      "originalAnswerBeforeCorrection": "D"
     },
     {
       "id": "社工師:105030:c107:s0601:q16",
@@ -447,7 +459,15 @@
       "answer": "C",
       "sourceFileId": "社工師:105030:c107:s0601:Q",
       "answerSourceFileId": "社工師:105030:c107:s0601:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "105年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A",
+        "officialRemark": "第16題一律給分"
+      }
     },
     {
       "id": "社工師:105030:c107:s0601:q17",
@@ -474,7 +494,15 @@
       "answer": "D",
       "sourceFileId": "社工師:105030:c107:s0601:Q",
       "answerSourceFileId": "社工師:105030:c107:s0601:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "105年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A",
+        "officialRemark": "第17題除未作答者不給分外，其餘均給分。 每題配分：1.25分題數：40題"
+      }
     },
     {
       "id": "社工師:105030:c107:s0601:q18",

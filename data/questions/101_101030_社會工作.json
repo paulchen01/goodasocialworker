@@ -285,7 +285,19 @@
       "answer": "B",
       "sourceFileId": "社工師:101030:c902:s0801:Q",
       "answerSourceFileId": "社工師:101030:c902:s0801:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／C 均給分。",
+        "sourceDate": "101年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A",
+        "officialRemark": "第10題答Ｂ或Ｃ或BC者均給分"
+      },
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "社工師:101030:c902:s0801:q11",
@@ -339,7 +351,19 @@
       "answer": "D",
       "sourceFileId": "社工師:101030:c902:s0801:Q",
       "answerSourceFileId": "社工師:101030:c902:s0801:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／D 均給分。",
+        "sourceDate": "101年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A",
+        "officialRemark": "第12題答Ａ或Ｄ或AD者均給分"
+      },
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ]
     },
     {
       "id": "社工師:101030:c902:s0801:q13",
@@ -798,7 +822,15 @@
       "answer": "D",
       "sourceFileId": "社工師:101030:c902:s0801:Q",
       "answerSourceFileId": "社工師:101030:c902:s0801:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "101年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A",
+        "officialRemark": "第29題一律給分"
+      }
     },
     {
       "id": "社工師:101030:c902:s0801:q30",
@@ -906,7 +938,19 @@
       "answer": "A",
       "sourceFileId": "社工師:101030:c902:s0801:Q",
       "answerSourceFileId": "社工師:101030:c902:s0801:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／C 均給分。",
+        "sourceDate": "101年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A",
+        "officialRemark": "第33題答Ａ或Ｃ或AC者均給分"
+      },
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "社工師:101030:c902:s0801:q34",
@@ -960,7 +1004,19 @@
       "answer": "B",
       "sourceFileId": "社工師:101030:c902:s0801:Q",
       "answerSourceFileId": "社工師:101030:c902:s0801:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／D 均給分。",
+        "sourceDate": "101年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A",
+        "officialRemark": "第35題答Ｂ或Ｄ或BD者均給分"
+      },
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ]
     },
     {
       "id": "社工師:101030:c902:s0801:q36",

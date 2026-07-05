@@ -447,7 +447,19 @@
       "answer": "B",
       "sourceFileId": "社工師:107030:c107:s0604:Q",
       "answerSourceFileId": "社工師:107030:c107:s0604:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／C 均給分。",
+        "sourceDate": "107年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107030&t=A",
+        "officialRemark": "第 16 題答Ｂ或Ｃ或 BC 者均給分。 \"％\"符號表示該科目答案更正，\"#\"符號表示該題答案更正。 ＊＊＊ 本標準答案更正清冊未完，請詳見次頁 ＊＊＊"
+      },
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "社工師:107030:c107:s0604:q17",

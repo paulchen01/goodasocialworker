@@ -228,10 +228,21 @@
           "text": "私校、團體及民營事業機構員工總人數在76 人以上者，進用具有就業能力之身心障礙者人數，不得低 於員工總人數1%，且不得少於一人"
         }
       ],
-      "answer": "D",
+      "answer": "C",
       "sourceFileId": "社工師:105030:c107:s0604:Q",
       "answerSourceFileId": "社工師:105030:c107:s0604:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "singleAnswerCredit",
+        "text": "考選部公告：本題答 C 給分。",
+        "sourceDate": "105年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A",
+        "officialRemark": "第8題答Ｃ給分。 每題配分：1.25分題數：40題"
+      },
+      "acceptedAnswers": [
+        "C"
+      ]
     },
     {
       "id": "社工師:105030:c107:s0604:q09",

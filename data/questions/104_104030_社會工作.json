@@ -393,7 +393,19 @@
       "answer": "C",
       "sourceFileId": "社工師:104030:c110:s0601:Q",
       "answerSourceFileId": "社工師:104030:c110:s0601:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／C 均給分。",
+        "sourceDate": "104年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=104030&t=A",
+        "officialRemark": "第14題答Ｂ或Ｃ或BC者均給分。 每題配分：1.25分題數：40題"
+      },
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "社工師:104030:c110:s0601:q15",

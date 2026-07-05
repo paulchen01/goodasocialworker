@@ -987,7 +987,15 @@
       "answer": "A",
       "sourceFileId": "社工師:106030:c107:s0601:Q",
       "answerSourceFileId": "社工師:106030:c107:s0601:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "106年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=106030&t=A",
+        "officialRemark": "第36題除未作答者不給分外，其餘均給分。 每題配分：1.25分題數：40題"
+      }
     },
     {
       "id": "社工師:106030:c107:s0601:q37",

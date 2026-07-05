@@ -204,7 +204,15 @@
       "answer": "B",
       "sourceFileId": "社工師:114100:c103:s0305:Q",
       "answerSourceFileId": "社工師:114100:c103:s0305:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "114年第二次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=114100&t=A",
+        "officialRemark": "第7題一律給分"
+      }
     },
     {
       "id": "社工師:114100:c103:s0305:q08",
@@ -447,7 +455,19 @@
       "answer": "D",
       "sourceFileId": "社工師:114100:c103:s0305:Q",
       "answerSourceFileId": "社工師:114100:c103:s0305:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：C／D 均給分。",
+        "sourceDate": "114年第二次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=114100&t=A",
+        "officialRemark": "第16題答Ｃ或Ｄ或CD者均給分。 每題配分：1.25分題數：40題"
+      },
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ]
     },
     {
       "id": "社工師:114100:c103:s0305:q17",

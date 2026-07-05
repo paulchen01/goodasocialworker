@@ -366,7 +366,19 @@
       "answer": "A",
       "sourceFileId": "社工師:107030:c107:s0605:Q",
       "answerSourceFileId": "社工師:107030:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／C 均給分。",
+        "sourceDate": "107年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107030&t=A",
+        "officialRemark": "第 13 題答Ａ或Ｃ或ＡＣ者均給分"
+      },
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "社工師:107030:c107:s0605:q14",

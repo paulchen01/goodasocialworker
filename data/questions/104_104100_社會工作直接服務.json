@@ -987,7 +987,19 @@
       "answer": "D",
       "sourceFileId": "社工師:104100:c107:s0602:Q",
       "answerSourceFileId": "社工師:104100:c107:s0602:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／D 均給分。",
+        "sourceDate": "104年第二次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=104100&t=A",
+        "officialRemark": "第36題答Ｂ或Ｄ或BD者均給分。 每題配分：1.25分題數：40題"
+      },
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ]
     },
     {
       "id": "社工師:104100:c107:s0602:q37",

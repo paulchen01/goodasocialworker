@@ -501,7 +501,15 @@
       "answer": "B",
       "sourceFileId": "社工師:111030:c105:s0405:Q",
       "answerSourceFileId": "社工師:111030:c105:s0405:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceDate": "111年第一次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=111030&t=A",
+        "officialRemark": "第18題一律給分。 每題配分：1.25分題數：40題"
+      }
     },
     {
       "id": "社工師:111030:c105:s0405:q19",

@@ -258,7 +258,19 @@
       "answer": "B",
       "sourceFileId": "社工師:103100:c110:s0605:Q",
       "answerSourceFileId": "社工師:103100:c110:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／B 均給分。",
+        "sourceDate": "103年第二次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=103100&t=A",
+        "officialRemark": "第9題答Ａ或Ｂ或AB者均給分"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ]
     },
     {
       "id": "社工師:103100:c110:s0605:q10",
@@ -582,7 +594,19 @@
       "answer": "A",
       "sourceFileId": "社工師:103100:c110:s0605:Q",
       "answerSourceFileId": "社工師:103100:c110:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／C 均給分。",
+        "sourceDate": "103年第二次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=103100&t=A",
+        "officialRemark": "第21題答Ａ或Ｃ或ＡＣ者均給分"
+      },
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "社工師:103100:c110:s0605:q22",
@@ -660,10 +684,21 @@
           "text": "階段6：有原則的良知"
         }
       ],
-      "answer": "B",
+      "answer": "D",
       "sourceFileId": "社工師:103100:c110:s0605:Q",
       "answerSourceFileId": "社工師:103100:c110:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "officialAnswerNotice": {
+        "type": "singleAnswerCredit",
+        "text": "考選部公告：本題答 D 給分。",
+        "sourceDate": "103年第二次",
+        "sourceTitle": "社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=103100&t=A",
+        "officialRemark": "第24題答Ｄ給分。 每題配分：1.25分題數：40題"
+      },
+      "acceptedAnswers": [
+        "D"
+      ]
     },
     {
       "id": "社工師:103100:c110:s0605:q25",
