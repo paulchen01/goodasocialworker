@@ -18,6 +18,12 @@ export function selectRecentYears(index, count = 5) {
   return Array.from({ length: latest - start + 1 }, (_, offset) => start + offset);
 }
 
+export function withDataVersion(url, version) {
+  if (!version) return url;
+  const separator = String(url).includes("?") ? "&" : "?";
+  return `${url}${separator}v=${encodeURIComponent(version)}`;
+}
+
 export function scoreExam(questions, answers) {
   let correct = 0;
   const wrongQuestionIds = [];

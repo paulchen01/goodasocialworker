@@ -23,11 +23,12 @@ import {
   shouldPersistProgress,
   scoreExam,
   selectRecentYears,
-  shouldRevealAnswerAfterSelection
-} from "./app-core.mjs?v=20260705-18";
+  shouldRevealAnswerAfterSelection,
+  withDataVersion
+} from "./app-core.mjs?v=20260705-19";
 
 const app = document.querySelector("#app");
-const DATA_VERSION = "20260705-157";
+const DATA_VERSION = "20260705-158";
 
 const state = {
   index: null,
@@ -65,7 +66,7 @@ async function loadIndex() {
 }
 
 async function loadExam(exam) {
-  const response = await fetch(exam.file);
+  const response = await fetch(withDataVersion(exam.file, DATA_VERSION));
   const payload = await response.json();
   payload.questions = enrichQuestionsWithExamContext(payload);
   return payload;
