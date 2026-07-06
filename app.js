@@ -1,4 +1,5 @@
 import {
+  buildQuestionImagesMarkup,
   buildQuestionMetaParts,
   clearProgress,
   createQuestionSetFromExams,
@@ -15,17 +16,20 @@ import {
   getOfficialAnswerNoticeText,
   getQuestionCompletionTarget,
   getResultEncouragement,
+  getVisitAnalyticsEvents,
   getWeakItems,
   loadProgress,
   normalizeDisplayText,
   paginateItems,
   saveProgress,
+  saveVisitAnalyticsState,
   shouldPersistProgress,
   scoreExam,
   selectRecentYears,
   shouldRevealAnswerAfterSelection,
+  updateWrongItemsAfterAnsweredPractice,
   withDataVersion
-} from "./app-core.mjs?v=20260705-19";
+} from "./app-core.mjs?v=20260706-01";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260705-158";
@@ -43,7 +47,8 @@ const state = {
   deadlineAt: null,
   timerId: null,
   weak: loadWeakState(),
-  weakPage: { wrong: 1, unfamiliar: 1, favorite: 1 }
+  weakPage: { wrong: 1, unfamiliar: 1, favorite: 1 },
+  lawLookup: null
 };
 
 function loadWeakState() {
@@ -63,6 +68,14 @@ async function loadIndex() {
   const index = await response.json();
   state.index = index;
   return index;
+}
+
+async function loadLawLookup() {
+  if (state.lawLookup) return state.lawLookup;
+  const response = await fetch(`data/law-lookup.json?v=${DATA_VERSION}`);
+  if (!response.ok) throw new Error("法規清冊載入失敗");
+  state.lawLookup = await response.json();
+  return state.lawLookup;
 }
 
 async function loadExam(exam) {
@@ -151,6 +164,39 @@ function trackUsageEvent(screen) {
   window.goatcounter.count(event);
 }
 
+function isStandaloneDisplayMode() {
+  return Boolean(
+    window.matchMedia?.("(display-mode: standalone)")?.matches ||
+    window.navigator?.standalone === true
+  );
+}
+
+function sendGoatCounterEventsWhenReady(events, attempt = 0) {
+  if (!events.length) return;
+  if (window.goatcounter?.count) {
+    for (const event of events) {
+      window.goatcounter.count(event);
+    }
+    return;
+  }
+  if (attempt >= 10) return;
+  window.setTimeout(() => sendGoatCounterEventsWhenReady(events, attempt + 1), 300);
+}
+
+function trackVisitAnalytics() {
+  try {
+    const { events, state: nextVisitState } = getVisitAnalyticsEvents(
+      localStorage,
+      new Date(),
+      isStandaloneDisplayMode()
+    );
+    saveVisitAnalyticsState(localStorage, nextVisitState);
+    sendGoatCounterEventsWhenReady(events);
+  } catch {
+    // Analytics must never interrupt loading the question bank.
+  }
+}
+
 function examsBySubject() {
   return state.index.subjects.map((subject) => ({
     subject,
@@ -197,6 +243,16 @@ function renderHome() {
       </div>
     </section>
 
+    <section class="panel home-tools-section">
+      <h2>考試工具</h2>
+      <div class="home-grid compact-home-grid">
+        <button class="mode-card" data-screen="law">
+          <strong>法規速查</strong>
+          <span>收錄社工師歷年考試出過的法規，且統計考過幾次，供考生參考。</span>
+        </button>
+      </div>
+    </section>
+
     <div class="home-support-grid">
       <section class="panel home-summary">
         <h2>考題更新狀況</h2>
@@ -216,6 +272,70 @@ function renderHome() {
     </div>
   `);
   wireHome();
+}
+
+async function renderLawCategories() {
+  setScreen(html`<section class="panel"><h2>法規速查</h2><p class="muted">法規清冊載入中...</p></section>`);
+  try {
+    const lookup = await loadLawLookup();
+    setScreen(html`
+      <section class="panel">
+        <button class="ghost" data-screen="home">回首頁</button>
+        <h2>法規速查</h2>
+        <p class="muted law-page-intro">收錄社工師歷年考試出過的法規，且統計考過幾次，供考生參考。</p>
+        <div class="law-list">
+          ${lookup.groups.map((group) => html`
+            <button class="mode-card law-tier-card" data-law-tier="${escapeHtml(group.id)}">
+              <strong>${escapeHtml(group.label)}</strong>
+              <span>${group.lawCount}部法規｜近5年${group.recent5YearQuestionCount}題｜歷屆題庫共${group.totalQuestionCount}題</span>
+            </button>
+          `).join("")}
+        </div>
+        <p class="law-footnote">法規內容以全國法規資料庫官方頁面為準。統計會隨題庫更新重新計算。</p>
+      </section>
+    `);
+  } catch (error) {
+    setScreen(html`
+      <section class="panel warning">
+        <button class="ghost" data-screen="home">回首頁</button>
+        <h2>法規清冊載入失敗</h2>
+        <p>${escapeHtml(error.message)}</p>
+      </section>
+    `);
+  }
+}
+
+async function renderLawList(groupId) {
+  try {
+    const lookup = await loadLawLookup();
+    const group = lookup.groups.find((item) => item.id === groupId) || lookup.groups[0];
+    setScreen(html`
+      <section class="panel law-list-panel">
+        <button class="ghost" data-screen="law">回分類</button>
+        <h2>${escapeHtml(group.label)}</h2>
+        <p class="muted law-page-intro">本分類共${group.lawCount}部法規，近5年${group.recent5YearQuestionCount}題，歷屆題庫共出現${group.totalQuestionCount}題。點法規名稱後，會另開全國法規資料庫。</p>
+        <div class="law-list scroll-law-list">
+          ${group.laws.map((law) => html`
+            <a class="law-card" href="${escapeHtml(law.url)}" target="_blank" rel="noopener noreferrer">
+              <strong>${escapeHtml(law.name)}</strong>
+              <span>近5年${law.recent5YearQuestionCount}題｜歷屆${law.totalQuestionCount}題</span>
+              <small>出現年度：${escapeHtml(law.yearRangeRoc || "未標示")}｜最新修正：${escapeHtml(law.lawModifiedDate || "未標示")}</small>
+              <em>開啟全國法規資料庫</em>
+            </a>
+          `).join("")}
+        </div>
+        <p class="law-footnote">法規內容以全國法規資料庫官方頁面為準。</p>
+      </section>
+    `);
+  } catch (error) {
+    setScreen(html`
+      <section class="panel warning">
+        <button class="ghost" data-screen="law">回分類</button>
+        <h2>法規列表載入失敗</h2>
+        <p>${escapeHtml(error.message)}</p>
+      </section>
+    `);
+  }
 }
 
 function wireHome() {
@@ -455,6 +575,7 @@ function renderQuestion() {
   const metaParts = buildQuestionMetaParts(exam, question, state.mode, state.currentQuestionIndex);
   const sourceNote = state.mode === "quick" ? "" : question.sourceLabel;
   const isFirstQuestion = state.currentQuestionIndex === 0;
+  const canRemoveWrong = state.mode === "weakReview" && state.weakReturnCategory === "wrong" && Boolean(state.weak.wrong[question.id]);
   setScreen(html`
     <section class="question-card mode-${state.mode}">
       <div class="top-actions">
@@ -468,6 +589,7 @@ function renderQuestion() {
       ${sourceNote ? `<p class="source-note">${escapeHtml(sourceNote)}</p>` : ""}
       ${question.previousQuestionContext ? renderPreviousQuestionContext(question.previousQuestionContext) : ""}
       <p class="stem">${escapeHtml(displayText(question.stem))}</p>
+      ${buildQuestionImagesMarkup(question)}
       <div class="options">
         ${question.options.map((option) => {
           const classes = getOptionStateClasses(option.key, selected, getAcceptedAnswers(question), showAnswer);
@@ -476,6 +598,7 @@ function renderQuestion() {
       </div>
       ${showAnswer ? renderAnswerBox(question) : ""}
       <div class="toolbar">
+        ${canRemoveWrong ? `<button class="ghost danger-ghost" id="removeWrongQuestion">移除錯題</button>` : ""}
         <button class="ghost" id="markUnfamiliar">不熟，之後再看</button>
         <button class="secondary" id="prevQuestion" ${isFirstQuestion ? "disabled" : ""}>上一題</button>
         <button class="primary" id="nextQuestion">${state.currentQuestionIndex === exam.questions.length - 1 ? "完成" : "下一題"}</button>
@@ -518,7 +641,10 @@ function wireQuestion(question) {
     button.addEventListener("click", () => {
       state.selected[question.id] = button.dataset.answer;
       if (shouldRevealAnswerAfterSelection(state.mode)) state.showAnswer = true;
-      if (shouldRevealAnswerAfterSelection(state.mode) && button.dataset.answer !== question.answer) {
+      if (state.mode === "weakExam") {
+        state.weak = updateWrongItemsAfterAnsweredPractice(state.weak, [question], state.selected);
+        saveWeakState();
+      } else if (shouldRevealAnswerAfterSelection(state.mode) && button.dataset.answer !== question.answer) {
         state.weak.wrong[question.id] = question;
         saveWeakState();
       }
@@ -531,6 +657,11 @@ function wireQuestion(question) {
     saveWeakState();
     persistCurrentProgress();
     renderQuestion();
+  });
+  document.querySelector("#removeWrongQuestion")?.addEventListener("click", () => {
+    delete state.weak.wrong[question.id];
+    saveWeakState();
+    renderWeak("wrong");
   });
   document.querySelector("#prevQuestion").addEventListener("click", () => {
     if (state.currentQuestionIndex === 0) return;
@@ -893,6 +1024,12 @@ function displayText(value) {
 }
 
 document.addEventListener("click", (event) => {
+  const lawTier = event.target.closest("[data-law-tier]");
+  if (lawTier) {
+    renderLawList(lawTier.dataset.lawTier);
+    return;
+  }
+
   const target = event.target.closest("[data-screen]");
   if (!target) return;
   const screen = target.dataset.screen;
@@ -907,11 +1044,14 @@ document.addEventListener("click", (event) => {
   if (screen === "quick") renderQuickPractice();
   if (screen === "mock") renderMockNotice();
   if (screen === "weak") renderWeak();
+  if (screen === "law") renderLawCategories();
 });
 
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("sw.js").catch(() => {});
 }
+
+trackVisitAnalytics();
 
 loadIndex()
   .then(renderHome)

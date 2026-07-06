@@ -1,10 +1,10 @@
-const CACHE_NAME = "kaoshang-social-worker-v44";
+const CACHE_NAME = "kaoshang-social-worker-v45";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./styles.css?v=20260705-45",
-  "./app.js?v=20260705-45",
-  "./app-core.mjs?v=20260705-19",
+  "./app.js?v=20260706-01",
+  "./app-core.mjs?v=20260706-01",
   "./manifest.webmanifest",
   "./icons/apple-touch-icon.png",
   "./icons/icon-192.png",

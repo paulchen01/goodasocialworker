@@ -1,4 +1,5 @@
 const PROGRESS_KEY = "kaoshangSocialWorkerProgress";
+const VISIT_ANALYTICS_KEY = "kaoshangSocialWorkerVisitAnalytics";
 const ANALYTICS_EVENTS = {
   quick: { path: "click-quick-practice", title: "Click quick practice", event: true },
   past: { path: "click-past-bank", title: "Click past bank", event: true },
@@ -10,6 +11,114 @@ const ANALYTICS_EVENTS = {
 
 export function getAnalyticsEvent(screen) {
   return ANALYTICS_EVENTS[screen] ? { ...ANALYTICS_EVENTS[screen] } : null;
+}
+
+const VISIT_ANALYTICS_EVENTS = {
+  first: { path: "visit-first-time", title: "Visit first time", event: true },
+  repeatSameDay: { path: "visit-repeat-same-day", title: "Visit repeat same day", event: true },
+  returnNextDay: { path: "visit-return-next-day", title: "Visit return next day", event: true },
+  returnTwoToSixDays: { path: "visit-return-2-6-days", title: "Visit return 2-6 days", event: true },
+  returnSevenPlusDays: { path: "visit-return-7-plus-days", title: "Visit return 7 plus days", event: true },
+  pwaMode: { path: "visit-pwa-mode", title: "Visit PWA mode", event: true }
+};
+
+function formatLocalDate(date = new Date()) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+}
+
+function parseDateDayNumber(dateText) {
+  const match = String(dateText || "").match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!match) return null;
+  const [, year, month, day] = match.map(Number);
+  return Math.floor(Date.UTC(year, month - 1, day) / 86400000);
+}
+
+function loadVisitAnalyticsState(storage) {
+  if (!storage) return null;
+  try {
+    const raw = storage.getItem(VISIT_ANALYTICS_KEY);
+    const parsed = raw ? JSON.parse(raw) : null;
+    if (!parsed || typeof parsed !== "object") return null;
+    return {
+      firstVisitDate: typeof parsed.firstVisitDate === "string" ? parsed.firstVisitDate : null,
+      lastVisitDate: typeof parsed.lastVisitDate === "string" ? parsed.lastVisitDate : null,
+      visitDates: Array.isArray(parsed.visitDates) ? parsed.visitDates.filter((item) => typeof item === "string") : [],
+      sentEventDates: parsed.sentEventDates && typeof parsed.sentEventDates === "object" ? parsed.sentEventDates : {}
+    };
+  } catch {
+    return null;
+  }
+}
+
+function hasSentVisitEvent(state, dateText, eventPath) {
+  return Array.isArray(state.sentEventDates?.[dateText]) && state.sentEventDates[dateText].includes(eventPath);
+}
+
+function rememberSentVisitEvent(state, dateText, eventPath) {
+  if (!state.sentEventDates[dateText]) {
+    state.sentEventDates[dateText] = [];
+  }
+  if (!state.sentEventDates[dateText].includes(eventPath)) {
+    state.sentEventDates[dateText].push(eventPath);
+  }
+}
+
+function queueVisitEvent(events, state, dateText, event) {
+  if (hasSentVisitEvent(state, dateText, event.path)) return;
+  events.push({ ...event });
+  rememberSentVisitEvent(state, dateText, event.path);
+}
+
+export function getVisitAnalyticsEvents(storage = globalThis.localStorage, nowDate = new Date(), isStandalone = false) {
+  const today = formatLocalDate(nowDate);
+  const previous = loadVisitAnalyticsState(storage);
+  const state = previous ?? {
+    firstVisitDate: today,
+    lastVisitDate: today,
+    visitDates: [],
+    sentEventDates: {}
+  };
+  const events = [];
+
+  if (!state.firstVisitDate) state.firstVisitDate = today;
+  if (!state.sentEventDates || typeof state.sentEventDates !== "object") state.sentEventDates = {};
+  if (!Array.isArray(state.visitDates)) state.visitDates = [];
+
+  if (!previous) {
+    queueVisitEvent(events, state, today, VISIT_ANALYTICS_EVENTS.first);
+  } else if (state.lastVisitDate === today) {
+    queueVisitEvent(events, state, today, VISIT_ANALYTICS_EVENTS.repeatSameDay);
+  } else {
+    const todayNumber = parseDateDayNumber(today);
+    const lastNumber = parseDateDayNumber(state.lastVisitDate);
+    const daysSinceLastVisit = todayNumber !== null && lastNumber !== null ? todayNumber - lastNumber : null;
+    if (daysSinceLastVisit === 1) {
+      queueVisitEvent(events, state, today, VISIT_ANALYTICS_EVENTS.returnNextDay);
+    } else if (daysSinceLastVisit !== null && daysSinceLastVisit >= 2 && daysSinceLastVisit <= 6) {
+      queueVisitEvent(events, state, today, VISIT_ANALYTICS_EVENTS.returnTwoToSixDays);
+    } else {
+      queueVisitEvent(events, state, today, VISIT_ANALYTICS_EVENTS.returnSevenPlusDays);
+    }
+  }
+
+  if (isStandalone) {
+    queueVisitEvent(events, state, today, VISIT_ANALYTICS_EVENTS.pwaMode);
+  }
+
+  if (!state.visitDates.includes(today)) {
+    state.visitDates.push(today);
+  }
+  state.lastVisitDate = today;
+
+  return { events, state };
+}
+
+export function saveVisitAnalyticsState(storage = globalThis.localStorage, state) {
+  if (!storage || !state) return;
+  storage.setItem(VISIT_ANALYTICS_KEY, JSON.stringify(state));
 }
 
 export function selectRecentYears(index, count = 5) {
