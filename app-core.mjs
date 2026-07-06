@@ -240,6 +240,12 @@ export function getQuestionExplanationText(question, maxLength = 200) {
   return normalized.slice(0, safeMax).replace(/[，。；：、,;:\s]+$/u, "");
 }
 
+export function getQuestionSourceNote(mode, question) {
+  if (!question?.sourceLabel) return "";
+  if (["quick", "memorize", "exam"].includes(mode)) return "";
+  return question.sourceLabel;
+}
+
 function escapeHtmlAttribute(value) {
   return String(value ?? "")
     .replace(/&/g, "&amp;")

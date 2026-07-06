@@ -16,6 +16,7 @@ import {
   getOfficialAnswerNoticeText,
   getQuestionCompletionTarget,
   getResultEncouragement,
+  getQuestionSourceNote,
   getVisitAnalyticsEvents,
   getWeakItems,
   loadProgress,
@@ -30,7 +31,7 @@ import {
   updateWrongItemsAfterAnsweredPractice,
   registerServiceWorkerWithAutoReload,
   withDataVersion
-} from "./app-core.mjs?v=20260706-02";
+} from "./app-core.mjs?v=20260706-03";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260705-158";
@@ -574,7 +575,7 @@ function renderQuestion() {
   const selected = state.selected[question.id];
   const showAnswer = state.showAnswer || state.mode === "memorize";
   const metaParts = buildQuestionMetaParts(exam, question, state.mode, state.currentQuestionIndex);
-  const sourceNote = state.mode === "quick" ? "" : question.sourceLabel;
+  const sourceNote = getQuestionSourceNote(state.mode, question);
   const isFirstQuestion = state.currentQuestionIndex === 0;
   const canRemoveWrong = state.mode === "weakReview" && state.weakReturnCategory === "wrong" && Boolean(state.weak.wrong[question.id]);
   setScreen(html`
