@@ -28,8 +28,9 @@ import {
   selectRecentYears,
   shouldRevealAnswerAfterSelection,
   updateWrongItemsAfterAnsweredPractice,
+  registerServiceWorkerWithAutoReload,
   withDataVersion
-} from "./app-core.mjs?v=20260706-01";
+} from "./app-core.mjs?v=20260706-02";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260705-158";
@@ -1047,9 +1048,7 @@ document.addEventListener("click", (event) => {
   if (screen === "law") renderLawCategories();
 });
 
-if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("sw.js").catch(() => {});
-}
+registerServiceWorkerWithAutoReload(navigator, "sw.js").catch(() => {});
 
 trackVisitAnalytics();
 

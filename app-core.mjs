@@ -133,6 +133,28 @@ export function withDataVersion(url, version) {
   return `${url}${separator}v=${encodeURIComponent(version)}`;
 }
 
+export async function registerServiceWorkerWithAutoReload(navigatorLike = globalThis.navigator, url = "sw.js", options = {}) {
+  const serviceWorker = navigatorLike?.serviceWorker;
+  if (!serviceWorker?.register) return null;
+
+  const reload = options.reload || (() => globalThis.location?.reload());
+  let reloadRequested = false;
+
+  serviceWorker.addEventListener?.("controllerchange", () => {
+    if (reloadRequested) return;
+    reloadRequested = true;
+    reload();
+  });
+
+  const registration = await serviceWorker.register(url);
+  try {
+    await registration.update?.();
+  } catch {
+    // A failed update check should not block normal app usage.
+  }
+  return registration;
+}
+
 export function scoreExam(questions, answers) {
   let correct = 0;
   const wrongQuestionIds = [];
