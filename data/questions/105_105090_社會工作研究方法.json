@@ -42,7 +42,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q02",
@@ -69,7 +72,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q03",
@@ -96,7 +102,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q04",
@@ -123,7 +132,10 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q05",
@@ -150,7 +162,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q06",
@@ -177,7 +192,10 @@
       "answer": "C",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q07",
@@ -204,7 +222,10 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q08",
@@ -231,7 +252,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q09",
@@ -258,7 +282,10 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q10",
@@ -285,7 +312,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q11",
@@ -312,7 +342,10 @@
       "answer": "C",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q12",
@@ -339,7 +372,10 @@
       "answer": "C",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true
+      "manualPatch": true,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q13",
@@ -367,7 +403,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。"
+      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q14",
@@ -395,7 +434,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。"
+      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q15",
@@ -423,7 +465,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。"
+      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q16",
@@ -451,7 +496,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。"
+      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q17",
@@ -479,7 +527,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。"
+      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q18",
@@ -507,7 +558,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。"
+      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q19",
@@ -535,7 +589,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。"
+      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q20",
@@ -562,7 +619,10 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true
+      "manualPatch": true,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q21",
@@ -590,7 +650,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想某政府單位委託民間民意調查機構，以電腦隨機撥號的方式，進行「臺灣應否逐步廢除死刑以符合 國際人權公約的準則」之電話民調。該調查指稱有效樣本數為3,757 份，具有95%的信賴水準（confidence level）。請依上述資料回答下列第21 題至第22 題。"
+      "previousStem": "情況：假想某政府單位委託民間民意調查機構，以電腦隨機撥號的方式，進行「臺灣應否逐步廢除死刑以符合 國際人權公約的準則」之電話民調。該調查指稱有效樣本數為3,757 份，具有95%的信賴水準（confidence level）。請依上述資料回答下列第21 題至第22 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q22",
@@ -618,7 +681,10 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想某政府單位委託民間民意調查機構，以電腦隨機撥號的方式，進行「臺灣應否逐步廢除死刑以符合 國際人權公約的準則」之電話民調。該調查指稱有效樣本數為3,757 份，具有95%的信賴水準（confidence level）。請依上述資料回答下列第21 題至第22 題。"
+      "previousStem": "情況：假想某政府單位委託民間民意調查機構，以電腦隨機撥號的方式，進行「臺灣應否逐步廢除死刑以符合 國際人權公約的準則」之電話民調。該調查指稱有效樣本數為3,757 份，具有95%的信賴水準（confidence level）。請依上述資料回答下列第21 題至第22 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q23",
@@ -645,7 +711,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q24",
@@ -672,7 +741,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q25",
@@ -699,7 +771,10 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q26",
@@ -726,7 +801,10 @@
       "answer": "C",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q27",
@@ -753,7 +831,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q28",
@@ -780,7 +861,10 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q29",
@@ -807,7 +891,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q30",
@@ -834,7 +921,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q31",
@@ -861,7 +951,10 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q32",
@@ -888,7 +981,10 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q33",
@@ -915,7 +1011,10 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q34",
@@ -942,7 +1041,10 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q35",
@@ -969,7 +1071,10 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q36",
@@ -996,7 +1101,10 @@
       "answer": "C",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q37",
@@ -1023,7 +1131,10 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q38",
@@ -1050,7 +1161,10 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q39",
@@ -1077,7 +1191,10 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:105090:c107:s0606:q40",
@@ -1104,7 +1221,10 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
   ]
 }

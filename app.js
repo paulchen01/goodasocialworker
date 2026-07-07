@@ -28,6 +28,7 @@ import {
   scoreExam,
   selectRecentYears,
   shouldRevealAnswerAfterSelection,
+  updateWrongItemsAfterImmediateReveal,
   updateWrongItemsAfterAnsweredPractice,
   registerServiceWorkerWithAutoReload,
   withDataVersion
@@ -646,8 +647,8 @@ function wireQuestion(question) {
       if (state.mode === "weakExam") {
         state.weak = updateWrongItemsAfterAnsweredPractice(state.weak, [question], state.selected);
         saveWeakState();
-      } else if (shouldRevealAnswerAfterSelection(state.mode) && button.dataset.answer !== question.answer) {
-        state.weak.wrong[question.id] = question;
+      } else if (shouldRevealAnswerAfterSelection(state.mode)) {
+        state.weak = updateWrongItemsAfterImmediateReveal(state.weak, question, button.dataset.answer);
         saveWeakState();
       }
       persistCurrentProgress();

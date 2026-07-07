@@ -42,7 +42,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q02",
@@ -69,7 +72,10 @@
       "answer": "B",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q03",
@@ -96,7 +102,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q04",
@@ -131,7 +140,22 @@
         "sourceTitle": "社會工作師考試試題疑義處理結果",
         "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=106110&t=A",
         "officialRemark": "第4題一律給分"
-      }
+      },
+      "officialIssue": {
+        "type": "bonus_all",
+        "acceptedAnswers": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "displayAnswers": "一律給分（原答案 D）",
+        "notice": "考選部公告：本題一律給分。",
+        "source": "106年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q05",
@@ -158,7 +182,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q06",
@@ -185,7 +212,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q07",
@@ -212,7 +242,10 @@
       "answer": "B",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q08",
@@ -239,7 +272,10 @@
       "answer": "B",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q09",
@@ -266,7 +302,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q10",
@@ -293,7 +332,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q11",
@@ -320,7 +362,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q12",
@@ -347,7 +392,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q13",
@@ -374,7 +422,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q14",
@@ -401,7 +452,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q15",
@@ -428,7 +482,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q16",
@@ -455,7 +512,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q17",
@@ -482,7 +542,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q18",
@@ -509,7 +572,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q19",
@@ -536,7 +602,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q20",
@@ -563,7 +632,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q21",
@@ -590,7 +662,10 @@
       "answer": "B",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q22",
@@ -617,7 +692,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q23",
@@ -652,7 +730,22 @@
         "sourceTitle": "社會工作師考試試題疑義處理結果",
         "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=106110&t=A",
         "officialRemark": "第23題一律給分。 每題配分：1.25分題數：40題"
-      }
+      },
+      "officialIssue": {
+        "type": "bonus_all",
+        "acceptedAnswers": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "displayAnswers": "一律給分（原答案 D）",
+        "notice": "考選部公告：本題一律給分。",
+        "source": "106年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q24",
@@ -679,7 +772,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q25",
@@ -706,7 +802,10 @@
       "answer": "B",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q26",
@@ -733,7 +832,10 @@
       "answer": "B",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q27",
@@ -760,7 +862,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q28",
@@ -787,7 +892,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q29",
@@ -814,7 +922,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q30",
@@ -841,7 +952,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q31",
@@ -868,7 +982,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q32",
@@ -895,7 +1012,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q33",
@@ -922,7 +1042,10 @@
       "answer": "B",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q34",
@@ -949,7 +1072,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q35",
@@ -976,7 +1102,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q36",
@@ -1003,7 +1132,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q37",
@@ -1030,7 +1162,10 @@
       "answer": "A",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q38",
@@ -1057,7 +1192,10 @@
       "answer": "D",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q39",
@@ -1084,7 +1222,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:106110:c107:s0605:q40",
@@ -1111,7 +1252,10 @@
       "answer": "C",
       "sourceFileId": "社工師:106110:c107:s0605:Q",
       "answerSourceFileId": "社工師:106110:c107:s0605:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
   ]
 }

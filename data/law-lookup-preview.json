@@ -1,0 +1,763 @@
+{
+  "meta": {
+    "source": "outputs/social_worker_law_references_20260704",
+    "latestYearRoc": 115,
+    "recentStartYearRoc": 111,
+    "generatedFor": "local preview only"
+  },
+  "groups": [
+    {
+      "id": "constitution",
+      "label": "憲法",
+      "lawCount": 2,
+      "totalQuestionCount": 2,
+      "recent5YearQuestionCount": 0,
+      "laws": [
+        {
+          "name": "中華民國憲法",
+          "level": "憲法",
+          "topicCategory": "憲政與基本權",
+          "officialCategory": "憲法",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "106-106",
+          "lawModifiedDate": "1947-01-01",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001"
+        },
+        {
+          "name": "中華民國憲法增修條文",
+          "level": "憲法",
+          "topicCategory": "憲政與基本權",
+          "officialCategory": "憲法",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "106-106",
+          "lawModifiedDate": "2005-06-10",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000002"
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "label": "法律",
+      "lawCount": 56,
+      "totalQuestionCount": 707,
+      "recent5YearQuestionCount": 227,
+      "laws": [
+        {
+          "name": "身心障礙者權益保障法",
+          "level": "法律",
+          "topicCategory": "身心障礙",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 24,
+          "totalQuestionCount": 76,
+          "yearRangeRoc": "100-115",
+          "lawModifiedDate": "2025-08-01",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050046"
+        },
+        {
+          "name": "社會救助法",
+          "level": "法律",
+          "topicCategory": "社會救助與福利行政",
+          "officialCategory": "行政＞衛生福利部＞社會救助及社工目",
+          "recent5YearQuestionCount": 18,
+          "totalQuestionCount": 72,
+          "yearRangeRoc": "100-115",
+          "lawModifiedDate": "2015-12-30",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050078"
+        },
+        {
+          "name": "兒童及少年福利與權益保障法",
+          "level": "法律",
+          "topicCategory": "兒童少年",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 23,
+          "totalQuestionCount": 68,
+          "yearRangeRoc": "103-115",
+          "lawModifiedDate": "2021-01-20",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050001"
+        },
+        {
+          "name": "老人福利法",
+          "level": "法律",
+          "topicCategory": "老人福利",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 23,
+          "totalQuestionCount": 55,
+          "yearRangeRoc": "103-115",
+          "lawModifiedDate": "2025-08-01",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050037"
+        },
+        {
+          "name": "社會工作師法",
+          "level": "法律",
+          "topicCategory": "社工專業與執業",
+          "officialCategory": "行政＞衛生福利部＞社會救助及社工目",
+          "recent5YearQuestionCount": 15,
+          "totalQuestionCount": 53,
+          "yearRangeRoc": "101-115",
+          "lawModifiedDate": "2023-06-09",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050125"
+        },
+        {
+          "name": "家庭暴力防治法",
+          "level": "法律",
+          "topicCategory": "保護服務與暴力防治",
+          "officialCategory": "行政＞衛生福利部＞保護服務目",
+          "recent5YearQuestionCount": 23,
+          "totalQuestionCount": 50,
+          "yearRangeRoc": "103-115",
+          "lawModifiedDate": "2023-12-06",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050071"
+        },
+        {
+          "name": "性別平等工作法",
+          "level": "法律",
+          "topicCategory": "性別與勞動",
+          "officialCategory": "行政＞勞動部＞勞動條件及就業平等目",
+          "recent5YearQuestionCount": 4,
+          "totalQuestionCount": 29,
+          "yearRangeRoc": "100-115",
+          "lawModifiedDate": "2023-08-16",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030014"
+        },
+        {
+          "name": "長期照顧服務法",
+          "level": "法律",
+          "topicCategory": "長期照顧",
+          "officialCategory": "行政＞衛生福利部＞長期照顧目",
+          "recent5YearQuestionCount": 9,
+          "totalQuestionCount": 27,
+          "yearRangeRoc": "104-115",
+          "lawModifiedDate": "2021-06-09",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0070040"
+        },
+        {
+          "name": "兒童及少年性剝削防制條例",
+          "level": "法律",
+          "topicCategory": "兒童少年",
+          "officialCategory": "行政＞衛生福利部＞保護服務目",
+          "recent5YearQuestionCount": 9,
+          "totalQuestionCount": 26,
+          "yearRangeRoc": "103-115",
+          "lawModifiedDate": "2024-08-07",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050023"
+        },
+        {
+          "name": "保險法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞金融監督管理委員會＞保險目",
+          "recent5YearQuestionCount": 2,
+          "totalQuestionCount": 24,
+          "yearRangeRoc": "100-114",
+          "lawModifiedDate": "2025-06-18",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0390002"
+        },
+        {
+          "name": "性侵害犯罪防治法",
+          "level": "法律",
+          "topicCategory": "保護服務與暴力防治",
+          "officialCategory": "行政＞衛生福利部＞保護服務目",
+          "recent5YearQuestionCount": 12,
+          "totalQuestionCount": 23,
+          "yearRangeRoc": "101-114",
+          "lawModifiedDate": "2023-02-15",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080079"
+        },
+        {
+          "name": "特殊境遇家庭扶助條例",
+          "level": "法律",
+          "topicCategory": "社會救助與福利行政",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 8,
+          "totalQuestionCount": 21,
+          "yearRangeRoc": "103-115",
+          "lawModifiedDate": "2021-01-20",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050075"
+        },
+        {
+          "name": "志願服務法",
+          "level": "法律",
+          "topicCategory": "衛生福利其他",
+          "officialCategory": "行政＞衛生福利部＞社會救助及社工目",
+          "recent5YearQuestionCount": 5,
+          "totalQuestionCount": 16,
+          "yearRangeRoc": "102-115",
+          "lawModifiedDate": "2020-01-15",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050131"
+        },
+        {
+          "name": "國民年金法",
+          "level": "法律",
+          "topicCategory": "社會保險",
+          "officialCategory": "行政＞衛生福利部＞社會保險目",
+          "recent5YearQuestionCount": 5,
+          "totalQuestionCount": 14,
+          "yearRangeRoc": "104-115",
+          "lawModifiedDate": "2020-06-03",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050152"
+        },
+        {
+          "name": "精神衛生法",
+          "level": "法律",
+          "topicCategory": "心理衛生",
+          "officialCategory": "行政＞衛生福利部＞心理健康目",
+          "recent5YearQuestionCount": 5,
+          "totalQuestionCount": 14,
+          "yearRangeRoc": "103-115",
+          "lawModifiedDate": "2022-12-14",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020030"
+        },
+        {
+          "name": "全民健康保險法",
+          "level": "法律",
+          "topicCategory": "社會保險",
+          "officialCategory": "行政＞衛生福利部＞社會保險目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 11,
+          "yearRangeRoc": "100-111",
+          "lawModifiedDate": "2023-06-28",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0060001"
+        },
+        {
+          "name": "長期照顧服務機構法人條例",
+          "level": "法律",
+          "topicCategory": "長期照顧",
+          "officialCategory": "行政＞衛生福利部＞長期照顧目",
+          "recent5YearQuestionCount": 8,
+          "totalQuestionCount": 10,
+          "yearRangeRoc": "108-114",
+          "lawModifiedDate": "2018-01-31",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0070051"
+        },
+        {
+          "name": "公益勸募條例",
+          "level": "法律",
+          "topicCategory": "社會救助與福利行政",
+          "officialCategory": "行政＞衛生福利部＞社會救助及社工目",
+          "recent5YearQuestionCount": 4,
+          "totalQuestionCount": 10,
+          "yearRangeRoc": "105-115",
+          "lawModifiedDate": "2020-01-15",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050138"
+        },
+        {
+          "name": "就業保險法",
+          "level": "法律",
+          "topicCategory": "性別與勞動",
+          "officialCategory": "行政＞勞動部＞勞動保險目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 10,
+          "yearRangeRoc": "100-114",
+          "lawModifiedDate": "2022-01-12",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050021"
+        },
+        {
+          "name": "兒童及少年未來教育與發展帳戶條例",
+          "level": "法律",
+          "topicCategory": "兒童少年",
+          "officialCategory": "行政＞衛生福利部＞社會救助及社工目",
+          "recent5YearQuestionCount": 4,
+          "totalQuestionCount": 9,
+          "yearRangeRoc": "108-115",
+          "lawModifiedDate": "2018-06-06",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050205"
+        },
+        {
+          "name": "原住民族工作權保障法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞原住民族委員會＞社會福利目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 7,
+          "yearRangeRoc": "100-107",
+          "lawModifiedDate": "2015-02-04",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0130006"
+        },
+        {
+          "name": "民法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞法務部＞法律事務目",
+          "recent5YearQuestionCount": 2,
+          "totalQuestionCount": 6,
+          "yearRangeRoc": "106-112",
+          "lawModifiedDate": "2021-01-20",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000001"
+        },
+        {
+          "name": "性騷擾防治法",
+          "level": "法律",
+          "topicCategory": "衛生福利其他",
+          "officialCategory": "行政＞衛生福利部＞保護服務目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 6,
+          "yearRangeRoc": "101-114",
+          "lawModifiedDate": "2023-08-16",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050074"
+        },
+        {
+          "name": "毒品危害防制條例",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞法務部＞檢察目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 6,
+          "yearRangeRoc": "104-115",
+          "lawModifiedDate": "2022-05-04",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0000008"
+        },
+        {
+          "name": "少年事件處理法",
+          "level": "法律",
+          "topicCategory": "兒童少年",
+          "officialCategory": "司法＞院本部＞少年及家事目",
+          "recent5YearQuestionCount": 2,
+          "totalQuestionCount": 5,
+          "yearRangeRoc": "106-111",
+          "lawModifiedDate": "2023-06-21",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0010011"
+        },
+        {
+          "name": "勞工保險條例",
+          "level": "法律",
+          "topicCategory": "社會保險",
+          "officialCategory": "行政＞勞動部＞勞動保險目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 5,
+          "yearRangeRoc": "104-114",
+          "lawModifiedDate": "2026-01-21",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050001"
+        },
+        {
+          "name": "身心障礙者權利公約施行法",
+          "level": "法律",
+          "topicCategory": "身心障礙",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 5,
+          "yearRangeRoc": "104-107",
+          "lawModifiedDate": "2014-08-20",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050194"
+        },
+        {
+          "name": "病人自主權利法",
+          "level": "法律",
+          "topicCategory": "衛生福利其他",
+          "officialCategory": "行政＞衛生福利部＞醫事目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 4,
+          "yearRangeRoc": "107-111",
+          "lawModifiedDate": "2021-01-20",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189"
+        },
+        {
+          "name": "政府採購法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞行政院公共工程委員會＞通用目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 4,
+          "yearRangeRoc": "101-109",
+          "lawModifiedDate": "2019-05-22",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030057"
+        },
+        {
+          "name": "性別平等教育法",
+          "level": "法律",
+          "topicCategory": "性別與勞動",
+          "officialCategory": "行政＞教育部＞學生事務及特殊教育目",
+          "recent5YearQuestionCount": 2,
+          "totalQuestionCount": 3,
+          "yearRangeRoc": "105-114",
+          "lawModifiedDate": "2023-08-16",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080067"
+        },
+        {
+          "name": "學生輔導法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞教育部＞學生事務及特殊教育目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 3,
+          "yearRangeRoc": "108-111",
+          "lawModifiedDate": "2024-12-18",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070058"
+        },
+        {
+          "name": "家事事件法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "司法＞院本部＞少年及家事目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 3,
+          "yearRangeRoc": "105-111",
+          "lawModifiedDate": "2023-06-21",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010048"
+        },
+        {
+          "name": "財政收支劃分法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞財政部＞國庫目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 3,
+          "yearRangeRoc": "103-114",
+          "lawModifiedDate": "2025-12-03",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0320015"
+        },
+        {
+          "name": "刑事訴訟法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "司法＞院本部＞刑事目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 2,
+          "yearRangeRoc": "101-112",
+          "lawModifiedDate": "2026-05-13",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0010001"
+        },
+        {
+          "name": "勞動基準法",
+          "level": "法律",
+          "topicCategory": "性別與勞動",
+          "officialCategory": "行政＞勞動部＞勞動條件及就業平等目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 2,
+          "yearRangeRoc": "110-114",
+          "lawModifiedDate": "2024-07-31",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001"
+        },
+        {
+          "name": "軍事審判法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞國防部＞軍法目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 2,
+          "yearRangeRoc": "101-112",
+          "lawModifiedDate": "2019-04-03",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0120008"
+        },
+        {
+          "name": "兒童權利公約施行法",
+          "level": "法律",
+          "topicCategory": "兒童少年",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 2,
+          "yearRangeRoc": "106-106",
+          "lawModifiedDate": "2019-06-19",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050193"
+        },
+        {
+          "name": "公教人員保險法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "考試＞銓敘部＞保險目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 2,
+          "yearRangeRoc": "101-102",
+          "lawModifiedDate": "2024-01-03",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0070001"
+        },
+        {
+          "name": "民事訴訟法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "司法＞院本部＞民事目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 2,
+          "yearRangeRoc": "107-109",
+          "lawModifiedDate": "2023-11-29",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010001"
+        },
+        {
+          "name": "人民團體法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞內政部＞合作及人民團體目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "111-111",
+          "lawModifiedDate": "2023-02-08",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050091"
+        },
+        {
+          "name": "偏遠地區學校教育發展條例",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞教育部＞國民及學前教育目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "111-111",
+          "lawModifiedDate": "2017-12-06",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070073"
+        },
+        {
+          "name": "公益彩券發行條例",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞財政部＞國庫目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "114-114",
+          "lawModifiedDate": "2016-11-09",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380187"
+        },
+        {
+          "name": "勞工職業災害保險及保護法",
+          "level": "法律",
+          "topicCategory": "性別與勞動",
+          "officialCategory": "行政＞勞動部＞勞動保險目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "114-114",
+          "lawModifiedDate": "2021-04-30",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050031"
+        },
+        {
+          "name": "國民教育法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞教育部＞國民及學前教育目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "111-111",
+          "lawModifiedDate": "2023-06-21",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070001"
+        },
+        {
+          "name": "所得稅法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞財政部＞賦稅目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "111-111",
+          "lawModifiedDate": "2025-12-26",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340003"
+        },
+        {
+          "name": "社會福利基本法",
+          "level": "法律",
+          "topicCategory": "社會救助與福利行政",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "113-113",
+          "lawModifiedDate": "2023-05-24",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050213"
+        },
+        {
+          "name": "社會秩序維護法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞內政部＞警政目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "111-111",
+          "lawModifiedDate": "2025-06-11",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080067"
+        },
+        {
+          "name": "中央法規標準法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞院本部＞通用目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "102-102",
+          "lawModifiedDate": "2004-05-19",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030133"
+        },
+        {
+          "name": "中華民國刑法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞法務部＞檢察目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "109-109",
+          "lawModifiedDate": "2026-03-13",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0000001"
+        },
+        {
+          "name": "住宅法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞內政部＞國土管理目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "107-107",
+          "lawModifiedDate": "2026-03-04",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195"
+        },
+        {
+          "name": "促進民間參與公共建設法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞財政部＞推動促參目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "109-109",
+          "lawModifiedDate": "2022-12-21",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070062"
+        },
+        {
+          "name": "少年矯正學校設置及教育實施通則",
+          "level": "法律",
+          "topicCategory": "兒童少年",
+          "officialCategory": "行政＞法務部＞組織目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "109-109",
+          "lawModifiedDate": "2023-01-13",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040043"
+        },
+        {
+          "name": "就業服務法",
+          "level": "法律",
+          "topicCategory": "性別與勞動",
+          "officialCategory": "行政＞勞動部＞就業服務目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "107-107",
+          "lawModifiedDate": "2025-01-20",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0090001"
+        },
+        {
+          "name": "標準法",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞經濟部＞標準檢驗目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "102-102",
+          "lawModifiedDate": "1997-11-26",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0100044"
+        },
+        {
+          "name": "消除對婦女一切形式歧視公約施行法",
+          "level": "法律",
+          "topicCategory": "公約與政策綱領",
+          "officialCategory": "行政＞院本部＞通用目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "104-104",
+          "lawModifiedDate": "2011-06-08",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050175"
+        },
+        {
+          "name": "老年農民福利津貼暫行條例",
+          "level": "法律",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞農業部＞農民輔導目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "104-104",
+          "lawModifiedDate": "2018-06-13",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0090015"
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "label": "命令",
+      "lawCount": 8,
+      "totalQuestionCount": 12,
+      "recent5YearQuestionCount": 3,
+      "laws": [
+        {
+          "name": "社區發展工作綱要",
+          "level": "命令",
+          "topicCategory": "衛生福利其他",
+          "officialCategory": "廢止法規＞衛生福利部",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 4,
+          "yearRangeRoc": "108-111",
+          "lawModifiedDate": "2025-07-01",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050077"
+        },
+        {
+          "name": "校園霸凌防制準則",
+          "level": "命令",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞教育部＞學生事務及特殊教育目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 2,
+          "yearRangeRoc": "105-107",
+          "lawModifiedDate": "2024-04-17",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0020081"
+        },
+        {
+          "name": "國民小學與國民中學未入學或中途輟學學生通報及復學輔導辦法",
+          "level": "命令",
+          "topicCategory": "其他",
+          "officialCategory": "行政＞教育部＞國民及學前教育目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "112-112",
+          "lawModifiedDate": "2020-06-08",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070015"
+        },
+        {
+          "name": "長期照顧服務機構設立標準",
+          "level": "命令",
+          "topicCategory": "長期照顧",
+          "officialCategory": "行政＞衛生福利部＞長期照顧目",
+          "recent5YearQuestionCount": 1,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "113-113",
+          "lawModifiedDate": "2023-06-01",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0070048"
+        },
+        {
+          "name": "協助積極自立脫離貧窮實施辦法",
+          "level": "命令",
+          "topicCategory": "衛生福利其他",
+          "officialCategory": "行政＞衛生福利部＞社會救助及社工目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "106-106",
+          "lawModifiedDate": "2016-06-06",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050199"
+        },
+        {
+          "name": "專科社會工作師分科甄審及接受繼續教育辦法",
+          "level": "命令",
+          "topicCategory": "社工專業與執業",
+          "officialCategory": "行政＞衛生福利部＞社會救助及社工目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "104-104",
+          "lawModifiedDate": "2020-01-03",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050170"
+        },
+        {
+          "name": "社會福利公益信託許可及監督辦法",
+          "level": "命令",
+          "topicCategory": "社會救助與福利行政",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "107-107",
+          "lawModifiedDate": "2017-12-05",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050192"
+        },
+        {
+          "name": "老人福利法施行細則",
+          "level": "命令",
+          "topicCategory": "老人福利",
+          "officialCategory": "行政＞衛生福利部＞社會及家庭目",
+          "recent5YearQuestionCount": 0,
+          "totalQuestionCount": 1,
+          "yearRangeRoc": "106-106",
+          "lawModifiedDate": "2009-11-19",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050038"
+        }
+      ]
+    }
+  ]
+}

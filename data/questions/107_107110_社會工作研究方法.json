@@ -42,7 +42,10 @@
       "answer": "C",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q02",
@@ -69,7 +72,10 @@
       "answer": "A",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": true
+      "manualPatch": true,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q03",
@@ -96,7 +102,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q04",
@@ -123,7 +132,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": true
+      "manualPatch": true,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q05",
@@ -151,7 +163,10 @@
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：睡眠對健康至關重要。但研究發現，多數大學生睡眠品質不佳。葉教授想了解影響大學生睡 眠品質的因素，他從自己任教的大學裡，以系級名單隨機抽取20 個班級，到這些班級發放問 卷，請全班同學填寫。問卷中，睡眠品質以「匹茲堡睡眠品質量表」（是由7 題，每題4 點 尺度的李克特（Likert）量表所構成，分數越高代表睡眠品質越差）來測量，其他變項包括受 訪者性別、每週運動時數、每天上網時數等。請依照上述資料，回答下列第5 題至第8 題。"
+      "previousStem": "情況：睡眠對健康至關重要。但研究發現，多數大學生睡眠品質不佳。葉教授想了解影響大學生睡 眠品質的因素，他從自己任教的大學裡，以系級名單隨機抽取20 個班級，到這些班級發放問 卷，請全班同學填寫。問卷中，睡眠品質以「匹茲堡睡眠品質量表」（是由7 題，每題4 點 尺度的李克特（Likert）量表所構成，分數越高代表睡眠品質越差）來測量，其他變項包括受 訪者性別、每週運動時數、每天上網時數等。請依照上述資料，回答下列第5 題至第8 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q06",
@@ -179,7 +194,10 @@
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：睡眠對健康至關重要。但研究發現，多數大學生睡眠品質不佳。葉教授想了解影響大學生睡 眠品質的因素，他從自己任教的大學裡，以系級名單隨機抽取20 個班級，到這些班級發放問 卷，請全班同學填寫。問卷中，睡眠品質以「匹茲堡睡眠品質量表」（是由7 題，每題4 點 尺度的李克特（Likert）量表所構成，分數越高代表睡眠品質越差）來測量，其他變項包括受 訪者性別、每週運動時數、每天上網時數等。請依照上述資料，回答下列第5 題至第8 題。"
+      "previousStem": "情況：睡眠對健康至關重要。但研究發現，多數大學生睡眠品質不佳。葉教授想了解影響大學生睡 眠品質的因素，他從自己任教的大學裡，以系級名單隨機抽取20 個班級，到這些班級發放問 卷，請全班同學填寫。問卷中，睡眠品質以「匹茲堡睡眠品質量表」（是由7 題，每題4 點 尺度的李克特（Likert）量表所構成，分數越高代表睡眠品質越差）來測量，其他變項包括受 訪者性別、每週運動時數、每天上網時數等。請依照上述資料，回答下列第5 題至第8 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q07",
@@ -207,7 +225,10 @@
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：睡眠對健康至關重要。但研究發現，多數大學生睡眠品質不佳。葉教授想了解影響大學生睡 眠品質的因素，他從自己任教的大學裡，以系級名單隨機抽取20 個班級，到這些班級發放問 卷，請全班同學填寫。問卷中，睡眠品質以「匹茲堡睡眠品質量表」（是由7 題，每題4 點 尺度的李克特（Likert）量表所構成，分數越高代表睡眠品質越差）來測量，其他變項包括受 訪者性別、每週運動時數、每天上網時數等。請依照上述資料，回答下列第5 題至第8 題。"
+      "previousStem": "情況：睡眠對健康至關重要。但研究發現，多數大學生睡眠品質不佳。葉教授想了解影響大學生睡 眠品質的因素，他從自己任教的大學裡，以系級名單隨機抽取20 個班級，到這些班級發放問 卷，請全班同學填寫。問卷中，睡眠品質以「匹茲堡睡眠品質量表」（是由7 題，每題4 點 尺度的李克特（Likert）量表所構成，分數越高代表睡眠品質越差）來測量，其他變項包括受 訪者性別、每週運動時數、每天上網時數等。請依照上述資料，回答下列第5 題至第8 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q08",
@@ -235,7 +256,10 @@
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：睡眠對健康至關重要。但研究發現，多數大學生睡眠品質不佳。葉教授想了解影響大學生睡 眠品質的因素，他從自己任教的大學裡，以系級名單隨機抽取20 個班級，到這些班級發放問 卷，請全班同學填寫。問卷中，睡眠品質以「匹茲堡睡眠品質量表」（是由7 題，每題4 點 尺度的李克特（Likert）量表所構成，分數越高代表睡眠品質越差）來測量，其他變項包括受 訪者性別、每週運動時數、每天上網時數等。請依照上述資料，回答下列第5 題至第8 題。"
+      "previousStem": "情況：睡眠對健康至關重要。但研究發現，多數大學生睡眠品質不佳。葉教授想了解影響大學生睡 眠品質的因素，他從自己任教的大學裡，以系級名單隨機抽取20 個班級，到這些班級發放問 卷，請全班同學填寫。問卷中，睡眠品質以「匹茲堡睡眠品質量表」（是由7 題，每題4 點 尺度的李克特（Likert）量表所構成，分數越高代表睡眠品質越差）來測量，其他變項包括受 訪者性別、每週運動時數、每天上網時數等。請依照上述資料，回答下列第5 題至第8 題。",
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q09",
@@ -262,7 +286,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q10",
@@ -289,7 +316,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q11",
@@ -316,7 +346,10 @@
       "answer": "A",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q12",
@@ -355,7 +388,20 @@
         "sourceTitle": "社會工作師考試試題疑義處理結果",
         "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107110&t=A",
         "officialRemark": "第12題答Ｂ或Ｃ或BC者均給分。 每題配分：1.25分題數：40題"
-      }
+      },
+      "officialIssue": {
+        "type": "multiple_answers",
+        "acceptedAnswers": [
+          "B",
+          "C"
+        ],
+        "displayAnswers": "B／C",
+        "notice": "考選部公告：B／C 均給分。",
+        "source": "107年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q13",
@@ -382,7 +428,10 @@
       "answer": "A",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q14",
@@ -409,7 +458,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q15",
@@ -436,7 +488,10 @@
       "answer": "C",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q16",
@@ -463,7 +518,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q17",
@@ -490,7 +548,10 @@
       "answer": "C",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q18",
@@ -517,7 +578,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q19",
@@ -544,7 +608,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q20",
@@ -571,7 +638,10 @@
       "answer": "A",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q21",
@@ -598,7 +668,10 @@
       "answer": "A",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q22",
@@ -625,7 +698,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q23",
@@ -652,7 +728,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": true
+      "manualPatch": true,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q24",
@@ -679,7 +758,10 @@
       "answer": "C",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q25",
@@ -706,7 +788,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q26",
@@ -733,7 +818,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q27",
@@ -760,7 +848,10 @@
       "answer": "A",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q28",
@@ -787,7 +878,10 @@
       "answer": "A",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q29",
@@ -814,7 +908,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q30",
@@ -841,7 +938,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q31",
@@ -868,7 +968,10 @@
       "answer": "C",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q32",
@@ -895,7 +998,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q33",
@@ -922,7 +1028,10 @@
       "answer": "C",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q34",
@@ -949,7 +1058,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q35",
@@ -976,7 +1088,10 @@
       "answer": "A",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q36",
@@ -1003,7 +1118,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q37",
@@ -1030,7 +1148,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q38",
@@ -1057,7 +1178,10 @@
       "answer": "C",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q39",
@@ -1084,7 +1208,10 @@
       "answer": "B",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:107110:c107:s0606:q40",
@@ -1111,7 +1238,10 @@
       "answer": "D",
       "sourceFileId": "社工師:107110:c107:s0606:Q",
       "answerSourceFileId": "社工師:107110:c107:s0606:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
   ]
 }

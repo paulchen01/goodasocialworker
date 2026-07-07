@@ -42,7 +42,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q02",
@@ -81,7 +84,20 @@
       "acceptedAnswers": [
         "B",
         "D"
-      ]
+      ],
+      "officialIssue": {
+        "type": "multiple_answers",
+        "acceptedAnswers": [
+          "B",
+          "D"
+        ],
+        "displayAnswers": "B／D",
+        "notice": "考選部公告：B／D 均給分。",
+        "source": "101年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q03",
@@ -108,7 +124,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q04",
@@ -143,7 +162,22 @@
         "sourceTitle": "社會工作師考試試題疑義處理結果",
         "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A",
         "officialRemark": "第4題一律給分"
-      }
+      },
+      "officialIssue": {
+        "type": "bonus_all",
+        "acceptedAnswers": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "displayAnswers": "一律給分（原答案 C）",
+        "notice": "考選部公告：本題一律給分。",
+        "source": "101年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q05",
@@ -170,7 +204,10 @@
       "answer": "B",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q06",
@@ -197,7 +234,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q07",
@@ -236,7 +276,18 @@
       "acceptedAnswers": [
         "B"
       ],
-      "originalAnswerBeforeCorrection": "A"
+      "officialIssue": {
+        "type": "corrected_answer",
+        "acceptedAnswers": [
+          "B"
+        ],
+        "displayAnswers": "B",
+        "notice": "考選部公告：本題答 B 給分。",
+        "source": "101年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q08",
@@ -263,7 +314,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q09",
@@ -290,7 +344,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q10",
@@ -329,7 +386,20 @@
       "acceptedAnswers": [
         "B",
         "D"
-      ]
+      ],
+      "officialIssue": {
+        "type": "multiple_answers",
+        "acceptedAnswers": [
+          "B",
+          "D"
+        ],
+        "displayAnswers": "B／D",
+        "notice": "考選部公告：B／D 均給分。",
+        "source": "101年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q11",
@@ -356,7 +426,10 @@
       "answer": "C",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q12",
@@ -383,7 +456,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q13",
@@ -410,7 +486,10 @@
       "answer": "C",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q14",
@@ -437,7 +516,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q15",
@@ -464,7 +546,10 @@
       "answer": "C",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q16",
@@ -491,7 +576,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q17",
@@ -518,7 +606,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q18",
@@ -545,7 +636,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q19",
@@ -572,7 +666,10 @@
       "answer": "B",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q20",
@@ -599,7 +696,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q21",
@@ -626,7 +726,10 @@
       "answer": "C",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q22",
@@ -653,7 +756,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q23",
@@ -680,7 +786,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q24",
@@ -707,7 +816,10 @@
       "answer": "C",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q25",
@@ -734,7 +846,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q26",
@@ -761,7 +876,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q27",
@@ -788,7 +906,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q28",
@@ -823,7 +944,22 @@
         "sourceTitle": "社會工作師考試試題疑義處理結果",
         "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A",
         "officialRemark": "第28題一律給分"
-      }
+      },
+      "officialIssue": {
+        "type": "bonus_all",
+        "acceptedAnswers": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "displayAnswers": "一律給分（原答案 A）",
+        "notice": "考選部公告：本題一律給分。",
+        "source": "101年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q29",
@@ -850,7 +986,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q30",
@@ -877,7 +1016,10 @@
       "answer": "B",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q31",
@@ -904,7 +1046,10 @@
       "answer": "C",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q32",
@@ -931,7 +1076,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q33",
@@ -970,7 +1118,20 @@
       "acceptedAnswers": [
         "B",
         "D"
-      ]
+      ],
+      "officialIssue": {
+        "type": "multiple_answers",
+        "acceptedAnswers": [
+          "B",
+          "D"
+        ],
+        "displayAnswers": "B／D",
+        "notice": "考選部公告：B／D 均給分。",
+        "source": "101年第二次｜社會工作師考試試題疑義處理結果"
+      },
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q34",
@@ -997,7 +1158,10 @@
       "answer": "C",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q35",
@@ -1024,7 +1188,10 @@
       "answer": "B",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q36",
@@ -1051,7 +1218,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q37",
@@ -1078,7 +1248,10 @@
       "answer": "B",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q38",
@@ -1105,7 +1278,10 @@
       "answer": "A",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q39",
@@ -1132,7 +1308,10 @@
       "answer": "B",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
       "id": "社工師:101130:c902:s0706:q40",
@@ -1159,7 +1338,10 @@
       "answer": "D",
       "sourceFileId": "社工師:101130:c902:s0706:Q",
       "answerSourceFileId": "社工師:101130:c902:s0706:S",
-      "manualPatch": false
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "",
+      "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
   ]
 }

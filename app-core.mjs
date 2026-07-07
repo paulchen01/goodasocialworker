@@ -172,19 +172,22 @@ export function scoreExam(questions, answers) {
 
 export function isCorrectAnswer(question, selectedAnswer) {
   if (!selectedAnswer) return false;
-  if (question?.officialAnswerNotice?.type === "allGiveScore") {
+  if (isBonusOfficialIssue(question)) {
     return ["A", "B", "C", "D"].includes(selectedAnswer);
   }
   return getAcceptedAnswers(question).includes(selectedAnswer);
 }
 
 export function getAcceptedAnswers(question) {
-  if (question?.officialAnswerNotice?.type === "allGiveScore") {
+  if (isBonusOfficialIssue(question)) {
     return ["A", "B", "C", "D"];
   }
-  const answers = Array.isArray(question?.acceptedAnswers)
+  const canonicalAnswers = Array.isArray(question?.officialIssue?.acceptedAnswers)
+    ? question.officialIssue.acceptedAnswers
+    : null;
+  const answers = canonicalAnswers || (Array.isArray(question?.acceptedAnswers)
     ? question.acceptedAnswers
-    : [question?.answer];
+    : [question?.answer]);
   return answers
     .map((answer) => String(answer || "").trim())
     .filter((answer) => /^[A-D]$/.test(answer));
@@ -192,20 +195,30 @@ export function getAcceptedAnswers(question) {
 
 export function formatOfficialAnswerText(question) {
   const originalAnswer = String(question?.answer || "").trim();
-  if (question?.officialAnswerNotice?.type === "allGiveScore") {
+  const issueType = getOfficialIssueType(question);
+  if (issueType === "bonus_all") {
     return originalAnswer ? `一律給分（原答案 ${originalAnswer}）` : "一律給分";
   }
   const answers = getAcceptedAnswers(question);
-  if (question?.officialAnswerNotice?.type === "multipleAnswers" && answers.length > 1) {
-    return `${answers.join("／")}（均給分）`;
+  if (issueType === "multiple_answers" && answers.length > 1) {
+    const displayAnswers = String(question?.officialIssue?.displayAnswers || answers.join("／")).trim();
+    return `${displayAnswers}（均給分）`;
   }
-  if (question?.officialAnswerNotice?.type === "singleAnswerCredit" && answers.length === 1) {
-    return `${answers[0]}（更正給分）`;
+  if (issueType === "corrected_answer" && answers.length === 1) {
+    const displayAnswers = String(question?.officialIssue?.displayAnswers || answers[0]).trim();
+    return `${displayAnswers}（更正給分）`;
   }
   return answers.length ? answers.join("／") : originalAnswer;
 }
 
 export function getOfficialAnswerNoticeText(question) {
+  if (question?.officialIssue?.notice) {
+    const parts = [String(question.officialIssue.notice).trim()];
+    if (question.officialIssue.source) {
+      parts.push(`來源：${String(question.officialIssue.source).trim()}`);
+    }
+    return parts.filter(Boolean).join("\n");
+  }
   const notice = question?.officialAnswerNotice;
   if (!notice?.text) return "";
   const parts = [String(notice.text).trim()];
@@ -214,6 +227,22 @@ export function getOfficialAnswerNoticeText(question) {
     parts.push(`來源：${source}`);
   }
   return parts.filter(Boolean).join("\n");
+}
+
+function getOfficialIssueType(question) {
+  const canonicalType = question?.officialIssue?.type;
+  if (canonicalType === "bonus_all" || canonicalType === "multiple_answers" || canonicalType === "corrected_answer") {
+    return canonicalType;
+  }
+  const legacyType = question?.officialAnswerNotice?.type;
+  if (legacyType === "allGiveScore") return "bonus_all";
+  if (legacyType === "multipleAnswers") return "multiple_answers";
+  if (legacyType === "singleAnswerCredit") return "corrected_answer";
+  return "";
+}
+
+function isBonusOfficialIssue(question) {
+  return getOfficialIssueType(question) === "bonus_all";
 }
 
 export function formatResultScoreLine(result) {
@@ -255,10 +284,20 @@ function escapeHtmlAttribute(value) {
 }
 
 export function buildQuestionImagesMarkup(question) {
-  const images = Array.isArray(question?.images) ? question.images : [];
+  const images = [
+    ...(Array.isArray(question?.images) ? question.images : []),
+    ...(Array.isArray(question?.questionImages) ? question.questionImages : []),
+    ...(question?.questionImage ? [question.questionImage] : [])
+  ];
+  const seen = new Set();
   const safeImages = images.filter((image) => image?.src);
-  if (!safeImages.length) return "";
-  return `<div class="question-images">${safeImages.map((image) =>
+  const uniqueImages = safeImages.filter((image) => {
+    if (seen.has(image.src)) return false;
+    seen.add(image.src);
+    return true;
+  });
+  if (!uniqueImages.length) return "";
+  return `<div class="question-images">${uniqueImages.map((image) =>
     `<figure><img src="${escapeHtmlAttribute(image.src)}" alt="${escapeHtmlAttribute(image.alt || "題目附圖")}" loading="lazy"></figure>`
   ).join("")}</div>`;
 }
@@ -433,11 +472,28 @@ export function updateWrongItemsAfterAnsweredPractice(weakState, questions, sele
 
   for (const question of questions || []) {
     if (!question?.id || !selectedAnswers?.[question.id]) continue;
-    if (selectedAnswers[question.id] === question.answer) {
+    if (isCorrectAnswer(question, selectedAnswers[question.id])) {
       delete next.wrong[question.id];
     } else {
       next.wrong[question.id] = question;
     }
+  }
+
+  return next;
+}
+
+export function updateWrongItemsAfterImmediateReveal(weakState, question, selectedAnswer) {
+  const next = {
+    wrong: { ...(weakState?.wrong || {}) },
+    unfamiliar: { ...(weakState?.unfamiliar || {}) },
+    favorite: { ...(weakState?.favorite || {}) }
+  };
+
+  if (!question?.id || !selectedAnswer) return next;
+  if (isCorrectAnswer(question, selectedAnswer)) {
+    delete next.wrong[question.id];
+  } else {
+    next.wrong[question.id] = question;
   }
 
   return next;

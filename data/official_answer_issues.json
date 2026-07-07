@@ -1,0 +1,977 @@
+{
+  "items": [
+    {
+      "questionId": "社工師:100160:c902:s0701:q07",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0701:q08",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0701:q16",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 C）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0701:q19",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0701:q32",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "displayAnswers": "C／D",
+      "notice": "考選部公告：C／D 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0704:q03",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0704:q04",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 C）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0704:q07",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 B）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0704:q18",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
+      "displayAnswers": "A／B",
+      "notice": "考選部公告：A／B 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0705:q14",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0705:q16",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
+      "displayAnswers": "A／D",
+      "notice": "考選部公告：A／D 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0705:q18",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0705:q19",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "A／C／D",
+      "notice": "考選部公告：A／C／D 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0705:q23",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0705:q24",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0705:q31",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
+      "displayAnswers": "A／B",
+      "notice": "考選部公告：A／B 均給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:100160:c902:s0705:q34",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "100年｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+    },
+    {
+      "questionId": "社工師:101030:c902:s0801:q10",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "101年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A"
+    },
+    {
+      "questionId": "社工師:101030:c902:s0801:q12",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
+      "displayAnswers": "A／D",
+      "notice": "考選部公告：A／D 均給分。",
+      "source": "101年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A"
+    },
+    {
+      "questionId": "社工師:101030:c902:s0801:q29",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "101年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A"
+    },
+    {
+      "questionId": "社工師:101030:c902:s0801:q33",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ],
+      "displayAnswers": "A／C",
+      "notice": "考選部公告：A／C 均給分。",
+      "source": "101年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A"
+    },
+    {
+      "questionId": "社工師:101030:c902:s0801:q35",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "101年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101030&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0702:q16",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 C）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0704:q01",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0704:q02",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0705:q10",
+      "type": "corrected_answer",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayAnswers": "B",
+      "notice": "考選部公告：本題答 B 給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0706:q02",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0706:q04",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 C）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0706:q07",
+      "type": "corrected_answer",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayAnswers": "B",
+      "notice": "考選部公告：本題答 B 給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0706:q10",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0706:q28",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 A）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:101130:c902:s0706:q33",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "101年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=101130&t=A"
+    },
+    {
+      "questionId": "社工師:102030:c111:s0702:q31",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "102年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=102030&t=A"
+    },
+    {
+      "questionId": "社工師:103100:c110:s0605:q09",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
+      "displayAnswers": "A／B",
+      "notice": "考選部公告：A／B 均給分。",
+      "source": "103年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=103100&t=A"
+    },
+    {
+      "questionId": "社工師:103100:c110:s0605:q21",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ],
+      "displayAnswers": "A／C",
+      "notice": "考選部公告：A／C 均給分。",
+      "source": "103年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=103100&t=A"
+    },
+    {
+      "questionId": "社工師:103100:c110:s0605:q24",
+      "type": "corrected_answer",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "displayAnswers": "D",
+      "notice": "考選部公告：本題答 D 給分。",
+      "source": "103年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=103100&t=A"
+    },
+    {
+      "questionId": "社工師:103100:c110:s0606:q17",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 B）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "103年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=103100&t=A"
+    },
+    {
+      "questionId": "社工師:104030:c110:s0601:q14",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "104年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=104030&t=A"
+    },
+    {
+      "questionId": "社工師:104100:c107:s0602:q36",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "104年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=104100&t=A"
+    },
+    {
+      "questionId": "社工師:104100:c107:s0604:q25",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "104年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=104100&t=A"
+    },
+    {
+      "questionId": "社工師:104100:c107:s0606:q07",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "104年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=104100&t=A"
+    },
+    {
+      "questionId": "社工師:104100:c107:s0606:q21",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 B）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "104年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=104100&t=A"
+    },
+    {
+      "questionId": "社工師:104100:c107:s0606:q23",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "104年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=104100&t=A"
+    },
+    {
+      "questionId": "社工師:105030:c107:s0601:q15",
+      "type": "corrected_answer",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayAnswers": "C",
+      "notice": "考選部公告：本題答 C 給分。",
+      "source": "105年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A"
+    },
+    {
+      "questionId": "社工師:105030:c107:s0601:q16",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 C）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "105年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A"
+    },
+    {
+      "questionId": "社工師:105030:c107:s0601:q17",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "105年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A"
+    },
+    {
+      "questionId": "社工師:105030:c107:s0604:q08",
+      "type": "corrected_answer",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayAnswers": "C",
+      "notice": "考選部公告：本題答 C 給分。",
+      "source": "105年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A"
+    },
+    {
+      "questionId": "社工師:105030:c107:s0605:q36",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ],
+      "displayAnswers": "A／C",
+      "notice": "考選部公告：A／C 均給分。",
+      "source": "105年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105030&t=A"
+    },
+    {
+      "questionId": "社工師:105090:c107:s0601:q20",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
+      "displayAnswers": "A／B",
+      "notice": "考選部公告：A／B 均給分。",
+      "source": "105年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105090&t=A"
+    },
+    {
+      "questionId": "社工師:105090:c107:s0604:q18",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "105年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=105090&t=A"
+    },
+    {
+      "questionId": "社工師:106030:c107:s0601:q36",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 A）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "106年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=106030&t=A"
+    },
+    {
+      "questionId": "社工師:106110:c107:s0605:q04",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "106年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=106110&t=A"
+    },
+    {
+      "questionId": "社工師:106110:c107:s0605:q23",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "106年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=106110&t=A"
+    },
+    {
+      "questionId": "社工師:106111:c107:s0602:q38",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
+      "displayAnswers": "A／D",
+      "notice": "考選部公告：A／D 均給分。",
+      "source": "106年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=106111&t=A"
+    },
+    {
+      "questionId": "社工師:107030:c107:s0602:q25",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 C）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "107年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107030&t=A"
+    },
+    {
+      "questionId": "社工師:107030:c107:s0604:q16",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "107年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107030&t=A"
+    },
+    {
+      "questionId": "社工師:107030:c107:s0605:q13",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ],
+      "displayAnswers": "A／C",
+      "notice": "考選部公告：A／C 均給分。",
+      "source": "107年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107030&t=A"
+    },
+    {
+      "questionId": "社工師:107110:c107:s0601:q09",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 C）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "107年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107110&t=A"
+    },
+    {
+      "questionId": "社工師:107110:c107:s0605:q12",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
+      "displayAnswers": "A／D",
+      "notice": "考選部公告：A／D 均給分。",
+      "source": "107年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107110&t=A"
+    },
+    {
+      "questionId": "社工師:107110:c107:s0606:q12",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "displayAnswers": "B／C",
+      "notice": "考選部公告：B／C 均給分。",
+      "source": "107年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=107110&t=A"
+    },
+    {
+      "questionId": "社工師:108020:c107:s0605:q11",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
+      "displayAnswers": "A／B",
+      "notice": "考選部公告：A／B 均給分。",
+      "source": "108年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=108020&t=A"
+    },
+    {
+      "questionId": "社工師:108020:c107:s0605:q21",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
+      "displayAnswers": "A／B",
+      "notice": "考選部公告：A／B 均給分。",
+      "source": "108年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=108020&t=A"
+    },
+    {
+      "questionId": "社工師:108110:c107:s0606:q14",
+      "type": "corrected_answer",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "displayAnswers": "D",
+      "notice": "考選部公告：本題答 D 給分。",
+      "source": "108年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=108110&t=A"
+    },
+    {
+      "questionId": "社工師:108110:c107:s0606:q21",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
+      "displayAnswers": "A／B",
+      "notice": "考選部公告：A／B 均給分。",
+      "source": "108年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=108110&t=A"
+    },
+    {
+      "questionId": "社工師:108110:c107:s0606:q39",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "108年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=108110&t=A"
+    },
+    {
+      "questionId": "社工師:109110:c107:s0602:q26",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
+      "displayAnswers": "A／D",
+      "notice": "考選部公告：A／D 均給分。",
+      "source": "109年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=109110&t=A"
+    },
+    {
+      "questionId": "社工師:110111:c105:s0405:q34",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "110年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=110111&t=A"
+    },
+    {
+      "questionId": "社工師:110111:c105:s0405:q37",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "displayAnswers": "C／D",
+      "notice": "考選部公告：C／D 均給分。",
+      "source": "110年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=110111&t=A"
+    },
+    {
+      "questionId": "社工師:111030:c105:s0405:q18",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 B）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "111年第一次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=111030&t=A"
+    },
+    {
+      "questionId": "社工師:111110:c105:s0401:q40",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "displayAnswers": "C／D",
+      "notice": "考選部公告：C／D 均給分。",
+      "source": "111年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=111110&t=A"
+    },
+    {
+      "questionId": "社工師:111110:c105:s0406:q22",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "displayAnswers": "C／D",
+      "notice": "考選部公告：C／D 均給分。",
+      "source": "111年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=111110&t=A"
+    },
+    {
+      "questionId": "社工師:112110:c103:s0301:q34",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 C）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "112年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=112110&t=A"
+    },
+    {
+      "questionId": "社工師:112110:c103:s0305:q07",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ],
+      "displayAnswers": "A／C",
+      "notice": "考選部公告：A／C 均給分。",
+      "source": "112年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=112110&t=A"
+    },
+    {
+      "questionId": "社工師:112110:c103:s0305:q27",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "displayAnswers": "B／D",
+      "notice": "考選部公告：B／D 均給分。",
+      "source": "112年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=112110&t=A"
+    },
+    {
+      "questionId": "社工師:114100:c103:s0301:q36",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 D）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "114年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=114100&t=A"
+    },
+    {
+      "questionId": "社工師:114100:c103:s0305:q07",
+      "type": "bonus_all",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "displayAnswers": "一律給分（原答案 B）",
+      "notice": "考選部公告：本題一律給分。",
+      "source": "114年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=114100&t=A"
+    },
+    {
+      "questionId": "社工師:114100:c103:s0305:q16",
+      "type": "multiple_answers",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "displayAnswers": "C／D",
+      "notice": "考選部公告：C／D 均給分。",
+      "source": "114年第二次｜社會工作師考試試題疑義處理結果",
+      "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=114100&t=A"
+    }
+  ]
+}
