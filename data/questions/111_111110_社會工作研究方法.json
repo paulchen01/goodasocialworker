@@ -366,13 +366,13 @@
         },
         {
           "key": "D",
-          "text": "行動研究法（action research） 請依下文回答第13 題至第15 題： 某社工想了解北部地區受聘在家中的外籍看護工照顧及生活適應的現況，他設計了一份網路問卷放到 外籍移工常聯絡的群組或瀏覽的網站（Facebook 或Line）上，讓在群組或網站看到此問卷的外籍看護 工自由填寫。"
+          "text": "行動研究法（action research）"
         }
       ],
       "answer": "D",
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
-      "manualPatch": false,
+      "manualPatch": true,
       "reviewStatus": "approved",
       "reviewNote": "",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
@@ -456,13 +456,13 @@
         },
         {
           "key": "D",
-          "text": "叢集抽樣（cluster sampling） 請依下文回答第16 題至第18 題： 某研究者欲進行全國社會工作師之薪資所得相關因素探究，但研究經費有限。"
+          "text": "叢集抽樣（cluster sampling）"
         }
       ],
       "answer": "C",
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
-      "manualPatch": false,
+      "manualPatch": true,
       "reviewStatus": "approved",
       "reviewNote": "",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
