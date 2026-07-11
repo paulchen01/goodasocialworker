@@ -838,13 +838,13 @@
         },
         {
           "key": "D",
-          "text": "評估研究所牽涉到的倫理議題通常比較單純，和參與者權益維護的相關性較低 請依下文回答第28 題至第30 題： 某學者想要針對4 家平面媒體對於政府開放移工引進臺灣後這16 年間（1992～2018 年）8,248 則相關 報導為母體，研究者先將每篇報導以時間順序排列，形成一個抽樣架構後，以每4 則抽取一則的方式 抽出2,062 篇新聞報導作為研究樣本，進而整理出臺灣主流媒體報導所塑造的移工形象。"
+          "text": "評估研究所牽涉到的倫理議題通常比較單純，和參與者權益維護的相關性較低"
         }
       ],
       "answer": "B",
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
-      "manualPatch": false,
+      "manualPatch": true,
       "reviewStatus": "approved",
       "reviewNote": "",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
