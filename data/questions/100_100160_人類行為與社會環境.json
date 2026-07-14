@@ -44,7 +44,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -74,7 +74,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -104,7 +104,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -134,7 +134,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -164,7 +164,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -194,7 +194,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -224,7 +224,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -254,7 +254,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -284,7 +284,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -314,7 +314,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -344,7 +344,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -374,7 +374,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -404,7 +404,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -433,18 +433,6 @@
       "sourceFileId": "社工師:100160:c902:s0705:Q",
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "multipleAnswers",
-        "text": "考選部公告：B／D 均給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第14題答Ｂ或Ｄ者均給分"
-      },
-      "acceptedAnswers": [
-        "B",
-        "D"
-      ],
       "officialIssue": {
         "type": "multiple_answers",
         "acceptedAnswers": [
@@ -453,10 +441,21 @@
         ],
         "displayAnswers": "B／D",
         "notice": "考選部公告：B／D 均給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／D 均給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -486,7 +485,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -515,18 +514,6 @@
       "sourceFileId": "社工師:100160:c902:s0705:Q",
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "multipleAnswers",
-        "text": "考選部公告：A／D 均給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第16題答Ａ或Ｄ者均給分"
-      },
-      "acceptedAnswers": [
-        "A",
-        "D"
-      ],
       "officialIssue": {
         "type": "multiple_answers",
         "acceptedAnswers": [
@@ -535,10 +522,21 @@
         ],
         "displayAnswers": "A／D",
         "notice": "考選部公告：A／D 均給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／D 均給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -568,7 +566,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -597,18 +595,6 @@
       "sourceFileId": "社工師:100160:c902:s0705:Q",
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "multipleAnswers",
-        "text": "考選部公告：B／C 均給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第18題答Ｂ或Ｃ者均給分"
-      },
-      "acceptedAnswers": [
-        "B",
-        "C"
-      ],
       "officialIssue": {
         "type": "multiple_answers",
         "acceptedAnswers": [
@@ -617,10 +603,21 @@
         ],
         "displayAnswers": "B／C",
         "notice": "考選部公告：B／C 均給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／C 均給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -649,19 +646,6 @@
       "sourceFileId": "社工師:100160:c902:s0705:Q",
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "multipleAnswers",
-        "text": "考選部公告：A／C／D 均給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第19題答Ａ或Ｃ或Ｄ者均給分"
-      },
-      "acceptedAnswers": [
-        "A",
-        "C",
-        "D"
-      ],
       "officialIssue": {
         "type": "multiple_answers",
         "acceptedAnswers": [
@@ -671,10 +655,22 @@
         ],
         "displayAnswers": "A／C／D",
         "notice": "考選部公告：A／C／D 均給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／C／D 均給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "C",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -704,7 +700,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -734,7 +730,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -764,7 +760,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -793,18 +789,6 @@
       "sourceFileId": "社工師:100160:c902:s0705:Q",
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "multipleAnswers",
-        "text": "考選部公告：B／C 均給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第23題答Ｂ或Ｃ者均給分"
-      },
-      "acceptedAnswers": [
-        "B",
-        "C"
-      ],
       "officialIssue": {
         "type": "multiple_answers",
         "acceptedAnswers": [
@@ -813,10 +797,21 @@
         ],
         "displayAnswers": "B／C",
         "notice": "考選部公告：B／C 均給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：B／C 均給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -845,14 +840,6 @@
       "sourceFileId": "社工師:100160:c902:s0705:Q",
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "allGiveScore",
-        "text": "考選部公告：本題一律給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第24題一律給分"
-      },
       "officialIssue": {
         "type": "bonus_all",
         "acceptedAnswers": [
@@ -863,10 +850,23 @@
         ],
         "displayAnswers": "一律給分（原答案 D）",
         "notice": "考選部公告：本題一律給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -896,7 +896,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -926,7 +926,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -956,7 +956,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -986,7 +986,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1016,7 +1016,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1046,7 +1046,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1075,18 +1075,6 @@
       "sourceFileId": "社工師:100160:c902:s0705:Q",
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "multipleAnswers",
-        "text": "考選部公告：A／B 均給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第31題答Ａ或Ｂ者均給分"
-      },
-      "acceptedAnswers": [
-        "A",
-        "B"
-      ],
       "officialIssue": {
         "type": "multiple_answers",
         "acceptedAnswers": [
@@ -1095,10 +1083,21 @@
         ],
         "displayAnswers": "A／B",
         "notice": "考選部公告：A／B 均給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／B 均給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1128,7 +1127,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1158,7 +1157,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1187,14 +1186,6 @@
       "sourceFileId": "社工師:100160:c902:s0705:Q",
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "allGiveScore",
-        "text": "考選部公告：本題一律給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第34題答Ａ或 Ｂ或Ｃ或Ｄ者給分"
-      },
       "officialIssue": {
         "type": "bonus_all",
         "acceptedAnswers": [
@@ -1205,10 +1196,23 @@
         ],
         "displayAnswers": "一律給分（原答案 D）",
         "notice": "考選部公告：本題一律給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1238,7 +1242,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1268,7 +1272,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1298,7 +1302,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1328,7 +1332,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1358,7 +1362,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1388,8 +1392,11 @@
       "answerSourceFileId": "社工師:100160:c902:s0705:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
-  ]
+  ],
+  "productionQuestionCount": 40,
+  "reviewQueueQuestionCount": 0,
+  "reviewQueueQuestions": []
 }

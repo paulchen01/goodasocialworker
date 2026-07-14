@@ -44,7 +44,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -74,7 +74,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -103,14 +103,6 @@
       "sourceFileId": "社工師:100160:c902:s0704:Q",
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "allGiveScore",
-        "text": "考選部公告：本題一律給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第3題一律給分"
-      },
       "officialIssue": {
         "type": "bonus_all",
         "acceptedAnswers": [
@@ -121,10 +113,23 @@
         ],
         "displayAnswers": "一律給分（原答案 D）",
         "notice": "考選部公告：本題一律給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -153,14 +158,6 @@
       "sourceFileId": "社工師:100160:c902:s0704:Q",
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "allGiveScore",
-        "text": "考選部公告：本題一律給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第4題答Ａ或Ｂ或Ｃ或Ｄ者給分"
-      },
       "officialIssue": {
         "type": "bonus_all",
         "acceptedAnswers": [
@@ -171,10 +168,23 @@
         ],
         "displayAnswers": "一律給分（原答案 C）",
         "notice": "考選部公告：本題一律給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -204,7 +214,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -234,7 +244,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -263,14 +273,6 @@
       "sourceFileId": "社工師:100160:c902:s0704:Q",
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "allGiveScore",
-        "text": "考選部公告：本題一律給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第7題一律給分"
-      },
       "officialIssue": {
         "type": "bonus_all",
         "acceptedAnswers": [
@@ -281,10 +283,23 @@
         ],
         "displayAnswers": "一律給分（原答案 B）",
         "notice": "考選部公告：本題一律給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "allGiveScore",
+        "text": "考選部公告：本題一律給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -314,7 +329,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -344,7 +359,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -374,7 +389,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -404,7 +419,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -434,7 +449,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -464,7 +479,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -494,7 +509,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -524,7 +539,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -554,7 +569,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -584,7 +599,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -613,18 +628,6 @@
       "sourceFileId": "社工師:100160:c902:s0704:Q",
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "multipleAnswers",
-        "text": "考選部公告：A／B 均給分。",
-        "sourceDate": "100年",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A",
-        "officialRemark": "第18題答Ａ或Ｂ者均給分"
-      },
-      "acceptedAnswers": [
-        "A",
-        "B"
-      ],
       "officialIssue": {
         "type": "multiple_answers",
         "acceptedAnswers": [
@@ -633,10 +636,21 @@
         ],
         "displayAnswers": "A／B",
         "notice": "考選部公告：A／B 均給分。",
-        "source": "100年｜社會工作師考試試題疑義處理結果"
+        "source": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：A／B 均給分。",
+        "sourceTitle": "100年｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=100160&t=A"
+      },
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -666,7 +680,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -696,7 +710,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -726,7 +740,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -756,7 +770,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -786,7 +800,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -816,7 +830,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -846,7 +860,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -876,7 +890,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -906,7 +920,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -936,7 +950,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -966,7 +980,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -996,7 +1010,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1026,7 +1040,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1056,7 +1070,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1086,7 +1100,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1116,7 +1130,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1146,7 +1160,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1176,7 +1190,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1206,7 +1220,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1236,7 +1250,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1266,7 +1280,7 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1296,8 +1310,11 @@
       "answerSourceFileId": "社工師:100160:c902:s0704:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
-  ]
+  ],
+  "productionQuestionCount": 40,
+  "reviewQueueQuestionCount": 0,
+  "reviewQueueQuestions": []
 }

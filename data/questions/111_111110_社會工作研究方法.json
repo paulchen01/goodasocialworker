@@ -44,7 +44,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -74,7 +74,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -104,7 +104,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -134,7 +134,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -164,7 +164,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -194,7 +194,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -224,7 +224,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -254,7 +254,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -284,7 +284,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -314,7 +314,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -344,7 +344,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -374,7 +374,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": true,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -403,8 +403,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某社工想了解北部地區受聘在家中的外籍看護工照顧及生活適應的現況，他設計了一份網路問卷放到 外籍移工常聯絡的群組或瀏覽的網站（Facebook 或Line）上，讓在群組或網站看到此問卷的外籍看護 工自由填寫。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -433,8 +437,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某社工想了解北部地區受聘在家中的外籍看護工照顧及生活適應的現況，他設計了一份網路問卷放到 外籍移工常聯絡的群組或瀏覽的網站（Facebook 或Line）上，讓在群組或網站看到此問卷的外籍看護 工自由填寫。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -463,8 +471,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": true,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某社工想了解北部地區受聘在家中的外籍看護工照顧及生活適應的現況，他設計了一份網路問卷放到 外籍移工常聯絡的群組或瀏覽的網站（Facebook 或Line）上，讓在群組或網站看到此問卷的外籍看護 工自由填寫。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -493,8 +505,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某研究者欲進行全國社會工作師之薪資所得相關因素探究，但研究經費有限。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -523,8 +539,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某研究者欲進行全國社會工作師之薪資所得相關因素探究，但研究經費有限。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -553,8 +573,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某研究者欲進行全國社會工作師之薪資所得相關因素探究，但研究經費有限。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -584,7 +608,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -614,7 +638,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -644,7 +668,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -673,18 +697,6 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
-      "officialAnswerNotice": {
-        "type": "multipleAnswers",
-        "text": "考選部公告：C／D 均給分。",
-        "sourceDate": "111年第二次",
-        "sourceTitle": "社會工作師考試試題疑義處理結果",
-        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=111110&t=A",
-        "officialRemark": "第22題答Ｃ或Ｄ或CD者均給分。 每題配分：1.25分題數：40題"
-      },
-      "acceptedAnswers": [
-        "C",
-        "D"
-      ],
       "officialIssue": {
         "type": "multiple_answers",
         "acceptedAnswers": [
@@ -693,10 +705,21 @@
         ],
         "displayAnswers": "C／D",
         "notice": "考選部公告：C／D 均給分。",
-        "source": "111年第二次｜社會工作師考試試題疑義處理結果"
+        "source": "111年第二次｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=111110&t=A"
       },
+      "officialAnswerNotice": {
+        "type": "multipleAnswers",
+        "text": "考選部公告：C／D 均給分。",
+        "sourceTitle": "111年第二次｜社會工作師考試試題疑義處理結果",
+        "sourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=111110&t=A"
+      },
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -726,7 +749,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -756,7 +779,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -786,7 +809,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -816,7 +839,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -846,7 +869,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": true,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -875,8 +898,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某學者想要針對4 家平面媒體對於政府開放移工引進臺灣後這16 年間（1992～2018 年）8,248 則相關 報導為母體，研究者先將每篇報導以時間順序排列，形成一個抽樣架構後，以每4 則抽取一則的方式 抽出2,062 篇新聞報導作為研究樣本，進而整理出臺灣主流媒體報導所塑造的移工形象。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -905,8 +932,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某學者想要針對4 家平面媒體對於政府開放移工引進臺灣後這16 年間（1992～2018 年）8,248 則相關 報導為母體，研究者先將每篇報導以時間順序排列，形成一個抽樣架構後，以每4 則抽取一則的方式 抽出2,062 篇新聞報導作為研究樣本，進而整理出臺灣主流媒體報導所塑造的移工形象。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -935,8 +966,12 @@
       "sourceFileId": "社工師:111110:c105:s0406:Q",
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "某學者想要針對4 家平面媒體對於政府開放移工引進臺灣後這16 年間（1992～2018 年）8,248 則相關 報導為母體，研究者先將每篇報導以時間順序排列，形成一個抽樣架構後，以每4 則抽取一則的方式 抽出2,062 篇新聞報導作為研究樣本，進而整理出臺灣主流媒體報導所塑造的移工形象。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -966,7 +1001,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -996,7 +1031,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1026,7 +1061,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1056,7 +1091,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1086,7 +1121,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1116,7 +1151,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1146,7 +1181,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1176,7 +1211,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1206,7 +1241,7 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1236,8 +1271,11 @@
       "answerSourceFileId": "社工師:111110:c105:s0406:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
-  ]
+  ],
+  "productionQuestionCount": 40,
+  "reviewQueueQuestionCount": 0,
+  "reviewQueueQuestions": []
 }

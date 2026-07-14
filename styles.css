@@ -404,6 +404,11 @@ button.stat {
   line-height: 1.55;
 }
 
+.essay-mode-card {
+  border-color: #d07a22;
+  background: linear-gradient(180deg, #fff8ef 0%, #fff2d9 100%);
+}
+
 .law-page-intro {
   margin-top: 12px;
   margin-bottom: 20px;
@@ -907,6 +912,75 @@ select {
 .weak-item .ghost {
   justify-self: start;
   padding: 0 14px;
+}
+
+.essay-panel,
+.essay-result-panel,
+.essay-empty-panel {
+  display: grid;
+  gap: 14px;
+}
+
+.essay-status-strip {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.essay-form-grid {
+  align-items: end;
+}
+
+.essay-question-card,
+.essay-result-block {
+  border: 1px solid rgba(6, 26, 68, 0.12);
+  border-radius: 8px;
+  padding: 14px;
+  background: #fffdfa;
+}
+
+.essay-question-meta {
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.essay-question-prompt {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #0f2349;
+}
+
+.essay-answer-block textarea {
+  width: 100%;
+  min-height: 280px;
+  margin-top: 8px;
+  padding: 12px;
+  border: 1px solid rgba(6, 26, 68, 0.18);
+  border-radius: 8px;
+  font: inherit;
+  line-height: 1.7;
+  resize: vertical;
+}
+
+.essay-validation {
+  color: #b14228;
+  font-weight: 600;
+}
+
+.result-score-card {
+  display: grid;
+  gap: 6px;
+  padding: 16px;
+  border-radius: 8px;
+  background: linear-gradient(180deg, #f5fbff 0%, #eaf4ff 100%);
+}
+
+.essay-result-block h3,
+.essay-result-block ul {
+  margin-bottom: 0;
+}
+
+.essay-result-block ul {
+  padding-left: 20px;
 }
 
 .app-footer {

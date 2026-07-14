@@ -337,7 +337,10 @@ export function createQuestionSetFromExams(exams, options, rng = Math.random) {
 export function enrichQuestionsWithExamContext(exam) {
   const questions = exam.questions || [];
   return questions.map((question) => {
-    const previousQuestion = questions.find((item) => item.number === question.number - 1);
+    const contextQuestionNumber = getCarryOverQuestionReferenceNumber(question.stem, question.number);
+    const previousQuestion = Number.isFinite(contextQuestionNumber)
+      ? questions.find((item) => item.number === contextQuestionNumber)
+      : null;
     const enriched = {
       ...question,
       subject: exam.subject,
@@ -348,7 +351,7 @@ export function enrichQuestionsWithExamContext(exam) {
       sourceDisplay: formatQuestionSource({ ...question, ...exam })
     };
 
-    if (isCarryOverQuestion(question.stem) && previousQuestion) {
+    if (previousQuestion) {
       enriched.previousQuestionContext = {
         number: previousQuestion.number,
         stem: previousQuestion.stem,
@@ -361,7 +364,21 @@ export function enrichQuestionsWithExamContext(exam) {
 }
 
 export function isCarryOverQuestion(stem) {
-  return /^承上[題提]/.test(normalizeDisplayText(stem).trim());
+  return Number.isFinite(getCarryOverQuestionReferenceNumber(stem, 2));
+}
+
+export function getCarryOverQuestionReferenceNumber(stem, currentNumber) {
+  const normalized = normalizeDisplayText(stem).trim();
+  if (/^承上[題提]/.test(normalized)) {
+    return currentNumber - 1;
+  }
+
+  const explicitReference = normalized.match(/^承第\s*(\d+)\s*題/);
+  if (explicitReference) {
+    return Number(explicitReference[1]);
+  }
+
+  return null;
 }
 
 export function normalizeDisplayText(value) {

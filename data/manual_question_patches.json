@@ -60,6 +60,28 @@
     "source": "user_manual_transcription_from_official_exam",
     "questions": [
       {
+        "number": 37,
+        "stem": "社會學者對社會階層測量方式是以兩個或以上社會成員所具有的條件，包括：財富、收入、教育程度與職業類別等來衡量其所屬階層，此種測量方式為下列何者？",
+        "options": [
+          {
+            "key": "A",
+            "text": "觀察法"
+          },
+          {
+            "key": "B",
+            "text": "聲望法"
+          },
+          {
+            "key": "C",
+            "text": "多項指標法"
+          },
+          {
+            "key": "D",
+            "text": "生活方式法"
+          }
+        ]
+      },
+      {
         "number": 38,
         "stem": "Amato（2000）的離婚↔壓力↔適應的觀點，離婚過程起始於父母與孩子共同面對的壓力事件，這些壓力源將增加父母與孩子之負向影響危機。而離婚對兒童的影響端賴各種因子及其交互作用的結果。離婚過程的保護因子，下列何者錯誤？",
         "options": [
@@ -150,6 +172,28 @@
           {
             "key": "D",
             "text": "社會工作過程主要呈現在與個案之關係建立，現代社會工作應學習如何以電腦和網絡互連技術，進入虛擬社會"
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "stem": "運用生態圖為工具描繪出個人與其所在環境交流的互動方向與關係強弱，是目前社會個案工作中必為的程序之一，學理上稱之為生態評量（ecological assessment）。下列有關生態評量的敘述，何者錯誤？",
+        "options": [
+          {
+            "key": "A",
+            "text": "生態評量的重點是一方面評估個人需求所在，一方面呈現滿足需求的資源提供"
+          },
+          {
+            "key": "B",
+            "text": "實務操作步驟應涵括案主的重大生活壓力事件、性質及嚴重程度，相關重要他人對事件的看法與認知等"
+          },
+          {
+            "key": "C",
+            "text": "實務工作人員應與案主一起演繹、歸納和詮釋案主行為型態或其與環境交流的失衡原因，無需參採專業知識架構"
+          },
+          {
+            "key": "D",
+            "text": "生態評量的資料蒐集來源包括語言、非口語反應、書寫、文件、與實務工作者的臨場觀察等"
           }
         ]
       }
@@ -538,6 +582,284 @@
           {
             "key": "D",
             "text": "在檢定的顯著水準α 不變的情況下，由單尾檢定變為雙尾檢定"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examId": "社工師:101030:c902:s0806",
+    "source": "verified_against_official_exam_pdf_20260711",
+    "questions": [
+      {
+        "number": 36,
+        "stem": "下列何者，是與研究分析單位有關的推論錯誤？",
+        "options": [
+          {
+            "key": "A",
+            "text": "選擇性偏誤"
+          },
+          {
+            "key": "B",
+            "text": "系統性偏誤"
+          },
+          {
+            "key": "C",
+            "text": "分類學的謬誤"
+          },
+          {
+            "key": "D",
+            "text": "生態學的謬誤"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examId": "社工師:103030:c110:s0606",
+    "source": "verified_against_official_exam_pdf_20260711",
+    "questions": [
+      {
+        "number": 10,
+        "stem": "某研究生使用隨機抽樣的方法進行一份量化研究，且該研究生的研究具有「95%的信賴水準（confidence level）」。請問下列敘述何者錯誤？",
+        "options": [
+          {
+            "key": "A",
+            "text": "這代表該研究生以同樣的方式重複進行100 次隨機抽樣，可能會有5 次抽樣的結果無法代表母群體"
+          },
+          {
+            "key": "B",
+            "text": "可能有5%的受訪者沒有正確地回答問卷問題"
+          },
+          {
+            "key": "C",
+            "text": "這代表該研究生重複進行100 次隨機抽樣，可能會有95 次的調查結果可以正確地包含母群體的母數"
+          },
+          {
+            "key": "D",
+            "text": "若該研究生想提高其信賴水準至97%時，大量增加有效樣本數是可行方式"
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "stem": "某機構想針對其所進行的「親職教育講座」進行滿意度調查，他們在設計問卷時，那一種選項的設計是 有問題的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "不滿意 無意見 滿意"
+          },
+          {
+            "key": "B",
+            "text": "非常不滿意 不滿意 中立 滿意 非常滿意"
+          },
+          {
+            "key": "C",
+            "text": "很滿意 滿意 還可以 無意見 不滿意"
+          },
+          {
+            "key": "D",
+            "text": "非常不滿意 不滿意 滿意 非常滿意"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examId": "社工師:105090:c107:s0606",
+    "source": "verified_against_official_exam_pdf_20260711",
+    "questions": [
+      {
+        "number": 12,
+        "stem": "某社工人員在撰寫有關課後照顧的評估報告時，參考了一篇由Chatili Das、Mary Ellen Kondrat、Ching Man Lam、Lee S. Shulman 四位作者所共同撰寫的文章。依APA 格式，在此評估報告的「參考文獻」中，這 篇文獻作者的寫法應該是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "C. Das, M. E. Kondrat, C. M. Lam, and L. S. Shulman"
+          },
+          {
+            "key": "B",
+            "text": "Chatili Das, Mary Ellen Kondrat, Ching Man Lam, Lee S. Shulman"
+          },
+          {
+            "key": "C",
+            "text": "Das, C., Kondrat, M. E., Lam, C. M., and Shulman, L. S."
+          },
+          {
+            "key": "D",
+            "text": "Chatili, D., Mary, E. K., Ching, M. L., and Lee, S. S."
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "stem": "若廖教授完成資料分析後，驗證了其所提出的「女性社工人員的倫理兩難決斷力較男性來得高」這個研 究假設。但有不少男性社工人員質疑量表中將進行倫理決策的頻率、時間及影響人數等題目納入，忽略 了男性社工人員比較少有機會從事第一線的實務工作，因而較少參與在倫理兩難的決策中。請問這些男 性社工人員質疑的是這個量表的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "鑑別度（discrimination）"
+          },
+          {
+            "key": "B",
+            "text": "效度（validity）"
+          },
+          {
+            "key": "C",
+            "text": "信度（reliability）"
+          },
+          {
+            "key": "D",
+            "text": "精確度（precision）"
+          }
+        ]
+      },
+      {
+        "number": 20,
+        "stem": "從抽樣的理論來看，方便抽樣（convenience sampling）最大的缺點在於：",
+        "options": [
+          {
+            "key": "A",
+            "text": "回收率通常會很低"
+          },
+          {
+            "key": "B",
+            "text": "樣本代表性不足"
+          },
+          {
+            "key": "C",
+            "text": "作答者會相互影響"
+          },
+          {
+            "key": "D",
+            "text": "樣本數經常會不足"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examId": "社工師:107110:c107:s0606",
+    "source": "verified_against_official_exam_pdf_20260711",
+    "questions": [
+      {
+        "number": 4,
+        "stem": "有關研究架構圖的敘述，下列何者錯誤？",
+        "options": [
+          {
+            "key": "A",
+            "text": "依變項置於圖的右邊，自變項置於左邊，單向箭頭的線條表示兩端的變項有因果關係，起點的 變項為因，終點箭頭指向的變項為果"
+          },
+          {
+            "key": "B",
+            "text": "單向箭頭的線條表示兩端的變項有因果關係，起點的變項為因，終點箭頭指向的變項為果"
+          },
+          {
+            "key": "C",
+            "text": "雙向箭頭的線條表示兩端的變項相關"
+          },
+          {
+            "key": "D",
+            "text": "沒有箭頭的線條表示兩端的變項沒有關係"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examId": "社工師:111110:c105:s0406",
+    "source": "verified_against_official_exam_pdf_20260711",
+    "questions": [
+      {
+        "number": 12,
+        "stem": "某研究者在921 地震後進入南投縣中寮社區協助居民從事災後重建工作，邀集災民參與並討論其 所面臨之問題，思考並擬出產業復甦計畫加以執行，並根據執行過程與結果所蒐集的資料修改因 應對策，最後彙集成研究報告。此種社會工作實務研究屬於下列何種質性研究方法？",
+        "options": [
+          {
+            "key": "A",
+            "text": "敘事研究法（narrative research）"
+          },
+          {
+            "key": "B",
+            "text": "民族誌或人種誌學（ethnography）"
+          },
+          {
+            "key": "C",
+            "text": "現象學（phenomenological study）"
+          },
+          {
+            "key": "D",
+            "text": "行動研究法（action research）"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "stem": "若該社工也想要進一步了解北部地區移工失聯的現象，由於受訪對象隱匿（難以尋覓）的特性， 下列何種方法適合？",
+        "options": [
+          {
+            "key": "A",
+            "text": "簡單隨機抽樣（simple random sampling）"
+          },
+          {
+            "key": "B",
+            "text": "分層抽樣（stratified sampling）"
+          },
+          {
+            "key": "C",
+            "text": "滾雪球抽樣（snowball sampling）"
+          },
+          {
+            "key": "D",
+            "text": "叢集抽樣（cluster sampling）"
+          }
+        ]
+      },
+      {
+        "number": 27,
+        "stem": "有關評估研究（evaluation research）的敘述，下列何者正確？",
+        "options": [
+          {
+            "key": "A",
+            "text": "評估研究較不適用於評估一個社會制度對於人民所造成的影響"
+          },
+          {
+            "key": "B",
+            "text": "好的評估研究需要先清楚定義結果指標為何"
+          },
+          {
+            "key": "C",
+            "text": "若不能採用實驗設計來評估成效，則不建議進行評估研究"
+          },
+          {
+            "key": "D",
+            "text": "評估研究所牽涉到的倫理議題通常比較單純，和參與者權益維護的相關性較低"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examId": "社工師:113100:c103:s0302",
+    "source": "verified_against_official_exam_pdf_20260712_image_question_cleanup",
+    "questions": [
+      {
+        "number": 13,
+        "stem": "有關下圖案母與案主之間的關係狀況，下列何者正確？",
+        "options": [
+          {
+            "key": "A",
+            "text": "關係緊密"
+          },
+          {
+            "key": "B",
+            "text": "緊張衝突"
+          },
+          {
+            "key": "C",
+            "text": "疏離脆弱"
+          },
+          {
+            "key": "D",
+            "text": "正向關係"
           }
         ]
       }

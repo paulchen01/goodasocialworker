@@ -1,10 +1,10 @@
-const CACHE_NAME = "kaoshang-social-worker-v47";
+const CACHE_NAME = "kaoshang-social-worker-v50";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./styles.css?v=20260705-45",
-  "./app.js?v=20260706-03",
-  "./app-core.mjs?v=20260706-03",
+  "./app.js?v=20260715-01",
+  "./app-core.mjs?v=20260715-01",
   "./manifest.webmanifest",
   "./icons/apple-touch-icon.png",
   "./icons/icon-192.png",
@@ -15,8 +15,8 @@ const APP_SHELL = [
   "./install-guide/install-step-3-add-home.png",
   "./data/question-assets/113_113100_0302_q13.png",
   "./data/question-assets/114_114100_0306_q12.png",
-  "./data/index.json?v=20260705-158",
-  "./data/law-lookup.json?v=20260705-158"
+  "./data/index.json?v=20260715-01",
+  "./data/law-lookup.json?v=20260715-01"
 ];
 
 function shouldUseNetworkFirst(request) {

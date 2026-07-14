@@ -44,7 +44,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -74,7 +74,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -104,7 +104,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -134,7 +134,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -164,7 +164,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -194,7 +194,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -224,7 +224,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -254,7 +254,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -284,7 +284,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -314,7 +314,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": true,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -342,10 +342,13 @@
       "answer": "D",
       "sourceFileId": "社工師:103030:c110:s0606:Q",
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：李教授針對已在全臺各縣市家暴中心開案的受暴婦女進行調查研究，她以隨機抽樣的方式獲得120 位的 隨機樣本。李教授想了解這些婦女的社會階層、社會支持，以及社會工作者的處遇是否對減緩其憂鬱程度 及增進其睡眠品質有所助益。在李教授所設計的問卷中，社會階層是請受訪者自填受測時的每月收入；社 會支持及社會工作者處遇則是由李教授自行設計六個答項，請受訪者勾選其中最具影響力的一項；焦慮程 度是以「貝氏憂鬱量表」（是由21 題，每題4 點尺度的Likert 量表所構成；計算時將各題的得分加總， 分數越高代表憂鬱程度越高）來測量；睡眠品質是以「匹茲堡睡眠品質量表」（是由7 題，每題4 點尺度 的Likert 量表所構成，分數越高代表睡眠品質越差）來測量。請依此回答下列第11 題至第14 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：李教授針對已在全臺各縣市家暴中心開案的受暴婦女進行調查研究，她以隨機抽樣的方式獲得120位的隨機樣本。李教授想了解這些婦女的社會階層、社會支持，以及社會工作者的處遇是否對減緩其憂鬱程度及增進其睡眠品質有所助益。在李教授所設計的問卷中，社會階層是請受訪者自填受測時的每月收入；社會支持及社會工作者處遇則是由李教授自行設計六個答項，請受訪者勾選其中最具影響力的一項；焦慮程度是以「貝氏憂鬱量表」（是由21題，每題4點尺度的Likert量表所構成；計算時將各題的得分加總，分數越高代表憂鬱程度越高）來測量；睡眠品質是以「匹茲堡睡眠品質量表」（是由7題，每題4點尺度的Likert量表所構成，分數越高代表睡眠品質越差）來測量。請依此回答下列第11題至第14題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -373,10 +376,13 @@
       "answer": "C",
       "sourceFileId": "社工師:103030:c110:s0606:Q",
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：李教授針對已在全臺各縣市家暴中心開案的受暴婦女進行調查研究，她以隨機抽樣的方式獲得120 位的 隨機樣本。李教授想了解這些婦女的社會階層、社會支持，以及社會工作者的處遇是否對減緩其憂鬱程度 及增進其睡眠品質有所助益。在李教授所設計的問卷中，社會階層是請受訪者自填受測時的每月收入；社 會支持及社會工作者處遇則是由李教授自行設計六個答項，請受訪者勾選其中最具影響力的一項；焦慮程 度是以「貝氏憂鬱量表」（是由21 題，每題4 點尺度的Likert 量表所構成；計算時將各題的得分加總， 分數越高代表憂鬱程度越高）來測量；睡眠品質是以「匹茲堡睡眠品質量表」（是由7 題，每題4 點尺度 的Likert 量表所構成，分數越高代表睡眠品質越差）來測量。請依此回答下列第11 題至第14 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：李教授針對已在全臺各縣市家暴中心開案的受暴婦女進行調查研究，她以隨機抽樣的方式獲得120位的隨機樣本。李教授想了解這些婦女的社會階層、社會支持，以及社會工作者的處遇是否對減緩其憂鬱程度及增進其睡眠品質有所助益。在李教授所設計的問卷中，社會階層是請受訪者自填受測時的每月收入；社會支持及社會工作者處遇則是由李教授自行設計六個答項，請受訪者勾選其中最具影響力的一項；焦慮程度是以「貝氏憂鬱量表」（是由21題，每題4點尺度的Likert量表所構成；計算時將各題的得分加總，分數越高代表憂鬱程度越高）來測量；睡眠品質是以「匹茲堡睡眠品質量表」（是由7題，每題4點尺度的Likert量表所構成，分數越高代表睡眠品質越差）來測量。請依此回答下列第11題至第14題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -404,10 +410,13 @@
       "answer": "C",
       "sourceFileId": "社工師:103030:c110:s0606:Q",
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：李教授針對已在全臺各縣市家暴中心開案的受暴婦女進行調查研究，她以隨機抽樣的方式獲得120 位的 隨機樣本。李教授想了解這些婦女的社會階層、社會支持，以及社會工作者的處遇是否對減緩其憂鬱程度 及增進其睡眠品質有所助益。在李教授所設計的問卷中，社會階層是請受訪者自填受測時的每月收入；社 會支持及社會工作者處遇則是由李教授自行設計六個答項，請受訪者勾選其中最具影響力的一項；焦慮程 度是以「貝氏憂鬱量表」（是由21 題，每題4 點尺度的Likert 量表所構成；計算時將各題的得分加總， 分數越高代表憂鬱程度越高）來測量；睡眠品質是以「匹茲堡睡眠品質量表」（是由7 題，每題4 點尺度 的Likert 量表所構成，分數越高代表睡眠品質越差）來測量。請依此回答下列第11 題至第14 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：李教授針對已在全臺各縣市家暴中心開案的受暴婦女進行調查研究，她以隨機抽樣的方式獲得120位的隨機樣本。李教授想了解這些婦女的社會階層、社會支持，以及社會工作者的處遇是否對減緩其憂鬱程度及增進其睡眠品質有所助益。在李教授所設計的問卷中，社會階層是請受訪者自填受測時的每月收入；社會支持及社會工作者處遇則是由李教授自行設計六個答項，請受訪者勾選其中最具影響力的一項；焦慮程度是以「貝氏憂鬱量表」（是由21題，每題4點尺度的Likert量表所構成；計算時將各題的得分加總，分數越高代表憂鬱程度越高）來測量；睡眠品質是以「匹茲堡睡眠品質量表」（是由7題，每題4點尺度的Likert量表所構成，分數越高代表睡眠品質越差）來測量。請依此回答下列第11題至第14題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -435,10 +444,13 @@
       "answer": "A",
       "sourceFileId": "社工師:103030:c110:s0606:Q",
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：李教授針對已在全臺各縣市家暴中心開案的受暴婦女進行調查研究，她以隨機抽樣的方式獲得120 位的 隨機樣本。李教授想了解這些婦女的社會階層、社會支持，以及社會工作者的處遇是否對減緩其憂鬱程度 及增進其睡眠品質有所助益。在李教授所設計的問卷中，社會階層是請受訪者自填受測時的每月收入；社 會支持及社會工作者處遇則是由李教授自行設計六個答項，請受訪者勾選其中最具影響力的一項；焦慮程 度是以「貝氏憂鬱量表」（是由21 題，每題4 點尺度的Likert 量表所構成；計算時將各題的得分加總， 分數越高代表憂鬱程度越高）來測量；睡眠品質是以「匹茲堡睡眠品質量表」（是由7 題，每題4 點尺度 的Likert 量表所構成，分數越高代表睡眠品質越差）來測量。請依此回答下列第11 題至第14 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：李教授針對已在全臺各縣市家暴中心開案的受暴婦女進行調查研究，她以隨機抽樣的方式獲得120位的隨機樣本。李教授想了解這些婦女的社會階層、社會支持，以及社會工作者的處遇是否對減緩其憂鬱程度及增進其睡眠品質有所助益。在李教授所設計的問卷中，社會階層是請受訪者自填受測時的每月收入；社會支持及社會工作者處遇則是由李教授自行設計六個答項，請受訪者勾選其中最具影響力的一項；焦慮程度是以「貝氏憂鬱量表」（是由21題，每題4點尺度的Likert量表所構成；計算時將各題的得分加總，分數越高代表憂鬱程度越高）來測量；睡眠品質是以「匹茲堡睡眠品質量表」（是由7題，每題4點尺度的Likert量表所構成，分數越高代表睡眠品質越差）來測量。請依此回答下列第11題至第14題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -468,7 +480,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -498,7 +510,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -528,7 +540,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": true,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -556,10 +568,13 @@
       "answer": "D",
       "sourceFileId": "社工師:103030:c110:s0606:Q",
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：林社會工作師想了解大臺北地區高中生網路成癮的現況，於是他設計了一份網路問卷放到高中生常瀏覽 的網站上，讓在網站看到此問卷的高中生自由填寫，以此蒐集研究資料。請依此回答下列第18 題至第 19 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：林社會工作師想了解大臺北地區高中生網路成癮的現況，於是他設計了一份網路問卷放到高中生常瀏覽的網站上，讓在網站看到此問卷的高中生自由填寫，以此蒐集研究資料。請依此回答下列第18題至第19題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -587,10 +602,13 @@
       "answer": "C",
       "sourceFileId": "社工師:103030:c110:s0606:Q",
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：林社會工作師想了解大臺北地區高中生網路成癮的現況，於是他設計了一份網路問卷放到高中生常瀏覽 的網站上，讓在網站看到此問卷的高中生自由填寫，以此蒐集研究資料。請依此回答下列第18 題至第 19 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：林社會工作師想了解大臺北地區高中生網路成癮的現況，於是他設計了一份網路問卷放到高中生常瀏覽的網站上，讓在網站看到此問卷的高中生自由填寫，以此蒐集研究資料。請依此回答下列第18題至第19題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -620,7 +638,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -650,7 +668,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -680,7 +698,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -710,7 +728,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -740,7 +758,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -770,7 +788,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -800,7 +818,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -830,7 +848,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -860,7 +878,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -890,7 +908,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -920,7 +938,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -950,7 +968,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -980,7 +998,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1010,7 +1028,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1040,7 +1058,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1070,7 +1088,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1100,7 +1118,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1130,7 +1148,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1160,7 +1178,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1190,7 +1208,7 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1220,8 +1238,11 @@
       "answerSourceFileId": "社工師:103030:c110:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
-  ]
+  ],
+  "productionQuestionCount": 40,
+  "reviewQueueQuestionCount": 0,
+  "reviewQueueQuestions": []
 }

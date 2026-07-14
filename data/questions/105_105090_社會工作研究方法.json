@@ -44,7 +44,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -74,7 +74,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -104,7 +104,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -134,7 +134,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -164,7 +164,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -194,7 +194,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -224,7 +224,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -254,7 +254,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -284,7 +284,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -314,7 +314,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -344,7 +344,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -374,7 +374,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -402,10 +402,13 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13題至第16題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -433,10 +436,13 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13題至第16題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -464,10 +470,13 @@
       "answer": "D",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13題至第16題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -496,9 +505,12 @@
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
-      "previousStem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設 為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13 題至第16 題。",
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想廖教授計劃以臺灣社會工作專業人員協會的所有會員進行普查。研究者所擬定的其中一個研究假設為「女性社工人員的倫理兩難決斷力較男性來得高」。請依上述資料回答下列第13題至第16題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -526,10 +538,13 @@
       "answer": "B",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996～2015年），針對新住民進行報導的19,738則新聞為母全體；作者先將母全體的每篇報導以時間順序排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289篇新聞報導作為樣本；之後針對樣本與研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料回答下列第17題至第19題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -557,10 +572,13 @@
       "answer": "C",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996～2015年），針對新住民進行報導的19,738則新聞為母全體；作者先將母全體的每篇報導以時間順序排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289篇新聞報導作為樣本；之後針對樣本與研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料回答下列第17題至第19題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -588,10 +606,13 @@
       "answer": "C",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996 ～2015 年），針對新住民進行報導的19,738 則新聞為母全體；作者先將母全體的每篇報導以時間順序 排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289 篇新聞報導作為樣本；之後針對樣本與 研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料 回答下列第17 題至第19 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想某篇論文是以《中國時報》、《聯合報》、《自由時報》、《蘋果日報》於最近二十年間（即1996～2015年），針對新住民進行報導的19,738則新聞為母全體；作者先將母全體的每篇報導以時間順序排列，形成一個抽樣架構後，以每六則取一則的方式抽出3,289篇新聞報導作為樣本；之後針對樣本與研究者所建立的類目表進行比對與歸類，進而整理出臺灣主流媒體所型塑的新住民形象。請依上述資料回答下列第17題至第19題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -621,7 +642,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": true,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -649,10 +670,13 @@
       "answer": "C",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：假想某政府單位委託民間民意調查機構，以電腦隨機撥號的方式，進行「臺灣應否逐步廢除死刑以符合 國際人權公約的準則」之電話民調。該調查指稱有效樣本數為3,757 份，具有95%的信賴水準（confidence level）。請依上述資料回答下列第21 題至第22 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想某政府單位委託民間民意調查機構，以電腦隨機撥號的方式，進行「臺灣應否逐步廢除死刑以符合國際人權公約的準則」之電話民調。該調查指稱有效樣本數為3,757份，具有95%的信賴水準（confidence level）。請依上述資料回答下列第21題至第22題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -680,10 +704,13 @@
       "answer": "A",
       "sourceFileId": "社工師:105090:c107:s0606:Q",
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
-      "manualPatch": true,
-      "previousStem": "情況：假想某政府單位委託民間民意調查機構，以電腦隨機撥號的方式，進行「臺灣應否逐步廢除死刑以符合 國際人權公約的準則」之電話民調。該調查指稱有效樣本數為3,757 份，具有95%的信賴水準（confidence level）。請依上述資料回答下列第21 題至第22 題。",
+      "manualPatch": false,
+      "sharedPromptContext": {
+        "title": "題組前文",
+        "stem": "情況：假想某政府單位委託民間民意調查機構，以電腦隨機撥號的方式，進行「臺灣應否逐步廢除死刑以符合國際人權公約的準則」之電話民調。該調查指稱有效樣本數為3,757份，具有95%的信賴水準（confidence level）。請依上述資料回答下列第21題至第22題。"
+      },
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -713,7 +740,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -743,7 +770,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -773,7 +800,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -803,7 +830,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -833,7 +860,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -863,7 +890,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -893,7 +920,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -923,7 +950,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -953,7 +980,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -983,7 +1010,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1013,7 +1040,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1043,7 +1070,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1073,7 +1100,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1103,7 +1130,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1133,7 +1160,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1163,7 +1190,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1193,7 +1220,7 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     },
     {
@@ -1223,8 +1250,11 @@
       "answerSourceFileId": "社工師:105090:c107:s0606:S",
       "manualPatch": false,
       "reviewStatus": "approved",
-      "reviewNote": "",
+      "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"
     }
-  ]
+  ],
+  "productionQuestionCount": 40,
+  "reviewQueueQuestionCount": 0,
+  "reviewQueueQuestions": []
 }
