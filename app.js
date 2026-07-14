@@ -43,7 +43,7 @@ import {
   buildEssayEmptyStateMarkup,
   buildEssayResultMarkup,
   buildEssaySelectorMarkup
-} from "./essay-practice-view.mjs?v=20260707-03";
+} from "./essay-practice-view.mjs?v=20260715-02";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260715-01";
@@ -566,8 +566,8 @@ function renderHome() {
           <span>依國考該科題數出題，有時間限制，考題會以跨年度隨機抽取。</span>
         </button>
         <button class="mode-card essay-mode-card" data-screen="essay">
-          <strong>申論題練習</strong>
-          <span>包含國考社工師考試、公職社工師考試等申論題。練習作答完畢後由AI協助批改與建議</span>
+          <strong>申論題練習（待開發）</strong>
+          <span>申論題題庫已先整理，AI批改功能待 API 串接完成後開放。</span>
         </button>
         <button class="mode-card" data-screen="weak">
           <strong>錯題與弱點</strong>

@@ -69,7 +69,7 @@ export function buildEssaySelectorMarkup(viewModel) {
       ${validation}
       <div class="toolbar essay-toolbar">
         <button class="secondary" id="essaySaveDraft" type="button">儲存草稿</button>
-        <button class="primary" id="essaySubmit" type="button" ${disabled}>送出批改</button>
+        <button class="primary" id="essaySubmit" type="button" disabled aria-disabled="true">送出批改（待開發）</button>
       </div>
     </section>
   `;
