@@ -9,3 +9,9 @@ export function buildEssayApiUrl(pathname, apiBase = "") {
   const normalizedBase = normalizeEssayApiBase(apiBase);
   return normalizedBase ? `${normalizedBase}${normalizedPath}` : normalizedPath;
 }
+
+export function resolveEssayApiBase(configuredBase, locationSearch = "") {
+  const params = new URLSearchParams(String(locationSearch || ""));
+  if (params.get("essayApi") === "local") return "";
+  return normalizeEssayApiBase(configuredBase);
+}

@@ -46,16 +46,17 @@ import {
 } from "./essay-practice-view.mjs?v=20260716-02";
 import {
   buildEssayApiUrl,
-  normalizeEssayApiBase
-} from "./essay-api-client.mjs?v=20260716-02";
+  resolveEssayApiBase
+} from "./essay-api-client.mjs?v=20260716-03";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260715-01";
 const ESSAY_DRAFTS_KEY = "kaoshangSocialWorkerEssayDrafts";
 const ESSAY_ANSWER_LIMITS = { minChars: 80, maxChars: 5000 };
 const ESSAY_API_HINT = "申論題批改服務暫時無法連線，請稍後再試。";
-const ESSAY_API_BASE = normalizeEssayApiBase(
-  document.querySelector('meta[name="essay-api-base"]')?.content
+const ESSAY_API_BASE = resolveEssayApiBase(
+  document.querySelector('meta[name="essay-api-base"]')?.content,
+  window.location.search
 );
 
 const state = {
