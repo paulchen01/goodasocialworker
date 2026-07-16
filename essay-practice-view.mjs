@@ -1,4 +1,4 @@
-import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260716-02";
+import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260716-03";
 
 function escapeHtml(value) {
   return String(value ?? "")

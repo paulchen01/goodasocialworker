@@ -43,7 +43,7 @@ import {
   buildEssayEmptyStateMarkup,
   buildEssayResultMarkup,
   buildEssaySelectorMarkup
-} from "./essay-practice-view.mjs?v=20260716-02";
+} from "./essay-practice-view.mjs?v=20260716-03";
 import {
   buildEssayApiUrl,
   resolveEssayApiBase
