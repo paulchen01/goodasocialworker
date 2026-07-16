@@ -1,3 +1,5 @@
+import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260716-02";
+
 function escapeHtml(value) {
   return String(value ?? "")
     .replaceAll("&", "&amp;")
@@ -8,8 +10,8 @@ function escapeHtml(value) {
 }
 
 function buildQuotaResetNote(quota) {
-  if (quota?.quotaResetTimeZone === "America/Los_Angeles") {
-    return "每日次數依 Gemini 官方配額，於美西時間午夜重置。";
+  if (quota?.quotaResetTimeZone === "Asia/Taipei") {
+    return `每日限額 ${quota?.totalLimit ?? 500} 次，全站共用；每次送出批改會即時扣除，台灣時間午夜重置。`;
   }
   return "每日次數會在配額重置時段自動歸零。";
 }
@@ -34,76 +36,117 @@ export function buildEssayEmptyStateMarkup(message) {
 }
 
 export function buildEssaySelectorMarkup(viewModel) {
-  const currentQuestion = viewModel.currentQuestion;
-  const disabled = !currentQuestion || viewModel.quota.remainingCount <= 0 ? "disabled" : "";
+  const currentQuestions = Array.isArray(viewModel.currentQuestions)
+    ? viewModel.currentQuestions
+    : (viewModel.currentQuestion ? [viewModel.currentQuestion] : []);
+  const questionCount = currentQuestions.length;
+  const hasEnoughQuota = viewModel.quota.remainingCount >= questionCount;
+  const disabled = !questionCount || !hasEnoughQuota ? "disabled" : "";
   const validation = viewModel.validationMessage ? `<p class="essay-validation">${escapeHtml(viewModel.validationMessage)}</p>` : "";
   const quotaResetNote = buildQuotaResetNote(viewModel.quota);
+  const submitLabel = viewModel.quota.remainingCount <= 0
+    ? "今日額度已滿"
+    : (!hasEnoughQuota ? "剩餘額度不足" : `送出 ${questionCount} 題批改`);
 
   return `
     <section class="panel essay-panel">
       <button class="ghost" data-screen="home">回首頁</button>
       <h2>申論題練習</h2>
-      <p class="muted essay-intro">申論題獨立練習，不和選擇題模式混用。</p>
+      <p class="muted essay-intro">一次完成同份考卷的全部申論題；每題會使用 1 次全站批改額度。</p>
       <div class="status-strip essay-status-strip">
         <div class="stat"><strong>${escapeHtml(viewModel.quota.mode)}</strong><span>批改模式</span></div>
         <div class="stat"><strong>${escapeHtml(viewModel.quota.remainingCount)}</strong><span>本日剩餘</span></div>
         <div class="stat"><strong>${escapeHtml(viewModel.quota.totalLimit)}</strong><span>每日上限</span></div>
       </div>
       <p class="muted essay-quota-note">${escapeHtml(quotaResetNote)}</p>
+      <p class="essay-disclaimer">${escapeHtml(ESSAY_GRADING_DISCLAIMER)}</p>
       <div class="form-grid essay-form-grid">
         <label>考試類型<select id="essayExamType">${renderOptions(viewModel.options.examTypes, viewModel.filters.examType)}</select></label>
         <label>年度<select id="essayYear">${renderOptions(viewModel.options.years, viewModel.filters.yearRoc)}</select></label>
         <label>科目<select id="essaySubject">${renderOptions(viewModel.options.subjects, viewModel.filters.subject)}</select></label>
         <label>考次<select id="essaySession">${renderOptions(viewModel.options.sessions, viewModel.filters.examSession)}</select></label>
-        <label>題號<select id="essayQuestionId">${renderOptions(viewModel.options.questionChoices, viewModel.filters.questionId)}</select></label>
       </div>
-      ${currentQuestion ? `
-        <article class="essay-question-card">
-          <div class="essay-question-meta">第 ${escapeHtml(currentQuestion.questionNo)} 題｜${escapeHtml(currentQuestion.points)} 分</div>
-          <p class="essay-question-prompt">${escapeHtml(currentQuestion.prompt)}</p>
-        </article>
+      ${questionCount ? `
+        <p class="essay-batch-summary">本份考卷共 ${escapeHtml(questionCount)} 題申論題，請全部完成後再一次送出。</p>
+        <div class="essay-question-list">
+          ${currentQuestions.map((question) => `
+            <article class="essay-question-card" data-essay-question-id="${escapeHtml(question.id)}">
+              <div class="essay-question-meta">第 ${escapeHtml(question.questionNo)} 題｜${escapeHtml(question.points)} 分</div>
+              <p class="essay-question-prompt">${escapeHtml(question.prompt)}</p>
+              <label class="essay-answer-block">第 ${escapeHtml(question.questionNo)} 題作答
+                <textarea class="essay-answer" data-question-id="${escapeHtml(question.id)}" rows="12" placeholder="請直接在這裡練習本題作答。">${escapeHtml(viewModel.draftTexts?.[question.id] ?? viewModel.draftText ?? "")}</textarea>
+              </label>
+            </article>
+          `).join("")}
+        </div>
       ` : '<div class="empty">目前沒有符合條件的申論題。</div>'}
-      <label class="essay-answer-block">你的作答
-        <textarea id="essayAnswer" rows="12" placeholder="請直接在這裡練習申論題作答。">${escapeHtml(viewModel.draftText)}</textarea>
-      </label>
       ${validation}
       <div class="toolbar essay-toolbar">
         <button class="secondary" id="essaySaveDraft" type="button">儲存草稿</button>
-        <button class="primary" id="essaySubmit" type="button" disabled aria-disabled="true">送出批改（待開發）</button>
+        <button class="primary" id="essaySubmit" type="button" ${disabled}>${escapeHtml(submitLabel)}</button>
       </div>
     </section>
   `;
 }
 
 export function buildEssayResultMarkup(viewModel) {
-  const grade = viewModel.grade;
   const renderList = (items) => items.map((item) => `<li>${escapeHtml(item)}</li>`).join("");
+  const renderGrade = ({ question, grade }) => {
+    const rubricMarkup = Array.isArray(grade.rubricScores) && grade.rubricScores.length
+    ? `
+      <article class="essay-result-block">
+        <h3>評分項目</h3>
+        <div class="essay-rubric-list">
+          ${grade.rubricScores.map((item) => `
+            <div class="essay-rubric-row">
+              <span>${escapeHtml(item.label)}</span>
+              <strong>${escapeHtml(item.score)} / ${escapeHtml(item.maxScore)}</strong>
+            </div>
+          `).join("")}
+        </div>
+        <p class="essay-rubric-total">評分項目合計：${escapeHtml(grade.rubricTotal)} / 100</p>
+      </article>
+    `
+    : "";
+    return `
+      <section class="essay-graded-question">
+        <h3>第 ${escapeHtml(question?.questionNo ?? "")} 題</h3>
+        <p class="essay-result-question">${escapeHtml(question?.prompt || "")}</p>
+        <div class="result-score-card">
+          <strong>${escapeHtml(grade.score)} / ${escapeHtml(grade.maxScore)}</strong>
+          <span>${escapeHtml(grade.level)}</span>
+        </div>
+        ${rubricMarkup}
+        <article class="essay-result-block">
+          <h3>作答優點</h3>
+          <ul>${renderList(grade.strengths)}</ul>
+        </article>
+        <article class="essay-result-block">
+          <h3>缺漏重點</h3>
+          <ul>${renderList(grade.missingPoints)}</ul>
+        </article>
+        <article class="essay-result-block">
+          <h3>修正建議</h3>
+          <ul>${renderList(grade.revisionAdvice)}</ul>
+        </article>
+        <article class="essay-result-block">
+          <h3>建議架構</h3>
+          <ul>${renderList(grade.suggestedOutline)}</ul>
+        </article>
+        ${grade.examReminder ? `<p class="muted essay-result-reminder">${escapeHtml(grade.examReminder)}</p>` : ""}
+      </section>
+    `;
+  };
+  const results = Array.isArray(viewModel.results)
+    ? viewModel.results
+    : [{ question: viewModel.question, grade: viewModel.grade }];
   return `
     <section class="panel essay-result-panel">
       <button class="ghost" id="backToEssayPractice" type="button">回申論題練習</button>
       <h2>申論批改結果</h2>
-      <div class="result-score-card">
-        <strong>${escapeHtml(grade.score)} / ${escapeHtml(grade.maxScore)}</strong>
-        <span>${escapeHtml(grade.level)}</span>
-        <small>本日剩餘批改次數：${escapeHtml(viewModel.quota.remainingCount)} / ${escapeHtml(viewModel.quota.totalLimit)}</small>
-      </div>
-      <article class="essay-result-block">
-        <h3>作答優點</h3>
-        <ul>${renderList(grade.strengths)}</ul>
-      </article>
-      <article class="essay-result-block">
-        <h3>缺漏重點</h3>
-        <ul>${renderList(grade.missingPoints)}</ul>
-      </article>
-      <article class="essay-result-block">
-        <h3>修正建議</h3>
-        <ul>${renderList(grade.revisionAdvice)}</ul>
-      </article>
-      <article class="essay-result-block">
-        <h3>建議架構</h3>
-        <ul>${renderList(grade.suggestedOutline)}</ul>
-      </article>
-      <p class="muted essay-result-reminder">${escapeHtml(grade.examReminder)}</p>
+      <p class="essay-result-quota">本日剩餘批改次數：${escapeHtml(viewModel.quota.remainingCount)} / ${escapeHtml(viewModel.quota.totalLimit)}</p>
+      <p class="essay-disclaimer">${escapeHtml(ESSAY_GRADING_DISCLAIMER)}</p>
+      ${results.map(renderGrade).join("")}
     </section>
   `;
 }

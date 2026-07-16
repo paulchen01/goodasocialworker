@@ -43,13 +43,20 @@ import {
   buildEssayEmptyStateMarkup,
   buildEssayResultMarkup,
   buildEssaySelectorMarkup
-} from "./essay-practice-view.mjs?v=20260715-02";
+} from "./essay-practice-view.mjs?v=20260716-02";
+import {
+  buildEssayApiUrl,
+  normalizeEssayApiBase
+} from "./essay-api-client.mjs?v=20260716-02";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260715-01";
 const ESSAY_DRAFTS_KEY = "kaoshangSocialWorkerEssayDrafts";
 const ESSAY_ANSWER_LIMITS = { minChars: 80, maxChars: 5000 };
-const ESSAY_API_HINT = "申論題 API 尚未啟動，請改用本機 `npm run serve:essay`。";
+const ESSAY_API_HINT = "申論題批改服務暫時無法連線，請稍後再試。";
+const ESSAY_API_BASE = normalizeEssayApiBase(
+  document.querySelector('meta[name="essay-api-base"]')?.content
+);
 
 const state = {
   index: null,
@@ -132,15 +139,14 @@ function saveEssayDraft(questionId, answerText) {
 }
 
 function saveCurrentEssayDraftFromScreen() {
-  const answerField = document.querySelector("#essayAnswer");
-  const questionId = state.essayFilters.questionId;
-  if (!answerField || !questionId) return;
-  saveEssayDraft(questionId, answerField.value);
+  document.querySelectorAll(".essay-answer[data-question-id]").forEach((answerField) => {
+    saveEssayDraft(answerField.dataset.questionId, answerField.value);
+  });
 }
 
 async function loadEssayBank(force = false) {
   if (!force && state.essayBank) return state.essayBank;
-  const response = await fetch("/api/essay/questions");
+  const response = await fetch(buildEssayApiUrl("/api/essay/questions", ESSAY_API_BASE));
   if (!response.ok) {
     throw new Error(ESSAY_API_HINT);
   }
@@ -151,7 +157,7 @@ async function loadEssayBank(force = false) {
 
 async function loadEssayQuota(force = false) {
   if (!force && state.essayQuota) return state.essayQuota;
-  const response = await fetch("/api/essay/status");
+  const response = await fetch(buildEssayApiUrl("/api/essay/status", ESSAY_API_BASE));
   if (!response.ok) {
     throw new Error(ESSAY_API_HINT);
   }
@@ -332,21 +338,14 @@ function buildEssayPracticeViewModel(validationMessage = "") {
     yearRoc,
     examSession
   });
-  const questionChoices = filteredQuestions.map((question) => ({
-    value: question.id,
-    label: `第 ${question.questionNo} 題｜${question.points} 分`
-  }));
-  const questionId = filteredQuestions.some((question) => question.id === filters.questionId)
-    ? filters.questionId
-    : (filteredQuestions[0]?.id || "");
-  const currentQuestion = getEssayQuestionById(filteredQuestions, questionId) || null;
+  const currentQuestions = [...filteredQuestions].sort((a, b) => Number(a.questionNo) - Number(b.questionNo));
 
   state.essayFilters = {
     examType,
     subject,
     yearRoc,
     examSession,
-    questionId
+    questionId: ""
   };
 
   return {
@@ -356,17 +355,20 @@ function buildEssayPracticeViewModel(validationMessage = "") {
       subjects: subjectChoices,
       years: yearChoices,
       sessions: sessionChoices,
-      questionChoices
+      questionChoices: []
     },
     filteredQuestions,
-    currentQuestion,
-    draftText: currentQuestion ? (state.essayDrafts[currentQuestion.id] || "") : "",
+    currentQuestions,
+    draftTexts: Object.fromEntries(currentQuestions.map((question) => [
+      question.id,
+      state.essayDrafts[question.id] || ""
+    ])),
     quota: state.essayQuota || {
       mode: "mock",
       remainingCount: 0,
       totalLimit: 0,
       quotaDate: "",
-      quotaResetTimeZone: "America/Los_Angeles"
+      quotaResetTimeZone: "Asia/Taipei"
     },
     validationMessage
   };
@@ -460,15 +462,6 @@ function wireEssayPractice() {
     renderEssayPractice();
   });
 
-  document.querySelector("#essayQuestionId")?.addEventListener("change", (event) => {
-    saveCurrentEssayDraftFromScreen();
-    state.essayFilters = {
-      ...state.essayFilters,
-      questionId: event.target.value
-    };
-    renderEssayPractice();
-  });
-
   document.querySelector("#essaySaveDraft")?.addEventListener("click", () => {
     saveCurrentEssayDraftFromScreen();
     flashEssayDraftSaved();
@@ -480,47 +473,75 @@ function wireEssayPractice() {
 }
 
 async function submitEssayGrade(button) {
-  const currentQuestion = getEssayQuestionById(state.essayBank?.questions || [], state.essayFilters.questionId);
-  const answerText = document.querySelector("#essayAnswer")?.value || "";
+  const currentQuestions = filterEssayQuestions(state.essayBank?.questions || [], state.essayFilters)
+    .sort((a, b) => Number(a.questionNo) - Number(b.questionNo));
+  const answerFields = new Map(
+    [...document.querySelectorAll(".essay-answer[data-question-id]")]
+      .map((field) => [field.dataset.questionId, field.value])
+  );
 
-  if (!currentQuestion) {
-    renderEssayPractice("請先選擇要練習的申論題。");
+  if (!currentQuestions.length) {
+    renderEssayPractice("目前沒有可送出的申論題。");
     return;
   }
 
-  saveEssayDraft(currentQuestion.id, answerText);
-  const validation = validateEssayAnswer(answerText, ESSAY_ANSWER_LIMITS);
-  if (!validation.ok) {
-    renderEssayPractice(getEssayValidationMessage(validation));
+  const submissions = currentQuestions.map((question) => ({
+    questionId: question.id,
+    answerText: answerFields.get(question.id) || ""
+  }));
+  for (let index = 0; index < submissions.length; index += 1) {
+    const submission = submissions[index];
+    saveEssayDraft(submission.questionId, submission.answerText);
+    const validation = validateEssayAnswer(submission.answerText, ESSAY_ANSWER_LIMITS);
+    if (!validation.ok) {
+      renderEssayPractice(`第 ${currentQuestions[index].questionNo} 題：${getEssayValidationMessage(validation)}`);
+      return;
+    }
+  }
+
+  const submissionCount = submissions.length;
+  if ((state.essayQuota?.remainingCount ?? 0) < submissionCount) {
+    if ((state.essayQuota?.remainingCount ?? 0) <= 0) alert("今日額度已滿");
+    else alert("今日剩餘額度不足，無法送出整份考卷。");
+    renderEssayPractice("今日剩餘額度不足，整份考卷未送出，也不會扣除次數。");
+    return;
+  }
+
+  if (!confirm(`確定要送出本份考卷 ${submissionCount} 題作答，並使用 ${submissionCount} 次今日批改額度嗎？`)) {
     return;
   }
 
   if (!beginButtonLoading(button, "批改中")) return;
 
   try {
-    const response = await fetch("/api/essay/grade", {
+    const response = await fetch(buildEssayApiUrl("/api/essay/grade-batch", ESSAY_API_BASE), {
       method: "POST",
       headers: {
         "Content-Type": "application/json; charset=utf-8"
       },
-      body: JSON.stringify({
-        questionId: currentQuestion.id,
-        answerText
-      })
+      body: JSON.stringify({ submissions })
     });
     const payload = await response.json().catch(() => ({}));
 
     if (!response.ok) {
       await loadEssayQuota(true).catch(() => {});
+      if (response.status === 429) {
+        alert("今日額度已滿");
+        renderEssayPractice("今日額度已滿。");
+        return;
+      }
       renderEssayPractice(payload.error || "申論批改失敗，請稍後再試。");
       return;
     }
 
     state.essayQuota = payload.quota || state.essayQuota;
-    state.essayLastGrade = payload.grade || null;
+    state.essayLastGrade = payload.results || null;
+    const results = (payload.results || []).map((result) => ({
+      question: getEssayQuestionById(currentQuestions, result.questionId),
+      grade: result.grade
+    }));
     setScreen(buildEssayResultMarkup({
-      question: currentQuestion,
-      grade: payload.grade,
+      results,
       quota: state.essayQuota
     }));
     document.querySelector("#backToEssayPractice")?.addEventListener("click", () => {
@@ -566,8 +587,8 @@ function renderHome() {
           <span>依國考該科題數出題，有時間限制，考題會以跨年度隨機抽取。</span>
         </button>
         <button class="mode-card essay-mode-card" data-screen="essay">
-          <strong>申論題練習（待開發）</strong>
-          <span>申論題題庫已先整理，AI批改功能待 API 串接完成後開放。</span>
+          <strong>申論題練習（測試中）</strong>
+          <span>申論題題庫已先整理，可練習作答並送出AI批改建議。每日全站共用500次。</span>
         </button>
         <button class="mode-card" data-screen="weak">
           <strong>錯題與弱點</strong>

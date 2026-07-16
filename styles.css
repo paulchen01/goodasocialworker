@@ -929,12 +929,34 @@ select {
   align-items: end;
 }
 
+.essay-batch-summary {
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.55;
+}
+
+.essay-question-list,
+.essay-graded-question {
+  display: grid;
+  gap: 14px;
+}
+
+.essay-question-list {
+  gap: 18px;
+}
+
 .essay-question-card,
 .essay-result-block {
   border: 1px solid rgba(6, 26, 68, 0.12);
   border-radius: 8px;
   padding: 14px;
   background: #fffdfa;
+}
+
+.essay-question-card .essay-answer-block {
+  display: block;
+  margin-top: 14px;
+  font-weight: 700;
 }
 
 .essay-question-meta {
@@ -961,9 +983,34 @@ select {
   resize: vertical;
 }
 
+.essay-graded-question {
+  padding-top: 16px;
+  border-top: 2px solid rgba(6, 26, 68, 0.12);
+}
+
+.essay-graded-question > h3,
+.essay-result-question,
+.essay-result-quota {
+  margin: 0;
+}
+
+.essay-result-question {
+  line-height: 1.7;
+}
+
 .essay-validation {
   color: #b14228;
   font-weight: 600;
+}
+
+.essay-disclaimer {
+  margin: 0;
+  padding: 10px 12px;
+  border-left: 4px solid #71a52b;
+  background: var(--green-soft);
+  color: #31420f;
+  font-size: 15px;
+  line-height: 1.55;
 }
 
 .result-score-card {
@@ -981,6 +1028,37 @@ select {
 
 .essay-result-block ul {
   padding-left: 20px;
+}
+
+.essay-rubric-list {
+  display: grid;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.essay-rubric-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 9px 10px;
+  border-bottom: 1px solid rgba(6, 26, 68, 0.1);
+}
+
+.essay-rubric-row span {
+  min-width: 0;
+  line-height: 1.45;
+}
+
+.essay-rubric-row strong {
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+.essay-rubric-total {
+  margin: 12px 0 0;
+  text-align: right;
+  font-weight: 800;
 }
 
 .app-footer {
