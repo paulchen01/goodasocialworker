@@ -1,4 +1,4 @@
-import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260717-03";
+import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260717-05";
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -11,7 +11,7 @@ function escapeHtml(value) {
 
 function buildQuotaResetNote(quota) {
   if (quota?.quotaResetTimeZone === "Asia/Taipei") {
-    return `每日限額 ${quota?.totalLimit ?? 500} 次，全站共用；送出後先保留題數，永久失敗會退回，台灣時間午夜重置。`;
+    return `每日限額 ${quota?.totalLimit ?? 500} 份考卷，全站共用；每次送出只使用 1 次額度，永久失敗會退回，台灣時間午夜重置。`;
   }
   return "每日次數會在配額重置時段自動歸零。";
 }
@@ -85,19 +85,19 @@ export function buildEssaySelectorMarkup(viewModel) {
     ? viewModel.currentQuestions
     : (viewModel.currentQuestion ? [viewModel.currentQuestion] : []);
   const questionCount = currentQuestions.length;
-  const hasEnoughQuota = viewModel.quota.remainingCount >= questionCount;
+  const hasEnoughQuota = viewModel.quota.remainingCount >= 1;
   const disabled = !questionCount || !hasEnoughQuota ? "disabled" : "";
   const validation = viewModel.validationMessage ? `<p class="essay-validation">${escapeHtml(viewModel.validationMessage)}</p>` : "";
   const quotaResetNote = buildQuotaResetNote(viewModel.quota);
   const submitLabel = viewModel.quota.remainingCount <= 0
     ? "今日額度已滿"
-    : (!hasEnoughQuota ? "剩餘額度不足" : `送出 ${questionCount} 題批改`);
+    : `送出 ${questionCount} 題批改`;
 
   return `
     <section class="panel essay-panel">
       <button class="ghost" data-screen="home">回首頁</button>
       <h2>申論題練習</h2>
-      <p class="muted essay-intro">一次完成同份考卷的全部申論題；每題會使用 1 次全站批改額度。</p>
+      <p class="muted essay-intro">一次完成同份考卷的全部申論題；整份考卷合併為 1 次AI批改，每次送出只使用 1 次全站額度。</p>
       <div class="status-strip essay-status-strip">
         <div class="stat"><strong>${escapeHtml(viewModel.quota.mode)}</strong><span>批改模式</span></div>
         <div class="stat"><strong>${escapeHtml(viewModel.quota.remainingCount)}</strong><span>本日剩餘</span></div>
@@ -137,6 +137,17 @@ export function buildEssaySelectorMarkup(viewModel) {
 export function buildEssayResultMarkup(viewModel) {
   const renderList = (items) => items.map((item) => `<li>${escapeHtml(item)}</li>`).join("");
   const renderGrade = ({ question, grade }) => {
+    const reminder = String(grade.examReminder || "").trim();
+    const reminderWithoutStatus = reminder
+      .replace(/^尚未查證\s*[：:、，。-]?\s*/u, "")
+      .trim();
+    const reminderTitle = reminder.includes("尚未查證") ? "本題待確認項目" : "考試提醒";
+    const reminderMarkup = reminderWithoutStatus
+      ? `<article class="essay-result-block essay-result-reminder">
+          <h3>${escapeHtml(reminderTitle)}</h3>
+          <p>${escapeHtml(reminderWithoutStatus)}</p>
+        </article>`
+      : "";
     const rubricMarkup = Array.isArray(grade.rubricScores) && grade.rubricScores.length
     ? `
       <article class="essay-result-block">
@@ -178,7 +189,7 @@ export function buildEssayResultMarkup(viewModel) {
           <h3>建議架構</h3>
           <ul>${renderList(grade.suggestedOutline)}</ul>
         </article>
-        ${grade.examReminder ? `<p class="muted essay-result-reminder">${escapeHtml(grade.examReminder)}</p>` : ""}
+        ${reminderMarkup}
       </section>
     `;
   };
@@ -189,8 +200,12 @@ export function buildEssayResultMarkup(viewModel) {
     <section class="panel essay-result-panel">
       <button class="ghost" id="backToEssayPractice" type="button">回申論題練習</button>
       <h2>申論批改結果</h2>
-      <p class="essay-result-quota">本日剩餘批改次數：${escapeHtml(viewModel.quota.remainingCount)} / ${escapeHtml(viewModel.quota.totalLimit)}</p>
+      <p class="essay-result-quota">本日剩餘考卷批改次數：${escapeHtml(viewModel.quota.remainingCount)} / ${escapeHtml(viewModel.quota.totalLimit)}</p>
       <p class="essay-disclaimer">${escapeHtml(ESSAY_GRADING_DISCLAIMER)}</p>
+      <aside class="essay-verification-notice" aria-label="資料查證狀態">
+        <strong>資料查證狀態：尚未逐條查證</strong>
+        <p>目前AI批改沒有即時連線核對每一項法規、政策、統計或理論出處。批改內容可作為答題練習與修正方向；涉及具體法規、數字或來源時，請再以政府官方、學術機構或專業組織資料確認。</p>
+      </aside>
       ${results.map(renderGrade).join("")}
     </section>
   `;

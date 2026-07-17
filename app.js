@@ -44,7 +44,7 @@ import {
   buildEssayQueueMarkup,
   buildEssayResultMarkup,
   buildEssaySelectorMarkup
-} from "./essay-practice-view.mjs?v=20260717-04";
+} from "./essay-practice-view.mjs?v=20260717-05";
 import {
   buildEssayApiUrl,
   formatEssayQueueCountdown,
@@ -52,13 +52,13 @@ import {
   getEssayJobStatusLabel,
   parseStoredEssayJob,
   resolveEssayApiBase
-} from "./essay-api-client.mjs?v=20260717-04";
+} from "./essay-api-client.mjs?v=20260717-05";
 import {
   MAX_WEAK_BACKUP_BYTES,
   createWeakRecordBackup,
   parseWeakRecordBackup,
   restoreWeakRecords
-} from "./weak-record-backup.mjs?v=20260717-04";
+} from "./weak-record-backup.mjs?v=20260717-05";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260715-01";
@@ -658,14 +658,13 @@ async function submitEssayGrade(button) {
   }
 
   const submissionCount = submissions.length;
-  if ((state.essayQuota?.remainingCount ?? 0) < submissionCount) {
-    if ((state.essayQuota?.remainingCount ?? 0) <= 0) alert("今日額度已滿");
-    else alert("今日剩餘額度不足，無法送出整份考卷。");
-    renderEssayPractice("今日剩餘額度不足，整份考卷未送出，也不會扣除次數。");
+  if ((state.essayQuota?.remainingCount ?? 0) <= 0) {
+    alert("今日額度已滿");
+    renderEssayPractice("今日額度已滿，整份考卷未送出，也不會扣除次數。");
     return;
   }
 
-  if (!confirm(`確定要送出本份考卷 ${submissionCount} 題作答，並使用 ${submissionCount} 次今日批改額度嗎？`)) {
+  if (!confirm(`確定送出本份考卷嗎？${submissionCount} 題作答會合併為 1 次AI批改，並使用 1 次今日全站額度。`)) {
     return;
   }
 
@@ -737,7 +736,7 @@ function renderHome() {
         </button>
         <button class="mode-card essay-mode-card" data-screen="essay">
           <strong>申論題練習（測試中）</strong>
-          <span>申論題題庫已先整理，可練習作答並送出AI批改建議。每日全站共用500次。</span>
+          <span>申論題題庫已先整理，可練習作答並送出AI批改建議。每日全站共用500份考卷批改額度。</span>
         </button>
         <button class="mode-card" data-screen="weak">
           <strong>錯題與弱點</strong>
