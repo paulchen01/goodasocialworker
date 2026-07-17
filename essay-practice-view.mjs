@@ -10,8 +10,8 @@ function escapeHtml(value) {
 }
 
 function buildQuotaResetNote(quota) {
-  if (quota?.quotaResetTimeZone === "Asia/Taipei") {
-    return `每日限額 ${quota?.totalLimit ?? 500} 份考卷，全站共用；每次送出只使用 1 次額度，永久失敗會退回。全站額度於台灣時間午夜重置；Google免費模型的RPD依美國太平洋時間午夜重置。`;
+  if (quota?.quotaResetTimeZone === "America/Los_Angeles") {
+    return `每日限額 ${quota?.totalLimit ?? 500} 份考卷，全站共用；每次送出只使用 1 次額度，永久失敗會退回。全站額度於美國太平洋時間午夜重置。`;
   }
   return "每日次數會在配額重置時段自動歸零。";
 }

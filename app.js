@@ -45,7 +45,7 @@ import {
   buildEssayResultMarkup,
   buildEssaySelectorMarkup,
   clearEssayAnswerDraft
-} from "./essay-practice-view.mjs?v=20260717-07";
+} from "./essay-practice-view.mjs?v=20260717-08";
 import {
   buildEssayApiUrl,
   formatEssayQueueCountdown,
@@ -417,7 +417,7 @@ function buildEssayPracticeViewModel(validationMessage = "") {
       remainingCount: 0,
       totalLimit: 0,
       quotaDate: "",
-      quotaResetTimeZone: "Asia/Taipei"
+      quotaResetTimeZone: "America/Los_Angeles"
     },
     validationMessage
   };
