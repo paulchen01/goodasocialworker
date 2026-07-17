@@ -1068,6 +1068,22 @@ select {
   resize: vertical;
 }
 
+.essay-clear-answer {
+  width: 100%;
+  min-height: 44px;
+  margin-top: 10px;
+  background: #f2f3f5;
+  color: #4b5565;
+  border-color: #c8ced8;
+  box-shadow: 0 3px 8px rgba(6, 26, 68, 0.1);
+}
+
+.essay-clear-answer:disabled {
+  opacity: 0.52;
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
 .essay-graded-question {
   padding-top: 16px;
   border-top: 2px solid rgba(6, 26, 68, 0.12);

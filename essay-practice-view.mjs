@@ -25,6 +25,25 @@ function renderOptions(options, selectedValue) {
   }).join("");
 }
 
+export function clearEssayAnswerDraft({
+  answerField,
+  questionId,
+  questionNo,
+  confirmFn,
+  saveDraft
+}) {
+  if (!answerField || !questionId || typeof confirmFn !== "function" || typeof saveDraft !== "function") {
+    return false;
+  }
+  if (!String(answerField.value ?? "").trim()) return false;
+  if (!confirmFn(`確定清空第 ${questionNo} 題作答嗎？清空後無法復原。`)) return false;
+
+  answerField.value = "";
+  saveDraft(questionId, "");
+  answerField.focus?.();
+  return true;
+}
+
 export function buildEssayQueueMarkup(viewModel) {
   const job = viewModel.job || {};
   const isFailed = job.status === "failed";
@@ -114,15 +133,20 @@ export function buildEssaySelectorMarkup(viewModel) {
       ${questionCount ? `
         <p class="essay-batch-summary">本份考卷共 ${escapeHtml(questionCount)} 題申論題，請全部完成後再一次送出。</p>
         <div class="essay-question-list">
-          ${currentQuestions.map((question) => `
-            <article class="essay-question-card" data-essay-question-id="${escapeHtml(question.id)}">
-              <div class="essay-question-meta">第 ${escapeHtml(question.questionNo)} 題｜${escapeHtml(question.points)} 分</div>
-              <p class="essay-question-prompt">${escapeHtml(question.prompt)}</p>
-              <label class="essay-answer-block">第 ${escapeHtml(question.questionNo)} 題作答
-                <textarea class="essay-answer" data-question-id="${escapeHtml(question.id)}" rows="12" placeholder="請直接在這裡練習本題作答。">${escapeHtml(viewModel.draftTexts?.[question.id] ?? viewModel.draftText ?? "")}</textarea>
-              </label>
-            </article>
-          `).join("")}
+          ${currentQuestions.map((question) => {
+            const draftText = viewModel.draftTexts?.[question.id] ?? viewModel.draftText ?? "";
+            const clearDisabled = String(draftText).trim() ? "" : "disabled";
+            return `
+              <article class="essay-question-card" data-essay-question-id="${escapeHtml(question.id)}">
+                <div class="essay-question-meta">第 ${escapeHtml(question.questionNo)} 題｜${escapeHtml(question.points)} 分</div>
+                <p class="essay-question-prompt">${escapeHtml(question.prompt)}</p>
+                <label class="essay-answer-block">第 ${escapeHtml(question.questionNo)} 題作答
+                  <textarea class="essay-answer" data-question-id="${escapeHtml(question.id)}" rows="12" placeholder="請直接在這裡練習本題作答。">${escapeHtml(draftText)}</textarea>
+                </label>
+                <button class="ghost essay-clear-answer" type="button" data-question-id="${escapeHtml(question.id)}" data-question-no="${escapeHtml(question.questionNo)}" ${clearDisabled}>清空這題作答</button>
+              </article>
+            `;
+          }).join("")}
         </div>
       ` : '<div class="empty">目前沒有符合條件的申論題。</div>'}
       ${validation}

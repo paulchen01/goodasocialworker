@@ -43,8 +43,9 @@ import {
   buildEssayEmptyStateMarkup,
   buildEssayQueueMarkup,
   buildEssayResultMarkup,
-  buildEssaySelectorMarkup
-} from "./essay-practice-view.mjs?v=20260717-05";
+  buildEssaySelectorMarkup,
+  clearEssayAnswerDraft
+} from "./essay-practice-view.mjs?v=20260717-06";
 import {
   buildEssayApiUrl,
   formatEssayQueueCountdown,
@@ -618,6 +619,29 @@ function wireEssayPractice() {
       questionId: ""
     };
     renderEssayPractice();
+  });
+
+  document.querySelectorAll(".essay-clear-answer[data-question-id]").forEach((clearButton) => {
+    const questionCard = clearButton.closest(".essay-question-card");
+    const answerField = questionCard?.querySelector(".essay-answer[data-question-id]");
+    if (!answerField) return;
+
+    const syncClearButtonState = () => {
+      clearButton.disabled = !String(answerField.value ?? "").trim();
+    };
+
+    answerField.addEventListener("input", syncClearButtonState);
+    clearButton.addEventListener("click", () => {
+      const cleared = clearEssayAnswerDraft({
+        answerField,
+        questionId: clearButton.dataset.questionId,
+        questionNo: clearButton.dataset.questionNo,
+        confirmFn: confirm,
+        saveDraft: saveEssayDraft
+      });
+      if (cleared) syncClearButtonState();
+    });
+    syncClearButtonState();
   });
 
   document.querySelector("#essaySaveDraft")?.addEventListener("click", () => {
