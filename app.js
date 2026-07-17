@@ -759,7 +759,7 @@ function renderHome() {
           <span>依國考該科題數出題，有時間限制，考題會以跨年度隨機抽取。</span>
         </button>
         <button class="mode-card essay-mode-card" data-screen="essay">
-          <strong>申論題練習（測試中）</strong>
+          <strong>申論題練習</strong>
           <span>申論題題庫已先整理，可練習作答並送出AI批改建議。每日全站共用500份考卷批改額度。</span>
         </button>
         <button class="mode-card" data-screen="weak">
