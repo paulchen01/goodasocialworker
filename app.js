@@ -41,19 +41,23 @@ import {
 } from "./essay-practice-core.mjs?v=20260707-03";
 import {
   buildEssayEmptyStateMarkup,
+  buildEssayQueueMarkup,
   buildEssayResultMarkup,
   buildEssaySelectorMarkup
-} from "./essay-practice-view.mjs?v=20260716-04";
+} from "./essay-practice-view.mjs?v=20260717-02";
 import {
   buildEssayApiUrl,
-  formatEssayRetryCountdown,
-  getEssayRetryNotice,
+  formatEssayJobEstimate,
+  getEssayJobStatusLabel,
+  parseStoredEssayJob,
   resolveEssayApiBase
-} from "./essay-api-client.mjs?v=20260717-01";
+} from "./essay-api-client.mjs?v=20260717-02";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260715-01";
 const ESSAY_DRAFTS_KEY = "kaoshangSocialWorkerEssayDrafts";
+const ESSAY_PENDING_JOB_KEY = "kaoshangSocialWorkerEssayPendingJob";
+const ESSAY_JOB_POLL_INTERVAL_MS = 3000;
 const ESSAY_ANSWER_LIMITS = { minChars: 80, maxChars: 5000 };
 const ESSAY_API_HINT = "申論題批改服務暫時無法連線，請稍後再試。";
 const ESSAY_API_BASE = resolveEssayApiBase(
@@ -80,7 +84,9 @@ const state = {
   essayQuota: null,
   essayFilters: { examType: "", subject: "", yearRoc: "", examSession: "", questionId: "" },
   essayDrafts: loadEssayDrafts(),
-  essayLastGrade: null
+  essayLastGrade: null,
+  essayPendingJob: loadEssayPendingJob(),
+  essayJobPollId: null
 };
 
 function loadWeakState() {
@@ -128,6 +134,29 @@ function loadEssayDrafts() {
 
 function saveEssayDrafts() {
   localStorage.setItem(ESSAY_DRAFTS_KEY, JSON.stringify(state.essayDrafts));
+}
+
+function loadEssayPendingJob() {
+  const stored = parseStoredEssayJob(localStorage.getItem(ESSAY_PENDING_JOB_KEY));
+  if (!stored) localStorage.removeItem(ESSAY_PENDING_JOB_KEY);
+  return stored;
+}
+
+function saveEssayPendingJob(jobId) {
+  const pendingJob = { jobId, createdAt: Date.now() };
+  state.essayPendingJob = pendingJob;
+  localStorage.setItem(ESSAY_PENDING_JOB_KEY, JSON.stringify(pendingJob));
+}
+
+function clearEssayPendingJob() {
+  state.essayPendingJob = null;
+  localStorage.removeItem(ESSAY_PENDING_JOB_KEY);
+}
+
+function stopEssayJobPolling() {
+  if (!state.essayJobPollId) return;
+  window.clearInterval(state.essayJobPollId);
+  state.essayJobPollId = null;
 }
 
 function saveEssayDraft(questionId, answerText) {
@@ -377,6 +406,100 @@ function buildEssayPracticeViewModel(validationMessage = "") {
   };
 }
 
+function renderEssayCompletedJob(job) {
+  stopEssayJobPolling();
+  clearEssayPendingJob();
+  state.essayQuota = job.quota || state.essayQuota;
+  state.essayLastGrade = job.results || null;
+  const questions = state.essayBank?.questions || [];
+  const results = (job.results || []).map((result) => ({
+    question: getEssayQuestionById(questions, result.questionId),
+    grade: result.grade
+  }));
+  setScreen(buildEssayResultMarkup({
+    results,
+    quota: state.essayQuota
+  }));
+  document.querySelector("#backToEssayPractice")?.addEventListener("click", () => {
+    renderEssayPractice();
+  });
+}
+
+function renderEssayJobStatus(job) {
+  if (job.quota) state.essayQuota = job.quota;
+  if (job.status === "completed") {
+    renderEssayCompletedJob(job);
+    return;
+  }
+
+  if (job.status === "failed") {
+    stopEssayJobPolling();
+    clearEssayPendingJob();
+  }
+  setScreen(buildEssayQueueMarkup({
+    job,
+    statusLabel: getEssayJobStatusLabel(job.status),
+    estimateText: formatEssayJobEstimate(job)
+  }));
+
+  document.querySelector("#essayQueueRefresh")?.addEventListener("click", () => {
+    if (state.essayPendingJob?.jobId) pollEssayJob(state.essayPendingJob.jobId);
+  });
+  document.querySelector("#backToEssayPractice")?.addEventListener("click", () => {
+    renderEssayPractice();
+  });
+  if (["queued", "processing"].includes(job.status)) {
+    startEssayJobPolling(job.jobId);
+  }
+}
+
+async function fetchEssayJob(jobId) {
+  const response = await fetch(buildEssayApiUrl(`/api/essay/jobs/${encodeURIComponent(jobId)}`, ESSAY_API_BASE));
+  const payload = await response.json().catch(() => ({}));
+  return { response, payload };
+}
+
+async function pollEssayJob(jobId) {
+  try {
+    const { response, payload } = await fetchEssayJob(jobId);
+    if (response.status === 404) {
+      stopEssayJobPolling();
+      clearEssayPendingJob();
+      await renderEssayPractice("先前的批改進度已到期，作答草稿仍保留，可以重新送出。");
+      return false;
+    }
+    if (!response.ok || !payload.job) throw new Error(payload.error || ESSAY_API_HINT);
+    state.essayQuota = payload.quota || payload.job.quota || state.essayQuota;
+    renderEssayJobStatus(payload.job);
+    return true;
+  } catch {
+    const statusNode = document.querySelector(".essay-queue-status");
+    if (statusNode) statusNode.textContent = "暫時無法更新，系統會繼續重試";
+    return true;
+  }
+}
+
+function startEssayJobPolling(jobId) {
+  stopEssayJobPolling();
+  state.essayJobPollId = window.setInterval(() => {
+    pollEssayJob(jobId);
+  }, ESSAY_JOB_POLL_INTERVAL_MS);
+}
+
+async function resumeEssayPendingJob() {
+  const jobId = state.essayPendingJob?.jobId;
+  if (!jobId) return false;
+  const { response, payload } = await fetchEssayJob(jobId);
+  if (response.status === 404) {
+    clearEssayPendingJob();
+    return false;
+  }
+  if (!response.ok || !payload.job) throw new Error(payload.error || ESSAY_API_HINT);
+  state.essayQuota = payload.quota || payload.job.quota || state.essayQuota;
+  renderEssayJobStatus(payload.job);
+  return true;
+}
+
 async function renderEssayPractice(validationMessage = "") {
   setScreen(html`
     <section class="panel essay-panel">
@@ -399,6 +522,7 @@ async function renderEssayPractice(validationMessage = "") {
 
     state.essayBank = bank;
     state.essayQuota = quota;
+    if (await resumeEssayPendingJob()) return;
     const viewModel = buildEssayPracticeViewModel(validationMessage);
     setScreen(buildEssaySelectorMarkup(viewModel));
     wireEssayPractice();
@@ -475,61 +599,6 @@ function wireEssayPractice() {
   });
 }
 
-function showEssayRetryCountdown(notice, onRetry) {
-  document.querySelector("#essayRetryOverlay")?.remove();
-  const overlay = document.createElement("div");
-  overlay.id = "essayRetryOverlay";
-  overlay.className = "essay-retry-overlay";
-  overlay.innerHTML = `
-    <section class="essay-retry-dialog" role="dialog" aria-modal="true" aria-labelledby="essayRetryTitle">
-      <h2 id="essayRetryTitle">目前批改人數較多</h2>
-      <p class="essay-retry-message"></p>
-      <div class="essay-retry-countdown" aria-live="polite"></div>
-      <p class="muted">你的作答草稿仍會保留，本次也不扣除今日額度。</p>
-      <div class="toolbar essay-retry-actions">
-        <button class="secondary" id="essayRetryClose" type="button">先關閉</button>
-        <button class="primary" id="essayRetrySubmit" type="button" disabled>重新送出</button>
-      </div>
-    </section>
-  `;
-  overlay.querySelector(".essay-retry-message").textContent = notice.message;
-  document.body.append(overlay);
-
-  const countdown = overlay.querySelector(".essay-retry-countdown");
-  const retryButton = overlay.querySelector("#essayRetrySubmit");
-  const closeButton = overlay.querySelector("#essayRetryClose");
-  let remainingSeconds = notice.retryAfterSeconds;
-  let timerId = null;
-
-  const close = () => {
-    if (timerId) window.clearInterval(timerId);
-    overlay.remove();
-  };
-  const update = () => {
-    countdown.textContent = formatEssayRetryCountdown(remainingSeconds);
-    if (remainingSeconds <= 0) {
-      retryButton.disabled = false;
-      retryButton.focus();
-      if (timerId) window.clearInterval(timerId);
-      timerId = null;
-      return;
-    }
-    remainingSeconds -= 1;
-  };
-
-  closeButton.addEventListener("click", close);
-  retryButton.addEventListener("click", () => {
-    close();
-    onRetry();
-  });
-  overlay.addEventListener("click", (event) => {
-    if (event.target === overlay) close();
-  });
-  update();
-  timerId = window.setInterval(update, 1000);
-  closeButton.focus();
-}
-
 async function submitEssayGrade(button) {
   const currentQuestions = filterEssayQuestions(state.essayBank?.questions || [], state.essayFilters)
     .sort((a, b) => Number(a.questionNo) - Number(b.questionNo));
@@ -569,10 +638,10 @@ async function submitEssayGrade(button) {
     return;
   }
 
-  if (!beginButtonLoading(button, "批改中")) return;
+  if (!beginButtonLoading(button, "加入隊伍中")) return;
 
   try {
-    const response = await fetch(buildEssayApiUrl("/api/essay/grade-batch", ESSAY_API_BASE), {
+    const response = await fetch(buildEssayApiUrl("/api/essay/jobs", ESSAY_API_BASE), {
       method: "POST",
       headers: {
         "Content-Type": "application/json; charset=utf-8"
@@ -583,14 +652,6 @@ async function submitEssayGrade(button) {
 
     if (!response.ok) {
       if (payload.quota) state.essayQuota = payload.quota;
-      const retryNotice = getEssayRetryNotice(response.status, payload);
-      if (retryNotice) {
-        showEssayRetryCountdown(retryNotice, () => {
-          const currentSubmitButton = document.querySelector("#essaySubmit");
-          if (currentSubmitButton) submitEssayGrade(currentSubmitButton);
-        });
-        return;
-      }
       await loadEssayQuota(true).catch(() => {});
       if (response.status === 429) {
         alert("今日額度已滿");
@@ -602,18 +663,8 @@ async function submitEssayGrade(button) {
     }
 
     state.essayQuota = payload.quota || state.essayQuota;
-    state.essayLastGrade = payload.results || null;
-    const results = (payload.results || []).map((result) => ({
-      question: getEssayQuestionById(currentQuestions, result.questionId),
-      grade: result.grade
-    }));
-    setScreen(buildEssayResultMarkup({
-      results,
-      quota: state.essayQuota
-    }));
-    document.querySelector("#backToEssayPractice")?.addEventListener("click", () => {
-      renderEssayPractice();
-    });
+    saveEssayPendingJob(payload.jobId);
+    renderEssayJobStatus(payload.job);
   } catch (error) {
     renderEssayPractice(`申論批改失敗：${error.message}`);
   } finally {
@@ -1459,6 +1510,7 @@ document.addEventListener("click", (event) => {
   const screen = target.dataset.screen;
   trackUsageEvent(screen);
   if (screen === "home") {
+    stopEssayJobPolling();
     saveCurrentEssayDraftFromScreen();
     syncMockCountdown();
     persistCurrentProgress();

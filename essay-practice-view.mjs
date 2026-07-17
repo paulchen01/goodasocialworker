@@ -1,4 +1,4 @@
-import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260716-04";
+import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260717-02";
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -11,7 +11,7 @@ function escapeHtml(value) {
 
 function buildQuotaResetNote(quota) {
   if (quota?.quotaResetTimeZone === "Asia/Taipei") {
-    return `每日限額 ${quota?.totalLimit ?? 500} 次，全站共用；每次送出批改會即時扣除，台灣時間午夜重置。`;
+    return `每日限額 ${quota?.totalLimit ?? 500} 次，全站共用；送出後先保留題數，永久失敗會退回，台灣時間午夜重置。`;
   }
   return "每日次數會在配額重置時段自動歸零。";
 }
@@ -23,6 +23,47 @@ function renderOptions(options, selectedValue) {
     const selected = String(value) === String(selectedValue) ? "selected" : "";
     return `<option value="${escapeHtml(value)}" ${selected}>${escapeHtml(label)}</option>`;
   }).join("");
+}
+
+export function buildEssayQueueMarkup(viewModel) {
+  const job = viewModel.job || {};
+  const isFailed = job.status === "failed";
+  const isProcessing = job.status === "processing";
+  const title = isFailed ? "這次批改沒有完成" : (isProcessing ? "AI正在批改" : "已進入批改隊伍");
+  const position = job.status === "queued" && job.queuePosition
+    ? `<strong>目前第 ${escapeHtml(job.queuePosition)} 位</strong>`
+    : "";
+  const retryNote = job.status === "queued" && Number(job.attempts) > 0
+    ? `<p class="muted essay-queue-retry">系統已自動等待後重試 ${escapeHtml(job.attempts)} 次，不需要重新送出。</p>`
+    : "";
+  const failedMessage = isFailed
+    ? `<p class="essay-queue-error">${escapeHtml(job.error || "AI批改暫時失敗，本次額度已退回。")}</p>
+       <p class="muted">你的作答草稿仍保留在這台裝置，可以稍後再回來送出。</p>`
+    : "";
+
+  return `
+    <section class="panel essay-queue-panel" aria-live="polite">
+      <button class="ghost" data-screen="home">回首頁</button>
+      <div class="essay-queue-heading">
+        <span class="essay-queue-status">${escapeHtml(viewModel.statusLabel)}</span>
+        <h2>${escapeHtml(title)}</h2>
+      </div>
+      ${isFailed ? failedMessage : `
+        <div class="essay-queue-progress">
+          ${position}
+          <span>${escapeHtml(viewModel.estimateText)}</span>
+          <small>本份考卷共 ${escapeHtml(job.submissionCount || 0)} 題</small>
+        </div>
+        ${retryNote}
+        <p class="muted essay-queue-leave-note">可以先離開，後端會繼續處理；回來申論題頁後仍能接續查看。</p>
+      `}
+      <div class="toolbar essay-queue-actions">
+        ${isFailed
+          ? '<button class="primary" id="backToEssayPractice" type="button">回申論題練習</button>'
+          : '<button class="secondary" id="essayQueueRefresh" type="button">更新進度</button>'}
+      </div>
+    </section>
+  `;
 }
 
 export function buildEssayEmptyStateMarkup(message) {

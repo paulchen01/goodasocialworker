@@ -1070,6 +1070,76 @@ select {
   cursor: not-allowed;
 }
 
+.essay-queue-panel {
+  display: grid;
+  gap: 18px;
+}
+
+.essay-queue-heading {
+  display: grid;
+  gap: 8px;
+}
+
+.essay-queue-heading h2 {
+  margin: 0;
+}
+
+.essay-queue-status {
+  justify-self: start;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: var(--green-soft);
+  color: var(--navy);
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.essay-queue-progress {
+  display: grid;
+  gap: 7px;
+  padding: 16px 14px;
+  border-left: 5px solid var(--green);
+  background: var(--green-soft);
+  line-height: 1.55;
+}
+
+.essay-queue-progress strong {
+  font-size: 26px;
+}
+
+.essay-queue-progress span {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.essay-queue-progress small {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.essay-queue-retry,
+.essay-queue-leave-note,
+.essay-queue-error {
+  margin: 0;
+  line-height: 1.65;
+}
+
+.essay-queue-error {
+  padding: 14px;
+  border-left: 5px solid var(--danger);
+  background: #fff0f2;
+  color: #8f2f3f;
+  font-weight: 700;
+}
+
+.essay-queue-actions {
+  grid-template-columns: 1fr;
+}
+
+.essay-queue-actions button {
+  min-height: 48px;
+}
+
 .result-score-card {
   display: grid;
   gap: 6px;
