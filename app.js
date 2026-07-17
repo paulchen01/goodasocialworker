@@ -45,7 +45,7 @@ import {
   buildEssayResultMarkup,
   buildEssaySelectorMarkup,
   clearEssayAnswerDraft
-} from "./essay-practice-view.mjs?v=20260717-08";
+} from "./essay-practice-view.mjs?v=20260717-09";
 import {
   buildEssayApiUrl,
   formatEssayQueueCountdown,

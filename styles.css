@@ -1006,11 +1006,96 @@ select {
   gap: 14px;
 }
 
-.essay-status-strip {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+.essay-panel {
+  gap: 12px;
+}
+
+.essay-page-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.essay-page-heading h2 {
+  margin-bottom: 5px;
+}
+
+.essay-intro {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.essay-mode-pill {
+  flex: 0 0 auto;
+  max-width: 106px;
+  padding: 6px 9px;
+  border-radius: 999px;
+  background: var(--green-soft);
+  color: var(--navy);
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.essay-quota-card {
+  display: grid;
+  gap: 7px;
+  padding: 10px 12px;
+  border-left: 4px solid #71a52b;
+  border-radius: 8px;
+  background: #f5fbe9;
+}
+
+.essay-quota-main {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  color: var(--navy);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.essay-quota-main strong {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.essay-quota-progress {
+  width: 100%;
+  height: 8px;
+  overflow: hidden;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(6, 26, 68, 0.12);
+}
+
+.essay-quota-progress::-webkit-progress-bar {
+  border-radius: 999px;
+  background: rgba(6, 26, 68, 0.12);
+}
+
+.essay-quota-progress::-webkit-progress-value {
+  border-radius: 999px;
+  background: #71a52b;
+}
+
+.essay-quota-progress::-moz-progress-bar {
+  border-radius: 999px;
+  background: #71a52b;
+}
+
+.essay-quota-note {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.45;
 }
 
 .essay-form-grid {
+  margin-top: 2px;
   align-items: end;
 }
 
@@ -1106,12 +1191,12 @@ select {
 
 .essay-disclaimer {
   margin: 0;
-  padding: 10px 12px;
+  padding: 9px 11px;
   border-left: 4px solid #71a52b;
   background: var(--green-soft);
   color: #31420f;
-  font-size: 15px;
-  line-height: 1.55;
+  font-size: 14px;
+  line-height: 1.45;
 }
 
 .essay-verification-notice {

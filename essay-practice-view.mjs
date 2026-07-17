@@ -16,6 +16,18 @@ function buildQuotaResetNote(quota) {
   return "每日次數會在配額重置時段自動歸零。";
 }
 
+function buildCompactQuotaResetNote(quota) {
+  if (quota?.quotaResetTimeZone === "America/Los_Angeles") {
+    return "全站共用；永久失敗會退回；美國太平洋時間午夜重置。";
+  }
+  return "全站共用；永久失敗會退回；重置時間依伺服器設定為準。";
+}
+
+function normalizeQuotaNumber(value, fallback = 0) {
+  const number = Number(value);
+  return Number.isFinite(number) ? Math.max(0, number) : fallback;
+}
+
 function renderOptions(options, selectedValue) {
   return options.map((option) => {
     const value = option.value ?? option.id ?? option;
@@ -107,7 +119,9 @@ export function buildEssaySelectorMarkup(viewModel) {
   const hasEnoughQuota = viewModel.quota.remainingCount >= 1;
   const disabled = !questionCount || !hasEnoughQuota ? "disabled" : "";
   const validation = viewModel.validationMessage ? `<p class="essay-validation">${escapeHtml(viewModel.validationMessage)}</p>` : "";
-  const quotaResetNote = buildQuotaResetNote(viewModel.quota);
+  const quotaResetNote = buildCompactQuotaResetNote(viewModel.quota);
+  const quotaTotal = Math.max(1, normalizeQuotaNumber(viewModel.quota.totalLimit, 500));
+  const quotaRemaining = Math.min(quotaTotal, normalizeQuotaNumber(viewModel.quota.remainingCount, 0));
   const submitLabel = viewModel.quota.remainingCount <= 0
     ? "今日額度已滿"
     : `送出 ${questionCount} 題批改`;
@@ -115,14 +129,21 @@ export function buildEssaySelectorMarkup(viewModel) {
   return `
     <section class="panel essay-panel">
       <button class="ghost" data-screen="home">回首頁</button>
-      <h2>申論題練習</h2>
-      <p class="muted essay-intro">一次完成同份考卷的全部申論題；整份考卷合併為 1 次AI批改，每次送出只使用 1 次全站額度。</p>
-      <div class="status-strip essay-status-strip">
-        <div class="stat"><strong>${escapeHtml(viewModel.quota.mode)}</strong><span>批改模式</span></div>
-        <div class="stat"><strong>${escapeHtml(viewModel.quota.remainingCount)}</strong><span>本日剩餘</span></div>
-        <div class="stat"><strong>${escapeHtml(viewModel.quota.totalLimit)}</strong><span>每日上限</span></div>
+      <div class="essay-page-heading">
+        <div>
+          <h2>申論題練習</h2>
+          <p class="muted essay-intro">選一份考卷，一次寫完該份考卷的全部申論題，再送 AI 批改。</p>
+        </div>
+        <span class="essay-mode-pill">${escapeHtml(viewModel.quota.mode)}</span>
       </div>
-      <p class="muted essay-quota-note">${escapeHtml(quotaResetNote)}</p>
+      <section class="essay-quota-card" aria-label="AI批改額度">
+        <div class="essay-quota-main">
+          <span>今日剩餘</span>
+          <strong>${escapeHtml(quotaRemaining)} / ${escapeHtml(quotaTotal)}</strong>
+        </div>
+        <progress class="essay-quota-progress" value="${escapeHtml(quotaRemaining)}" max="${escapeHtml(quotaTotal)}">${escapeHtml(quotaRemaining)} / ${escapeHtml(quotaTotal)}</progress>
+        <p class="muted essay-quota-note">${escapeHtml(quotaResetNote)}</p>
+      </section>
       <p class="essay-disclaimer">${escapeHtml(ESSAY_GRADING_DISCLAIMER)}</p>
       <div class="form-grid essay-form-grid">
         <label>考試類型<select id="essayExamType">${renderOptions(viewModel.options.examTypes, viewModel.filters.examType)}</select></label>
