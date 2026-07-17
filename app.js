@@ -46,8 +46,10 @@ import {
 } from "./essay-practice-view.mjs?v=20260716-04";
 import {
   buildEssayApiUrl,
+  formatEssayRetryCountdown,
+  getEssayRetryNotice,
   resolveEssayApiBase
-} from "./essay-api-client.mjs?v=20260716-03";
+} from "./essay-api-client.mjs?v=20260717-01";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260715-01";
@@ -473,6 +475,61 @@ function wireEssayPractice() {
   });
 }
 
+function showEssayRetryCountdown(notice, onRetry) {
+  document.querySelector("#essayRetryOverlay")?.remove();
+  const overlay = document.createElement("div");
+  overlay.id = "essayRetryOverlay";
+  overlay.className = "essay-retry-overlay";
+  overlay.innerHTML = `
+    <section class="essay-retry-dialog" role="dialog" aria-modal="true" aria-labelledby="essayRetryTitle">
+      <h2 id="essayRetryTitle">目前批改人數較多</h2>
+      <p class="essay-retry-message"></p>
+      <div class="essay-retry-countdown" aria-live="polite"></div>
+      <p class="muted">你的作答草稿仍會保留，本次也不扣除今日額度。</p>
+      <div class="toolbar essay-retry-actions">
+        <button class="secondary" id="essayRetryClose" type="button">先關閉</button>
+        <button class="primary" id="essayRetrySubmit" type="button" disabled>重新送出</button>
+      </div>
+    </section>
+  `;
+  overlay.querySelector(".essay-retry-message").textContent = notice.message;
+  document.body.append(overlay);
+
+  const countdown = overlay.querySelector(".essay-retry-countdown");
+  const retryButton = overlay.querySelector("#essayRetrySubmit");
+  const closeButton = overlay.querySelector("#essayRetryClose");
+  let remainingSeconds = notice.retryAfterSeconds;
+  let timerId = null;
+
+  const close = () => {
+    if (timerId) window.clearInterval(timerId);
+    overlay.remove();
+  };
+  const update = () => {
+    countdown.textContent = formatEssayRetryCountdown(remainingSeconds);
+    if (remainingSeconds <= 0) {
+      retryButton.disabled = false;
+      retryButton.focus();
+      if (timerId) window.clearInterval(timerId);
+      timerId = null;
+      return;
+    }
+    remainingSeconds -= 1;
+  };
+
+  closeButton.addEventListener("click", close);
+  retryButton.addEventListener("click", () => {
+    close();
+    onRetry();
+  });
+  overlay.addEventListener("click", (event) => {
+    if (event.target === overlay) close();
+  });
+  update();
+  timerId = window.setInterval(update, 1000);
+  closeButton.focus();
+}
+
 async function submitEssayGrade(button) {
   const currentQuestions = filterEssayQuestions(state.essayBank?.questions || [], state.essayFilters)
     .sort((a, b) => Number(a.questionNo) - Number(b.questionNo));
@@ -525,6 +582,15 @@ async function submitEssayGrade(button) {
     const payload = await response.json().catch(() => ({}));
 
     if (!response.ok) {
+      if (payload.quota) state.essayQuota = payload.quota;
+      const retryNotice = getEssayRetryNotice(response.status, payload);
+      if (retryNotice) {
+        showEssayRetryCountdown(retryNotice, () => {
+          const currentSubmitButton = document.querySelector("#essaySubmit");
+          if (currentSubmitButton) submitEssayGrade(currentSubmitButton);
+        });
+        return;
+      }
       await loadEssayQuota(true).catch(() => {});
       if (response.status === 429) {
         alert("今日額度已滿");

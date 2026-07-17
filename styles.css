@@ -1013,6 +1013,63 @@ select {
   line-height: 1.55;
 }
 
+.essay-retry-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: rgba(4, 26, 67, 0.48);
+}
+
+.essay-retry-dialog {
+  width: min(100%, 380px);
+  padding: 24px 20px;
+  border: 2px solid #ffba32;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 14px 36px rgba(4, 26, 67, 0.24);
+}
+
+.essay-retry-dialog h2 {
+  margin: 0 0 12px;
+  font-size: 1.45rem;
+}
+
+.essay-retry-message {
+  margin: 0 0 14px;
+  line-height: 1.65;
+}
+
+.essay-retry-countdown {
+  min-height: 60px;
+  display: grid;
+  place-items: center;
+  margin: 12px 0;
+  border: 1px solid #a8d768;
+  border-radius: 8px;
+  background: #effbdc;
+  color: #082454;
+  font-size: 1.35rem;
+  font-weight: 800;
+}
+
+.essay-retry-actions {
+  grid-template-columns: 1fr 1fr;
+  margin-top: 18px;
+}
+
+.essay-retry-actions button {
+  min-height: 48px;
+}
+
+.essay-retry-actions .primary:disabled {
+  opacity: 0.45;
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
 .result-score-card {
   display: grid;
   gap: 6px;
