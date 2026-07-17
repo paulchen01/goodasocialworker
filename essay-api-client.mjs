@@ -45,11 +45,26 @@ export function getEssayJobStatusLabel(status) {
   return labels[String(status || "")] || "查詢批改進度";
 }
 
-export function formatEssayJobEstimate(job = {}) {
+export function getEssayQueueRemainingSeconds(job = {}, now = Date.now()) {
+  const estimatedStartAt = Number(job.estimatedStartAt);
+  if (Number.isFinite(estimatedStartAt) && estimatedStartAt > 0) {
+    return Math.max(0, Math.ceil((estimatedStartAt - Number(now)) / 1000));
+  }
+  return Math.max(0, Math.ceil(Number(job.estimatedWaitSeconds) || 0));
+}
+
+export function formatEssayQueueCountdown(job = {}, now = Date.now()) {
   if (job.status === "processing") return "正在批改整份考卷";
   if (job.status !== "queued") return "";
-  const seconds = Math.max(0, Math.ceil(Number(job.estimatedWaitSeconds) || 0));
-  return seconds > 0 ? `預估約 ${seconds} 秒開始批改` : "即將開始批改";
+  const seconds = getEssayQueueRemainingSeconds(job, now);
+  if (seconds > 0) return `預估約 ${seconds} 秒開始批改`;
+  if (job.waitingForProviderCapacity) return "Gemini目前限制請求速度，系統正在自動等待重試";
+  if (Number(job.queuePosition) > 1) return "等待前方作業完成，系統會自動更新";
+  return "即將開始批改，系統會自動更新";
+}
+
+export function formatEssayJobEstimate(job = {}) {
+  return formatEssayQueueCountdown(job);
 }
 
 export function parseStoredEssayJob(value, now = Date.now(), maxAgeMs = 24 * 60 * 60 * 1000) {

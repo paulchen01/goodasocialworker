@@ -1,4 +1,4 @@
-import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260717-02";
+import { ESSAY_GRADING_DISCLAIMER } from "./essay-grading-rubric.mjs?v=20260717-03";
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -36,6 +36,9 @@ export function buildEssayQueueMarkup(viewModel) {
   const retryNote = job.status === "queued" && Number(job.attempts) > 0
     ? `<p class="muted essay-queue-retry">系統已自動等待後重試 ${escapeHtml(job.attempts)} 次，不需要重新送出。</p>`
     : "";
+  const providerCapacityNote = job.status === "queued" && job.waitingForProviderCapacity
+    ? '<p class="muted essay-queue-capacity">Gemini目前限制請求速度，前方作業正在自動等待；預估時間可能延長。</p>'
+    : "";
   const failedMessage = isFailed
     ? `<p class="essay-queue-error">${escapeHtml(job.error || "AI批改暫時失敗，本次額度已退回。")}</p>
        <p class="muted">你的作答草稿仍保留在這台裝置，可以稍後再回來送出。</p>`
@@ -51,9 +54,10 @@ export function buildEssayQueueMarkup(viewModel) {
       ${isFailed ? failedMessage : `
         <div class="essay-queue-progress">
           ${position}
-          <span>${escapeHtml(viewModel.estimateText)}</span>
+          <span id="essayQueueEstimate">${escapeHtml(viewModel.estimateText)}</span>
           <small>本份考卷共 ${escapeHtml(job.submissionCount || 0)} 題</small>
         </div>
+        ${providerCapacityNote}
         ${retryNote}
         <p class="muted essay-queue-leave-note">可以先離開，後端會繼續處理；回來申論題頁後仍能接續查看。</p>
       `}

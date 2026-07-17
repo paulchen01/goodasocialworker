@@ -44,14 +44,15 @@ import {
   buildEssayQueueMarkup,
   buildEssayResultMarkup,
   buildEssaySelectorMarkup
-} from "./essay-practice-view.mjs?v=20260717-02";
+} from "./essay-practice-view.mjs?v=20260717-03";
 import {
   buildEssayApiUrl,
+  formatEssayQueueCountdown,
   formatEssayJobEstimate,
   getEssayJobStatusLabel,
   parseStoredEssayJob,
   resolveEssayApiBase
-} from "./essay-api-client.mjs?v=20260717-02";
+} from "./essay-api-client.mjs?v=20260717-03";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260715-01";
@@ -86,7 +87,8 @@ const state = {
   essayDrafts: loadEssayDrafts(),
   essayLastGrade: null,
   essayPendingJob: loadEssayPendingJob(),
-  essayJobPollId: null
+  essayJobPollId: null,
+  essayQueueCountdownId: null
 };
 
 function loadWeakState() {
@@ -157,6 +159,12 @@ function stopEssayJobPolling() {
   if (!state.essayJobPollId) return;
   window.clearInterval(state.essayJobPollId);
   state.essayJobPollId = null;
+}
+
+function stopEssayQueueCountdown() {
+  if (!state.essayQueueCountdownId) return;
+  window.clearInterval(state.essayQueueCountdownId);
+  state.essayQueueCountdownId = null;
 }
 
 function saveEssayDraft(questionId, answerText) {
@@ -267,6 +275,7 @@ function html(strings, ...values) {
 
 function setScreen(markup) {
   stopTimer();
+  stopEssayQueueCountdown();
   app.innerHTML = markup;
   window.scrollTo(0, 0);
 }
@@ -451,6 +460,21 @@ function renderEssayJobStatus(job) {
   if (["queued", "processing"].includes(job.status)) {
     startEssayJobPolling(job.jobId);
   }
+  if (job.status === "queued") startEssayQueueCountdown(job);
+}
+
+function startEssayQueueCountdown(job) {
+  stopEssayQueueCountdown();
+  const updateCountdown = () => {
+    const estimateNode = document.querySelector("#essayQueueEstimate");
+    if (!estimateNode) {
+      stopEssayQueueCountdown();
+      return;
+    }
+    estimateNode.textContent = formatEssayQueueCountdown(job, Date.now());
+  };
+  updateCountdown();
+  state.essayQueueCountdownId = window.setInterval(updateCountdown, 1000);
 }
 
 async function fetchEssayJob(jobId) {
