@@ -44,7 +44,7 @@ import {
   buildEssayQueueMarkup,
   buildEssayResultMarkup,
   buildEssaySelectorMarkup
-} from "./essay-practice-view.mjs?v=20260717-03";
+} from "./essay-practice-view.mjs?v=20260717-04";
 import {
   buildEssayApiUrl,
   formatEssayQueueCountdown,
@@ -52,7 +52,13 @@ import {
   getEssayJobStatusLabel,
   parseStoredEssayJob,
   resolveEssayApiBase
-} from "./essay-api-client.mjs?v=20260717-03";
+} from "./essay-api-client.mjs?v=20260717-04";
+import {
+  MAX_WEAK_BACKUP_BYTES,
+  createWeakRecordBackup,
+  parseWeakRecordBackup,
+  restoreWeakRecords
+} from "./weak-record-backup.mjs?v=20260717-04";
 
 const app = document.querySelector("#app");
 const DATA_VERSION = "20260715-01";
@@ -60,6 +66,7 @@ const ESSAY_DRAFTS_KEY = "kaoshangSocialWorkerEssayDrafts";
 const ESSAY_PENDING_JOB_KEY = "kaoshangSocialWorkerEssayPendingJob";
 const ESSAY_JOB_POLL_INTERVAL_MS = 3000;
 const ESSAY_ANSWER_LIMITS = { minChars: 80, maxChars: 5000 };
+const WEAK_BACKUP_CATEGORIES = ["wrong", "unfamiliar", "favorite"];
 const ESSAY_API_HINT = "申論題批改服務暫時無法連線，請稍後再試。";
 const ESSAY_API_BASE = resolveEssayApiBase(
   document.querySelector('meta[name="essay-api-base"]')?.content,
@@ -1352,6 +1359,17 @@ function renderWeak(activeCategory = "wrong", requestedPage = state.weakPage?.[a
         ${pageData.items.length ? pageData.items.map(renderWeakItem).join("") : `<div class="empty">目前沒有${active.label}。之後做題、標記不熟或收藏後，會出現在這裡。</div>`}
       </div>
       ${activeItems.length > 5 ? renderWeakPagination(active.key, pageData) : ""}
+      <section class="weak-backup-section" aria-labelledby="weakBackupTitle">
+        <h3 id="weakBackupTitle">學習紀錄備份</h3>
+        <p class="muted">只備份錯題、不熟與收藏。刪除桌面APP或更換手機前，請先備份。</p>
+        <div class="weak-backup-actions">
+          <button class="primary" id="exportWeakBackup">備份到手機</button>
+          <button class="secondary" id="importWeakBackup">從備份還原</button>
+          <button class="secondary" id="showWeakBackupGuide">查看備份與還原教學</button>
+        </div>
+        <input id="weakBackupFile" type="file" accept="application/json,.json" hidden>
+        <p class="weak-backup-status" id="weakBackupStatus" aria-live="polite"></p>
+      </section>
     </section>
   `);
   wireWeak(active.key);
@@ -1400,6 +1418,212 @@ function wireWeak(activeCategory) {
   });
   document.querySelectorAll("[data-weak-question]").forEach((button) => {
     button.addEventListener("click", () => openWeakQuestion(button.dataset.weakQuestion, activeCategory));
+  });
+  document.querySelector("#exportWeakBackup")?.addEventListener("click", exportWeakBackup);
+  document.querySelector("#importWeakBackup")?.addEventListener("click", () => {
+    document.querySelector("#weakBackupFile")?.click();
+  });
+  document.querySelector("#weakBackupFile")?.addEventListener("change", (event) => {
+    importWeakBackupFile(event.target.files?.[0], activeCategory);
+    event.target.value = "";
+  });
+  document.querySelector("#showWeakBackupGuide")?.addEventListener("click", () => {
+    renderWeakBackupGuide("iphone", activeCategory);
+  });
+}
+
+function setWeakBackupStatus(message, isError = false) {
+  const status = document.querySelector("#weakBackupStatus");
+  if (!status) return;
+  status.textContent = message;
+  status.classList.toggle("is-error", isError);
+}
+
+function isAppleMobileDevice() {
+  return /iPhone|iPad|iPod/i.test(navigator.userAgent)
+    || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+}
+
+function weakBackupFileName() {
+  const date = new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Taipei" });
+  return `考上社工師_學習紀錄_${date}.json`;
+}
+
+function downloadWeakBackup(file, fileName) {
+  const url = URL.createObjectURL(file);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = fileName;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  window.setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+async function exportWeakBackup() {
+  const total = WEAK_BACKUP_CATEGORIES.reduce((sum, category) => sum + getWeakItems(state.weak, category).length, 0);
+  if (!total && !window.confirm("目前沒有錯題、不熟或收藏紀錄，仍要建立空白備份嗎？")) return;
+
+  const fileName = weakBackupFileName();
+  const text = JSON.stringify(createWeakRecordBackup(state.weak), null, 2);
+  const file = new File([text], fileName, { type: "application/json" });
+
+  try {
+    if (isAppleMobileDevice() && navigator.share && (!navigator.canShare || navigator.canShare({ files: [file] }))) {
+      await navigator.share({ title: "考上社工師學習紀錄", files: [file] });
+      setWeakBackupStatus("分享面板已開啟；請選「儲存到檔案」，並確認檔案已保存。");
+      return;
+    }
+    downloadWeakBackup(file, fileName);
+    setWeakBackupStatus("備份檔已下載；請到下載／Downloads確認檔案。");
+  } catch (error) {
+    if (error?.name === "AbortError") return;
+    try {
+      downloadWeakBackup(file, fileName);
+      setWeakBackupStatus("分享功能無法使用，已改為下載備份檔；請確認檔案已保存。");
+    } catch {
+      setWeakBackupStatus("目前無法建立備份，請稍後再試。", true);
+    }
+  }
+}
+
+async function buildWeakQuestionLookup(records) {
+  const wantedIds = new Set(WEAK_BACKUP_CATEGORIES.flatMap((category) => records[category] || []));
+  const targetExams = state.index.exams.filter((exam) => {
+    const prefix = `${exam.examId}:q`;
+    return [...wantedIds].some((id) => id.startsWith(prefix));
+  });
+  const lookup = new Map();
+  const batchSize = 8;
+
+  for (let index = 0; index < targetExams.length; index += batchSize) {
+    const loaded = await Promise.all(targetExams.slice(index, index + batchSize).map(loadExam));
+    loaded.flatMap((exam) => exam.questions).forEach((question) => {
+      if (wantedIds.has(question.id)) lookup.set(question.id, question);
+    });
+  }
+  return lookup;
+}
+
+async function importWeakBackupFile(file, activeCategory) {
+  if (!file) return;
+  if (!file.name.toLowerCase().endsWith(".json") || file.size > MAX_WEAK_BACKUP_BYTES) {
+    setWeakBackupStatus(file.size > MAX_WEAK_BACKUP_BYTES
+      ? "備份檔超過1MB，請確認是否選到正確的檔案。"
+      : "請選擇「考上社工師」匯出的JSON備份檔。", true);
+    return;
+  }
+
+  setWeakBackupStatus("正在檢查備份內容，請稍候……");
+  try {
+    const backup = parseWeakRecordBackup(await file.text(), file.size);
+    const lookup = await buildWeakQuestionLookup(backup.records);
+    renderWeakBackupPreview(backup, lookup, activeCategory);
+  } catch (error) {
+    setWeakBackupStatus(error?.message || "無法讀取這份備份檔。", true);
+  }
+}
+
+function formatWeakBackupTime(value) {
+  return new Intl.DateTimeFormat("zh-TW", {
+    dateStyle: "medium",
+    timeStyle: "short",
+    timeZone: "Asia/Taipei"
+  }).format(new Date(value));
+}
+
+function renderWeakBackupPreview(backup, lookup, activeCategory) {
+  const counts = Object.fromEntries(WEAK_BACKUP_CATEGORIES.map((category) => [category, backup.records[category].length]));
+  const uniqueIds = new Set(WEAK_BACKUP_CATEGORIES.flatMap((category) => backup.records[category]));
+  const unavailableCount = [...uniqueIds].filter((id) => !lookup.has(id)).length;
+
+  setScreen(html`
+    <section class="panel weak-backup-preview">
+      <button class="ghost" id="backToWeak">回錯題與弱點</button>
+      <h2>確認還原內容</h2>
+      <p class="muted">備份時間：${escapeHtml(formatWeakBackupTime(backup.exportedAt))}</p>
+      <div class="weak-backup-counts">
+        <div class="stat"><strong>${counts.wrong}</strong><span>錯題</span></div>
+        <div class="stat"><strong>${counts.unfamiliar}</strong><span>不熟</span></div>
+        <div class="stat"><strong>${counts.favorite}</strong><span>收藏</span></div>
+      </div>
+      <p class="weak-backup-preview-note">系統已找到${lookup.size}題目前題庫內容；${unavailableCount ? `另有${unavailableCount}題已無法對應，還原時會略過。` : "沒有找不到的題目。"}</p>
+      <div class="weak-backup-actions">
+        <button class="primary" id="mergeWeakBackup">加入目前紀錄</button>
+        <button class="danger-ghost" id="replaceWeakBackup">用備份取代目前紀錄</button>
+      </div>
+      <p class="muted">建議選「加入目前紀錄」，原本手機裡的錯題、不熟與收藏會保留。</p>
+    </section>
+  `);
+
+  document.querySelector("#backToWeak").addEventListener("click", () => renderWeak(activeCategory));
+  document.querySelector("#mergeWeakBackup").addEventListener("click", () => {
+    applyWeakBackup(backup, lookup, "merge", activeCategory);
+  });
+  document.querySelector("#replaceWeakBackup").addEventListener("click", () => {
+    if (!window.confirm("確定要用備份取代目前紀錄嗎？手機裡現有的錯題、不熟與收藏會被這份備份取代。")) return;
+    applyWeakBackup(backup, lookup, "replace", activeCategory);
+  });
+}
+
+function applyWeakBackup(backup, lookup, mode, activeCategory) {
+  const result = restoreWeakRecords(state.weak, backup, lookup, mode);
+  state.weak = result.weak;
+  saveWeakState();
+  renderWeak(activeCategory, 1);
+  const added = Object.values(result.summary.added).reduce((sum, count) => sum + count, 0);
+  setWeakBackupStatus(mode === "merge"
+    ? `還原完成，已加入${added}筆紀錄${result.summary.unavailableCount ? `，略過${result.summary.unavailableCount}題` : ""}。`
+    : `還原完成，已用備份取代目前紀錄${result.summary.unavailableCount ? `，略過${result.summary.unavailableCount}題` : ""}。`);
+}
+
+function renderWeakBackupGuide(platform = "iphone", activeCategory = "wrong") {
+  const isIphone = platform === "iphone";
+  setScreen(html`
+    <section class="panel weak-backup-guide">
+      <button class="ghost" id="backToWeak">回錯題與弱點</button>
+      <h2>備份與還原教學</h2>
+      <p class="muted">備份只包含錯題、不熟與收藏，不會上傳到伺服器。</p>
+      <div class="weak-backup-platform-tabs" role="tablist" aria-label="選擇手機系統">
+        <button class="${isIphone ? "primary" : "secondary"}" data-weak-backup-platform="iphone">iPhone</button>
+        <button class="${isIphone ? "secondary" : "primary"}" data-weak-backup-platform="android">Android</button>
+      </div>
+      ${isIphone ? html`
+        <div class="weak-backup-guide-content">
+          <h3>iPhone備份</h3>
+          <ol>
+            <li>回到錯題與弱點頁，點「備份到手機」。</li>
+            <li>在分享面板點「儲存到檔案」。</li>
+            <li>選擇iCloud Drive或「我的iPhone」，再點「儲存」。</li>
+          </ol>
+          <h3>iPhone還原</h3>
+          <ol>
+            <li>點「從備份還原」。</li>
+            <li>在「檔案」中選擇先前保存的JSON備份。</li>
+            <li>確認筆數後，選「加入目前紀錄」。</li>
+          </ol>
+        </div>
+      ` : html`
+        <div class="weak-backup-guide-content">
+          <h3>Android備份</h3>
+          <ol>
+            <li>回到錯題與弱點頁，點「備份到手機」。</li>
+            <li>Chrome會下載JSON備份檔。</li>
+            <li>到「檔案」的下載／Downloads確認檔案。</li>
+          </ol>
+          <h3>Android還原</h3>
+          <ol>
+            <li>點「從備份還原」。</li>
+            <li>從「檔案」或下載／Downloads選擇JSON備份。</li>
+            <li>確認筆數後，選「加入目前紀錄」。</li>
+          </ol>
+        </div>
+      `}
+    </section>
+  `);
+  document.querySelector("#backToWeak").addEventListener("click", () => renderWeak(activeCategory));
+  document.querySelectorAll("[data-weak-backup-platform]").forEach((button) => {
+    button.addEventListener("click", () => renderWeakBackupGuide(button.dataset.weakBackupPlatform, activeCategory));
   });
 }
 
