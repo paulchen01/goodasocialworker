@@ -1314,8 +1314,19 @@ select {
   margin-top: 22px;
   padding: 10px 0 0;
   color: rgba(6, 26, 68, 0.55);
-  font-size: 14px;
+  font-size: clamp(12px, 3.4vw, 14px);
+  line-height: 1.55;
   text-align: center;
+}
+
+.footer-credit,
+.footer-feedback {
+  display: block;
+  white-space: nowrap;
+}
+
+.footer-feedback {
+  margin-top: 2px;
 }
 
 .app-footer a {
