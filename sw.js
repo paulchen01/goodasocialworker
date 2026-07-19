@@ -1,10 +1,10 @@
-const CACHE_NAME = "kaoshang-social-worker-v68";
+const CACHE_NAME = "kaoshang-social-worker-v69";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./styles.css?v=20260717-08",
-  "./app.js?v=20260717-09",
-  "./app-core.mjs?v=20260715-01",
+  "./app.js?v=20260719-01",
+  "./app-core.mjs?v=20260719-01",
   "./essay-practice-core.mjs?v=20260707-03",
   "./essay-practice-view.mjs?v=20260717-09",
   "./essay-grading-rubric.mjs?v=20260717-05",

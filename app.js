@@ -13,6 +13,7 @@ import {
   getCountdownRemainingSeconds,
   getOptionStateClasses,
   getAnalyticsEvent,
+  getLearningAnalyticsEvent,
   getOfficialAnswerNoticeText,
   getQuestionCompletionTarget,
   getResultEncouragement,
@@ -32,7 +33,7 @@ import {
   updateWrongItemsAfterAnsweredPractice,
   registerServiceWorkerWithAutoReload,
   withDataVersion
-} from "./app-core.mjs?v=20260715-01";
+} from "./app-core.mjs?v=20260719-01";
 import {
   filterEssayQuestions,
   getEssayFilterOptions,
@@ -294,6 +295,12 @@ function trackUsageEvent(screen) {
   window.goatcounter.count(event);
 }
 
+function trackLearningEvent(action) {
+  const event = getLearningAnalyticsEvent(action);
+  if (!event || !window.goatcounter?.count) return;
+  window.goatcounter.count(event);
+}
+
 function isStandaloneDisplayMode() {
   return Boolean(
     window.matchMedia?.("(display-mode: standalone)")?.matches ||
@@ -437,6 +444,7 @@ function renderEssayCompletedJob(job) {
     results,
     quota: state.essayQuota
   }));
+  trackLearningEvent("essayFeedbackView");
   document.querySelector("#backToEssayPractice")?.addEventListener("click", () => {
     renderEssayPractice();
   });
@@ -646,6 +654,7 @@ function wireEssayPractice() {
 
   document.querySelector("#essaySaveDraft")?.addEventListener("click", () => {
     saveCurrentEssayDraftFromScreen();
+    trackLearningEvent("essayDraftSave");
     flashEssayDraftSaved();
   });
 
@@ -693,6 +702,7 @@ async function submitEssayGrade(button) {
   }
 
   if (!beginButtonLoading(button, "加入隊伍中")) return;
+  trackLearningEvent("essaySubmit");
 
   try {
     const response = await fetch(buildEssayApiUrl("/api/essay/jobs", ESSAY_API_BASE), {
@@ -717,6 +727,7 @@ async function submitEssayGrade(button) {
     }
 
     state.essayQuota = payload.quota || state.essayQuota;
+    trackLearningEvent("essayAccepted");
     saveEssayPendingJob(payload.jobId);
     renderEssayJobStatus(payload.job);
   } catch (error) {
@@ -1009,6 +1020,8 @@ async function startExamMode(exam, mode) {
   state.remainingSeconds = null;
   state.deadlineAt = null;
   if (mode === "exam") persistCurrentProgress();
+  if (mode === "memorize") trackLearningEvent("pastMemorizeStart");
+  if (mode === "exam") trackLearningEvent("pastExamStart");
   renderQuestion();
 }
 
@@ -1202,6 +1215,8 @@ function wireQuestion(question) {
   document.querySelector("#nextQuestion").addEventListener("click", () => {
     if (state.currentQuestionIndex === state.currentExam.questions.length - 1) {
       if (getQuestionCompletionTarget(state.mode) === "weak") {
+        if (state.mode === "weakExam") trackLearningEvent("weakPracticeComplete");
+        if (state.mode === "weakReview") trackLearningEvent("weakReviewComplete");
         renderWeak(state.weakReturnCategory || "wrong");
       } else {
         renderResult();
@@ -1217,6 +1232,12 @@ function wireQuestion(question) {
 
 function renderResult() {
   stopTimer();
+  if (!state.completed) {
+    if (state.mode === "quick") trackLearningEvent("quickComplete");
+    if (state.mode === "memorize") trackLearningEvent("pastMemorizeComplete");
+    if (state.mode === "exam") trackLearningEvent("pastExamComplete");
+    if (state.mode === "mockExam") trackLearningEvent("mockComplete");
+  }
   state.completed = true;
   const result = scoreExam(state.currentExam.questions, state.selected);
   const encouragement = getResultEncouragement(result.correct, result.total);
@@ -1268,6 +1289,7 @@ async function startFiveQuestionFollowUp(button) {
     state.remainingSeconds = null;
     state.deadlineAt = null;
     state.selected = {};
+    trackLearningEvent("quickStart");
     renderQuestion();
   } catch (error) {
     renderNoQuestionsWarning(`題目載入失敗：${error.message}`);
@@ -1342,6 +1364,7 @@ async function startQuickPractice(button) {
     state.remainingSeconds = null;
     state.deadlineAt = null;
     state.selected = {};
+    trackLearningEvent("quickStart");
     renderQuestion();
   } catch (error) {
     renderNoQuestionsWarning(`題目載入失敗：${error.message}`);
@@ -1666,6 +1689,7 @@ function startWeakPractice(categories) {
   state.remainingSeconds = null;
   state.deadlineAt = null;
   state.selected = {};
+  trackLearningEvent("weakPracticeStart");
   renderQuestion();
 }
 
@@ -1686,6 +1710,7 @@ function openWeakQuestion(questionId, category) {
   state.deadlineAt = null;
   state.selected = {};
   state.weakReturnCategory = category;
+  trackLearningEvent("weakReviewStart");
   renderQuestion();
 }
 
@@ -1748,6 +1773,7 @@ async function startMockExam(button) {
     syncMockCountdown();
     state.selected = {};
     persistCurrentProgress();
+    trackLearningEvent("mockStart");
     renderQuestion();
   } catch (error) {
     renderNoQuestionsWarning(`題目載入失敗：${error.message}`);
@@ -1770,8 +1796,12 @@ function displayText(value) {
 }
 
 document.addEventListener("click", (event) => {
+  const officialLaw = event.target.closest(".law-card");
+  if (officialLaw) trackLearningEvent("lawOfficialOpen");
+
   const lawTier = event.target.closest("[data-law-tier]");
   if (lawTier) {
+    trackLearningEvent("lawCategoryOpen");
     renderLawList(lawTier.dataset.lawTier);
     return;
   }

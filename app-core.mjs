@@ -4,6 +4,7 @@ const ANALYTICS_EVENTS = {
   quick: { path: "click-quick-practice", title: "Click quick practice", event: true },
   past: { path: "click-past-bank", title: "Click past bank", event: true },
   mock: { path: "click-mock-exam", title: "Click mock exam", event: true },
+  essay: { path: "click-essay-practice", title: "Click essay practice", event: true },
   weak: { path: "click-weakness", title: "Click weakness", event: true },
   install: { path: "click-install-guide", title: "Click install guide", event: true },
   law: { path: "click-law-lookup", title: "Click law lookup", event: true }
@@ -11,6 +12,31 @@ const ANALYTICS_EVENTS = {
 
 export function getAnalyticsEvent(screen) {
   return ANALYTICS_EVENTS[screen] ? { ...ANALYTICS_EVENTS[screen] } : null;
+}
+
+const LEARNING_ANALYTICS_EVENTS = {
+  quickStart: { path: "start-quick-practice", title: "Start quick practice", event: true },
+  quickComplete: { path: "complete-quick-practice", title: "Complete quick practice", event: true },
+  pastMemorizeStart: { path: "start-past-memorize", title: "Start past memorize", event: true },
+  pastMemorizeComplete: { path: "complete-past-memorize", title: "Complete past memorize", event: true },
+  pastExamStart: { path: "start-past-exam", title: "Start past exam", event: true },
+  pastExamComplete: { path: "complete-past-exam", title: "Complete past exam", event: true },
+  mockStart: { path: "start-mock-exam", title: "Start mock exam", event: true },
+  mockComplete: { path: "complete-mock-exam", title: "Complete mock exam", event: true },
+  essayDraftSave: { path: "save-essay-draft", title: "Save essay draft", event: true },
+  essaySubmit: { path: "submit-essay-grading", title: "Submit essay grading", event: true },
+  essayAccepted: { path: "accepted-essay-grading", title: "Accepted essay grading", event: true },
+  essayFeedbackView: { path: "view-essay-feedback", title: "View essay feedback", event: true },
+  weakPracticeStart: { path: "start-weak-practice", title: "Start weak practice", event: true },
+  weakPracticeComplete: { path: "complete-weak-practice", title: "Complete weak practice", event: true },
+  weakReviewStart: { path: "start-weak-review", title: "Start weak review", event: true },
+  weakReviewComplete: { path: "complete-weak-review", title: "Complete weak review", event: true },
+  lawCategoryOpen: { path: "open-law-category", title: "Open law category", event: true },
+  lawOfficialOpen: { path: "open-official-law", title: "Open official law", event: true }
+};
+
+export function getLearningAnalyticsEvent(action) {
+  return LEARNING_ANALYTICS_EVENTS[action] ? { ...LEARNING_ANALYTICS_EVENTS[action] } : null;
 }
 
 const VISIT_ANALYTICS_EVENTS = {
