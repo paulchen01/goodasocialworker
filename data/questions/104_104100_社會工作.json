@@ -410,15 +410,15 @@
     {
       "id": "社工師:104100:c107:s0601:q14",
       "number": 14,
-      "stem": "認知行為治療法（CBT）是一種思考人類功能和需求的方法，教導人如何在環境中運作，以最有效手段 達成個人目標的方法。下列有關CBT 理論的敘述，何者錯誤？ 可略分為古典制約、操作制約、社會學習論三大支派",
+        "stem": "認知行為治療法（CBT）是一種思考人類功能和需求的方法，教導人如何在環境中運作，以最有效手段達成個人目標的方法。下列有關CBT理論的敘述，何者錯誤？",
       "options": [
         {
           "key": "A",
-          "text": "早期關注行為修正，後來偏重認知理論，晚近則強調建構主義；重視情緒處理，而非立即的認知或行"
+            "text": "可略分為古典制約、操作制約、社會學習論三大支派"
         },
         {
           "key": "B",
-          "text": "為改變"
+            "text": "早期關注行為修正，後來偏重認知理論，晚近則強調建構主義；重視情緒處理，而非立即的認知或行為改變"
         },
         {
           "key": "C",
@@ -432,7 +432,7 @@
       "answer": "D",
       "sourceFileId": "社工師:104100:c107:s0601:Q",
       "answerSourceFileId": "社工師:104100:c107:s0601:S",
-      "manualPatch": false,
+        "manualPatch": true,
       "reviewStatus": "approved",
       "reviewNote": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks.",
       "reviewApprovalProof": "p0-current-bank-reviewed-20260707"

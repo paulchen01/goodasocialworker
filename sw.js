@@ -1,4 +1,4 @@
-const CACHE_NAME = "kaoshang-social-worker-v69";
+const CACHE_NAME = "kaoshang-social-worker-v70";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -20,8 +20,8 @@ const APP_SHELL = [
   "./install-guide/install-step-3-add-home.png",
   "./data/question-assets/113_113100_0302_q13.png",
   "./data/question-assets/114_114100_0306_q12.png",
-  "./data/index.json?v=20260715-01",
-  "./data/law-lookup.json?v=20260715-01"
+  "./data/index.json?v=20260724-104q14",
+  "./data/law-lookup.json?v=20260724-104q14"
 ];
 
 function shouldUseNetworkFirst(request) {
