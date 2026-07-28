@@ -1,0 +1,1221 @@
+{
+  "examId": "社工師:115100:c103:s0304",
+  "examInstanceId": "社工師:115100:c103",
+  "examTrack": "社工師",
+  "subject": "人類行為與社會環境",
+  "subjectCode": "0304",
+  "yearRoc": 115,
+  "examCode": "115100",
+  "examName": "115年第二次專門職業及技術人員高等考試營養師、護理師、社會工作師考試、115年專門職業及技術人員高等考試心理師、法醫師、語言治療師、聽力師、牙體技術師、公共衛生師考試、高等暨普通考試驗光人員考試",
+  "examAttempt": "第二次",
+  "categoryCode": "103",
+  "categoryName": "專技高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115100&c=103&s=0304&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115100&c=103&s=0304&q=1",
+  "questionSourceFileId": "社工師:115100:c103:s0304:Q",
+  "answerSourceFileId": "社工師:115100:c103:s0304:S",
+  "pointsPerQuestion": 1.5,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:115100:c103:s0304:q01",
+      "number": 1,
+      "stem": "有關新佛洛依德學派（Neo-Freudian）的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "佛洛姆（E. Fromm）藉由集體潛意識的觀點來論說宗教與個人特質形成的關係"
+        },
+        {
+          "key": "B",
+          "text": "阿德勒（A. Adler）倡議 AGIL 模型用來說明個體所具有的社會功能"
+        },
+        {
+          "key": "C",
+          "text": "容格（C. Jung）提出自我在本我與超我間尋求調節，是統整、愛與自由的主動追求者"
+        },
+        {
+          "key": "D",
+          "text": "蘇利文（H. Sullivan）特別突顯出安全與滿足的需求，在兒童或成人人際發展中的重要性"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q02",
+      "number": 2,
+      "stem": "個人以簡單的語言符號進行思考與吸收新知，具有自我中心的特質及物體恆存、無法逆轉的概念， 這是屬於 Piaget 認知發展理論的那一個階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "感覺動作期"
+        },
+        {
+          "key": "B",
+          "text": "前運思期"
+        },
+        {
+          "key": "C",
+          "text": "具體運思期"
+        },
+        {
+          "key": "D",
+          "text": "形式運思期"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q03",
+      "number": 3,
+      "stem": "發展任務為勤勉，發展危機為自卑，此為 Erikson 所稱的那個發展階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "學齡期"
+        },
+        {
+          "key": "B",
+          "text": "青少年期"
+        },
+        {
+          "key": "C",
+          "text": "成人期"
+        },
+        {
+          "key": "D",
+          "text": "中年期"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q04",
+      "number": 4,
+      "stem": "依據 Kohlberg 的道德發展理論，青少年正處在如何面對從眾性（conformist）的發展挑戰，Lickona （2004）提出六大協助青少年擺脫從眾性的策略，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "幫助青少年瞭解家長"
+        },
+        {
+          "key": "B",
+          "text": "以適當的角度看待「受歡迎」這件事情"
+        },
+        {
+          "key": "C",
+          "text": "協助青少年接受「集體道德觀」"
+        },
+        {
+          "key": "D",
+          "text": "幫助青少年做決定"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q05",
+      "number": 5,
+      "stem": "甲是家中年紀最大的子女，常在家長爭執時介入調停，導致學業與情緒受影響。此現象在家庭系 統中最可能是什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "界線相對清楚且角色分工適切的家庭功能運作"
+        },
+        {
+          "key": "B",
+          "text": "子女行為隨著家庭氣氛與同儕互動而出現類似變化的平行歷程與同儕效應"
+        },
+        {
+          "key": "C",
+          "text": "子女被拉入家長互動、形成三角化，並承擔超出其發展階段的調停或照顧角色"
+        },
+        {
+          "key": "D",
+          "text": "家庭成員透過情感抽離或中斷聯繫，形成情緒截斷與關係上的高度分離"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q06",
+      "number": 6,
+      "stem": "有關家庭系統的開放性與封閉性兩種類型，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在封閉的家庭系統中，溝通較直接也一致"
+        },
+        {
+          "key": "B",
+          "text": "開放性的家庭系統，使成員具有較高的自尊"
+        },
+        {
+          "key": "C",
+          "text": "封閉性家庭系統的特性是一旦建立之後就會維持原狀，除非成員死亡或有所變動"
+        },
+        {
+          "key": "D",
+          "text": "開放性的家庭重視個人的權利，易因彼此意見不同而產生家庭衝突與壓力"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q07",
+      "number": 7,
+      "stem": "甲長期遭受配偶經濟控制與家庭暴力，社會工作者若採基進女性主義視角介入，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "協助甲尋求自我解放，可更多地關注生態與環保議題"
+        },
+        {
+          "key": "B",
+          "text": "認為甲的現況和角色是個人選擇不夠強勢"
+        },
+        {
+          "key": "C",
+          "text": "建議甲把暴力創傷視為個人的心理問題，進行精神治療"
+        },
+        {
+          "key": "D",
+          "text": "幫助甲理解父權如何在婚姻中運作，以及如何集體行動改變這樣的權力結構"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q08",
+      "number": 8,
+      "stem": "學校對兒童體罰雖然已被政策禁止，但有些人仍覺得這是「不得已但必要的」手段。這些錯誤信 念的存在與社會各個系統息息相關，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會上有些人仍相信「不打不成器」，這是屬於鉅視系統的範疇"
+        },
+        {
+          "key": "B",
+          "text": "政府相關單位未積極懲戒教師不當管教案，這是屬於外部系統的範疇"
+        },
+        {
+          "key": "C",
+          "text": "網路論壇提供了錯誤訊息，這是屬於中介系統的範疇"
+        },
+        {
+          "key": "D",
+          "text": "家長認同小時候祖輩家長的打罵教育，這是屬於微視系統的範疇"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q09",
+      "number": 9,
+      "stem": "下列何者是成年期成熟的因應機制（coping mechanisms）？",
+      "options": [
+        {
+          "key": "A",
+          "text": "面對不喜歡的訊息，就給予否認"
+        },
+        {
+          "key": "B",
+          "text": "人際關係有問題時，就不要太多思考，因為那絕對是別人的錯"
+        },
+        {
+          "key": "C",
+          "text": "利他的思考，只是委屈自己的假象"
+        },
+        {
+          "key": "D",
+          "text": "自我解嘲的幽默，不會傷害別人或引發社交不適感"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q10",
+      "number": 10,
+      "stem": "失落是老年階段常面對的重要議題。Worden（2009）提出四項哀悼失落必須完成的任務，不包括 下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "接受失落的事實"
+        },
+        {
+          "key": "B",
+          "text": "處理痛苦"
+        },
+        {
+          "key": "C",
+          "text": "適應失落對象不在的新情境"
+        },
+        {
+          "key": "D",
+          "text": "忘掉失落對象"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q11",
+      "number": 11,
+      "stem": "兒童中期發展重要的里程碑之一就是能夠從他人的觀點和立場看事情的能力，表示自我中心逐漸 退縮，下列何者屬於這項里程碑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "角色採取的能力（role-taking ability）"
+        },
+        {
+          "key": "B",
+          "text": "無條件接納的能力（unconditional regard ability）"
+        },
+        {
+          "key": "C",
+          "text": "同理心的表達能力（empathetic expression ability）"
+        },
+        {
+          "key": "D",
+          "text": "社會參考的能力（social referencing ability）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q12",
+      "number": 12,
+      "stem": "有關成年期發展的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "就業職場不穩定是重大的壓力源"
+        },
+        {
+          "key": "B",
+          "text": "青春期問題不會影響到成年期的發展"
+        },
+        {
+          "key": "C",
+          "text": "親密關係的建立跟「心靈伴侶」無關"
+        },
+        {
+          "key": "D",
+          "text": "異性戀的親密關係比不上同性戀的親密關係"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q13",
+      "number": 13,
+      "stem": "有關懷孕期間的保健，下列敘述何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在懷孕期間喝酒"
+        },
+        {
+          "key": "B",
+          "text": "持續高的工作壓力及績效"
+        },
+        {
+          "key": "C",
+          "text": "親友及伴侶給予生活上最好的支持"
+        },
+        {
+          "key": "D",
+          "text": "節食控制體重"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q14",
+      "number": 14,
+      "stem": "新手家長甲和乙尋求服務，甲表示「我怎麼做都不夠好」，乙則覺得子女哭是自己沒盡責。社會工 作者若要協助他們順利過渡到家長角色，下列作法何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "鼓勵家長設定完美育兒標準以確保安全"
+        },
+        {
+          "key": "B",
+          "text": "協助家長建立符合現實的自我期待與角色認知"
+        },
+        {
+          "key": "C",
+          "text": "要求家長遵照專家意見，以免出錯"
+        },
+        {
+          "key": "D",
+          "text": "鼓勵雙方分開休息，暫時避免討論育兒問題"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q15",
+      "number": 15,
+      "stem": "有關美國男權運動（men's movement），下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "相較於女權運動，強調當前外在體制的改變"
+        },
+        {
+          "key": "B",
+          "text": "鐵約翰（Iron John）是其代表著作"
+        },
+        {
+          "key": "C",
+          "text": "主張成熟的女性應該幫助男孩成為健康的男人"
+        },
+        {
+          "key": "D",
+          "text": "批判當代美國文化造成男孩與母親疏離和父親缺位現象"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q16",
+      "number": 16,
+      "stem": "由於社會大眾的意識覺醒，兒童虐待的事件普遍受到重視。一般而言，家長應提供而未提供照顧 的虐待類型，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "疏忽"
+        },
+        {
+          "key": "B",
+          "text": "身體虐待"
+        },
+        {
+          "key": "C",
+          "text": "性虐待"
+        },
+        {
+          "key": "D",
+          "text": "情感虐待"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q17",
+      "number": 17,
+      "stem": "研究發展的學者 Robert Havighurst 指出，青年期是人生最困難的時期之一，因為他們必須面對許 多決定，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "必須結婚"
+        },
+        {
+          "key": "B",
+          "text": "職涯或工作選擇"
+        },
+        {
+          "key": "C",
+          "text": "是否持續進修"
+        },
+        {
+          "key": "D",
+          "text": "負起自己應有的責任"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q18",
+      "number": 18,
+      "stem": "當在悲傷中的個人「自己告訴自己這個失落是真實的，且悲痛欲絕，自己怎麼可能繼續生活下 去？」，這個狀態是符合 Kübler-Ross 所言的悲傷五階段中那一個階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "憤怒"
+        },
+        {
+          "key": "B",
+          "text": "討價還價"
+        },
+        {
+          "key": "C",
+          "text": "沮喪"
+        },
+        {
+          "key": "D",
+          "text": "接納"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q19",
+      "number": 19,
+      "stem": "甲總是無法控制的愛說話、又愛抽菸，且菸癮大又難戒。依據佛洛依德（Freud）主張，甲很可能 是年幼時那個性心理發展階段的任務沒有完成？",
+      "options": [
+        {
+          "key": "A",
+          "text": "肛門期"
+        },
+        {
+          "key": "B",
+          "text": "性器期"
+        },
+        {
+          "key": "C",
+          "text": "兩性期"
+        },
+        {
+          "key": "D",
+          "text": "口腔期"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q20",
+      "number": 20,
+      "stem": "有關 Erikson 的心理社會發展理論，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "乃是融合 Freud 理論的許多基本原理，但是更強調社會對於發展的影響"
+        },
+        {
+          "key": "B",
+          "text": "認為人們會以一致的方式貫穿每個階段，處理發展任務和解決每個階段獨有的危機"
+        },
+        {
+          "key": "C",
+          "text": "某個階段的特定任務和危機沒有學到或解決，就無法進入下一個階段"
+        },
+        {
+          "key": "D",
+          "text": "在每個階段都可以預測到正常的壓力源，以協助人們發展"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q21",
+      "number": 21,
+      "stem": "社會工作者與疑似有老人疏忽的家庭合作時，若從家庭系統理論取向介入，下列作法何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "質疑照顧者能力會引發挫折甚至中斷照顧，應避談疏忽或虐待的可能"
+        },
+        {
+          "key": "B",
+          "text": "評估長者生理狀況及基本需求都有滿足即可，應尊重家庭界限無須介入"
+        },
+        {
+          "key": "C",
+          "text": "評估照顧者狀態與其他家庭成員關係，照顧者整體健康情況與被照顧長者同等重要"
+        },
+        {
+          "key": "D",
+          "text": "以改善照顧者的性格與照顧技巧為目標，應提供更多家務訓練資源"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q22",
+      "number": 22,
+      "stem": "甲 24 歲因下肢障礙需要使用輪椅，從大學畢業後找不到穩定工作，只能待在家靠父母支援。他常 說「是我自己不夠努力，才會這樣沒出息。」若以人類行為與社會發展中「人與環境觀點（person- in-environment）」來理解，下列說法何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "只要家庭支持良好，成年前期的自立與社會參與對身心障礙者的福祉影響有限"
+        },
+        {
+          "key": "B",
+          "text": "主要問題在於個人求職動機，若加強職涯諮商與時間管理訓練即可改善目前困境"
+        },
+        {
+          "key": "C",
+          "text": "身心障礙是主要風險因子，因此在成年前期較不適合強調工作、自立等發展任務，以免增加壓力"
+        },
+        {
+          "key": "D",
+          "text": "參與自立生活團體有助於在身心障礙與依賴家庭的風險情境中，發展角色能力與自我效能"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q23",
+      "number": 23,
+      "stem": "依據 Ainsworth（1979）提出的依附類型，有關嬰幼兒不安全的依附關係，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嬰幼兒在照顧者身邊能感到安全並探索環境"
+        },
+        {
+          "key": "B",
+          "text": "當照顧者離開時，嬰幼兒表現出適度的分離焦慮，但回來後能被安撫"
+        },
+        {
+          "key": "C",
+          "text": "嬰幼兒雖然黏著照顧者，但對照顧者的擁抱表現出憤怒或反抗"
+        },
+        {
+          "key": "D",
+          "text": "面對不確定或害怕的情境，會回到照顧者身邊"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q24",
+      "number": 24,
+      "stem": "有關青少年發展階段的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "以 Erikson 的心理社會發展理論，青少年階段是認同與認同混淆的時期"
+        },
+        {
+          "key": "B",
+          "text": "青少年階段重視身體形象，但負向的經驗不利於其自尊的發展"
+        },
+        {
+          "key": "C",
+          "text": "家長支持可以增進依附關係降低同儕壓力，避免對青少年行為產生負面影響"
+        },
+        {
+          "key": "D",
+          "text": "青少年期進入前運思期階段，具有抽象與邏輯思考能力，更能處理道德問題"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q25",
+      "number": 25,
+      "stem": "下列那位學者的理論，強調人們可以透過觀察模仿他人的成敗經驗來產生行為的改變？",
+      "options": [
+        {
+          "key": "A",
+          "text": "華生（Watson）的行為主義"
+        },
+        {
+          "key": "B",
+          "text": "皮亞傑（Piaget）的認知發展理論"
+        },
+        {
+          "key": "C",
+          "text": "班杜拉（Bandura）的社會學習論"
+        },
+        {
+          "key": "D",
+          "text": "艾瑞克森（Erikson）的心理社會理論"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q26",
+      "number": 26,
+      "stem": "針對老年期的發展，有關死亡與臨終的因應模式，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "恐懼管理理論認為人們會啟動近端與遠端防衛機轉來減少死亡焦慮，例如否認自己會過早死 亡，或透過健康飲食、運動來增加對健康的控制感"
+        },
+        {
+          "key": "B",
+          "text": "生命回顧療法（life review therapy）透過回顧與反思，協助處理生命中尚未解決的衝突或議題"
+        },
+        {
+          "key": "C",
+          "text": "社會工作者應儘量避免談論死亡，以免增加長輩對死亡與臨終的焦慮，甚至引發憂鬱"
+        },
+        {
+          "key": "D",
+          "text": "透過敘事治療（narrative therapy ）為失落與死亡重建意義，促進正向自我認同，有助於人們為 臨終做好準備"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q27",
+      "number": 27,
+      "stem": "部分老年 LGBTQ+的晚年生活可能面臨不同於異性戀高齡者的挑戰，下列敘述何者最不可能發生？",
+      "options": [
+        {
+          "key": "A",
+          "text": "長期習慣獨自面對壓力，使其較少主動尋求協助"
+        },
+        {
+          "key": "B",
+          "text": "長期保持低可見性，使其在老年較難連結正式與非正式支持"
+        },
+        {
+          "key": "C",
+          "text": "舊有友伴網絡往往因生活變遷而強化，增加社會連結和參與可能"
+        },
+        {
+          "key": "D",
+          "text": "醫療或照護環境可能忽略其親密關係與身分，降低求助意願"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q28",
+      "number": 28,
+      "stem": "甲在考試失敗後挫敗地說：「我就是沒有數學細胞，我永遠都不可能考好。」，家長若要幫助其形 成健康的歸因模式，下列回應何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "「你就是粗心，不努力怎麼可能成功？」"
+        },
+        {
+          "key": "B",
+          "text": "「這次題目比較難，下次多練習就會好。」"
+        },
+        {
+          "key": "C",
+          "text": "「你考不好，是因為老師沒教清楚。」"
+        },
+        {
+          "key": "D",
+          "text": "「算了，反正你不適合唸書。」"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q29",
+      "number": 29,
+      "stem": "社會工作者協助面臨人工流產抉擇的服務對象時，下列何者最能展現專業敏感度？",
+      "options": [
+        {
+          "key": "A",
+          "text": "要求服務對象儘快做決定，以避免醫療程序延宕風險"
+        },
+        {
+          "key": "B",
+          "text": "以服務對象伴侶意向為優先，避免後續關係緊張"
+        },
+        {
+          "key": "C",
+          "text": "釐清自主意願與法規限制，並評估情緒風險"
+        },
+        {
+          "key": "D",
+          "text": "若服務對象為成年人，必須取得家長同意"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q30",
+      "number": 30,
+      "stem": "甲向家人出櫃後，對方表示需要時間消化，甲擔心關係受影響。社會工作者協助思考下一步時， 下列敘述何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "要求家人儘快回應立場，以降低不確定感"
+        },
+        {
+          "key": "B",
+          "text": "暫時中止與家人互動，讓對方自行調適"
+        },
+        {
+          "key": "C",
+          "text": "給對方時間調適，並保持溝通"
+        },
+        {
+          "key": "D",
+          "text": "將對方的遲疑視為拒絕，並轉向他人尋求支持"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q31",
+      "number": 31,
+      "stem": "社會工作者發現其服務區域的居民常因交通問題，很難到醫院看病。因此，社會工作者提出之 適合改善建議，下列何者正確？①鼓勵該地區市民多捐款，以降低這些人的就醫障礙 ②倡議 地方政府設置社區外展門診與行動醫療站 ③向相關政策單位反應該地區存在健康不平等現象 ④引入商業保險",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②"
+        },
+        {
+          "key": "B",
+          "text": "②③"
+        },
+        {
+          "key": "C",
+          "text": "③④"
+        },
+        {
+          "key": "D",
+          "text": "①④"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q32",
+      "number": 32,
+      "stem": "有關辨別嬰幼兒受虐待與意外傷害的敘述，下列何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "虐待傷害的症狀在事件發生後立即產生，受意外傷害的症狀在幾天後才出現"
+        },
+        {
+          "key": "B",
+          "text": "虐待傷害發生時總有人在現場目擊，意外傷害發生時沒有人或只有一人在現場"
+        },
+        {
+          "key": "C",
+          "text": "虐待傷害發生後照顧者傾向即刻尋醫療照護，意外傷害後照顧者比較傾向延遲尋求醫療照護"
+        },
+        {
+          "key": "D",
+          "text": "虐待傷害沒有人知道如何發生且照顧者說詞反覆，受意外傷害過程可以交代清楚且前後一致"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q33",
+      "number": 33,
+      "stem": "甲公司以員工需「形象一致」為由，規定員工不得配戴任何與種族相關的配飾，有文面者則須雷 射除文。下列敘述何者最能反應此現象？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主流族群對於受壓迫群體的直接施壓"
+        },
+        {
+          "key": "B",
+          "text": "面對他人受壓迫、且自己從中受益時，默不作聲"
+        },
+        {
+          "key": "C",
+          "text": "內化主流負面標籤"
+        },
+        {
+          "key": "D",
+          "text": "合理的職場規範"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q34",
+      "number": 34,
+      "stem": "某公司面試新人時，單位主管對特定族群的人有「比較懶惰」的印象，因此直接剔除履歷且拒絕 安排面試。下列何者最能反應此現象？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人種族主義"
+        },
+        {
+          "key": "B",
+          "text": "制度種族主義"
+        },
+        {
+          "key": "C",
+          "text": "文化種族主義"
+        },
+        {
+          "key": "D",
+          "text": "環境種族主義"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q35",
+      "number": 35,
+      "stem": "貧窮議題可能增加孩童遭遇健康和發展問題的風險，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "貧窮可能使家長無法提供孩子充足的刺激和撫育環境"
+        },
+        {
+          "key": "B",
+          "text": "貧窮家戶可能處於較為擁擠、吵雜、雜亂的環境"
+        },
+        {
+          "key": "C",
+          "text": "貧窮家庭的家長對於孩子的關愛比富裕人家少"
+        },
+        {
+          "key": "D",
+          "text": "因貧窮而營養不足的母親可能增加懷孕期間的風險"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q36",
+      "number": 36,
+      "stem": "依據增強權能觀點，針對無家者的處遇，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "透過庇護安置與補助措施，滿足基本生理需求，並降低社會衝突"
+        },
+        {
+          "key": "B",
+          "text": "以個案管理為途徑，協助適應現有制度與社會規範"
+        },
+        {
+          "key": "C",
+          "text": "以社會秩序維護為目標，強化管理與行為規範之約束，防止其重返街頭"
+        },
+        {
+          "key": "D",
+          "text": "透過提供機會與支持，協助學習自決、連結資源與權力掌控，以增進其解決問題與自我照顧的 能力"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q37",
+      "number": 37,
+      "stem": "依據文化偏差理論，居住於貧民區的少年之所以較易犯罪的主要原因，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "智力水準相對較低，難以理解並遵循社會規範"
+        },
+        {
+          "key": "B",
+          "text": "遵循之價值體系與行為規範有別於中產階級"
+        },
+        {
+          "key": "C",
+          "text": "因經濟壓力過大而被迫從事非法行為"
+        },
+        {
+          "key": "D",
+          "text": "受到媒體與偶像影響而模仿犯罪"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q38",
+      "number": 38,
+      "stem": "未成年人未婚懷孕影響女性身心發展，對於整體發展具有影響，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "就生理層面，相較於成年女性，青少女懷孕承擔醫療上的風險較高"
+        },
+        {
+          "key": "B",
+          "text": "就心理層面，對於未成年懷孕，若家庭提供正向支持與社會支持，可幫助其穩定情緒"
+        },
+        {
+          "key": "C",
+          "text": "就社會層面，從家庭系統來看，青少女懷孕可能造成家庭壓力"
+        },
+        {
+          "key": "D",
+          "text": "就法律層面，非婚生子女不經認領，家長雙方監護權視為共同持有"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q39",
+      "number": 39,
+      "stem": "有關中年者可能面臨的挑戰，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "因子女離家，若疏於投注於婚姻的經營，婚姻滿意度可能下降"
+        },
+        {
+          "key": "B",
+          "text": "面臨長輩老化，可能會因為照顧壓力而有較高的健康風險"
+        },
+        {
+          "key": "C",
+          "text": "與子女關係完全不影響其心理健康"
+        },
+        {
+          "key": "D",
+          "text": "如三明治世代，可能同時照顧年老的長輩與未成年子女"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0304:q40",
+      "number": 40,
+      "stem": "兒少過度使用 3C 電子產品，可能影響其身心發展，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "過度使用 3C 產品，可能造成兒少有睡眠問題或過度肥胖等身心健康議題"
+        },
+        {
+          "key": "B",
+          "text": "兒童使用網路媒體與他人互動，可增進兒童與友伴的連結"
+        },
+        {
+          "key": "C",
+          "text": "長期使用網路可以提升學習專注力，較不易分心，促進學習成效"
+        },
+        {
+          "key": "D",
+          "text": "兒童與家長或家人之間有好的溝通互動，可以減少危險的網路使用行為"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0304:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0304:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    }
+  ]
+}

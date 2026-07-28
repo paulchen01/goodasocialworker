@@ -63,7 +63,7 @@ import {
 } from "./weak-record-backup.mjs?v=20260717-05";
 
 const app = document.querySelector("#app");
-const DATA_VERSION = "20260724-104q14";
+const DATA_VERSION = "20260728-115100";
 const ESSAY_DRAFTS_KEY = "kaoshangSocialWorkerEssayDrafts";
 const ESSAY_PENDING_JOB_KEY = "kaoshangSocialWorkerEssayPendingJob";
 const ESSAY_JOB_POLL_INTERVAL_MS = 3000;

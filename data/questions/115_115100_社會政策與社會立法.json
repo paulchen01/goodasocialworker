@@ -1,0 +1,1221 @@
+{
+  "examId": "社工師:115100:c103:s0303",
+  "examInstanceId": "社工師:115100:c103",
+  "examTrack": "社工師",
+  "subject": "社會政策與社會立法",
+  "subjectCode": "0303",
+  "yearRoc": 115,
+  "examCode": "115100",
+  "examName": "115年第二次專門職業及技術人員高等考試營養師、護理師、社會工作師考試、115年專門職業及技術人員高等考試心理師、法醫師、語言治療師、聽力師、牙體技術師、公共衛生師考試、高等暨普通考試驗光人員考試",
+  "examAttempt": "第二次",
+  "categoryCode": "103",
+  "categoryName": "專技高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115100&c=103&s=0303&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115100&c=103&s=0303&q=1",
+  "questionSourceFileId": "社工師:115100:c103:s0303:Q",
+  "answerSourceFileId": "社工師:115100:c103:s0303:S",
+  "pointsPerQuestion": 1.5,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:115100:c103:s0303:q01",
+      "number": 1,
+      "stem": "關於社會政策意涵之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會政策可視為整體公共政策之一環，是影響公共福利的國家行動"
+        },
+        {
+          "key": "B",
+          "text": "社會政策的推行會影響人民的資源如何分配與重分配"
+        },
+        {
+          "key": "C",
+          "text": "社會政策是解決社會問題的工具，而這些問題不具備公共性與集體性"
+        },
+        {
+          "key": "D",
+          "text": "政府可以透過直接形成社會政策，以提升人民的福利"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q02",
+      "number": 2,
+      "stem": "Ian Gough 將需求分為基本需求和中介需求兩種，下列何種屬於基本需求？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自主性"
+        },
+        {
+          "key": "B",
+          "text": "經濟安全"
+        },
+        {
+          "key": "C",
+          "text": "基礎教育"
+        },
+        {
+          "key": "D",
+          "text": "身體安全"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q03",
+      "number": 3,
+      "stem": "下列何種意識形態認為社會福利會造成福利領取者懶惰、不想工作，進而形成福利依賴的問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會民主"
+        },
+        {
+          "key": "B",
+          "text": "綠色主義"
+        },
+        {
+          "key": "C",
+          "text": "新右派"
+        },
+        {
+          "key": "D",
+          "text": "女性主義"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q04",
+      "number": 4,
+      "stem": "下列何者不是第三條路所重視的特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "積極性的福利體系"
+        },
+        {
+          "key": "B",
+          "text": "培養民眾的積極性與責任感"
+        },
+        {
+          "key": "C",
+          "text": "重視結果平等"
+        },
+        {
+          "key": "D",
+          "text": "強調福利多元供給"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q05",
+      "number": 5,
+      "stem": "下列何者是女性主義對傳統福利國家的主要批評？",
+      "options": [
+        {
+          "key": "A",
+          "text": "福利國家給予女性太多特權"
+        },
+        {
+          "key": "B",
+          "text": "福利國家預設了「男主外、女主內」的性別分工，強化了女性的依賴"
+        },
+        {
+          "key": "C",
+          "text": "福利國家破壞了傳統家庭價值"
+        },
+        {
+          "key": "D",
+          "text": "福利國家導致男性失業"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q06",
+      "number": 6,
+      "stem": "有關 1601 年英國伊莉莎白濟貧法的重要救濟原則，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "貧民分類為有工作能力、無工作能力和失依兒童"
+        },
+        {
+          "key": "B",
+          "text": "不同類別貧民，提供不同的強制勞動或救濟"
+        },
+        {
+          "key": "C",
+          "text": "親屬沒有能力時，才有必要由社會大眾伸出援手"
+        },
+        {
+          "key": "D",
+          "text": "地方教區可跨區負責救濟"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q07",
+      "number": 7,
+      "stem": "有關國家中心論之敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "政府不必然受到外部因素擺布"
+        },
+        {
+          "key": "B",
+          "text": "國家本身為行動者"
+        },
+        {
+          "key": "C",
+          "text": "公務員的貢獻大於利益團體"
+        },
+        {
+          "key": "D",
+          "text": "行政官僚在政策過程中僅是消極的參與者"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q08",
+      "number": 8,
+      "stem": "社會福利體系的發展是為回應一個國家的工業化導致社會秩序變遷與社會問題的結果。上述係屬 何種理論觀點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "工業主義邏輯"
+        },
+        {
+          "key": "B",
+          "text": "擴散理論"
+        },
+        {
+          "key": "C",
+          "text": "全球化觀點"
+        },
+        {
+          "key": "D",
+          "text": "社會抗爭論"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q09",
+      "number": 9,
+      "stem": "下列規範身心障礙者在「個人行動能力」之敘述，何者非屬聯合國身心障礙者權利公約之規定？",
+      "options": [
+        {
+          "key": "A",
+          "text": "身心障礙者需依社區服務方式、所訂時間和付費模式參加行動培力服務方案"
+        },
+        {
+          "key": "B",
+          "text": "促進身心障礙者享有近用優質之行動輔具、用品、輔助技術以及各種形式之現場協助及中介"
+        },
+        {
+          "key": "C",
+          "text": "提供身心障礙者及與其共事之專業人員行動技能培訓"
+        },
+        {
+          "key": "D",
+          "text": "鼓勵生產行動輔具、用品與輔助技術之生產者斟酌身心障礙者行動能力之所有面向"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q10",
+      "number": 10,
+      "stem": "社會政策制定模式中，有關政治途徑與漸進途徑的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "根據漸進途徑，大部分政策制定者會定期提出創新性的政策"
+        },
+        {
+          "key": "B",
+          "text": "政治途徑主張「爭議調解」是政府解決各種衝突的方法之一"
+        },
+        {
+          "key": "C",
+          "text": "政治途徑認為社會政策無法忽略社會群體間的利益衝突，一旦涉及資源分配，便很難讓所有群 體完全滿意政策結果"
+        },
+        {
+          "key": "D",
+          "text": "漸進途徑認為在有限時間、知識與成本考量下，決策制定者會採取較為保守的政策制定過程， 即以現有政策進行小幅調整"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q11",
+      "number": 11,
+      "stem": "促進臺灣社會福利民營化發展的因素，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "參考國外發展經驗"
+        },
+        {
+          "key": "B",
+          "text": "國際公約的要求"
+        },
+        {
+          "key": "C",
+          "text": "地方政府對契約委外需求增加"
+        },
+        {
+          "key": "D",
+          "text": "各項民營化法制面措施的完成"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q12",
+      "number": 12,
+      "stem": "反種族主義（Anti-racism）對社會政策看法，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "只要改變個人偏見即可消除歧視"
+        },
+        {
+          "key": "B",
+          "text": "種族歧視是制度性的，滲透在法律與行政程序中"
+        },
+        {
+          "key": "C",
+          "text": "應完全忽略種族差異"
+        },
+        {
+          "key": "D",
+          "text": "少數族群應完全同化"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q13",
+      "number": 13,
+      "stem": "有關福利多元主義的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "政府部門應極小化福利服務的提供"
+        },
+        {
+          "key": "B",
+          "text": "商業部門係依市場機制與邏輯運作"
+        },
+        {
+          "key": "C",
+          "text": "非營利部門利潤不應用於私人性的目的"
+        },
+        {
+          "key": "D",
+          "text": "非正式部門係指以家庭之成員與鄰居友人所延伸的服務輸送網絡"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q14",
+      "number": 14,
+      "stem": "有關人群關係學派的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "X 理論假設人性本惡"
+        },
+        {
+          "key": "B",
+          "text": "Y 理論假設人性本善"
+        },
+        {
+          "key": "C",
+          "text": "Z 理論強調人與人之間的信任關係"
+        },
+        {
+          "key": "D",
+          "text": "人群關係學派強調「人如果工作有效率，則他便會快樂」"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q15",
+      "number": 15,
+      "stem": "有關社會福利政策中網絡治理（network governance）的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是種組織內領導統御的管理形式"
+        },
+        {
+          "key": "B",
+          "text": "目標在組織內部權責分配與再造"
+        },
+        {
+          "key": "C",
+          "text": "主張公共服務由單一部門有效供給"
+        },
+        {
+          "key": "D",
+          "text": "是參與者在彼此同意遊戲規則下的互動與協商"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q16",
+      "number": 16,
+      "stem": "韋伯（M. Weber）對科層（bureaucracy）管理運作方式的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "科層體制的職權隨層級降低而遞增"
+        },
+        {
+          "key": "B",
+          "text": "具有明確的法規制度，規定組織成員的權責範圍與行動準則"
+        },
+        {
+          "key": "C",
+          "text": "個人在組織中的升遷與報酬，主要依據年資而決定"
+        },
+        {
+          "key": "D",
+          "text": "在溝通或其他活動上，組織成員無須嚴格遵守指揮鏈的原則"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q17",
+      "number": 17,
+      "stem": "下列何者不是契約委外（contracting-out）的挑戰？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社福型非營利組織容易形成實質的競爭效果"
+        },
+        {
+          "key": "B",
+          "text": "缺乏足夠的非營利組織參與或不願意承接社會服務方案"
+        },
+        {
+          "key": "C",
+          "text": "承接社會服務的非營利組織無法招募並留住社工專業人力"
+        },
+        {
+          "key": "D",
+          "text": "公部門的行政人員缺乏對契約委外業務的規劃管理能力"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q18",
+      "number": 18,
+      "stem": "下列那一種福利給付形式比較可以同時兼顧社會控制的目的及消費者選擇的自由？",
+      "options": [
+        {
+          "key": "A",
+          "text": "現金給付"
+        },
+        {
+          "key": "B",
+          "text": "個案晤談"
+        },
+        {
+          "key": "C",
+          "text": "食物券"
+        },
+        {
+          "key": "D",
+          "text": "理財教育講座"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q19",
+      "number": 19,
+      "stem": "關於年金的財源籌措與給付制度的原理，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "確定提撥制只能先確定提撥比率和提撥方式，無法先確定最後會領取多少給付"
+        },
+        {
+          "key": "B",
+          "text": "若年金的財源籌措採用完全基金提存準備制，通常會搭配確定給付制"
+        },
+        {
+          "key": "C",
+          "text": "確定提撥制並不具備社會保險風險分攤的功能"
+        },
+        {
+          "key": "D",
+          "text": "我國勞工退休金條例之退休給付為確定提撥制"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q20",
+      "number": 20,
+      "stem": "有關社會保險保費的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會保險之保費收入，納入政府稅收收入及支出"
+        },
+        {
+          "key": "B",
+          "text": "各國制度常會藉由一些指定稅費（如菸酒捐），做為社會保險財源的補充"
+        },
+        {
+          "key": "C",
+          "text": "雇主負擔保費屬於職工福利的性質"
+        },
+        {
+          "key": "D",
+          "text": "勞工負擔保費，基於互助及自我保障的責任"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q21",
+      "number": 21,
+      "stem": "有關中低收入老人生活津貼的福利供給，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "募款型社會救濟"
+        },
+        {
+          "key": "B",
+          "text": "預算型社會救助"
+        },
+        {
+          "key": "C",
+          "text": "年金型保險制度"
+        },
+        {
+          "key": "D",
+          "text": "強制型社會保障"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q22",
+      "number": 22,
+      "stem": "依兒童及少年福利與權益保障法之規定，父母或監護人於出養兒童及少年時，在下列何種情況下， 應委託收出養媒合服務者代覓適當之收養人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "夫妻之一方收養他方子女"
+        },
+        {
+          "key": "B",
+          "text": "旁系血親在六親等以內，輩分相當"
+        },
+        {
+          "key": "C",
+          "text": "旁系姻親在五親等以內，輩分相當"
+        },
+        {
+          "key": "D",
+          "text": "出養人已自行找到非親屬但有意願的收養人"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q23",
+      "number": 23,
+      "stem": "依據兒童及少年福利與權益保障法規定，主管機關每幾年應就兒童及少年身心發展、社會參與、 生活及需求現況進行調查、統計及分析？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 年"
+        },
+        {
+          "key": "B",
+          "text": "3 年"
+        },
+        {
+          "key": "C",
+          "text": "4 年"
+        },
+        {
+          "key": "D",
+          "text": "5 年"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q24",
+      "number": 24,
+      "stem": "Howard M. Leichter 指出影響政策制定因素有所謂情境因素，下列敘述何者不是情境因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "偶發事件"
+        },
+        {
+          "key": "B",
+          "text": "非永久或特殊情況事件"
+        },
+        {
+          "key": "C",
+          "text": "政治制度"
+        },
+        {
+          "key": "D",
+          "text": "種族暴動"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q25",
+      "number": 25,
+      "stem": "依據身心障礙者權益保障法規定，私立學校、團體及民營事業機構員工總人數在幾人以上者，進 用具有就業能力之身心障礙者人數，不得低於員工總人數百分之一，且不得少於一人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "34 人"
+        },
+        {
+          "key": "B",
+          "text": "50 人"
+        },
+        {
+          "key": "C",
+          "text": "67 人"
+        },
+        {
+          "key": "D",
+          "text": "100 人"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q26",
+      "number": 26,
+      "stem": "依據我國家庭暴力防治法，關於家庭暴力之定義，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭暴力指家庭成員間實施身體、精神或經濟上之騷擾、控制、脅迫或其他不法侵害之行為"
+        },
+        {
+          "key": "B",
+          "text": "家庭暴力罪指家庭成員間因故意或過失而實施家庭暴力行為而成立其他法律所規定之犯罪"
+        },
+        {
+          "key": "C",
+          "text": "目睹家庭暴力指看見或直接聽聞家庭暴力"
+        },
+        {
+          "key": "D",
+          "text": "騷擾指任何打擾、警告、嘲弄或辱罵他人之言語、動作或製造使人心生畏怖情境之行為"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q27",
+      "number": 27,
+      "stem": "依據家庭暴力防治法規定，下列何者不是保護令的聲請法院管轄地？",
+      "options": [
+        {
+          "key": "A",
+          "text": "被害人住居所地之地方法院"
+        },
+        {
+          "key": "B",
+          "text": "相對人住居所地之地方法院"
+        },
+        {
+          "key": "C",
+          "text": "被害人工作所在地之地方法院"
+        },
+        {
+          "key": "D",
+          "text": "家庭暴力發生地之地方法院"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q28",
+      "number": 28,
+      "stem": "依據社會救助法規定，人民遭受水、火、風、雹、旱、地震及其他災害，致損害重大，影響生活 者，政府應予人民何種救助？",
+      "options": [
+        {
+          "key": "A",
+          "text": "生活扶助"
+        },
+        {
+          "key": "B",
+          "text": "急難救助"
+        },
+        {
+          "key": "C",
+          "text": "醫療補助"
+        },
+        {
+          "key": "D",
+          "text": "災害救助"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q29",
+      "number": 29,
+      "stem": "社會救助法關於「有工作能力未就業者」之工作收入認定，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "原則上依基本工資核算"
+        },
+        {
+          "key": "B",
+          "text": "經公立就業服務機構認定失業者，其失業期間得不計算工作收入"
+        },
+        {
+          "key": "C",
+          "text": "16 歲以上未滿 20 歲者，依基本工資百分之七十計算"
+        },
+        {
+          "key": "D",
+          "text": "身心障礙者，依基本工資百分之五十計算"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q30",
+      "number": 30,
+      "stem": "社會工作師若違反倫理守則或有業務上重大、重複發生之過失行為，將由社會工作師公會或主管 機關移付懲戒，其懲戒方式不包括下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "限制執業範圍或停業 1 個月以上 1 年以下"
+        },
+        {
+          "key": "B",
+          "text": "廢止執業執照"
+        },
+        {
+          "key": "C",
+          "text": "公開姓名及執業機構名稱"
+        },
+        {
+          "key": "D",
+          "text": "廢止社會工作師證書"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q31",
+      "number": 31,
+      "stem": "依據社會福利基本法規定，社會福利應本於那三種原則，並兼顧家庭及社會責任，以預防、減緩 社會問題，促進國民福祉為目標？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會排除、社會資本及社會包容"
+        },
+        {
+          "key": "B",
+          "text": "社會包容、城鄉均衡及永續發展"
+        },
+        {
+          "key": "C",
+          "text": "社會投資、社會資本及社會包容"
+        },
+        {
+          "key": "D",
+          "text": "社會包容、社會正義及經濟成長"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q32",
+      "number": 32,
+      "stem": "社會工作者下班後在住家附近便利商店購物時，偶然聽到隔壁桌兩名成年男子討論涉及未成年人 的性剝削行為，並提及具體的被害者姓名。依據兒童及少年性剝削防制條例規定，有關社會工作 者通報權利義務，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會工作者基於專業人員身分，仍負有強制通報義務，應於 24 小時內向縣市社會局通報被害 人及向警察機關通報犯罪嫌疑人"
+        },
+        {
+          "key": "B",
+          "text": "由於非在執行職務或業務時知悉，社會工作者具通報權利而無強制義務，但若選擇通報，仍應 依法定程序向適當機關通報"
+        },
+        {
+          "key": "C",
+          "text": "社會工作者應立即報警處理，因為在公共場所聽聞犯罪行為屬於現行犯情況，不適用兒童及少 年性剝削防制條例的通報程序"
+        },
+        {
+          "key": "D",
+          "text": "基於社工專業倫理中的保密原則，社會工作者不得主動通報非案主相關之第三人資訊，應建議 當事人自行報案"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q33",
+      "number": 33,
+      "stem": "依據性侵害犯罪防治法規定，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "加害人應接受司法警察機關照相、採取指紋及採樣 DNA，不得拒絕"
+        },
+        {
+          "key": "B",
+          "text": "加害人之相片、指紋、DNA 與基本資料皆應保密，除依法律規定外不得提供"
+        },
+        {
+          "key": "C",
+          "text": "中央目的事業主管機關為防治跨國性侵害犯罪，必要時得依法律或國際協定提供加害人個人資料"
+        },
+        {
+          "key": "D",
+          "text": "司法警察機關採樣 DNA 的方式由法院訂定相關辦法"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q34",
+      "number": 34,
+      "stem": "下列何者並非精神衛生法中規定的強制社區治療項目？",
+      "options": [
+        {
+          "key": "A",
+          "text": "藥物治療"
+        },
+        {
+          "key": "B",
+          "text": "心理治療"
+        },
+        {
+          "key": "C",
+          "text": "復健治療"
+        },
+        {
+          "key": "D",
+          "text": "網絡介入"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q35",
+      "number": 35,
+      "stem": "依據性別平等工作法規定，受僱者妊娠期間，雇主應給予產檢假 7 日，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "受僱者產檢假期間的薪資不計算"
+        },
+        {
+          "key": "B",
+          "text": "受僱者產檢假期間的薪資按照全薪發給"
+        },
+        {
+          "key": "C",
+          "text": "受僱者產檢假期間的薪資給予六成發給"
+        },
+        {
+          "key": "D",
+          "text": "受僱者產檢假期間的薪資給予八成發給"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q36",
+      "number": 36,
+      "stem": "有關志願服務法規內容之敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "當志工依運用單位指示服務時，因過失不法侵害他人權利，損害賠償責任仍由志工承擔"
+        },
+        {
+          "key": "B",
+          "text": "志願服務計畫包括單純、偶發，基於家庭或友誼原因而執行之志願服務計畫"
+        },
+        {
+          "key": "C",
+          "text": "志工可憑志願服務榮譽卡免費進入所有康樂場所與文教設施"
+        },
+        {
+          "key": "D",
+          "text": "若志願服務的工作內容需要專門執業證照，應由具證照之志工為之"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q37",
+      "number": 37,
+      "stem": "甲 53 歲，配偶過世前有加入國民年金保險，兩人結婚 3 年。甲目前有工作能力，無需扶養子女。 依據國民年金法相關規定，甲何時可申請遺屬年金給付？",
+      "options": [
+        {
+          "key": "A",
+          "text": "年滿 50 歲"
+        },
+        {
+          "key": "B",
+          "text": "年滿 55 歲"
+        },
+        {
+          "key": "C",
+          "text": "年滿 60 歲"
+        },
+        {
+          "key": "D",
+          "text": "年滿 65 歲"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q38",
+      "number": 38,
+      "stem": "依據長期照顧服務法規定，下列何者非屬機構住宿式長照服務之項目？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會參與服務"
+        },
+        {
+          "key": "B",
+          "text": "必要之住家設施調整改善服務"
+        },
+        {
+          "key": "C",
+          "text": "家屬教育服務"
+        },
+        {
+          "key": "D",
+          "text": "住宿服務"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q39",
+      "number": 39,
+      "stem": "依據兒童及少年未來教育與發展帳戶條例規定，開戶人向主管機關申請退出兒少教育發展帳戶 時，該主管機關應自申請日起多久內派員輔導？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 個月"
+        },
+        {
+          "key": "B",
+          "text": "3 個月"
+        },
+        {
+          "key": "C",
+          "text": "6 個月"
+        },
+        {
+          "key": "D",
+          "text": "1 年"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0303:q40",
+      "number": 40,
+      "stem": "甲員工遭主管利用職權暗示為權勢性騷擾，但直到一年後才理解事件屬性。依據性騷擾防治法規 定，甲員工最遲應於何時提出申訴？",
+      "options": [
+        {
+          "key": "A",
+          "text": "於知悉事件後 1 年內，且事件發生未逾 3 年"
+        },
+        {
+          "key": "B",
+          "text": "於知悉事件後 2 年內，且事件發生未逾 5 年"
+        },
+        {
+          "key": "C",
+          "text": "於知悉事件後 3 年內，且事件發生未逾 7 年"
+        },
+        {
+          "key": "D",
+          "text": "不論何時均可提出申訴"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0303:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0303:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    }
+  ]
+}

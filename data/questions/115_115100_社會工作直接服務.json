@@ -1,0 +1,1221 @@
+{
+  "examId": "社工師:115100:c103:s0302",
+  "examInstanceId": "社工師:115100:c103",
+  "examTrack": "社工師",
+  "subject": "社會工作直接服務",
+  "subjectCode": "0302",
+  "yearRoc": 115,
+  "examCode": "115100",
+  "examName": "115年第二次專門職業及技術人員高等考試營養師、護理師、社會工作師考試、115年專門職業及技術人員高等考試心理師、法醫師、語言治療師、聽力師、牙體技術師、公共衛生師考試、高等暨普通考試驗光人員考試",
+  "examAttempt": "第二次",
+  "categoryCode": "103",
+  "categoryName": "專技高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115100&c=103&s=0302&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115100&c=103&s=0302&q=1",
+  "questionSourceFileId": "社工師:115100:c103:s0302:Q",
+  "answerSourceFileId": "社工師:115100:c103:s0302:S",
+  "pointsPerQuestion": 1.5,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:115100:c103:s0302:q01",
+      "number": 1,
+      "stem": "個案工作者在處理多個個案問題時，發現有著因權益被剝奪而產生共同的問題，於是透過社會行 動來促成問題的解決。這是屬於下列何種角色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個案管理者"
+        },
+        {
+          "key": "B",
+          "text": "倡導者"
+        },
+        {
+          "key": "C",
+          "text": "諮詢者"
+        },
+        {
+          "key": "D",
+          "text": "使能者"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q02",
+      "number": 2,
+      "stem": "專業社區工作者進入社區，到完成協助退出社區為止，一般週期大約為幾年？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一年"
+        },
+        {
+          "key": "B",
+          "text": "二年"
+        },
+        {
+          "key": "C",
+          "text": "三年"
+        },
+        {
+          "key": "D",
+          "text": "四年"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q03",
+      "number": 3,
+      "stem": "有關場域理論（field theory）的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "由 Kurt Lewin 提出"
+        },
+        {
+          "key": "B",
+          "text": "強調每個團體都有一個生命空間"
+        },
+        {
+          "key": "C",
+          "text": "主張團體會因應社會情況而持續改變"
+        },
+        {
+          "key": "D",
+          "text": "觀察團體本身的行為比觀察個別團體成員的行為更重要"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q04",
+      "number": 4,
+      "stem": "有關任務中心取向中，「問題（problem）」與「標的問題（target problem）」是不同的概念，下列敘 述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "「問題」指經服務對象明確同意為處遇服務中所欲處理的目標"
+        },
+        {
+          "key": "B",
+          "text": "「標的問題」指任何可經處遇的目標"
+        },
+        {
+          "key": "C",
+          "text": "服務對象有權利、有責任決定處遇的「標的問題」"
+        },
+        {
+          "key": "D",
+          "text": "服務對象逐一列出欲改變的「標的問題」，排定優先順序之前三項為待處遇之「問題」"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q05",
+      "number": 5,
+      "stem": "在與一位想提升自我管理能力的少年工作時，社會工作者說：「你是最瞭解自己生活的人，我會陪 你一起看可能的做法，但是該怎麼行動，還是要由你來決定。」依據充權取向的觀點，這樣的互 動呈現出什麼樣的專業關係？",
+      "options": [
+        {
+          "key": "A",
+          "text": "提供服務對象專業指令要求遵循"
+        },
+        {
+          "key": "B",
+          "text": "替服務對象做出最適當的決定"
+        },
+        {
+          "key": "C",
+          "text": "陪伴並協助服務對象發展自主力量"
+        },
+        {
+          "key": "D",
+          "text": "負責糾正服務對象的錯誤行為"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q06",
+      "number": 6,
+      "stem": "家庭主要照顧者突然死亡，導致家庭功能受損，頓時陷入困境。社會工作者若選擇使用「危機干 預」（crisis intervention）的工作模式來協助家庭，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "善用同理與支持，讓家庭成員在混亂中仍然保有控制感"
+        },
+        {
+          "key": "B",
+          "text": "透過描述問題、界定問題與重新組合經驗等方式，評估壓力源，協助引導家庭成員能夠掌握情 境，找出因應策略"
+        },
+        {
+          "key": "C",
+          "text": "危機干預有其時間限制，通常為短期 6 至 8 週密集處理"
+        },
+        {
+          "key": "D",
+          "text": "為解決突發的危機事件，社會工作者應快速辨識問題，暫不處理家庭成員的感受及情緒"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q07",
+      "number": 7,
+      "stem": "關於優勢觀點的個案工作取向，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "服務使用者是有自主意識的主體，有能力自決與自我負責"
+        },
+        {
+          "key": "B",
+          "text": "服務使用者是自己問題的專家，問題的成因是介入的焦點"
+        },
+        {
+          "key": "C",
+          "text": "服務使用者是社會工作者的夥伴，要共同討論脈絡中的行動"
+        },
+        {
+          "key": "D",
+          "text": "服務使用者有自己的優勢與能力，要發掘改變的可能性"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q08",
+      "number": 8,
+      "stem": "有關結案後追蹤的功能，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "確認服務成效"
+        },
+        {
+          "key": "B",
+          "text": "穩定案主改變"
+        },
+        {
+          "key": "C",
+          "text": "緩和結案衝擊"
+        },
+        {
+          "key": "D",
+          "text": "修正服務計畫"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q09",
+      "number": 9,
+      "stem": "社會工作者在結案前的「未來計畫」準備工作中，最能體現社會工作者在該階段協助服務對象發 展獨立解決問題的能力，並有效建立「維持機制」，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "為了讓服務對象感到被支持，社會工作者應提供私人聯絡方式，方便服務對象隨時聯繫"
+        },
+        {
+          "key": "B",
+          "text": "儘量避免討論未來可能遭遇的困難，以免造成服務對象焦慮而影響結案情緒"
+        },
+        {
+          "key": "C",
+          "text": "邀請服務對象在問題又漸趨嚴重時，返回機構尋求進一步協助，並承諾無限期追蹤"
+        },
+        {
+          "key": "D",
+          "text": "讓服務對象逐漸將對社會工作者的支持與依賴，轉移至發展新的社會支持，並與服務對象討論 未來如何因應"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q10",
+      "number": 10,
+      "stem": "因服務對象或社會工作者個人發生不可預期的生活事件，必須進行非計畫性結案時，下列敘述何 者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "機構應訂有標準的處理程序"
+        },
+        {
+          "key": "B",
+          "text": "應協助服務對象轉介其他服務資源"
+        },
+        {
+          "key": "C",
+          "text": "應處理服務對象轉換社會工作者的調適"
+        },
+        {
+          "key": "D",
+          "text": "以服務對象目標達成為結案指標"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q11",
+      "number": 11,
+      "stem": "當社會工作者對於家暴被害人，萌生出：「他配偶對待他的態度和方式，跟我家人以前的遭遇很類 似，真的好可憐喔！」下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "這是一種情感反轉移的現象，可能會影響專業關係"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者可尋求協助，並增強自我認知和培養專業自我"
+        },
+        {
+          "key": "C",
+          "text": "邀請服務對象協助進行對助人者的探索"
+        },
+        {
+          "key": "D",
+          "text": "社會工作者須敏銳覺察自己的感受對服務對象產生的影響"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q12",
+      "number": 12,
+      "stem": "在個案工作會談的過程中，社會工作者通常會適時地回應（responding）服務對象。關於回應的技 巧，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "以澄清的方式來確認是否正確瞭解服務對象所陳述的經驗"
+        },
+        {
+          "key": "B",
+          "text": "以面質的方式將服務對象所表達的字句加以連貫"
+        },
+        {
+          "key": "C",
+          "text": "以摘要的方式跟服務對象進行自我揭露"
+        },
+        {
+          "key": "D",
+          "text": "以反映的方式作為與服務對象會談開始的暖場"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q13",
+      "number": 13,
+      "stem": "家庭訪視是社會工作者蒐集服務對象家庭資料及服務對象與家人關係之方法。有關家庭訪視的敘 述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭訪視是社會工作服務的方法之一"
+        },
+        {
+          "key": "B",
+          "text": "家庭訪視的目的之一，包括評估案家內外在家庭資源"
+        },
+        {
+          "key": "C",
+          "text": "家庭訪視可以減少服務對象到機構的心理壓力"
+        },
+        {
+          "key": "D",
+          "text": "針對家庭暴力服務對象的家訪，基於安全的考量，社會工作者應避免或減少家庭訪視"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q14",
+      "number": 14,
+      "stem": "社會工作者服務某個案已一年，並協助他成功申請到低收入戶補助。個案為了表達感謝，提議要 將自家農場剛收穫的珍貴有機水果餽贈給社會工作者，價值約新臺幣三千元，並表示不收下就是 不給他面子。在倫理規範與考量下，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會工作者應接受餽贈，因為拒絕會傷害服務對象的自尊與專業關係"
+        },
+        {
+          "key": "B",
+          "text": "社會工作者可接受餽贈，但應將餽贈物品公開陳列於機構，避免不當利益"
+        },
+        {
+          "key": "C",
+          "text": "社會工作者應婉拒餽贈，因不得收受不當餽贈，以避免與服務對象有不當雙重或多重關係"
+        },
+        {
+          "key": "D",
+          "text": "社會工作者應接受餽贈，但必須將水果轉送給其他更需要的服務對象"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q15",
+      "number": 15,
+      "stem": "某社福機構社會工作者服務一位因疫情失業且無法支付房租，即將被房東驅逐的單親家長。社會 工作者知道，根據現行法規，該家長並不符合安置的資格條件。為了不讓單親家長與孩子露宿街 頭，而是用專案申請方式使其能繼續入住安置處所。社會工作者的做法最主要的倫理依據為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "應優先遵守「個人自由意願下的法律遵守」原則，社會工作者不應違反法律規定"
+        },
+        {
+          "key": "B",
+          "text": "應優先遵守「公共利益原則」，確保社會安置資源的合理分配"
+        },
+        {
+          "key": "C",
+          "text": "應優先適用「個人幸福權優先於法律／政策」原則，因為服務對象的基本幸福受到威脅，法規 就不是優先被遵守的"
+        },
+        {
+          "key": "D",
+          "text": "應優先遵守「最小傷害原則」，採取最少損害的方法"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q16",
+      "number": 16,
+      "stem": "依據 Hill 的 ABC-X 理論，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "失業一定會造成家庭很大的壓力"
+        },
+        {
+          "key": "B",
+          "text": "家庭既有的資源無法因應新發生的壓力事件"
+        },
+        {
+          "key": "C",
+          "text": "服務對象對自己缺乏信心，也是家庭壓力的來源之一"
+        },
+        {
+          "key": "D",
+          "text": "只要依據災難事件的大小就可以判斷家庭壓力程度"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q17",
+      "number": 17,
+      "stem": "下列那些屬於任務性團體？①社會行動團體 ②員工發展團體 ③酗酒戒治團體 ④唐氏症兒 童的父母團體",
+      "options": [
+        {
+          "key": "A",
+          "text": "③④"
+        },
+        {
+          "key": "B",
+          "text": "①②"
+        },
+        {
+          "key": "C",
+          "text": "②③"
+        },
+        {
+          "key": "D",
+          "text": "①④"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q18",
+      "number": 18,
+      "stem": "有關預估（assessment）的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "預估是持續進行的"
+        },
+        {
+          "key": "B",
+          "text": "預估只依賴服務對象口頭陳述"
+        },
+        {
+          "key": "C",
+          "text": "預估涉及社會工作者與服務對象的互動"
+        },
+        {
+          "key": "D",
+          "text": "預估需蒐集多面向資訊"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q19",
+      "number": 19,
+      "stem": "關於自助團體（self-help group）的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "團體通常採開放團體的形式"
+        },
+        {
+          "key": "B",
+          "text": "成員與成員間通常能夠有自我揭露的表達"
+        },
+        {
+          "key": "C",
+          "text": "團體領導者通常由固定的專業人士擔任"
+        },
+        {
+          "key": "D",
+          "text": "成員主要是有相同問題或關心相同議題的人"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q20",
+      "number": 20,
+      "stem": "Papell 與 Rothman 將社會團體工作區分為三個實施模型，其中協助過程中的焦點是個人與社會， 強調團體的過程，團體中的方案與問題，由團體成員來決定，團體工作的角色是使能者、協調者。 此模型係屬下列何種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "增能模型"
+        },
+        {
+          "key": "B",
+          "text": "社會目標模型"
+        },
+        {
+          "key": "C",
+          "text": "交互模型"
+        },
+        {
+          "key": "D",
+          "text": "自助模型"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q21",
+      "number": 21,
+      "stem": "當社會事件當事人隱私與新聞媒體自由相遇，關於保密與隱私的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "保密守則提供社會工作者處理與服務對象之間錯綜複雜關係時的準則，目的是保障服務品質， 維護當事人福祉"
+        },
+        {
+          "key": "B",
+          "text": "保密與隱私是專業關係產生信賴的重要關鍵，促使服務對象感到安全、互信、共同合作並為關 係帶來正面發展"
+        },
+        {
+          "key": "C",
+          "text": "保密守則奠基於對服務對象隱私之尊重所形成的專業約定或準繩，以免社會工作者不當介入引 發對人權侵犯"
+        },
+        {
+          "key": "D",
+          "text": "隱私權須尊重，但當社會工作者目的為維護服務對象權益與福祉而揭露個人相關資訊，即可使 用保密例外原則"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q22",
+      "number": 22,
+      "stem": "有關團體動力的敘述，下列何者正確？①團體凝聚力可能會形成團體思考（group think），團體變得 想法更靠近，但也會有一致性的壓力 ②團體成員的角色功能越固定不變，越有助於團體的穩定發展 ③由默契形成的準則可能會形成團體規範 ④次團體對於團體互動具有負面影響，必須積極處理",
+      "options": [
+        {
+          "key": "A",
+          "text": "①③"
+        },
+        {
+          "key": "B",
+          "text": "①④"
+        },
+        {
+          "key": "C",
+          "text": "③④"
+        },
+        {
+          "key": "D",
+          "text": "②③"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q23",
+      "number": 23,
+      "stem": "團體互動歷程中常見形成「代罪羔羊」的情境，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "團體處理緊張情況下"
+        },
+        {
+          "key": "B",
+          "text": "團體角色分化的偏頗與固著"
+        },
+        {
+          "key": "C",
+          "text": "作為維持內部與外部均衡手段"
+        },
+        {
+          "key": "D",
+          "text": "團體成員彼此過度依賴領導者的指導"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q24",
+      "number": 24,
+      "stem": "不同團體發展階段各有其功能與任務，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "團體開始階段，帶領者應積極引導成員自我揭露，以提升團體凝聚力"
+        },
+        {
+          "key": "B",
+          "text": "團體中間階段，成員學習藉由團體映照的特性認識自己"
+        },
+        {
+          "key": "C",
+          "text": "團體轉換階段，領導者以高結構討論及傳遞知識來催化成員參與"
+        },
+        {
+          "key": "D",
+          "text": "團體結束階段，部分成員可能未能獲得有效解決，但仍需隨團體結束而中止服務"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q25",
+      "number": 25,
+      "stem": "某身心障礙者倡議組織想要瞭解身心障礙者在當前生活環境中，使用無障礙空間的正面和負面經 驗與深度感受，下列何種團體討論方法最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "德菲法"
+        },
+        {
+          "key": "B",
+          "text": "反面思考法"
+        },
+        {
+          "key": "C",
+          "text": "焦點團體法"
+        },
+        {
+          "key": "D",
+          "text": "記名式團體技術"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q26",
+      "number": 26,
+      "stem": "有關團體工作者可運用的衝突解決技巧，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "仲裁"
+        },
+        {
+          "key": "B",
+          "text": "緩和"
+        },
+        {
+          "key": "C",
+          "text": "協商"
+        },
+        {
+          "key": "D",
+          "text": "宣洩"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q27",
+      "number": 27,
+      "stem": "有關團體工作牽涉的雙重關係之敘述，下列何者正確？①領導者與團體成員之間有專業關係以外 的其他關係皆是雙重關係 ②領導者絕對可以避免雙重關係 ③雙重關係有助於團體工作的進 行 ④雙重關係會增加團體成員受到傷害的風險",
+      "options": [
+        {
+          "key": "A",
+          "text": "①④"
+        },
+        {
+          "key": "B",
+          "text": "②④"
+        },
+        {
+          "key": "C",
+          "text": "③④"
+        },
+        {
+          "key": "D",
+          "text": "①②"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q28",
+      "number": 28,
+      "stem": "有關團體領導者的敘述，下列那些作法符合團體工作倫理？①領導者能覺察自己的動機 ②領導 者清楚自己的理論立場 ③領導者瞭解自己能力的界線 ④領導者努力嘗試各種不熟悉的新團 體技巧以提升自己的帶領能力",
+      "options": [
+        {
+          "key": "A",
+          "text": "①②④"
+        },
+        {
+          "key": "B",
+          "text": "②③④"
+        },
+        {
+          "key": "C",
+          "text": "①②③"
+        },
+        {
+          "key": "D",
+          "text": "①③④"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q29",
+      "number": 29,
+      "stem": "下列何者並非社區工作的目標？",
+      "options": [
+        {
+          "key": "A",
+          "text": "增進居民的社會心理功能"
+        },
+        {
+          "key": "B",
+          "text": "提升居民的社區意識"
+        },
+        {
+          "key": "C",
+          "text": "改變社會資源與權利分配"
+        },
+        {
+          "key": "D",
+          "text": "善用社區資源，滿足社區需求"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q30",
+      "number": 30,
+      "stem": "社區工作者的角色是隨著工作歷程而彈性變動，親善者主要是那個階段的角色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "起步階段"
+        },
+        {
+          "key": "B",
+          "text": "評估與發展計畫階段"
+        },
+        {
+          "key": "C",
+          "text": "工作階段"
+        },
+        {
+          "key": "D",
+          "text": "持續與擴大階段"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q31",
+      "number": 31,
+      "stem": "社會工作者整理一位兒虐相對人的資源與優勢，係屬下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "因應的問題"
+        },
+        {
+          "key": "B",
+          "text": "例外的問題"
+        },
+        {
+          "key": "C",
+          "text": "量尺的問題"
+        },
+        {
+          "key": "D",
+          "text": "奇蹟的問題"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q32",
+      "number": 32,
+      "stem": "下列何者不屬於「以資產為基礎的社區發展」（asset-based community development）模式的基本觀 點與原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "瞭解到社區資產的存在及社區本身具有改革的能力"
+        },
+        {
+          "key": "B",
+          "text": "與傳統社區資源缺乏取向概念雷同"
+        },
+        {
+          "key": "C",
+          "text": "以社區資產為基礎，社區擁有資產為推動社區發展工作的起點"
+        },
+        {
+          "key": "D",
+          "text": "改變社會環境、經濟結構思維，讓社區居民由消費者轉變為設計者"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q33",
+      "number": 33,
+      "stem": "在建立社區的網絡關係時，協助社區管理外部資金及對外合作關係，主要可提升何種社區能力？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資源能力（resource capacity）"
+        },
+        {
+          "key": "B",
+          "text": "政治能力（political capacity）"
+        },
+        {
+          "key": "C",
+          "text": "方案能力（programmatic capacity）"
+        },
+        {
+          "key": "D",
+          "text": "組織能力（organizational capacity）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q34",
+      "number": 34,
+      "stem": "認識社區是社區工作團隊進入社區首要達成的工作，社區背景調查為非常重要的過程，下列敘述 何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "藉由社區調查來認識社區"
+        },
+        {
+          "key": "B",
+          "text": "為了向民眾與贊助單位說明計畫的必要性"
+        },
+        {
+          "key": "C",
+          "text": "為了掌握社區權力結構，以化解社區的衝突"
+        },
+        {
+          "key": "D",
+          "text": "是一種教育及動員的過程，作為組織社區的起點"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q35",
+      "number": 35,
+      "stem": "依據學者 Adams 提出社區培力的實務特性，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "直覺式行動帶來改變（action upon intuition）"
+        },
+        {
+          "key": "B",
+          "text": "連續且漸進式的改變過程（on a continuum）"
+        },
+        {
+          "key": "C",
+          "text": "反抗壓迫的工作方法（anti-oppressive practice）"
+        },
+        {
+          "key": "D",
+          "text": "交流中帶來意識覺醒（consciousness-raising through a dialogic process）"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q36",
+      "number": 36,
+      "stem": "社區會議有很多類型和性質，不同會議有特定的目的，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "腦力激盪性質的會議通常是開放自由，多屬於籌備階段舉行"
+        },
+        {
+          "key": "B",
+          "text": "社區領袖常召集居民做宣導說明會，此多是幹部對居民單向的溝通，並非關注在討論"
+        },
+        {
+          "key": "C",
+          "text": "工作協調性的會議，多是專案性的，參與者可以關注在工作分配的議題"
+        },
+        {
+          "key": "D",
+          "text": "每年會議要開的次數與頻率由社區領袖決定，避免勞民傷財"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q37",
+      "number": 37,
+      "stem": "有關社區培力敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Stepney 以英國的經驗歸納出三種社區介入模式，其中之一是包括協同合作的社區培力模式"
+        },
+        {
+          "key": "B",
+          "text": "在社區培力中有分級培力的概念，社區育成中心透過因材施教的方式，依不同的社區能力差異， 提升社區能力"
+        },
+        {
+          "key": "C",
+          "text": "Adams 指出培力的過程是一種反思的實踐，改變乃是來自反思與實踐的結合循環"
+        },
+        {
+          "key": "D",
+          "text": "Stepney 與 Evans 對社區社會工作模式提出六大階段，最後的階段是融合相關介入模式，培力技 巧成為一個整合性的模式"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q38",
+      "number": 38,
+      "stem": "有關聯合社區之運作原則，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立相互協力及合作分工的團隊"
+        },
+        {
+          "key": "B",
+          "text": "融入學習型組織的特性"
+        },
+        {
+          "key": "C",
+          "text": "運用優勢觀點，發揮社區特色"
+        },
+        {
+          "key": "D",
+          "text": "均分計畫經費且各自獨立執行計畫"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q39",
+      "number": 39,
+      "stem": "在數位時代，網路災難救援在社區防災扮演著重要角色，下列何項不是網路在社區防災時所具有 的功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建置資料庫，讓災害的知識、防災知識及即時救援訊息得以正確傳播"
+        },
+        {
+          "key": "B",
+          "text": "將受災區的需求進行評估並分門別類盤點，以進行資源的募集"
+        },
+        {
+          "key": "C",
+          "text": "透過集體網路的力量將災民的個人資訊進行揭露"
+        },
+        {
+          "key": "D",
+          "text": "與各縣市政府的社會福利機構合作，協助收容中心的資訊傳達"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0302:q40",
+      "number": 40,
+      "stem": "民主觀點的社區治理強調社區必須是一種包容的社區，下列那項不是社區參與的社區治理原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "共同討論"
+        },
+        {
+          "key": "B",
+          "text": "自由主義式的經濟模式"
+        },
+        {
+          "key": "C",
+          "text": "共同價值與相互責任"
+        },
+        {
+          "key": "D",
+          "text": "社群主義式的權力關係"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0302:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0302:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    }
+  ]
+}

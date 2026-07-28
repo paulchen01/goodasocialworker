@@ -15,6 +15,19 @@
         "question image manifest",
         "P0 audit gate"
       ]
+    },
+    {
+      "proof": "moex-115100-reviewed-20260728",
+      "status": "approved",
+      "generatedAt": "2026-07-28",
+      "questionCount": 200,
+      "scope": "115年第二次社會工作師考試五科正式選擇題",
+      "basis": [
+        "考選部正式試題PDF逐頁目視檢查",
+        "考選部測驗式試題標準答案空間版面解析",
+        "五科各40題與A至D選項結構檢查",
+        "題幹、跨題指涉與附圖需求檢查"
+      ]
     }
   ],
   "items": [
@@ -36497,6 +36510,1206 @@
       "status": "approved",
       "proof": "p0-current-bank-reviewed-20260707",
       "reason": "Current P0 production question bank entry is approved for release after parser, manual-patch, official-answer-issue, image-manifest, and audit-gate checks."
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:1",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:2",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:3",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:4",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:5",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:6",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:7",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:8",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:9",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:10",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:11",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:12",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:13",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:14",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:15",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:16",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:17",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:18",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:19",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:20",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:21",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:22",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:23",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:24",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:25",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:26",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:27",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:28",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:29",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:30",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:31",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:32",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:33",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:34",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:35",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:36",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:37",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:38",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:39",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0301:Q:40",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:1",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:2",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:3",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:4",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:5",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:6",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:7",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:8",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:9",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:10",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:11",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:12",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:13",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:14",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:15",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:16",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:17",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:18",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:19",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:20",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:21",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:22",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:23",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:24",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:25",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:26",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:27",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:28",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:29",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:30",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:31",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:32",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:33",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:34",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:35",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:36",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:37",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:38",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:39",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0302:Q:40",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:1",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:2",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:3",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:4",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:5",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:6",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:7",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:8",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:9",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:10",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:11",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:12",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:13",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:14",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:15",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:16",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:17",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:18",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:19",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:20",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:21",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:22",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:23",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:24",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:25",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:26",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:27",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:28",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:29",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:30",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:31",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:32",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:33",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:34",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:35",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:36",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:37",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:38",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:39",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0303:Q:40",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:1",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:2",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:3",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:4",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:5",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:6",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:7",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:8",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:9",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:10",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:11",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:12",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:13",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:14",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:15",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:16",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:17",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:18",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:19",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:20",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:21",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:22",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:23",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:24",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:25",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:26",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:27",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:28",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:29",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:30",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:31",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:32",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:33",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:34",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:35",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:36",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:37",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:38",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:39",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0304:Q:40",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:1",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:2",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:3",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:4",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:5",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:6",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:7",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:8",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:9",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:10",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:11",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:12",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:13",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:14",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:15",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:16",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:17",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:18",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:19",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:20",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:21",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:22",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:23",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:24",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:25",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:26",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:27",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:28",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:29",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:30",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:31",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:32",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:33",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:34",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:35",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:36",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:37",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:38",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:39",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
+    },
+    {
+      "questionId": "社工師:115100:c103:s0305:Q:40",
+      "status": "approved",
+      "proof": "moex-115100-reviewed-20260728",
+      "reason": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。"
     }
   ]
 }

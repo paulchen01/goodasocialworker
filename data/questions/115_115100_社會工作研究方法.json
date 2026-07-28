@@ -1,0 +1,1221 @@
+{
+  "examId": "社工師:115100:c103:s0305",
+  "examInstanceId": "社工師:115100:c103",
+  "examTrack": "社工師",
+  "subject": "社會工作研究方法",
+  "subjectCode": "0305",
+  "yearRoc": 115,
+  "examCode": "115100",
+  "examName": "115年第二次專門職業及技術人員高等考試營養師、護理師、社會工作師考試、115年專門職業及技術人員高等考試心理師、法醫師、語言治療師、聽力師、牙體技術師、公共衛生師考試、高等暨普通考試驗光人員考試",
+  "examAttempt": "第二次",
+  "categoryCode": "103",
+  "categoryName": "專技高考_社會工作師",
+  "questionSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115100&c=103&s=0305&q=1",
+  "answerSourceUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115100&c=103&s=0305&q=1",
+  "questionSourceFileId": "社工師:115100:c103:s0305:Q",
+  "answerSourceFileId": "社工師:115100:c103:s0305:S",
+  "pointsPerQuestion": 1.5,
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": "社工師:115100:c103:s0305:q01",
+      "number": 1,
+      "stem": "下列那件事情對於深入掌握研究問題，相對而言效果有限？",
+      "options": [
+        {
+          "key": "A",
+          "text": "閱讀這個問題相關的期刊論文"
+        },
+        {
+          "key": "B",
+          "text": "找尋這個問題相關的理論文獻"
+        },
+        {
+          "key": "C",
+          "text": "對此問題相關現象進行長期的觀察與思考"
+        },
+        {
+          "key": "D",
+          "text": "和家人討論這個問題"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q02",
+      "number": 2,
+      "stem": "關於概念的特徵，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "概念可以直接測量"
+        },
+        {
+          "key": "B",
+          "text": "概念是心智的形象或認知"
+        },
+        {
+          "key": "C",
+          "text": "概念反映現象內涵"
+        },
+        {
+          "key": "D",
+          "text": "概念的意義會因人而異"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q03",
+      "number": 3,
+      "stem": "研究者運用量表驗證「人際支持較高，學生壓力較低」假設，其研究結果是成立的；但質性訪談 卻發現部分高支持學生因文化期待反而壓力更高。下列那項說明可以解釋量化結果與質性發現之 矛盾？",
+      "options": [
+        {
+          "key": "A",
+          "text": "量表僅測量客觀或外顯的壓力與支持連結，而訪談則揭示支持關係背後隱藏的文化與主觀壓力 脈絡"
+        },
+        {
+          "key": "B",
+          "text": "質性資料的樣本數過少，不足以推翻量化研究所建立的統計顯著性結論"
+        },
+        {
+          "key": "C",
+          "text": "顯示研究者之研究設計錯誤，使用錯誤研究假設與研究方法"
+        },
+        {
+          "key": "D",
+          "text": "表示研究工具可能出現測量不正確"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q04",
+      "number": 4,
+      "stem": "有關演繹邏輯的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "具備具體期望與假設"
+        },
+        {
+          "key": "B",
+          "text": "先進行觀察，再將蒐集到的資料概念化"
+        },
+        {
+          "key": "C",
+          "text": "從理論出發，透過資料驗證理論"
+        },
+        {
+          "key": "D",
+          "text": "量化研究最常用的策略"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q05",
+      "number": 5,
+      "stem": "研究者欲探究原住民文化與所在地政治之關聯，以參與觀察、深度訪談與文獻分析進行資料蒐集， 根據這些資料提出理論與建議。此一過程為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "概念化過程"
+        },
+        {
+          "key": "B",
+          "text": "歸納過程"
+        },
+        {
+          "key": "C",
+          "text": "演繹過程"
+        },
+        {
+          "key": "D",
+          "text": "操作化過程"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q06",
+      "number": 6,
+      "stem": "假設服務使用頻率會透過與社會工作者的關係，而影響服務滿意度，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "與社會工作者的關係是中介變項"
+        },
+        {
+          "key": "B",
+          "text": "與社會工作者的關係是自變項"
+        },
+        {
+          "key": "C",
+          "text": "與社會工作者的關係是調節變項"
+        },
+        {
+          "key": "D",
+          "text": "與社會工作者的關係是外衍變項"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q07",
+      "number": 7,
+      "stem": "某研究者訪談 A 縣市與 B 縣市各 25 位民眾後發現，A 縣市受訪者的貧窮程度比 B 縣市的受訪者 嚴重，因此研究者宣稱 A 縣市比 B 縣市有更嚴重的貧窮問題。這樣的說明犯了下列何種錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "目的論"
+        },
+        {
+          "key": "B",
+          "text": "套套邏輯"
+        },
+        {
+          "key": "C",
+          "text": "化約論"
+        },
+        {
+          "key": "D",
+          "text": "生態謬誤"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q08",
+      "number": 8,
+      "stem": "學校社會工作者長期觀察，發現父母陪伴兒少的時間越多，則兒少越不易沉迷於 3C 電子產品。 「父母陪伴兒少的時間」為下列何種變項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "控制變項"
+        },
+        {
+          "key": "B",
+          "text": "中介變項"
+        },
+        {
+          "key": "C",
+          "text": "自變項"
+        },
+        {
+          "key": "D",
+          "text": "依變項"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q09",
+      "number": 9,
+      "stem": "下列何項不符合量化研究操作化過程的特徵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "發生於資料蒐集與分析之前"
+        },
+        {
+          "key": "B",
+          "text": "使用開放式問題設計"
+        },
+        {
+          "key": "C",
+          "text": "會產生具體明確的定義"
+        },
+        {
+          "key": "D",
+          "text": "涉及測量變項的操作方式"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q10",
+      "number": 10,
+      "stem": "有關發展新測量工具之程序與方法，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "檢視國內外已開發之測量工具"
+        },
+        {
+          "key": "B",
+          "text": "進行預試"
+        },
+        {
+          "key": "C",
+          "text": "新量表的題項必須是連續變項"
+        },
+        {
+          "key": "D",
+          "text": "進行驗證性因素分析"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q11",
+      "number": 11,
+      "stem": "研究者想要詢問有關受測者學歷的資料，列出「國中、高中職、大學以上」三個選項請填答者勾 選。下列何者為此題項最可能的缺點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "選項模稜兩可"
+        },
+        {
+          "key": "B",
+          "text": "符合社會期待"
+        },
+        {
+          "key": "C",
+          "text": "選項互斥"
+        },
+        {
+          "key": "D",
+          "text": "選項不周延"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q12",
+      "number": 12,
+      "stem": "為確保量化研究的測量工具品質，下列何者最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "進行信度分析"
+        },
+        {
+          "key": "B",
+          "text": "進行信度與效度分析"
+        },
+        {
+          "key": "C",
+          "text": "先進行項目分析、相關分析，再進行信度分析"
+        },
+        {
+          "key": "D",
+          "text": "先進行因果關係分析，再進行內部一致性分析"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q13",
+      "number": 13,
+      "stem": "研究者為檢視其新開發「青少年憂鬱量表」之效度，使用「臺灣人憂鬱症量表」進行相關分析， 其皮爾森相關係數為 0.89。其屬於下列何種效度類型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "區別效度"
+        },
+        {
+          "key": "B",
+          "text": "預測效度"
+        },
+        {
+          "key": "C",
+          "text": "專家效度"
+        },
+        {
+          "key": "D",
+          "text": "聚合效度"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q14",
+      "number": 14,
+      "stem": "若想要從樣本的研究結果推論到母體，下列何種抽樣方法最適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "立意抽樣"
+        },
+        {
+          "key": "B",
+          "text": "滾雪球抽樣"
+        },
+        {
+          "key": "C",
+          "text": "便利抽樣"
+        },
+        {
+          "key": "D",
+          "text": "分層系統抽樣"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q15",
+      "number": 15,
+      "stem": "有關抽樣誤差的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "比較系統誤差與隨機誤差，系統誤差較能透過重複測量來降低"
+        },
+        {
+          "key": "B",
+          "text": "抽樣誤差與樣本大小有關，通常樣本越大，抽樣誤差越小"
+        },
+        {
+          "key": "C",
+          "text": "系統誤差主要是因為採用系統抽樣而產生"
+        },
+        {
+          "key": "D",
+          "text": "社會期望影響答題是一種隨機誤差"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q16",
+      "number": 16,
+      "stem": "下列何者對提高抽樣代表性沒有幫助？",
+      "options": [
+        {
+          "key": "A",
+          "text": "加權處理"
+        },
+        {
+          "key": "B",
+          "text": "使用機率抽樣"
+        },
+        {
+          "key": "C",
+          "text": "刪除漏答題數比較多的人"
+        },
+        {
+          "key": "D",
+          "text": "明確定義母體"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q17",
+      "number": 17,
+      "stem": "當使用準實驗研究設計於方案評估時，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對執行成果中的非預期發現，不需要提出解釋"
+        },
+        {
+          "key": "B",
+          "text": "需要對執行過程中退出的參與者加以了解"
+        },
+        {
+          "key": "C",
+          "text": "需確認介入有對應到問題"
+        },
+        {
+          "key": "D",
+          "text": "研究進行要遵守研究倫理"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q18",
+      "number": 18,
+      "stem": "下列資料蒐集方法中，何者最可能出現參與者與預設研究對象不符合的狀況？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路問卷"
+        },
+        {
+          "key": "B",
+          "text": "面對面訪問"
+        },
+        {
+          "key": "C",
+          "text": "電話訪問"
+        },
+        {
+          "key": "D",
+          "text": "郵寄問卷"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q19",
+      "number": 19,
+      "stem": "有關內在效度敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "信度是內在效度的必要條件"
+        },
+        {
+          "key": "B",
+          "text": "歷史事件會威脅內在效度"
+        },
+        {
+          "key": "C",
+          "text": "研究結果能合理推論至母群體"
+        },
+        {
+          "key": "D",
+          "text": "強調因果關係的推論"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q20",
+      "number": 20,
+      "stem": "有關外在效度的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "著重研究發現能否確實回答研究問題"
+        },
+        {
+          "key": "B",
+          "text": "著重研究結果能否在不同時間點應用"
+        },
+        {
+          "key": "C",
+          "text": "著重研究結果能否推論或應用到不同的研究參與者"
+        },
+        {
+          "key": "D",
+          "text": "著重研究結果能否推論或應用到不同的研究情境"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q21",
+      "number": 21,
+      "stem": "標準化問卷在測量上具有優勢，這項優勢的具體體現是什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "能讓研究者根據田野的實際情況，隨時彈性調整問項"
+        },
+        {
+          "key": "B",
+          "text": "研究者可以發展出操作化定義"
+        },
+        {
+          "key": "C",
+          "text": "可以深入處理社會生活的情境脈絡，了解受訪者的真實生活"
+        },
+        {
+          "key": "D",
+          "text": "可以針對每一位受試者設計最適合他／她的個人化問項"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q22",
+      "number": 22,
+      "stem": "電話調查中的「電腦輔助電話訪問（computer-assisted telephone interviewing, CATI）」技術，其主 要功能是什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在訪問結束後，自動分析訪員與受訪者的對話內容，進行質性編碼"
+        },
+        {
+          "key": "B",
+          "text": "將問卷儲存在電腦中，讓訪員從螢幕讀題並直接鍵入答案"
+        },
+        {
+          "key": "C",
+          "text": "透過電腦演算法，預測那位受訪者最有可能完成整個訪問"
+        },
+        {
+          "key": "D",
+          "text": "利用電腦程式自動撥號並與受訪者進行語音互動"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q23",
+      "number": 23,
+      "stem": "有關紮根理論的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建構理論"
+        },
+        {
+          "key": "B",
+          "text": "歸納邏輯"
+        },
+        {
+          "key": "C",
+          "text": "確認因果關係"
+        },
+        {
+          "key": "D",
+          "text": "始於觀察，以尋找模式為目的"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q24",
+      "number": 24,
+      "stem": "評估質性研究嚴謹性的方法，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "成員回饋與校正"
+        },
+        {
+          "key": "B",
+          "text": "適用性和可轉移性"
+        },
+        {
+          "key": "C",
+          "text": "三角檢測有助於了解相對實相"
+        },
+        {
+          "key": "D",
+          "text": "仰賴單一參與者的資料提供"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q25",
+      "number": 25,
+      "stem": "為了提升質性研究結果的信度（reliability），研究者在記錄觀察筆記時應採取何種策略？",
+      "options": [
+        {
+          "key": "A",
+          "text": "僅記錄研究者認為重要的現象，並立即進行理論解釋"
+        },
+        {
+          "key": "B",
+          "text": "儘可能使用標準化的表格和量表來記錄所有觀察結果"
+        },
+        {
+          "key": "C",
+          "text": "清晰區分所觀察現象和研究者的詮釋，並儘快將兩者記錄下來"
+        },
+        {
+          "key": "D",
+          "text": "專注於蒐集數量龐大的數據，以確保統計顯著性"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q26",
+      "number": 26,
+      "stem": "有關運用單案研究的評估設計（single-case evaluation）幫助實務工作者確認介入方法是否有效改 變接受服務者的狀況，下列何者無法達成此目的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "AB 設計"
+        },
+        {
+          "key": "B",
+          "text": "介入前與介入後有多元評估點（having many multiple measurement points）的設計"
+        },
+        {
+          "key": "C",
+          "text": "撤回設計"
+        },
+        {
+          "key": "D",
+          "text": "多重處遇設計"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q27",
+      "number": 27,
+      "stem": "某社福中心在推出新的服務方案之前想先了解民眾的需求，故設計了問卷並進行調查。他們首先 在社福中心門口發放問卷，由民眾自動填寫，並在中心的網站中，發送問卷連結鼓勵民眾填寫。 在分析上述資料後，他們進一步邀請了幾位社區內的意見領袖，聚會討論相關議題。此工作方式， 未運用下列那項研究方法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "調查性研究"
+        },
+        {
+          "key": "B",
+          "text": "德菲法（Delphi method）"
+        },
+        {
+          "key": "C",
+          "text": "非隨機抽樣法"
+        },
+        {
+          "key": "D",
+          "text": "焦點團體法"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q28",
+      "number": 28,
+      "stem": "為了探究機構對安置個案的關心程度，研究者採取了一系列的方法，先查閱個案紀錄，接續發放 匿名問卷給個案填寫，並邀請自願者進行面對面訪談。下列那項研究方法沒有被採用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "混合研究設計"
+        },
+        {
+          "key": "B",
+          "text": "非干擾性的資料參考"
+        },
+        {
+          "key": "C",
+          "text": "問卷調查法"
+        },
+        {
+          "key": "D",
+          "text": "行動研究"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q29",
+      "number": 29,
+      "stem": "關於行動研究之敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "僅適用於社區的情境"
+        },
+        {
+          "key": "B",
+          "text": "具有反思與詮釋的取向"
+        },
+        {
+          "key": "C",
+          "text": "研究的可複製性較高"
+        },
+        {
+          "key": "D",
+          "text": "主要是由研究者主導研究的進行"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q30",
+      "number": 30,
+      "stem": "有關非干擾性研究方法（unobtrusive research），下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "只能使用質性研究取向的方法"
+        },
+        {
+          "key": "B",
+          "text": "研究過程會影響社會行為"
+        },
+        {
+          "key": "C",
+          "text": "質性田野研究屬於非干擾性研究方法"
+        },
+        {
+          "key": "D",
+          "text": "是一種非反應式的研究（nonreactive research）"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q31",
+      "number": 31,
+      "stem": "下列何種混合式研究設計的邏輯安排最為適合？",
+      "options": [
+        {
+          "key": "A",
+          "text": "先量化調查，再質性訪談"
+        },
+        {
+          "key": "B",
+          "text": "先質性訪談，再進行量化調查"
+        },
+        {
+          "key": "C",
+          "text": "量化和質性研究同時進行以彼此驗證"
+        },
+        {
+          "key": "D",
+          "text": "量化與質性的研究順序設計端視研究的問題性質而定"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q32",
+      "number": 32,
+      "stem": "有關焦點團體訪談參與成員的特質，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "同質性或異質性依研究目的決定"
+        },
+        {
+          "key": "B",
+          "text": "參與成員彼此不認識"
+        },
+        {
+          "key": "C",
+          "text": "參與成員不能是認識的好朋友"
+        },
+        {
+          "key": "D",
+          "text": "參與成員都是專業人員"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q33",
+      "number": 33,
+      "stem": "有關共變數分析，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "共變項是連續變項"
+        },
+        {
+          "key": "B",
+          "text": "共變項是控制變項"
+        },
+        {
+          "key": "C",
+          "text": "共變項與依變項可以是同一個變項"
+        },
+        {
+          "key": "D",
+          "text": "共變項與自變項會一起放入分析"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q34",
+      "number": 34,
+      "stem": "研究者在處理民意調查資料時，發現有相當比例的受訪者回答「不知道」。下列何者是較適當的處 理方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將所有「不知道」的答案直接從分析中刪除，不予提及"
+        },
+        {
+          "key": "B",
+          "text": "將「不知道」的答案平均分配到其他答案選項中"
+        },
+        {
+          "key": "C",
+          "text": "將「不知道」視為一個獨立的類別，並呈現包含與不包含此類別的兩種分析結果"
+        },
+        {
+          "key": "D",
+          "text": "將「不知道」的答案一律歸類為「反對」或「中立」，以簡化表格"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q35",
+      "number": 35,
+      "stem": "質性資料處理的程序是一門科學也是藝術，下列何者不是其重要的分析工具？",
+      "options": [
+        {
+          "key": "A",
+          "text": "編碼"
+        },
+        {
+          "key": "B",
+          "text": "概念圖示"
+        },
+        {
+          "key": "C",
+          "text": "研究架構"
+        },
+        {
+          "key": "D",
+          "text": "備忘錄"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q36",
+      "number": 36,
+      "stem": "研究者在進行質性研究資料分析時，應避免下列何項錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "加入研究者的詮釋"
+        },
+        {
+          "key": "B",
+          "text": "考量社會情境脈絡"
+        },
+        {
+          "key": "C",
+          "text": "持續進行資料對照比較"
+        },
+        {
+          "key": "D",
+          "text": "運用單向線性分析資料"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q37",
+      "number": 37,
+      "stem": "下列何者不是質性資料分析步驟？",
+      "options": [
+        {
+          "key": "A",
+          "text": "進行相關性分析"
+        },
+        {
+          "key": "B",
+          "text": "書寫備忘錄"
+        },
+        {
+          "key": "C",
+          "text": "設定資料編號"
+        },
+        {
+          "key": "D",
+          "text": "將資料視覺化"
+        }
+      ],
+      "answer": "A",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q38",
+      "number": 38,
+      "stem": "當研究者發現研究結果不利於研究假設時，決定選擇性地刪除或隱藏資料，可能違反那項研究倫 理原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "利益衝突"
+        },
+        {
+          "key": "B",
+          "text": "知情同意"
+        },
+        {
+          "key": "C",
+          "text": "自願性"
+        },
+        {
+          "key": "D",
+          "text": "研究誠信"
+        }
+      ],
+      "answer": "D",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q39",
+      "number": 39,
+      "stem": "有關研究者的研究倫理行為，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資料蒐集時，為獲得寶貴的研究資料，可以偽裝自己的身分"
+        },
+        {
+          "key": "B",
+          "text": "當無法辨識研究資料來自那一位研究參與者時，是做到匿名原則"
+        },
+        {
+          "key": "C",
+          "text": "保密等於匿名"
+        },
+        {
+          "key": "D",
+          "text": "15 歲少年接受個別訪談只要他本人同意即可"
+        }
+      ],
+      "answer": "B",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    },
+    {
+      "id": "社工師:115100:c103:s0305:q40",
+      "number": 40,
+      "stem": "下列那一項不是在研究後保護受試者隱私和資料機密性的方法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "消除所有可識別的記號"
+        },
+        {
+          "key": "B",
+          "text": "創建匿名特殊識別碼"
+        },
+        {
+          "key": "C",
+          "text": "關於受試者的研究資料可以永久保存"
+        },
+        {
+          "key": "D",
+          "text": "妥善收存鎖定紀錄"
+        }
+      ],
+      "answer": "C",
+      "sourceFileId": "社工師:115100:c103:s0305:Q",
+      "answerSourceFileId": "社工師:115100:c103:s0305:S",
+      "manualPatch": false,
+      "reviewStatus": "approved",
+      "reviewNote": "115年第二次社會工作師考試題目已逐頁比對考選部正式PDF；五科各40題、A至D選項與官方標準答案均完成結構、順序及版面檢查。",
+      "reviewApprovalProof": "moex-115100-reviewed-20260728"
+    }
+  ]
+}
