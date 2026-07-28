@@ -1139,6 +1139,7 @@ select {
   font-size: 18px;
   line-height: 1.8;
   color: #0f2349;
+  white-space: pre-line;
 }
 
 .essay-answer-block textarea {
